@@ -1,0 +1,1498 @@
+[
+ {
+  "id": "L10_C2_0001",
+  "stem": "(SBT – Cánh Diều) Mỗi nguyên tố hoá học được xếp vào một..(1).. trong bảng tuần hoàn. Mỗi hàng trong bảng tuần hoàn được gọi là một..(2).. Mỗi cột trong bảng tuần hoàn được gọi là một..(3)..",
+  "options": {
+   "A": "(1) nhóm, (2) chu kì, (3) ô.",
+   "B": "(1) ô, (2) chu kì, (3) nhóm.",
+   "C": "(1) ô, (2) họ, (3) nhóm.",
+   "D": "(1) ô, (2) chu kì, (3) nhóm chính."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L10_C2_0002",
+  "stem": "(SBT – Cánh Diều) Trong bảng tuần hoàn các nguyên tố hoá học do Mendeleev đề xuất, các nguyên tố được sắp xếp theo chiều tăng dần của..(1).. Trong bảng tuần hoàn các nguyên tố hoá học hiện đại, các nguyên tố được sắp xếp theo chiều tăng dần của..(2)..",
+  "options": {
+   "A": "(1) số electron hoá trị, (2) khối lượng nguyên tử.",
+   "B": "(1) số hiệu nguyên tử, (2) khối lượng nguyên tử.",
+   "C": "(1) khối lượng nguyên tử, (2) số hiệu nguyên tử.",
+   "D": "(1) số electron hoá trị, (2) số hiệu nguyên tử."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L10_C2_0003",
+  "stem": "Mendeleev sắp xếp các nguyên tố hóa học vào bảng tuần hoàn dựa theo quy luật về",
+  "options": {
+   "A": "khối lượng nguyên tử.",
+   "B": "cấu hình electron.",
+   "C": "số hiệu nguyên tử.",
+   "D": "số khối."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L10_C2_0004",
+  "stem": "(SBT – Cánh Diều) Số hiệu nguyên tử của nguyên tố hoá học bằng số",
+  "options": {
+   "A": "thứ tự của ô nguyên tố.",
+   "B": "thứ tự của chu kì.",
+   "C": "thứ tự của nhóm.",
+   "D": "electron lớp ngoài cùng của nguyên tử."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L10_C2_0005",
+  "stem": "(SBT – Cánh Diều) Những nguyên tố được xếp riêng bên dưới bảng tuần hoàn thuộc khối nguyên tố nào?",
+  "options": {
+   "A": "s.",
+   "B": "p.",
+   "C": "d.",
+   "D": "f."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L10_C2_0006",
+  "stem": "Các nguyên tố xếp ở chu kì 6 có số lớp electron trong nguyên tử là",
+  "options": {
+   "A": "3.",
+   "B": "5.",
+   "C": "6.",
+   "D": "7."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L10_C2_0007",
+  "stem": "Số nguyên tố trong chu kì 3 và 5 là",
+  "options": {
+   "A": "8 và 18.",
+   "B": "18 và 8.",
+   "C": "8 và 8.",
+   "D": "18 và 18."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L10_C2_0008",
+  "stem": "Trong bảng tuần hoàn, các nguyên tố hóa học được sắp xếp theo ba nguyên tắc. Nguyên tắc nào sau đây đúng?",
+  "options": {
+   "A": "Nguyên tử khối tăng dần.",
+   "B": "Cùng số lớp electron xếp cùng cột.",
+   "C": "Điện tích hạt nhân tăng dần",
+   "D": "Cùng số electron hóa trị xếp cùng hàng."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L10_C2_0009",
+  "stem": "Bảng tuần hoàn hiện nay không áp dụng nguyên tắc sắp xếp nào sau đây?",
+  "options": {
+   "A": "Mỗi nguyên tố hóa học được xếp vào một ô trong bảng tuần hoàn.",
+   "B": "Các nguyên tố được sắp xếp theo chiều tăng dần khối lượng nguyên tử.",
+   "C": "Các nguyên tố có cùng số lớp electron trong nguyên tử được xếp thành 1 hàng.",
+   "D": "Các nguyên tố có cùng số electron hóa trị trong nguyên tử được xếp thàng một cột."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L10_C2_0010",
+  "stem": "Ô nguyên tố không cho biết thông tin nào sau đây?",
+  "options": {
+   "A": "Kí hiệu nguyên tố.",
+   "B": "Tên nguyên tố.",
+   "C": "Số hiệu nguyên tử.",
+   "D": "Số khối của hạt nhân."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L10_C2_0011",
+  "stem": "Chu kì là dãy các nguyên tố được xếp theo chiều điện tích hạt nhân tăng dần, nguyên tử của chúng có cùng",
+  "options": {
+   "A": "số electron.",
+   "B": "số lớp electron.",
+   "C": "số electron hóa trị.",
+   "D": "số electron ở lớp ngoài cùng."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L10_C2_0012",
+  "stem": "Bảng tuần hoàn hiện nay có số chu kì và số hàng ngang lần lượt là",
+  "options": {
+   "A": "7 và 9.",
+   "B": "7 và 8.",
+   "C": "7 và 7.",
+   "D": "6 và 7."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L10_C2_0014",
+  "stem": "Nguyên tố Al (Z = 13) thuộc chu kì 3, có số lớp electron là",
+  "options": {
+   "A": "1.",
+   "B": "2.",
+   "C": "3.",
+   "D": "4."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L10_C2_0015",
+  "stem": "Nguyên tử của các nguyên tố trong cùng một nhóm A (trừ He) có cùng",
+  "options": {
+   "A": "số electron.",
+   "B": "số lớp electron.",
+   "C": "số electron hóa trị.",
+   "D": "số electron ở phân lớp ngoài cùng."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L10_C2_0016",
+  "stem": "Trong bảng tuần hoàn các nguyên tố hóa học, các nguyên tố khí hiếm thuộc nhóm",
+  "options": {
+   "A": "IA.",
+   "B": "IIA.",
+   "C": "VIIIA.",
+   "D": "VIIA."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L10_C2_0017",
+  "stem": "Các nguyên tố hoá học thuộc cùng một nhóm A có cùng số lượng",
+  "options": {
+   "A": "proton.",
+   "B": "electron hoá trị.",
+   "C": "proton và neutron.",
+   "D": "proton và electron."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L10_C2_0018",
+  "stem": "Bảng tuần hoàn hiện nay có số cột, số nhóm A và số nhóm B lần lượt là",
+  "options": {
+   "A": "18, 8, 8.",
+   "B": "18, 8, 10.",
+   "C": "18, 10, 8.",
+   "D": "16, 8, 8."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L10_C2_0019",
+  "stem": "Số thứ tự của nhóm (trừ hai cột 9, 10 của nhóm VIIIB) bằng",
+  "options": {
+   "A": "số electron.",
+   "B": "số lớp electron.",
+   "C": "số electron hóa trị.",
+   "D": "số electron ở lớp ngoài cùng."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L10_C2_0021",
+  "stem": "Chu kì 2 của bảng hệ thống tuần hoàn",
+  "options": {
+   "A": "bắt đầu từ nguyên tố có Z = 3 và kết thúc ở nguyên tố có Z = 11.",
+   "B": "bắt đầu từ nguyên tố có Z = 11 và kết thúc ở nguyên tố có Z = 18.",
+   "C": "bắt đầu từ nguyên tố có Z = 3 và kết thúc ở nguyên tố có Z = 18.",
+   "D": "bắt đầu từ nguyên tố có Z = 3 và kết thúc ở nguyên tố có Z = 10."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L10_C2_0022",
+  "stem": "Nhóm A bao gồm các nguyên tố",
+  "options": {
+   "A": "s.",
+   "B": "p.",
+   "C": "d và f.",
+   "D": "s và p."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L10_C2_0023",
+  "stem": "Nguyên tố nào sau đây thuộc nhóm A?",
+  "options": {
+   "A": "[Ne]3s23p3.",
+   "B": "[Ar]3d14s2.",
+   "C": "[Ar]3d74s2.",
+   "D": "[Ar]3d54s2."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L10_C2_0024",
+  "stem": "Nguyên tố Cl (Z = 17) thuộc nhóm VIIA, có số electron hóa trị là",
+  "options": {
+   "A": "4.",
+   "B": "5.",
+   "C": "6.",
+   "D": "7."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L10_C2_0025",
+  "stem": "Vị trí của nguyên tố có Z = 15 trong bảng tuần hoàn là",
+  "options": {
+   "A": "chu kì 4, nhóm VIB.",
+   "B": "chu kì 3, nhóm VA.",
+   "C": "chu kì 4, nhóm IIA.",
+   "D": "chu kì 3, nhóm IIB."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L10_C2_0026",
+  "stem": "Silicon là một nguyên tố phổ biến và có nhiều ứng dụng trong cuộc sống. Silicon siêu tinh khiết là chất bán dẫn, được dùng trong kĩ thuật vô tuyến và điện tử. Ngoài ra, nguyên tố này còn được sử dụng để chế tạo pin mặt trời nhằm mục đích chuyển đổi năng lượng ánh sáng thành năng lượng điện để cung cấp cho các thiết bị trên tàu vũ trụ. Vị trí của nguyên tố silicon (Z = 14) trong bảng tuần hoàn là",
+  "options": {
+   "A": "chu kì 3, nhóm IVA.",
+   "B": "chu kì 3, nhóm IVB.",
+   "C": "chu kì 4, nhóm IIA.",
+   "D": "chu kì 3, nhóm IIB."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L10_C2_0027",
+  "stem": "X là nguyên tố cần thiết cho sự chuyển hóa cảu calcium, phosphorus, sodium, potassium, vitamin C và các vitamin nhóm B. Ở trạng thái cơ bản, cấu hình electron lớp ngoài cùng của nguyên tử X là 3s2. Số hiệu nguyên tử của nguyên tố X là",
+  "options": {
+   "A": "12.",
+   "B": "13.",
+   "C": "14.",
+   "D": "11."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L10_C2_0028",
+  "stem": "Trong bảng tuần hoàn, nguyên tố X có số thứ tự 16, nguyên tố X thuộc",
+  "options": {
+   "A": "chu kì 3, nhóm IVA.",
+   "B": "chu kì 3, nhóm VIA.",
+   "C": "chu kì 4, nhóm VIA.",
+   "D": "chu kì 4, nhóm IIIA."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L10_C2_0029",
+  "stem": "Nguyên tố X ở chu kì 3, nhóm IIIA, cấu hình electron nguyên tử của nguyên tố X là",
+  "options": {
+   "A": "1s22s22p3.",
+   "B": "1s22s22p63s23p1.",
+   "C": "1s22s22p5.",
+   "D": "1s22s22p63s23p3."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L10_C2_0030",
+  "stem": "(SBT – Cánh Diều) Cấu hình electron của nguyên tử oxygen là 1s22s22p4. Vị trí của oxygen trong bảng tuần hoàn là",
+  "options": {
+   "A": "ô số 6, chu kì 2, nhóm VIA.",
+   "B": "ô số 6, chu kì 3, nhóm VIB.",
+   "C": "ô số 8, chu kì 2, nhóm VIA.",
+   "D": "ô số 8, chu kì 2, nhóm VIB."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L10_C2_0031",
+  "stem": "(SBT – Cánh Diều) Cấu hình electron của nguyên tử Fe là 1s22s22p63s23p63d64s2. Vị trí của Fe trong bảng tuần hoàn là:",
+  "options": {
+   "A": "ô số 26, chu kì 3, nhóm VIIIB.",
+   "B": "ô số 26, chu kì 3, nhóm VIIIA.",
+   "C": "ô số 26, chu kì 4, nhóm VIIIA.",
+   "D": "ô số 26, chu kì 4, nhóm VIIIB."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L10_C2_0032",
+  "stem": "Số hiệu nguyên tử của nguyên tố Y là 19. Vị trí của Y trong bảng tuần hoàn là",
+  "options": {
+   "A": "ô 19, chu kì 3, nhóm VIIA.",
+   "B": "ô 19, chu kì 4, nhóm IA.",
+   "C": "ô 19, chu kì 4, nhóm IIA.",
+   "D": "ô 19, chu kì 3, nhóm IA."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L10_C2_0033",
+  "stem": "Cho các nguyên tố sau: X (Z = 3), Y (Z = 7), M (Z = 19), T (Z = 12). Các nguyên tố nào sau đây thuộc cùng một nhóm?",
+  "options": {
+   "A": "X và T.",
+   "B": "Y và M.",
+   "C": "Y và T.",
+   "D": "X và M."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L10_C2_0034",
+  "stem": "Các electron của nguyên tử nguyên tố X được phân bố trên 3 lớp. Lớp thứ 3 có 5 electron. X nằm ở ô thứ mấy trong bảng tuần hoàn?",
+  "options": {
+   "A": "3.",
+   "B": "16.",
+   "C": "8.",
+   "D": "15."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L10_C2_0035",
+  "stem": "Cation R+ có cấu hình electron 1s22s22p63s23p6. Vị trí của nguyên tố R trong bảng tuần hoàn các nguyên tố hóa học là",
+  "options": {
+   "A": "chu kì 4, nhóm IA.",
+   "B": "chu kì 3, nhóm VIIA.",
+   "C": "chu kì 3, nhóm VIIIA.",
+   "D": "chu kì 4, nhóm IIA."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L10_C2_0036",
+  "stem": "Nguyên tử X có Z = 15. Trong bảng tuần hoàn, nguyên tố X thuộc chu kì",
+  "options": {
+   "A": "4.",
+   "B": "2.",
+   "C": "5.",
+   "D": "3."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L10_C2_0037",
+  "stem": "Iron (Fe) là vật liệu dùng làm bộ khung cho các công trình xây dựng, các khung giàn cho các loại cầu vượt, cầu bắc qua sông, cầu đi bộ,… Nguyên tố iron nằm ở ô 26 trong bảng tuần hoàn. Cấu hình electron của nguyên tử iron là",
+  "options": {
+   "A": "1s22s22p63s23p63d64s2.",
+   "B": "1s22s22p63s23p63d8.",
+   "C": "1s22s22p63s23p64s24p6.",
+   "D": "1s22s22p63s23p63d74s1."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L10_C2_0038",
+  "stem": "Các muối của nguyên tố chromium được dùng trong ngành thuộc da, làm phụ gia cho xăng, chất nhuộm màu xanh lục hay hồng ngọc cho đồ gốm, trang thiết bị dàn khoan, thuốc nhuộm, sơn và chất vệ sinh cho đồ dùng thủy tinh trong phòng thí nghiệm. Vị trí của nguyên tố Cr trong bảng tuần hoàn là",
+  "options": {
+   "A": "ô 24, chu kì 3, nhóm IA.",
+   "B": "ô 24, chu kì 4, nhóm VIB.",
+   "C": "ô 24, chu kì 4, nhóm VIA.",
+   "D": "ô 24, chu kì 4, nhóm IB."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L10_C2_0039",
+  "stem": "Cấu hình electron nguyên tử của bromine là 1s22s22p63s23p63d104s24p5. Vị trí của bromine trong bảng tuần hoàn là:",
+  "options": {
+   "A": "Ô số 35, chu kì 4, nhóm VIIA.",
+   "B": "Ô số 35, chu kì 3, nhóm VIIA.",
+   "C": "Ô số 17, chu kì 3, nhóm VIIB.",
+   "D": "Ô số 35, chu kì 4, nhóm VIIB."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L10_C2_0040",
+  "stem": "Cho cấu hình electron nguyên tử của một số nguyên tố như sau: [Ne]3s2; [Ar]3d104s1; [Ar]3d104s24p1; [He]2s22p6; [Ar]3d74s2. Số nguyên tố thuộc nhóm A và nhóm B lần lượt là",
+  "options": {
+   "A": "3, 2.",
+   "B": "2, 3.",
+   "C": "2, 2.",
+   "D": "4, 1."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L10_C2_0041",
+  "stem": "Nguyên tử của nguyên tố nào sau đây có bán kính nhỏ nhất?",
+  "options": {
+   "A": "Si (Z = 14).",
+   "B": "P (Z = 15).",
+   "C": "Ge (Z = 32).",
+   "D": "As (Z = 33)."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L10_C2_0042",
+  "stem": "Bốn nguyên tố A, E, M, Q cùng thuộc một nhóm A trong bảng tuần hoàn, có số hiệu nguyên tử lần lượt là 9, 17, 35, 53. Các nguyên tố này được sắp xếp theo chiều tính phi kim tăng dần theo dãy nào sau đây?",
+  "options": {
+   "A": "A, Q, E, M.",
+   "B": "Q, M, E, Q.",
+   "C": "A, E, M, Q.",
+   "D": "A, M, E, Q."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L10_C2_0043",
+  "stem": "Các nguyên tố thuộc cùng một nhóm A có tính chất hóa học tương tự nhau, vì vỏ nguyên tử của các nguyên tố nhóm A có",
+  "options": {
+   "A": "số electron như nhau.",
+   "B": "số lớp electron như nhau.",
+   "C": "cùng số electron s hay p.",
+   "D": "số electron thuộc lớp ngoài cùng như nhau."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L10_C2_0044",
+  "stem": "Xét ba nguyên tố có cấu hình electron lần lượt là: X. 1s22s22p63s1; Q: 1s22s22p63s2; Z: 1s22s22p63s23p1. Tính base tăng dần của các hydroxide là:",
+  "options": {
+   "A": "XOH &lt; Q(OH)2 &lt; Z(OH)3.",
+   "B": "Z(OH)3 &lt; XOH &lt; Q(OH)2.",
+   "C": "Z(OH)3 &lt; Q(OH)2 &lt; XOH.",
+   "D": "XOH &lt; Z(OH)2 &lt; Q(OH)2."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L10_C2_0045",
+  "stem": "Trong các nguyên tố O, F, Cl, Se, nguyên tố có tính phi kim mạnh nhất là",
+  "options": {
+   "A": "O.",
+   "B": "F.",
+   "C": "Se.",
+   "D": "Cl."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L10_C2_0046",
+  "stem": "Trong các chất dưới đây, chất nào có tính acid yếu nhất?",
+  "options": {
+   "A": "H2SO4.",
+   "B": "HClO4.",
+   "C": "H3PO4.",
+   "D": "H2SiO3."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L10_C2_0047",
+  "stem": "Dãy gồm các chất có tính base tăng dần là:",
+  "options": {
+   "A": "Al(OH)3, Mg(OH)2, NaOH.",
+   "B": "NaOH, Mg(OH)2, Al(OH)3.",
+   "C": "Mg(OH)2, Al(OH)3, NaOH.",
+   "D": "Al(OH)3, NaOH, Mg(OH)2."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L10_C2_0048",
+  "stem": "Những đại lượng và tính chất nào của nguyên tố hóa học cho dưới đây không biến đổi tuần hoàn theo chiều tăng của điện tích hạt nhân nguyên tử?",
+  "options": {
+   "A": "Tính kim loại và phi kim.",
+   "B": "Tính acid – base của các hydroxide.",
+   "C": "Khối lượng nguyên tử.",
+   "D": "Cấu hình electron lớp ngoài cùng của nguyên tử."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L10_C2_0049",
+  "stem": "Dãy nguyên tố nào sau đây sắp xếp theo chiều tăng dần của bán kính nguyên tử?",
+  "options": {
+   "A": "Be, F, O, C, Mg.",
+   "B": "Mg, Be, C, O, F.",
+   "C": "F, O, C, Be, Mg.",
+   "D": "F, Be, C, Mg, O."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L10_C2_0050",
+  "stem": "Nguyên tử của nguyên tố nào sau đây có bán kính lớn nhất trong các nguyên tử sau đây?",
+  "options": {
+   "A": "Al.",
+   "B": "P.",
+   "C": "S.",
+   "D": "K."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L10_C2_0051",
+  "stem": "Dãy nguyên tố nào sau đây sắp xếp theo chiều tăng dần độ âm điện của nguyên tử?",
+  "options": {
+   "A": "Li, F, N, Na, C.",
+   "B": "F, Li, Na, C, N.",
+   "C": "Na, Li, C, N, F.",
+   "D": "N, F, Li, C, Na."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L10_C2_0052",
+  "stem": "Nguyên tử của nguyên tố nào sau đây có độ âm điện lớn nhất? Cho biết nguyên tố này được sử dụng trong công nghệ hàn, sản xuất thép và methanol.",
+  "options": {
+   "A": "B.",
+   "B": "N.",
+   "C": "O.",
+   "D": "Mg."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L10_C2_0053",
+  "stem": "",
+  "options": {
+   "A": "Fluorine.",
+   "B": "Bromine.",
+   "C": "Phosphorus.",
+   "D": "Iodine."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L10_C2_0054",
+  "stem": "Hydroxide nào có tính base mạnh nhất trong các hydroxide sau đây? Cho biết hợp chất này được sử dụng làm chất phụ gia cho dầu bôi trơn của động cơ đốt trong.",
+  "options": {
+   "A": "Calcium hidroxide.",
+   "B": "Barium hidroxide.",
+   "C": "Strontium hidroxide.",
+   "D": "Magnesium hidroxide."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L10_C2_0055",
+  "stem": "Hydroxide nào có tính acid mạnh nhất trong các hydroxide sau đây? Cho biết hợp chất này được dùng để phân hủy các quặng phức tạp, phân tích khoáng vật hoặc làm chất xúc tác.",
+  "options": {
+   "A": "Silicic acid.",
+   "B": "Sulfuric acid.",
+   "C": "Phosphoric acid.",
+   "D": "Perchloric acid."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L10_C2_0056",
+  "stem": "Đại lượng nào sau đây trong nguyên tử của các nguyên tố biến đổi tuần hoàn theo chiều tăng của điện tích hạt nhân?",
+  "options": {
+   "A": "Số lớp electron.",
+   "B": "Số electron ở lớp ngoài cùng.",
+   "C": "Nguyên tử khối.",
+   "D": "Số electron trong nguyên tử."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L10_C2_0057",
+  "stem": "Cấu hình electron hóa trị của nguyên tử các nguyên tố nhóm IIA trong bảng tuần hoàn đều là",
+  "options": {
+   "A": "np2.",
+   "B": "ns2.",
+   "C": "ns2np2.",
+   "D": "ns2np4."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L10_C2_0058",
+  "stem": "Trong một chu kì, theo chiều tăng của điện tích hạt nhân nguyên tử,",
+  "options": {
+   "A": "bán kính nguyên tử và độ âm điện đều giảm.",
+   "B": "bán kính nguyên tử và độ âm điện đều tăng.",
+   "C": "bán kính nguyên tử tăng, độ âm điện giảm.",
+   "D": "bán kính nguyên tử giảm, độ âm điện tăng."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L10_C2_0059",
+  "stem": "Trong một nhóm A (trừ nhóm VIIIA), theo chiều tăng của điện tích hạt nhân nguyên tử,",
+  "options": {
+   "A": "tính kim loại tăng dần, độ âm điện tăng dần.",
+   "B": "tính phi kim giảm dần, bán kính nguyên tử tăng dần.",
+   "C": "độ âm điện giảm dần, tính phi kim tăng dần.",
+   "D": "tính kim loại tăng dần, bán kính nguyên tử giảm dần."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L10_C2_0060",
+  "stem": "Phát biểu nào sau đây không đúng?",
+  "options": {
+   "A": "Nguyên tử Z = 11 có bán kính nguyên tử nhỏ hơn nguyên tử có Z = 19.",
+   "B": "Nguyên tử Z = 12 có bán kính nguyên tử lớn hơn nguyên tử có Z = 10.",
+   "C": "Nguyên tử Z = 11 có bán kính nguyên tử nhỏ hơn nguyên tử có Z = 13.",
+   "D": "Các nguyên tố kim loại kiềm có bán kính nguyên tử lớn nhất trong chu kì."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L10_C2_0061",
+  "stem": "Cho các nguyên tố sau: Li, Na, K, Ca. Nguyên tử của nguyên tố có bán kính bé nhất là",
+  "options": {
+   "A": "Li.",
+   "B": "Na.",
+   "C": "K.",
+   "D": "Cs."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L10_C2_0062",
+  "stem": "Phát biểu nào sau đây không đúng?",
+  "options": {
+   "A": "Nguyên tử có bán kính nhỏ nhất có Z = 1.",
+   "B": "Kim loại yếu nhất trong nhóm IA có Z = 3.",
+   "C": "Nguyên tố có độ âm điện lớn nhất có Z = 9.",
+   "D": "Phi kim mạnh nhất trong nhóm VA có Z = 7."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L10_C2_0063",
+  "stem": "Cho các nguyên tố sau: 3Li, 8O, 9F, 11Na. Dãy gồm các nguyên tố được sắp xếp theo chiều tăng dần bán kính nguyên tử từ trái sang phải là",
+  "options": {
+   "A": "F, O, Li, Na.",
+   "B": "F, Na, O, Li.",
+   "C": "F, Li, O, Na.",
+   "D": "Li, Na, O, F."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L10_C2_0064",
+  "stem": "Độ âm điện của các nguyên tố Mg, Al, B và N xếp theo chiều tăng dần là",
+  "options": {
+   "A": "Mg &lt; B &lt; Al &lt; N.",
+   "B": "Mg &lt; Al &lt; B &lt; N.",
+   "C": "B &lt; Mg &lt; Al &lt; N.",
+   "D": "Al &lt; B &lt; Mg &lt; N."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L10_C2_0065",
+  "stem": "Độ âm điện của các nguyên tố F, Cl, Br và I xếp theo chiều giảm dần là",
+  "options": {
+   "A": "Cl &gt; F &gt; I &gt; Br.",
+   "B": "I &gt; Br &gt; Cl &gt; F.",
+   "C": "F &gt; Cl &gt; Br &gt; I.",
+   "D": "I &gt; Br &gt; F &gt; Cl."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L10_C2_0066",
+  "stem": "Nguyên tử của nguyên tố X có bán kính rất lớn. Phát biểu nào sau đây về X là đúng?",
+  "options": {
+   "A": "Độ âm điện của X rất lớn và X là phi kim.",
+   "B": "Độ âm điện của X rất nhỏ và X là phi kim.",
+   "C": "Độ âm điện của X rất lớn và X là kim loại.",
+   "D": "Độ âm điện của X rất nhỏ và X là kim loại."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L10_C2_0067",
+  "stem": "Dãy nguyên tố nào sau đây được xếp theo chiều tăng dần tính phi kim?",
+  "options": {
+   "A": "N, P, As, Bi.",
+   "B": "F, Cl, Br, I.",
+   "C": "C, Si, Ge, Sn.",
+   "D": "Te, Se, S, O."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L10_C2_0068",
+  "stem": "X là nguyên tố nhóm IIIA. Công thức oxide ứng với hóa trị cao nhất của X là",
+  "options": {
+   "A": "XO.",
+   "B": "XO2.",
+   "C": "X2O.",
+   "D": "X2O3."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L10_C2_0069",
+  "stem": "Cho các oxide sau: Na2O, Al2O3, MgO, SiO2. Thứ tự giảm dần tính base là",
+  "options": {
+   "A": "Na2O &gt; Al2O3 &gt; MgO &gt; SiO2.",
+   "B": "Al2O3 &gt; SiO2 &gt; MgO &gt; Na2O.",
+   "C": "Na2O &gt; MgO &gt; Al2O3 &gt; SiO2.",
+   "D": "MgO &gt; Na2O &gt; Al2O3 &gt; SiO2."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L10_C2_0070",
+  "stem": "(Đề TSCĐ – 2010) Các kim loại X, Y, Z có cấu hình electron nguyên tử lần lượt là: 1s22s22p63s1; 1s22s22p63s2; 1s22s22p63s23p1. Dãy gồm các kim loại xếp theo chiều tăng dần tính khử từ trái sang phải là:",
+  "options": {
+   "A": "Z, Y, X.",
+   "B": "X, Y, Z.",
+   "C": "Y, Z, X.",
+   "D": "Z, X, Y."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L10_C2_0071",
+  "stem": "(SBT – Cánh Diều) Dãy nguyên tử nào sau đây có bán kính tăng dần?",
+  "options": {
+   "A": "F &lt; S &lt; Si &lt; Ge &lt; Ca &lt; Rb.",
+   "B": "F &lt; Si &lt; S &lt; Ca &lt; Ge &lt; Rb.",
+   "C": "Rb &lt; Ca &lt; Ge &lt; Si &lt; S &lt; F.",
+   "D": "F &lt; Si &lt; S &lt; Ge &lt; Ca &lt; Rb."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L10_C2_0072",
+  "stem": "(SBT – Cánh Diều) Xu hướng biến đổi độ âm điện của các nguyên tố trong bảng tuần hoàn tương tự như xu hướng biến đổi của yếu tố nào sau đây?(1) Tính kim loại.(2) Tính phi kim.(3) Bán kính nguyên tử.",
+  "options": {
+   "A": "(1).",
+   "B": "(2).",
+   "C": "(3).",
+   "D": "(1), (2) và (3)."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L10_C2_0073",
+  "stem": "(SBT – Cánh Diều) Cấu hình electron nào sau đây ứng với nguyên tố có độ âm điện lớn nhất?",
+  "options": {
+   "A": "1s22s22p5.",
+   "B": "1s22s22p6.",
+   "C": "1s22s22p63s1.",
+   "D": "1s22s22p63s23p2."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L10_C2_0074",
+  "stem": "(Đề MH 10 – 2025) Lưu huỳnh (sulfur, S) thuộc nhóm VIA trong bảng tuần hoàn các nguyên tố hóa học. Công thức của sulfuric acid (tương ứng với oxide cao nhất của S) là",
+  "options": {
+   "A": "H2S.",
+   "B": "SO3.",
+   "C": "H2SO3.",
+   "D": "H2SO4."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L10_C2_0075",
+  "stem": "(Đề MH 10 – 2025) Trong một chu kì của bảng tuần hoàn các nguyên tố hóa học, theo chiều tăng dần điện tích hạt nhân, bán kính nguyên tử của các nguyên tố giảm dần do số lớp electron..(I).., lực hút giữa hạt nhân với electron lớp ngoài cùng..(II).. Cụm từ cần điền vào (I), (II) lần lượt là",
+  "options": {
+   "A": "tăng dần, tăng dần.",
+   "B": "giảm dần, giảm dần.",
+   "C": "không đổi, tăng dần.",
+   "D": "không đổi, giảm dần."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L10_C2_0076",
+  "stem": "(Đề MH 10 – 2025) Nguyên tố silicon (Si) thuộc chu kì 3, nhóm IVA trong bảng tuần hoàn các nguyên tố hoá học. Công thức oxide cao nhất của silicon là",
+  "options": {
+   "A": "SiO2.",
+   "B": "SiO.",
+   "C": "H2SiO3.",
+   "D": "SiH4."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L10_C2_0077",
+  "stem": "Theo quy luật biến đổi tính chất đơn chất của các nguyên tố trong bảng tuần hoàn thì",
+  "options": {
+   "A": "phi kim mạnh nhất là iodine.",
+   "B": "kim loại mạnh nhất là lithium.",
+   "C": "phi kim mạnh nhất là fluorine.",
+   "D": "kim loại yếu nhất là caesium."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L10_C2_0078",
+  "stem": "Ba nguyên tố với số hiệu nguyên tử Z = 11, Z = 12, Z = 13 có hydroxide tương ứng là X, Y, T. Chiều tăng dần tính base của các hydroxide này là",
+  "options": {
+   "A": "X, Y, T.",
+   "B": "X, T, Y.",
+   "C": "T, X, Y.",
+   "D": "T, Y, X."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L10_C2_0079",
+  "stem": "Y là hydroxide của nguyên tố X nhóm IA. Nó được sử dụng nhiều trong các ngành công nghiệp giấy, dệt, nhuộm, xà phòng và chất tẩy rửa. Y cũng được sử dụng chủ yếu trong các phòng thí nghiệm. Thành phần phần trăm khối lượng của nguyên tố oxygen trong Y là 40%. Công thức phân tử của Y là",
+  "options": {
+   "A": "MgO.",
+   "B": "KOH.",
+   "C": "NaOH.",
+   "D": "LiOH."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L10_C2_0080",
+  "stem": "Các nguyên tố trong bảng tuần hoàn được sắp xếp theo chiều tăng dần",
+  "options": {
+   "A": "khối lượng nguyên tử.",
+   "B": "bán kính nguyên tử.",
+   "C": "số hiệu nguyên tử.",
+   "D": "độ âm điện của nguyên tử."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L10_C2_0081",
+  "stem": "Nguyên tố X ở chu kì 3, nhóm IIA của bảng tuần hoàn. Cấu hình electron của nguyên tử nguyên tố X là",
+  "options": {
+   "A": "1s22s22p6.",
+   "B": "1s22s22p63s23p1.",
+   "C": "1s22s22p63s3.",
+   "D": "1s22s22p63s2."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L10_C2_0082",
+  "stem": "Chromium (Cr) được sử dụng nhiều trong luyện kim để chế tạo hợp kim chống ăn mòn và đánh bóng bề mặt. Nguyên tử chromium có cấu hình electron viết gọn là [Ar]3d54s1. Vị trí của Cr trong bảng tuần hoàn là",
+  "options": {
+   "A": "ô số 17, chu kì 4, nhóm IA.",
+   "B": "ô số 24, chu kì 4, nhóm VIB.",
+   "C": "ô số 24, chu kì 3, nhóm VIB.",
+   "D": "ô số 27, chu kì 4, nhóm VIB."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L10_C2_0083",
+  "stem": "Cho cấu hình electron nguyên tử của các nguyên tố sau: X (1s22s22p63s1); Y (1s22s22p63s2) và Z (1s22s22p63s23p1). Dãy các nguyên tố xếp theo chiều tăng dần tính kim loại từ trái sang phải là",
+  "options": {
+   "A": "Z, Y, X.",
+   "B": "X, Y, Z.",
+   "C": "Y, Z, X.",
+   "D": "Z, X, Y."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L10_C2_0084",
+  "stem": "Anion X2– có cấu hình electron [Ne]3s23p6. Nguyên tố X có tính chất nào sau đây?",
+  "options": {
+   "A": "Kim loại.",
+   "B": "Phi kim.",
+   "C": "Trơ của khí hiếm.",
+   "D": "Lưỡng tính."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L10_C2_0085",
+  "stem": "X, Y và Z là các nguyên tố thuộc cùng một chu kì của bảng tuần hoàn. Oxide của X tan trong nước tạo thành dung dịch làm hồng giấy quỳ tím. Oxide của Y phản ứng với nước tạo thành dung dịch làm xanh giấy quỳ tím. Oxide của Z phản ứng được với cả acid và base. Cách phân loại X, Y, Z nào sau đây là đúng?",
+  "options": {
+   "A": "X là kim loại; Y là chất lưỡng tính; Z là phi kim.",
+   "B": "X là phi kim; Y là chất lưỡng tính; Z là kim loại.",
+   "C": "X là kim loại; Z là chất lưỡng tính; Y là phi kim.",
+   "D": "X là phi kim; Z là chất lưỡng tính; Y là kim loại."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L10_C2_0086",
+  "stem": "Cấu hình electron nguyên tử iron (Fe): [Ar]3d64s2. Vị trí iron (Fe) trong bảng tuần hoàn là",
+  "options": {
+   "A": "ô 26, chu kì 4, nhóm VIIIA.",
+   "B": "ô 26, chu kì 4, nhóm VIIIB.",
+   "C": "ô 26, chu kì 4, nhóm IIA.",
+   "D": "ô 26, chu kì 4, nhóm IIB."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L10_C2_0087",
+  "stem": "Nguyên tố X có số hiệu nguyên tử là 8.1) Nguyên tử của nguyên tố X có cấu hình electron là",
+  "options": {
+   "A": "1s22s22p3.",
+   "B": "1s22s12p5.",
+   "C": "1s12s22p5.",
+   "D": "1s22s22p4."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L10_C2_0088",
+  "stem": "2) Nguyên tố X thuộc chu kì",
+  "options": {
+   "A": "1.",
+   "B": "2.",
+   "C": "3.",
+   "D": "4."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L10_C2_0089",
+  "stem": "3) Nguyên tố X thuộc nhóm",
+  "options": {
+   "A": "VIIIB.",
+   "B": "VIB.",
+   "C": "VIIA.",
+   "D": "VIA."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L10_C2_0090",
+  "stem": "Nguyên tố X thuộc chu kì 3, nhóm IIA. Nguyên tử của nguyên tố X có cấu hình electron là",
+  "options": {
+   "A": "1s22s22p63s1.",
+   "B": "1s22s22p6.",
+   "C": "1s22s22p53s4.",
+   "D": "1s22s22p63s2."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L10_C2_0091",
+  "stem": "Nguyên tử của nguyên tố X có cấu hình electron: 1s22s22p63s23p3.1) Số electron lớp ngoài cùng của X là",
+  "options": {
+   "A": "1.",
+   "B": "2.",
+   "C": "6.",
+   "D": "5."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L10_C2_0092",
+  "stem": "2) X thuộc chu kì",
+  "options": {
+   "A": "1.",
+   "B": "2.",
+   "C": "3.",
+   "D": "4."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L10_C2_0093",
+  "stem": "3) X thuộc nhóm",
+  "options": {
+   "A": "IA.",
+   "B": "VA.",
+   "C": "IIIA.",
+   "D": "IVA."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L10_C2_0094",
+  "stem": "Thứ tự tăng dần bán kính nguyên tử là",
+  "options": {
+   "A": "Li, Be, F, Cl.",
+   "B": "Be, Li, F, Cl.",
+   "C": "F, Be, Li, Cl.",
+   "D": "Cl, F, Li, Be."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L10_C2_0095",
+  "stem": "Cho các nguyên tố sau: K (Z = 19), N (Z = 7), Si (Z =14), Mg (Z = 12). Dãy gồm các nguyên tố được sắp xếp theo chiều giảm dần bán kính nguyên tử từ trái sang phải là",
+  "options": {
+   "A": "N, Si, Mg, K.",
+   "B": "Mg, K, Si, N.",
+   "C": "K, Mg, N, Si.",
+   "D": "K, Mg, Si, N."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L10_C2_0096",
+  "stem": "Cho các nguyên tố X, Y, Z có số hiệu nguyên tử lần lượt là 6, 9, 14. Thứ tự tính phi kim tăng dần của các nguyên tố đó là",
+  "options": {
+   "A": "X &lt; Z &lt; Y.",
+   "B": "Z &lt; X &lt; Y.",
+   "C": "Z &lt; Y &lt; X.",
+   "D": "Y &lt; X &lt; Z."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L10_C2_0097",
+  "stem": "(SBT – Cánh Diều) Sulfur được sử dụng trong quá trình lưu hoá cao su, làm chất diệt nấm và có trong thuốc nổ đen. Sulfur là nguyên tố nhóm VIA. Công thức oxide cao nhất của sulfur là",
+  "options": {
+   "A": "SO2.",
+   "B": "SO3.",
+   "C": "SO6.",
+   "D": "SO4."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L10_C2_0098",
+  "stem": "(SBT – Cánh Diều) Hydroxide của nguyên tố X (thuộc nhóm A) có tính base. 1 mol hydroxide này tác dụng vừa đủ với 3 mol HCl. Phương án nào sau đây dự đoán về vị trí nhóm của nguyên tố X trong bảng tuần hoàn là đúng?",
+  "options": {
+   "A": "Nhóm IA.",
+   "B": "Nhóm IIA.",
+   "C": "Nhóm IIIА.",
+   "D": "IVA."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L10_C2_0099",
+  "stem": "(SBT – Cánh Diều) Nếu potassium chlorate có công thức phân tử là KClO3, công thức của sodium bromate sẽ là",
+  "options": {
+   "A": "NaBrO3.",
+   "B": "NaBrO2.",
+   "C": "Na2BrO3.",
+   "D": "NaBrO4."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L10_C2_0100",
+  "stem": "M là nguyên tố chu kì 3, có khả năng phản ứng mạnh với nước tạo thành dung dịch kiềm MOH. Cấu hình electron của M là",
+  "options": {
+   "A": "[Ar]4s1.",
+   "B": "[Ne]3s23p5.",
+   "C": "[Ne]3s1.",
+   "D": "[Ne]3s23p1."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L10_C2_0101",
+  "stem": "Nguyên tử của nguyên tố X có 10 proton, 10 neutron và 10 electron. Vị trí của nguyên tố X trong bảng tuần hoàn là",
+  "options": {
+   "A": "chu kì 2 và nhóm VA.",
+   "B": "chu kì 2 và nhóm VIIIA.",
+   "C": "chu kì 3 và nhóm VIIA.",
+   "D": "chu kì 3 và nhóm VA."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L10_C2_0102",
+  "stem": "(Đề TSCĐ – 2007) Cho các nguyên tố M (Z = 11), X (Z = 17), Y (Z = 9) và R (Z = 19). Độ âm điện của các nguyên tố tăng dần theo thứ tự",
+  "options": {
+   "A": "M &lt; X &lt; Y &lt; R.",
+   "B": "R &lt; M &lt; X &lt; Y.",
+   "C": "Y &lt; M &lt; X &lt; R.",
+   "D": "M &lt; X &lt; R &lt; Y."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L10_C2_0103",
+  "stem": "(Đề THPT QG – 2016) Nguyên tố R thuộc chu kì 3, nhóm VIIA của bảng tuần hoàn các nguyên tố hóa học. Công thức oxide cao nhất của R là",
+  "options": {
+   "A": "RO3.",
+   "B": "R2O7.",
+   "C": "R2O3.",
+   "D": "R2O."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L10_C2_0104",
+  "stem": "Số hiệu nguyên tử Z của các nguyên tố X, A, M, Q lần lượt là 6, 7, 20, 19. Nhận xét nào sau đây là đúng?",
+  "options": {
+   "A": "X thuộc nhóm VA.",
+   "B": "A, M thuộc nhóm IIA.",
+   "C": "M thuộc nhóm IIB.",
+   "D": "Q thuộc nhóm IA."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L10_C2_0105",
+  "stem": "(Đề TSĐH B – 2009) Cho các nguyên tố: K (Z = 19), N (Z = 7), Si (Z = 14), Mg (Z = 12). Dãy gồm các nguyên tố được sắp xếp theo chiều giảm dần bán kính nguyên tử từ trái sang phải là:",
+  "options": {
+   "A": "N, Si, Mg, K.",
+   "B": "K, Mg, Si, N.",
+   "C": "K, Mg, N, Si.",
+   "D": "Mg, K, Si, N."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L10_C2_0106",
+  "stem": "Nguyên tố X thuộc nhóm IA, còn nguyên tố Z thuộc nhóm VIIA của bảng tuần hoàn. Cấu hình electron hóa trị của nguyên tử các nguyên tố X và Z lần lượt là",
+  "options": {
+   "A": "ns1 và ns2np5.",
+   "B": "ns1 và ns2np7.",
+   "C": "ns1 và ns2np3.",
+   "D": "ns2 và ns2np5."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L10_C2_0107",
+  "stem": "Cho các nguyên tố sau: Na (Z = 11), Al (Z = 13) và Cl (Z = 17). Các giá trị bán kính nguyên tử (pm) tương ứng trong từng trường hợp nào sau đây là đúng?",
+  "options": {
+   "A": "Na (157); Al (125); Cl (99).",
+   "B": "Na (99); Al (125); Cl (157).",
+   "C": "Na (157); Al (99); Cl (125).",
+   "D": "Na (125); Al (157); Cl (99)."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L10_C2_0108",
+  "stem": "(SBT – Cánh Diều) Dãy các ion nào sau đây có bán kính tăng dần?",
+  "options": {
+   "A": "S2– &lt; Cl– &lt; K+ &lt; Ca2+.",
+   "B": "K+ &lt; Ca2+ &lt; S2– &lt; Cl–.",
+   "C": "Cl– &lt; S2– &lt; Ca2+ &lt; K+.",
+   "D": "Ca2+ &lt; K+ &lt; Cl &lt; S2–."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L10_C2_0109",
+  "stem": "(SBT – Cánh Diều) Cho bảng số liệu sau đây:Dựa trên xu hướng biến đổi tuần hoàn và dữ liệu trong bảng trên, giá trị nào sau đây là phù hợp nhất đối với bán kính ion K⁺?",
+  "options": {
+   "A": "90 pm.",
+   "B": "133 pm.",
+   "C": "195 pm.",
+   "D": "295 pm."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L10_C2_0110",
+  "stem": "(SBT – Cánh Diều) Dãy các nguyên tố nào sau đây có tính kim loại giảm dần?",
+  "options": {
+   "A": "Sr &gt; Al &gt; P &gt; Si &gt; N.",
+   "B": "Sr &gt; Al &gt; P &gt; N &gt; Si.",
+   "C": "Sr &gt; Al &gt; Si &gt; P &gt; N.",
+   "D": "Sr &gt; Si &gt; Al &gt; P &gt; N."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L10_C2_0111",
+  "stem": "Các nguyên tử và ion Ar, K+, Ca2+ có cùng số lượng electron. Nguyên tử hoặc ion nào có bán kính nhỏ nhất?",
+  "options": {
+   "A": "Ar.",
+   "B": "K+.",
+   "C": "Ca2+.",
+   "D": "K+ và Ca2+."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L10_C2_0112",
+  "stem": "(Đề TSĐH B – 2007) Trong một nhóm A, trừ nhóm VIIIA, theo chiều tăng của điện tích hạt nhân nguyên tử thì",
+  "options": {
+   "A": "tính phi kim giảm dần, bán kính nguyên tử tăng dần.",
+   "B": "tính kim loại tăng dần, độ âm điện tăng dần.",
+   "C": "độ âm điện giảm dần, tính phi kim tăng dần.",
+   "D": "tính kim loại tăng dần, bán kính nguyên tử giảm dần."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L10_C2_0113",
+  "stem": "(Đề TSĐH A – 2008) Bán kính nguyên tử của các nguyên tố: 3Li, 8O, 9F, 11Na được xếp theo thứ tự tăng dần từ trái sang phải là",
+  "options": {
+   "A": "F, O, Li, Na.",
+   "B": "F, Na, O, Li.",
+   "C": "F, Li, O, Na.",
+   "D": "Li, Na, O, F."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L10_C2_0114",
+  "stem": "Dãy oxide nào sau đây sắp xếp theo thứ tự tăng dần tính acid?",
+  "options": {
+   "A": "Cl2O7 &lt; Al2O3 &lt; SO3 &lt; P2O5.",
+   "B": "Al2O3 &lt; P2O5 &lt; SO3 &lt; Cl2O7.",
+   "C": "P2O5 &lt; SO3 &lt; Al2O3 &lt; Cl2O7.",
+   "D": "Al2O3 &lt; SO3 &lt; P2O5 &lt; Cl2O7."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L10_C2_0115",
+  "stem": "Trong các hydoxide của các nguyên tố chu kì 3, hydroxide có tính acid mạnh nhất là",
+  "options": {
+   "A": "H2SO4.",
+   "B": "HClO4.",
+   "C": "H2SiO3.",
+   "D": "H3PO4."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L10_C2_0116",
+  "stem": "Dãy hydroxide nào sau đây sắp xếp theo thứ tự giảm dần tính base?",
+  "options": {
+   "A": "Al(OH)3; NaOH; Mg(OH)2; Si(OH)4.",
+   "B": "NaOH; Mg(OH)2; Si(OH)4; Al(OH)3.",
+   "C": "NaOH; Mg(OH)2; Al(OH)3; Si(OH)4.",
+   "D": "Si(OH)4; NaOH; Mg(OH)2; Al(OH)3."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L10_C2_0117",
+  "stem": "Dãy hydroxide nào sau đây sắp xếp theo thứ tự tăng dần tính acid?",
+  "options": {
+   "A": "H3PO4; H2SO4; H3AsO4.",
+   "B": "H2SO4; H3AsO4; H3PO4.",
+   "C": "H3PO4; H3AsO4; H2SO4.",
+   "D": "H3AsO4; H3PO4; H2SO4."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L10_C2_0118",
+  "stem": "(Đề TSCĐ – 2012) Nguyên tử của nguyên tố X có tổng số hạt proton, neutron, electron là 52. Trong hạt nhân nguyên tử X có số hạt không mang điện nhiều hơn số hạt mang điện là 1. Vị trí (chu kỳ, nhóm) của X trong bảng tuần hoàn các nguyên tố hóa học là",
+  "options": {
+   "A": "chu kỳ 3, nhóm VA.",
+   "B": "chu kỳ 3, nhóm VIIA.",
+   "C": "chu kỳ 2, nhóm VIIA.",
+   "D": "chu kỳ 2, nhóm VA."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L10_C2_0119",
+  "stem": "Tổng số hạt cơ bản (proton, neutron, electron) trong nguyên tử nguyên tố X là 46, biết số hạt mang điện nhiều hơn số hạt không mang điện là 14. Vị trí của nguyên tố X trong bảng tuần hoàn là",
+  "options": {
+   "A": "ô thứ 15, chu kì 3, nhóm VA.",
+   "B": "ô thứ 14, chu kì 3, nhóm IVA.",
+   "C": "ô thứ 16, chu kì 3, nhóm VIA.",
+   "D": "ô thứ 13, chu kì 3, nhóm IIIA."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L10_C2_0120",
+  "stem": "(Đề TSĐH B – 2014) Hai nguyên tố X và Y cùng một chu kì trong bảng tuần hoàn các nguyên tố hoá học, X thuộc nhóm IIA, Y thuộc nhóm IIIA (ZX + ZY = 51). Phát biểu nào sau đây đúng?",
+  "options": {
+   "A": "Ở nhiệt độ thường X không khử được H2O.",
+   "B": "Kim loại X không khử được ion Cu2+ trong dung dịch.",
+   "C": "Hợp chất với oxygen của X có dạng X2O7.",
+   "D": "Trong nguyên tử nguyên tố X có 25 proton."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L10_C2_0121",
+  "stem": "(Đề TSĐH A – 2012) X và Y là hai nguyên tố thuộc cùng một chu kì, hai nhóm A liên tiếp. Số proton của nguyên tử Y nhiều hơn số proton của nguyên tử X. Tổng số hạt proton trong nguyên tử X và Y là 33. Nhận xét nào sau đây về X, Y là đúng?",
+  "options": {
+   "A": "Đơn chất X là chất khí ở điều kiện thường.",
+   "B": "Độ âm điện của X lớn hơn độ âm điện của Y.",
+   "C": "Lớp ngoài cùng của nguyên tử Y (ở trạng thái cơ bản) có 5 electron.",
+   "D": "Phân lớp ngoài cùng của nguyên tử X (ở trạng thái cơ bản) có 4 electron."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L10_C2_0122",
+  "stem": "Oxide cao nhất của nguyên tố R là R2O5, trong hợp chất với hydrogen R chiếm 82,35% về khối lượng. Nguyên tố R là",
+  "options": {
+   "A": "S.",
+   "B": "As.",
+   "C": "P.",
+   "D": "N."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L10_C2_0123",
+  "stem": "Hợp chất khí tạo bởi nguyên tố R với hydrogen là RH, trong oxide cao nhất R chiếm 58,86% về khối lượng, nguyên tố R là",
+  "options": {
+   "A": "Br.",
+   "B": "F.",
+   "C": "I.",
+   "D": "Cl."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L10_C2_0124",
+  "stem": "Nguyên tố R có oxide cao nhất là RO2. Trong hợp chất khí với hydrogen chứa 75% khối lượng R. Hợp chất với hydrogen có công thức là",
+  "options": {
+   "A": "CH3.",
+   "B": "NH3.",
+   "C": "CH4.",
+   "D": "SH2."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L10_C2_0125",
+  "stem": "Hợp chất với hydrogen của nguyên tố có công thức XH3. Biết % về khối lượng của oxygen trong oxide cao nhất của X là 56,34%. Nguyên tử khối của X là",
+  "options": {
+   "A": "14.",
+   "B": "31.",
+   "C": "32.",
+   "D": "52."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L10_C2_0126",
+  "stem": "(Đề TSĐH B – 2008) Công thức phân tử của hợp chất khí tạo bởi nguyên tố R và hydrogen là RH3. Trong oxide mà R có hoá trị cao nhất thì oxygen chiếm 74,07% về khối lượng. Nguyên tố R là",
+  "options": {
+   "A": "S.",
+   "B": "As.",
+   "C": "N.",
+   "D": "P."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L10_C2_0127",
+  "stem": "(Đề TSĐH B – 2012) Nguyên tố Y là phi kim thuộc chu kỳ 3, có công thức oxide cao nhất là YO3. Nguyên tố Y tạo với kim loại M hợp chất có công thức MY, trong đó M chiếm 63,64% về khối lượng. Kim loại M là",
+  "options": {
+   "A": "Zn.",
+   "B": "Cu.",
+   "C": "Mg.",
+   "D": "Fe."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L10_C2_0128",
+  "stem": "(Đề TSĐH A – 2012) Phần trăm khối lượng của nguyên tố R trong hợp chất khí với hydrogen (R có số oxi hóa thấp nhất) và trong oxide cao nhất tương ứng là a% và b%, với a: b = 11: 4. Phát biểu nào sau đây là đúng?",
+  "options": {
+   "A": "Phân tử oxide cao nhất của R không có cực.",
+   "B": "Oxide cao nhất của R ở điều kiện thường là chất rắn.",
+   "C": "Trong bảng tuần hoàn các nguyên tố hóa học, R thuộc chu kì 3.",
+   "D": "Nguyên tử R (ở trạng thái cơ bản) có 6 electron s."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L10_C2_0129",
+  "stem": "(Đề MH lần II – 2017) Cho 0,78 gam kim loại kiềm M tác dụng hết với H2O, thu được 0,01 mol khí H2. Kim loại M là",
+  "options": {
+   "A": "Li.",
+   "B": "Na.",
+   "C": "K.",
+   "D": "Rb."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L10_C2_0130",
+  "stem": "(Đề THPT QG – 2018) Cho 0,425 gam hỗn hợp X gồm Na và K vào nước dư, thu được 0,0075 mol khí H2. Khối lượng kim loại Na trong X là",
+  "options": {
+   "A": "0,115 gam.",
+   "B": "0,230 gam.",
+   "C": "0,276 gam.",
+   "D": "0,345 gam."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L10_C2_0131",
+  "stem": "(Đề TSCĐ – 2014) Hòa tan hết 4,68 gam kim loại kiềm M vào H2O dư, thu được 1,4874 lít khí H2 (điều kiện chuẩn). Kim loại M là",
+  "options": {
+   "A": "Rb.",
+   "B": "Li.",
+   "C": "K.",
+   "D": "Na."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L10_C2_0132",
+  "stem": "(Đề THPT QG – 2017) Hòa tan hoàn toàn 1,15 gam kim loại X vào nước, thu được dung dịch Y. Để trung hòa Y cần vừa đủ 50 gam dung dịch HCl 3,65%. Kim loại X là",
+  "options": {
+   "A": "Ca.",
+   "B": "Ba.",
+   "C": "Na.",
+   "D": "K."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L10_C2_0133",
+  "stem": "(Đề THPT QG – 2015) Cho 0,5 gam một kim loại hoá trị II phản ứng hết với dung dịch HCl dư, thu được 0,0125 mol H2. Kim loại đó là",
+  "options": {
+   "A": "Ba.",
+   "B": "Mg.",
+   "C": "Ca.",
+   "D": "Sr."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L10_C2_0134",
+  "stem": "(Đề TSĐH B – 2007) Cho 1,67 gam hỗn hợp gồm hai kim loại ở 2 chu kỳ liên tiếp thuộc nhóm IIA tác dụng hết với dung dịch HCl (dư), thoát ra 0,7437 lít khí H2 (ở điều kiện chuẩn). Hai kim loại đó là",
+  "options": {
+   "A": "Be và Mg.",
+   "B": "Mg và Ca.",
+   "C": "Sr và Ba.",
+   "D": "Ca và Sr."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L10_C2_0135",
+  "stem": "(Đề TSĐH B – 2009) Hoà tan hoàn toàn 2,9 gam hỗn hợp gồm kim loại M và oxide của nó vào nước, thu được 500 mL dung dịch chứa một chất tan có nồng độ 0,04M và 0,2479 lít khí H2 (ở điều kiện chuẩn). Kim loại M là",
+  "options": {
+   "A": "Na.",
+   "B": "Ca.",
+   "C": "Ba.",
+   "D": "K."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L10_C2_0136",
+  "stem": "(Đề TSĐH B – 2010) Hòa tan hoàn toàn 2,45 gam hỗn hợp X gồm hai kim loại kiềm thổ vào 200 mL dung dịch HCl 1,25M, thu được dung dịch Y chứa các chất tan có nồng độ mol bằng nhau. Hai kim loại trong X là",
+  "options": {
+   "A": "Mg và Ca.",
+   "B": "Be và Mg.",
+   "C": "Mg và Sr.",
+   "D": "Be và Ca."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L10_C2_0137",
+  "stem": "(Đề TSCĐ – 2011) Để hoà tan hoàn toàn 6,4 gam hỗn hợp gồm kim loại R (chỉ có hóa trị II) và oxide của nó cần vừa đủ 400 mL dung dịch HCl 1 M. Kim loại R là",
+  "options": {
+   "A": "Ba.",
+   "B": "Be.",
+   "C": "Mg.",
+   "D": "Ca."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L10_C2_0138",
+  "stem": "(Đề TSĐH A – 2010) Cho 7,1 gam hỗn hợp gồm một kim loại kiềm X và một kim loại kiềm thổ Y tác dụng hết với lượng dư dung dịch HCl loãng, thu được 0,25 mol H2. Kim loại X, Y là",
+  "options": {
+   "A": "potassium và barium.",
+   "B": "lithium và beryllium.",
+   "C": "sodium và magnesium.",
+   "D": "potassium và calcium."
+  },
+  "answer": "C"
+ }
+]

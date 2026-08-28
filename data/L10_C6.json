@@ -1,0 +1,464 @@
+[
+ {
+  "id": "L10_C6_0001",
+  "stem": "Tốc độ của một phản ứng hóa học",
+  "options": {
+   "A": "chỉ phụ thuộc vào nồng độ các chất tham gia phản ứng.",
+   "B": "tăng khi nhiệt độ phản ứng tăng.",
+   "C": "càng nhanh khi giá trị năng lượng hoạt hóa càng lớn.",
+   "D": "không phụ thuộc vào diện tích bề mặt."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L10_C6_0002",
+  "stem": "Khi cho một lượng xác định chất phản ứng vào bình để cho phản ứng hóa học xảy ra, tốc độ phản ứng sẽ",
+  "options": {
+   "A": "không đổi cho đến khi kết thúc.",
+   "B": "tăng dần cho đến khi kết thúc.",
+   "C": "chậm dần cho đến khi kết thúc.",
+   "D": "tuân theo định luật tác dụng khối lượng."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L10_C6_0003",
+  "stem": "Phản ứng 3H2 + N2 <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAlKA0D0nYAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> 2NH3 có tốc độ mất đi của H2 so với tốc độ hình thành NH3 như thế nào?",
+  "options": {
+   "A": "Bằng 1/2.",
+   "B": "Bằng 3/2.",
+   "C": "Bằng 2/3.",
+   "D": "Bằng 1/3."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L10_C6_0004",
+  "stem": "Từ một miếng đá vôi và một lọ đựng dung dịch acid HCl 1M, thí nghiệm được tiến hành trong điều kiện nào sau đây sẽ thu được một lượng CO2 lớn nhất trong một khoảng thời gian xác định?",
+  "options": {
+   "A": "Tán nhỏ miếng đá vôi, cho vào dung dịch HC 1M, không đun nóng.",
+   "B": "Tán nhỏ miếng đá vôi, cho vào dung dịch HCl 1M, đun nóng.",
+   "C": "Cho miếng đá vôi vào dung dịch HCl 1M, không đun nóng.",
+   "D": "Cho miếng đá vôi vào dung dịch HCl 1M, đun nóng."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L10_C6_0005",
+  "stem": "Chất xúc tác là chất",
+  "options": {
+   "A": "làm tăng tốc độ phản ứng và không bị mất đi sau phản ứng.",
+   "B": "làm tăng tốc độ phản ứng và bị mất đi sau phản ứng.",
+   "C": "làm giảm tốc độ phản ứng và không bị mất đi sau phản ứng.",
+   "D": "làm giảm tốc độ phản ứng và bị mất đi sau phản ứng."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L10_C6_0006",
+  "stem": "Cho phương trình hóa học: 2KMnO4(aq) + 10FeSO4(aq) + 8H2SO4(aq) <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAlKA0D0nYAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> 5Fe2(SO4)3(aq) + K2SO4(aq) + 2MnSO4(aq) + 8H2O(aq)Với cùng một lượng các chất tham gia phản ứng, chất phản ứng hết nhanh nhất là:",
+  "options": {
+   "A": "KMnO4.",
+   "B": "FeSO4.",
+   "C": "H2SO4.",
+   "D": "Cả 3 chất hết cùng lúc."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L10_C6_0007",
+  "stem": "Đối với phản ứng: A + 3B <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAlKA0D0nYAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> 2C, phát biểu nào sau đây đúng?",
+  "options": {
+   "A": "Tốc độ tiêu hao chất B bằng 3/2 tốc độ tạo thành chất C.",
+   "B": "Tốc độ tiêu hao chất B bằng 2/3 tốc độ tạo thành chất C.",
+   "C": "Tốc độ tiêu hao chất B bằng 3 tốc độ tạo thành chất C.",
+   "D": "Tốc độ tiêu hao chất B bằng 1/3 tốc độ tạo thành chất C."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L10_C6_0009",
+  "stem": "Phương trình tổng hợp ammonia (NH3): N2(g) + 3H2(g) <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAlKA0D0nYAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> 2NH3(g). Nếu tốc độ tạo thành NH3 là 0,345 M/s thì tốc độ của chất phản ứng H2 là",
+  "options": {
+   "A": "0,345 M/s.",
+   "B": "0,690 M/s.",
+   "C": "0,173 M/s.",
+   "D": "0,518 M/s."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L10_C6_0010",
+  "stem": "Phản ứng 2NO(g) + O2(g) <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAlLApuFm8AAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> 2NO2(g) có biểu thức tốc độ tức thời: <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAF4AAAAZCAAAAACd5MZmAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAlKXoE4uAAAAKmSURBVEjHtVZrSJNhFH62mZKZ6JqFEpiadlHTnGwFaYFdxQqKTPNHFESCYoEthG4/pEzCS4IL1KwgMCsoszREzR9GprZgMxUjBQOlvJbpwrY9/VjL3D7HHO35dd7znPfhcM75vvOKCFdC7FJ1uDlxJ31tb2qCg7FcPNrYt83BULvFaVSECLmV+L7ifxRn562AucNwUZufeHI8+jaAKpVN7PviQT/DqDH5zCKKE3rxr6mRZelJDspJPrtjE1m59C5Jvk2a77YrPyN+YDGNYQoTSfIGWfPIJrJ/iYoW2kq+Q6kkDRF7SZL1IRbcJDvwgZXSeyTZhBLLlSmZXB5nJX8JWsEE3YDYU5kGN0mcDwBAcd9StdWAzj3sR03jZgDoRKSF8Bqx7VKneOOCrVX87N403dwKAJBu+YfUrdcfzzXLTmC5vSGY8JQI+sUAwr00yM2W2ZJdgft6IsymN6btyXvrTQtmL455p2zPM5+/ai1McDB0nurE5/sBALHQxgMADBKRgExsQ7c5j1l328E8t3W37k8vmpUWlHMET3kg3uw3bIgxkiSvfBRq4YDHWbORJjCYD5EjdKcZn9iCdlLto2GXf/oMyVHlIEs9qtmb9Mp4LU+taiB5LHSGVZ4VJNkdTT5Rqa8Wz00OoAi6LFQ43bIgbJdnlkWBRLi2KHEVvk1G+SLx8/mEdVE7KkYKYVKGBYImICWysGrlrwlDMnqvvxEho/qoA1+tMAbK89N4gXtekswusWbzckjWHjIfnPvfZ/fUAV+kAKTD1tw8t3PykvKMKfiPARgLsObmuZ3cVjFHHiPlBWBsOWhNHW4yAbWps2UF9YDIiV1bqsmX6Xe1skDv059ku7bqmtaM+2YBr/tOOCXvGIbqT4pct8qHTg/XOVecRcDFD5HfL86/P7FSNuUAAAAASUVORK5CYII=\" style=\"height:24px\" alt=\"\">. Nếu nồng độ của NO giảm 2 lần, giữ nguyên nồng độ oxygen, thì tốc độ sẽ",
+  "options": {
+   "A": "giảm 2 lần.",
+   "B": "giảm 4 lần.",
+   "C": "giảm 3 lần.",
+   "D": "giữ nguyên."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L10_C6_0011",
+  "stem": "Phương trình hóa học của phản ứng: CHCl3(g) + Cl2(g) <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAlKA0D0nYAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> CCl4(g) + HCl(g). Khi nồng độ của CHCl3 giảm 4 lần, nồng độ Cl2 giữ nguyên thì tốc độ phản ứng sẽ",
+  "options": {
+   "A": "tăng gấp đôi.",
+   "B": "giảm một nửa.",
+   "C": "tăng 4 lần.",
+   "D": "giảm 4 lần."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L10_C6_0012",
+  "stem": "Cho phản ứng đơn giản: 2A + B <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAlLApuFm8AAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> sản phẩm. Khi tăng nồng độ chất A lên gấp đôi, tốc độ phản ứng thay đổi như thế nào?",
+  "options": {
+   "A": "Tăng 2 lần.",
+   "B": "Tăng 6 lần.",
+   "C": "Tăng 4 lần.",
+   "D": "Không đổi."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L10_C6_0013",
+  "stem": "Khi tăng nồng độ chất tham gia, thì",
+  "options": {
+   "A": "tốc độ phản ứng tăng.",
+   "B": "tốc độ phản ứng giảm.",
+   "C": "không ảnh hưởng đến tốc độ phản ứng.",
+   "D": "có thể tăng hoặc giảm tốc độ phản ứng."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L10_C6_0014",
+  "stem": "Yếu tố nào sau đây làm giảm tốc độ phản ứng?",
+  "options": {
+   "A": "Sử dụng enzyme cho phản ứng.",
+   "B": "Thêm chất ức chế vào hỗn hợp chất tham gia.",
+   "C": "Tăng nồng độ chất tham gia.",
+   "D": "Nghiền chất tham gia dạng khối thành bột."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L10_C6_0015",
+  "stem": "Các enzyme là chất xúc tác, có chức năng",
+  "options": {
+   "A": "giảm năng lượng hoạt hóa của phản ứng.",
+   "B": "tăng năng lượng hoạt hóa của phản ứng.",
+   "C": "tăng nhiệt độ của phản ứng.",
+   "D": "giảm nhiệt độ của phản ứng."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L10_C6_0016",
+  "stem": "Cho phản ứng xảy ra trong pha khí sau: H2 + Cl2 <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAlKXoE4uAAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> 2HCl. Biểu thức tốc độ trung bình của phản ứng là",
+  "options": {
+   "A": "<img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAALAAAAAoCAAAAAB76S+sAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAlK5QKg8wAAAUwSURBVFjD1ZhtUFRVHMafXXadQkVSCbOZfAmLMURyK0dhyByG1DRUHJ2ShB16GRTNxi++McyUJjia+Z4rCoiWpDSFmslCk6IImuMoVCoDUsqLwOQiuLKwu08fdi9WsLvnrM0Q/y/33HPOc/+/+9xzzz33qIi+FereBpANjYf2Rdv8AQAnd7X7tTWOyvITuKZ1QZ7juCfv8X4tLVM2/6fEdBsN2m0kydShJSRNb/5BgcjDVZLsiHrlNsmbU0U0wuEBOG18CEleVGWTJHNrRa753uBkktykriZJbhFE2X7KcaxIiJwzQxdd5g2wXX8EJSSTNffFPahJXeJvJhkyWc670LkkyZO+X5Ds/OSAN8DG/ZYhCSTDgyQSp1T9jCzSonpXivd8mKaepDlAT5K8cdwbYH0rl/qayJAw8cSdb5PjJpPNWC4FnHxD8ynJoyhw283ttNbYbwD05hxgoFn8LT72OqAvqcAASIiAe7Yx0zIIXMZY72eJtDMkx4eSi7VmkqTN6tmp+ffJRu1Scmy4o6JDyOCdPzEPBWQyTG77uQO2TyfJLTjPy+r9JMlvvveYuOZ9kozxN3OrupIkucwsAjzHzo6hseQq1HkNXLieJJu0enLTkBKSlgQjU8JrasJTXIvWniPJb5FN62xdLcmm0E4WrcvN3Pzn9FuuZaUfk/xQ28CvYXTUWHru6O5LZ6i/AAC+uVsGrZiw0TqwrSkoCNF1IxAc7VJjyyoHACsMi3zyMhP8tC2mCE1zajFw7YnhbnLtWwtAvzVz5ayncqIA4G56mjdfuu5RnEgmFstpjieRJBNdO9wymyQZ9qydp/12k6RhjfIwq1cd/mq5dU2OZ4d7jsosVEpKbCpPPQ5dnw0ArVVFUZGX0qMDHjQNXqY8TP3hYQjzCXb2lAcek4CzwKHHrq8WlkzaSBXKJgIXm40rnu6pR1LSw3LQ3n80tTUNA4K7TqWBy+ubUV8esdDyo7gmYN2GYEvV83UV03BVZnKuzEIl7P+qJL/0zyC3qdtI0trqjDYPw7Ld0NxVtiiiBx5H86X8h2VF1Wpz/7pE1pKlzHk4ht86eAWICOoPAMUzFedN7m8+LiR3sVJOT3cWXjvmwbJTOcGjQpxl2zCl1jjJ7cPM3jkBhS9dg80HAFQEUs6cxsoX3pEdHL0TagC6K7h1Ma63SQRDA0DXUrM6zTHzWNuc9apBrfPsnuWpEQDa251n2v6lKSJJRxkAwKScDvRZckOMNmkuVATw5CJThqPmzFzlRhrEb3qD8tP2ap6EVbZApXRiooRMRQDTSq8HSmh6NTQAoIvuM7wOh/tS9LmNFGHgX8SXDn+LHQVeUVljXbeJLhGXBnaQZG2ZqIBk16/7uTtSKmUrxv5d9yZRh9sr7uQDwPoLMk6VqvMbAPCDRjmHfxhsAICjB7x3OLsoJJrkrgGhMXfFnXL8upuTMXWJjMHOrZiC4OEx3X4VRIHj7JtU1SRHbJdI3JLEmaPt5E2Uy/AqWzGMj+3eJjgkfg1SxflkyL47BxdAX10oq4K1arRunMFFoyDw3ngEzthvlcxcGIlZQ/dIAytbMY8A3H57JKBvyJdLXPaiCtqF+XdkgQ/PA+K0LiwWAz4SA+CNAINQ567YFw9A35kpyfu7vy8QMCPnwSMA58YC0C401sC3TjjxvaZnAIwPy6AvxFVARjwA6E1HekwmtJb4bcokAGgoW7Pu85TQzwRXg7u3PwcAFVXGqPlFL+cOEuS1jdQBgPVE+NmzcwI/SvQG+P8UfW7x8xd/GDqoFcF6LgAAAABJRU5ErkJggg==\" style=\"height:40px\" alt=\"\">.",
+   "B": "<img class=\"formula\" src=\"data:image/png;base64,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\" style=\"height:40px\" alt=\"\">.",
+   "C": "<img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMIAAAAoCAAAAACJVXoJAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAlKA0D0nYAAAR4SURBVFjD7Zh/TNRlHMffd3KEZEhCwWRu9BNSFIKaOsHMrUzdIFDXypt6mbilbrhqGrPM4YxaxYaWGzF+dMSAs1ScpJJaqWCjZQkklgSEnvwww+48juPu3v1xB4wFX77Pc21B6/3PPd/vfV73ed7PfT/P99lHQ0x0af/tCfguP7WBa3KDAQBffGQPsnbdVxQklMY3egxRnTp0uSTJnaE1JHuSf1PJ/RP0GFJrITs2hiTrNMUkyfJrQlkk6YbXPZ/d2xNTkucvKPTJgttgQg3JzX63JdZJlt4S5iDJthkv2UiefnHkKJXlfDIpOSQPwIXIQImHVZK2N3RWAsCmgP2TASyaLV4LR00m0xXP0GDhlsAeMiZO9RL6RpNk8cmYp0l2aTIVw5QsRADYS5Ls3Eh+j73k/IdVT8A3miT17vc0v5LVKJG2cLO7u7uXJJn9DcnYOeTLOhtJ0uUccwK+0SQb32KHXyZ5AIekLQzKvZQkc1DLC9oCkuTnVeoXU5bOaCGTw/t5HKWKcarK+VQiAOh1eYh797VaAI5K3e+p6b3nw6olabRklpdtde0oUSjmq5GAoaMScZpGzx3HyIEaNWek565PA4Cv+s1TcTrXeZe1+8GsyN2RekQ3ydKLysLRFF0C/aiYUaMH+iPijyGt/icdAKTnCe9IysoyklGysGUmSdJoHD1kuY0kM7Qt7HjI0EuyfjFP3Ftr2/Dsjds7jBXb2o6t9wSqPiP9XWecsMiy7jEjLtU9DwAd7vzdYXUfLAtz3XSvxFN3z8PC1pDMx1PxJGaZPJE+WEjSIxv4NOBypjgbFGqejm/nAo4iy8ylI0U80jk0nrpr+HfVGUAorsJHC9bWPke7rXHW6r5TMnjxh/H48rEmTEo/97MAZilC7Qy4NMNukttwhUybS5Lss3jVq/aptufdGByL0+S1fPfg2DbAO0aLjiKNWdxuIm9davfWghbYM+VHIHEOAOCdcK9WqV0Xvbl8cCxOw7zxetXgRcoAnzNKdKOt2XG51fpmfenBHEej+Q8Ank01afEuPFHwgMzzMB6kBZDwAw7Mm7AO4Acg4ZA957jn0m733tfdWZUj8jv7oobTR3KFphFwWAvA6vReTr7jbZWbxJJXAZINeOUTb7nsCfEqTeaF5RtNLh/g3xehNARcQbHnNOpMj0dpAUyKz53ADtQd88a3/gOtMDELa3p8yeVc4QOskFqk9gc6WgflNpzPcJEk3YclWIXUQha8Ha32CDkLG6ZtJsmKFRKsQmoRC96O1i/P+Kfsl5hF685NwTbyRPT0lDOirFJqEQvVBX0h60gWhkgYIN9o/g5FJNdK/AtKqUXKuXSV/wsVt6SLufn+hNl5krBSagELXf5TYLAZZS0cWQIYahqkWMXUAhYKVwOPxn4sa6FspacTIyPF1Oot8OskAOsunpdz0BYcCNyzzNgrwSqnVm9hqKMVaJXoXOSvBQBDjwmBZlFWObX6M9JQR8u58M+UfYKzcEUmAIDz6IKzZ1PDtq4XgpVT/3/MGw/6C94M02f1sFoIAAAAAElFTkSuQmCC\" style=\"height:40px\" alt=\"\">.",
+   "D": "<img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMIAAAAoCAAAAACJVXoJAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAlKXoE4uAAAAS2SURBVFjD7Zh7bJNVGMaflhVHxYEM3QIhmVeQ22DDAIEhEGUBknGPQRqgIpAoJBAl4ILoAsFp1IZtXjKXXewgg6JcNzcn4GVQzESUdTLMEOagDIq42dJ2XdvHP9ptWWTfvnNq4jA+//Scr++v73nOd97Tk6Mh7nZp/+0BRK4otYHLswYCAD7/wBvjuvFQYYxQmsjoHkR1atJlkSRfH3yKZHPabyq5f4LuQWotZCaOJslqTRFJcu9VoSyStO3V0Kdjy9R5aZOnFERkIWi04BTJdVG3JeZJll4f5yPJhmEvuEmeeP7OUSrL+VhKWmwugLMJeonFKkl7bdcPA8BL0R/2AzB9jHgtlFoslvpQ0+jken0zOXqc6imMjCbJomOjZ5G8oUlXDFOyMBRANkny+lryB2STkx9XPYDIaJI0BN/R/EpWoljawi2Hw+EhSWZ+QzJxLPmizk2SDPh7HEBkNMnaN9gUlU7ux0FpCx0KziZJE6w8q80nSX5Wpn4yZekNl8i0+DZWYI9inKpyPj4VAAy6XIx7e5MVgO+w7vcFazyn4yolaVxK31uyMbC1WKGYryQAxqbDGKepDT3x3TlQo+aM9Oy1QQDwVZt9AE5k+e9zOR7dnrAjwYARdbL09JJ41I0ohqFbzKwxAG1Dk8qxsOZnHQCsyRXekZS13UwOl4WdI0mSZnP3IXPdJLlBe4lNjxk9JGtm8osHre7V82/e3mret7mhfFUoUPUZ6e/61g+nLBvsMeJ89VIAaArm7Yirfm9OXOBWcDGeuX8Spl2OTX9yAWZglCUUGYGFFAMygd3RF9LF2ZjB9iH4biLgK3SOnH2niCeud7YHZHT9rnIDMBhXEKEF1+VWX6O7dtSy1uMyeNH7SfhyQh36rDn5iwDmLIR1GAKaLg/JzagnF04kSbY6w/KoXdXe3JsdbXGavJoX7Gi723lfd9HDSfN2brGQLecbw7WgBXb2/wmYOhYA8FZ8WEvUzovBvrejLU7DvvZaWUdnXjtv6ia61n3Rd+Gya1vNngMmX639DwChTTVlZgaeyn9EZj30BmkBJP+I/ZPuWgeIApB80GuqCHW93vBz3b1lJpHfyRnelT6SJTSM6ENaAC5/uNvvnjdVbhKprwAkbXj5k3C57IwNa6HMH1ZkNDm3nX9XhNIQCMQkntSoM90bpQXQJynrLnag7pjXu/UfuAoTs7C8OZJc/kUS0NHxT6fOqFJML1L77TdaB+Q2nE9xjiSDh0QgUxm5q3+jQnohC+EbrcahchZWD1pHkvsWiUBnWshG7FZIL7KQeGGrzQrUr3bM/0hiSTQMWVrsASq3WedXqaeSYgBAo5ReYEIq81tjV5IsiJV6Ca9d/B6FJFcIvQWSLO17TSG9yFvYs6Tvc/taJOYfAOC/+HDymFwpNGdTvEJ6AQs3+vaH0W2WtXAkFTCeskmQ2foMpfQCFgqWAeMTP5a1ULI4dBMjrPzqkj5K6dVb4NcpAFaeOy3noGGgHnhgjtkjCu6yFUUppldvofNGS++SuLnIWwEAxmYL9HYRLvPorIry8hqF9OrPSJ03Wv5pf87LEXQQSEgGAH/plKqqBXEbV6kGJ5wBgBWF3af//5jXG/QXwOk/xQkP2xcAAAAASUVORK5CYII=\" style=\"height:40px\" alt=\"\">."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L10_C6_0017",
+  "stem": "Xét phản ứng S2O82– + 3I– <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAlLApuFm8AAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> 2SO42– + I3–. Tốc độ trung bình của sự mất đi của S2O82– tương đương với biểu thức nào sau đây?",
+  "options": {
+   "A": "<img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAF4AAAA3CAAAAACgQqIgAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAlLApuFm8AAAO9SURBVFjD1ZdtbFNlFMd/3dZ1pRPmZJSwLB24rBm6RAXj4mDpEHzZRIwaY8yMKIxI+OQHM6OYIhkhEeMHU0YENTFxcxFdREwWiDBEMYRFeRsbWvcCk0Q3YDrWtXtpjx9u78a6y7p7e2v0fDrnOf/+nifnnOf2XouQTEtJKt0QXpYPTvjjDc8uyc6eX1hZc0lbq98O877qnnfbt16MyMCpmsyDWlIj+CdwRxSvZ771eHTxxSYtqYHiXBrN/eWI4r56dcvK6OrquSYVp6bpLdaJiMjvFs7MrNWPDxWP9aSk9oiI1DMnPLNYf3Ea16a51oT3AHSRG+f3+vF7NsAmPhoB/sYRR6wb3zp3Cax1Xm0EHATNxvuqAet6fMBirkTiyHU2tj9vVETEb+GkyGULp9XESL8Zrf3wOStAgYfdkPc0e9XE0VoTTh/O/1VxGrD1iVzJTT0Uzex4zYS5/8qjTv8d7BCRzmW2rd0i4+e3Zb2ppbfoe94/fCw96oXCed2pEDnw+algKo7CB54qAiAwQI7NcGvj2pelpa2GizNzY/ZlbOlOqDhxLKvx0akL0wbz+8fyMzMWrTtszn7T8D9da+wf3N/+SL0S9k1mhodMwPN8iT29dCfvAXD07rYJ+uO1s8dOWGx/QmMiIj+Tr4TeBW2KE/CsGY7b3HnNMQtpsdspM9vFciXcxqqWpUCgMv2A3YTTi4hEzi5d3KkGXme7yFDZLM4e3puxOWYwNfDHHem29dcmY6+z48bKWdC1DJFxl8vlcrkuqEvD/ram+3Nueq/wLiwxSBeLMG4F4PQ9N5Vs2H39Qr4aDN3V27oMIBjSVfc5NhARv9/v9/tHpmz7CrtU98aK1a8720VEXPra+pAyOQUaqUX0qGevsH1tt5a3FEGHztPDtMGs+hSAPhYocaDCetDOdkt5SxF2/aMZ24w7O0VExgpSzomIyFBZeSDa3w5jkzPVijeeC42eraQ2SvcEoom3jfCn4Xd5cjNtC5/8VolOVgQmMtvfMTSYybT/4MfPv4hv8M6YTrT2pV2XlWcKbX+tMP30Z37844uo+8YP5hfH9xK7Fe/iN5oCA1dx0q6XDDqUl2RvDumOwvjXSpe965OX2SAiIvvYqSFIqDjySRXVNAzcWpEQvvm+eZQUBz9OEt63Caim7tZfQIngO3sfBKoyupqTgq/bCHD7M/iSgQ9+9gIA1Rz6LQn4+lXZAJS5pQ7SGNESGR/6e4+p009WQE7g/u7In+ZdqxM4omaHD0Q23+as7I0V/b//rf4Btrl1+kAnJc8AAAAASUVORK5CYII=\" style=\"height:40px\" alt=\"\">.",
+   "B": "<img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAF0AAAAzCAAAAADQ5Fs1AAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAlLX1pJvkAAANOSURBVFjD1ZZ7SBRRFMa/cTU1o/Kxmin4WDVNKSysKN9RRKRkEEFUIrUSRAgSUREUFZFIKkhpKFQSSbSWYJiURRSGkFuga0aYrA/I1+quJr52Pf0xWj5mZ+6MCnX+2Y87H7975jt3Z4YjLGM5LCdcIf1Lxh85mJOk2Rjkv1P7VchISkrrYppWtZ6b31iJzKWacgGfIrrFDbd51ewWZuFVzkNm+uj1ADF64UGEThERUSpmWjboWelPgp08xejRvRF4TURkdlCNiBmFplrWVRcmNtP3G9SnUAQADVPBK0XHL7xppFjvR95Sn7NjFxE9xg7RASk4kb2GRHilWUsA2CROtAJ6aToHaFFiBdQYEPfKTsYW2ktEUyGoIDI5qH4tbTLV0WoA3EkUAR4HbM+ml41Xl6T3/bVERNTtxH0nalkdMP2v1WUtRe/G1mQAgE8KFQPh1RPx7wiwvrrhJGDmhJ/AUd39dugX73jzwmzy6HIFhkqrut04izrm6LalSMZ+TRSgYPze1t1/V2T3LlZm98G1cxYcBUz3a362WmN9488q2IAp99k16SQkmXqXPjPDkfoZWZAut3npYT1VN/AiX9Mh7hzE4NwFlneTTq1ngiujk85bzwKfyEfeuHw6Vfjo80M6mazz6Z0AgCxx/JpgBXByBBw1AKAWnX3bqpE+fwUHfsF+s1+puum13KD2Cp/PRHRJBjmbMffcoHYiHi87dwa4kUgRnoGeG2jkhXy8NH0owTgjK07LpDM8xRZR/+L3+2LoFyLVft77atgAaW1iVwVmEflgknoSuCqWuXWozss8M9utRPQBKSz0y/Aa49W1woVXhZKpVwHwxxBDLpOVcf06AIAlT85UWxHDQK/cc4b/kn+RZL4SeI4ldyKyGbZEm0i6klvGvdBIRPQSjMkAUapNEc89pFv/ZgtfcYJvXrCE6Qbbj3URpdL0Ii2gxaNhuwb7N72iTSqXkeBRIorDXXnJAEDsxEep1stTXQBo7UcjQO9pBABwGJOiF2cCwGH3pjp2ujEXAFDP7ZKAf3KJAACXYygCHGBjyr3Jr5Fo7CaypWLPKON/G+HcRwbs7Wye7xCg9x0K9Q3wTCyXgg+4Bmj44nCLKNNt/fH5lv/57fEbtQpb6zppPUgAAAAASUVORK5CYII=\" style=\"height:40px\" alt=\"\">.",
+   "C": "<img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFoAAABOCAAAAACFhF5TAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAlLX1pJvkAAAPNSURBVFjD7ZhdbJNlFMd//Zhr6ZIuAzM3FgJsWYVqnMZMMVvGMCRKoiQImzJ0i44YoxciV2iiMTEkxI8YjbDOTXA6FXbBBUEwbhLhwg0jxTkQ6ohkm7iGuQ/AyRzt8eJt13dL+r5v16cXJjs3Pf/znPPPyf88fZ6ntQmZMnvGmHGap7wTfnsWjhzt+uHKaDTXm7/af/+a5HU2U0HENzaUrcMdr/bnPVaRnz3a9123rDpvVGlmndCugzvhhfGYH6osMSg0p94MlQn0HrycQB8vT4d6OMsD5+LoUhYr/kksdi81qDTdIa3+lyAQR+9P87wrsVj2peGUjC2y/KMQ5E7G4BIImUpoUZCv3eNSBfs19CvkRK1SmwnStMXLc9CkoV4otZl/EywJMug4KTKZC0EREdkH1VabNuu6paQS3Fvjg5wAj+WmjakjrY0A26H9BsAiuKmI+kj4GYCy+7jeDrAYJixTG2v9yBPa5164V0QkCF7LO8SQ+nf7cc0Zd0OPiETz4KKSMTYXrdcc72ZtkLY6OKjPeGqeJ9+/+W/G3e9h0biIDLoonEhkTGWdmZ8gB+0DM34pfCAish/qE2oH+WV+1OseTfh7wK85draNxoJ/buJC8nKDW+Y33471MyDcAKcqALpe6c2rWVvgGDt/6ptpLq2cj9Y756bWxRa+3VFe6HIVrK58se2iiJytdbtrfroVDAavWhbEsvl8IiMejycwK2rhRrdmi2/MjWTwHbJAvUBtbMr2dbjBP3U5UKiLmL9ULdidXGDkXBXblu5RK8jPtQMDNWeWVCFhnz6upGvNXju9cq8jM9TwVu+hTFBHHPBjtf6MUrb5vuqDvnv0EWWbr2iX/9bgZ/qIUq1nmxOuXYu5dyjmFnkj5hWruMssXGADofQ6Ll2GE8rqNZSvX2o4kR71uq6kY1TQdQZ3yP/zKligXqBWTT1V9FemqDv+OGAxM+WzsoJSa4kpU/cBXQn4wIdJM1MWpMkz88cLcKxHnSB/5x5wkTUch+Uk7zpV6taC6TrYrYHX7wZgoxrq8l1yAlZov6WPtMH2w4e7lVAHbf0SLYFjGrwKysa4r7oY27P6Qaoa4/WcL0TkihPHkOquP79tE1CwgUiLeXJq1IGnswEaoSWilrrnbCMAGwoZOqqWuunBuwBw1FsaZApDHHO3xLx+G/bLKsfY5qyNecVriTarFCTwZE7cbYRPpsEBUyoEOUnPjH8zDzpExM3jSfNTePPVdX6aAO928nAn1HTw0LKh5lXpdT2SPafSFhIZ3ui9fc3uyXS7TtUy+Fj4D3dhHZV1Ac1EAAAAAElFTkSuQmCC\" style=\"height:40px\" alt=\"\">.",
+   "D": "<img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAF8AAAAwCAAAAABShfmmAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAlKuMNs1oAAAOTSURBVFjDvZZrbIxZGMf/L1UxrEQr6oOSnah2kYy6dNqi3dQsoVtDVomQ7qxLpLENIiJ8IES12iqyiLhVuy7RdNctSlzikhpN3GpXVVWyJqqi1WLZmdKZ/n14K1sz8/Y9Z6j/lznnvM/5zfP8z5OToxCdqi6di5fmJ3vaBmWzTQnmyKRcvQ2U0i2UqoN1wXtayOb9MTobJPm/IpUkeQr56oL1i/KbTcbgRpKMNzjVlRqdHXL+n/jR9v4QgDflo3uoK4Pl/W9eO0Erm8k1DiWa5C38LFixb/6X47c0a+Ty1DV4YNKdu8C/MATan69qLkdrBRelATYUAD3hErXUT02JYzWKjX5DOnv3fccmJTFgf7RVZuoF9Jj54hT6xN34T1077HW/3M3fWBpo/vOukOQ1JJNnlSx1LckrpvH9q1nt5xL8tyNaSZJDutaRecG7PKT7z1CfsDsb2s+CxO0pqY0DALz0FK3E8oRte0OUZ/2W+IQVr57zOmfox5ni537+3l0mcSo4dC/s4azE2o1R3R4lWLEzJbz9R4n8tbSiDo2O1un548HYvvUl9kGZAZ6vhkbNvUFWhZBk5sLP6U8NnQ6zxjjqQgEg9Kn3Rx/+88XTK/6etvi5OD8szzEme0ADADSEA8XbP/kqZYVfbSePZ7TGXyTdI+18u/A3if6sHNY2qI7QdPJcQ8i99UpJZkXQozVxOJpaLZ5/66RMdVD+Xa1YMfevXPokfx1/nJYskrweVS1o1tZFKeNeiPPptGwir0c+ED8OqfxJpyXXLoP3EshkAKjS/oP4flUSQC8FAVMGAOijnnbxqv9P/qTaOxWNQ09GAfXjPJCUcv5b/f63D3ng/GHT5/ijhyddE3M6iW+PuE+Srkm5ncNPqVR/XdMcgfGVr/3+v50QGWNa2iS4vT5NL8K7oGPz3HxmtAiWv7l7U8cBPvkbrF3R33bhH7H8C94dAQAcyxb1Z+JUAP3hEMLfDFEKAADbhP0hSWZB712vKv18Ev4iXQsQbj4r0Z/W4UJ4l8lThGUkiSxR/wHgcWk2RHR8apefeh9s6SjEH98zf0myEP+ADYbUhtOy/HRjjhD+SYsR+AX7JfkZ3XYrQvzCNABjI8509Jbx5WcYdojh8ccMALC5f+8gxuf+WXM0HQBiY3XxVwv3AUDtoKhKhFoOO7/xG+XdUG0nu1a/O21Gs9lsNpu7o5x5vQbu8Bv01e/PL6wPy/w9i/8Vcn8AAAAASUVORK5CYII=\" style=\"height:40px\" alt=\"\">."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L10_C6_0018",
+  "stem": "Tốc độ trung bình <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACkAAABFCAAAAADyPZALAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAlKXoE4uAAAAIBSURBVEjH7dZNSBRhHMfx77hbu70sSLaxqCiEUbRCBtGluuyhg0GRBw8VlKeiFKSiQ5cuoQcTQpKEIqLsVseOXgq0DuHFXi51qIuhYGWt7q718/A4szPO7M5AeNvnNM//+czvmWdeHsYSEVtdVEgcoPSxVF2lWwBJ+fawPOuOhKTJ8Kk7jIyWaSnqdVobcJdqsiZrsib/X37v253YkRv371Gj2WTT9RVzLEkf0ub4ZFHedg+AQUlm/yzttyN618k2AE448hkHbh4HwJrywDlz/kVHdrUXpLMA5DzynZEvHdkyLOnbJgDeuOUrAJpWJEl18O9rB9B82izWvfK/AFyO2Wv/yYwkTQCQmHdlTgCkFmRnxmIJgNxegMJTV+YfgN56yvfTtGEAsq7McSBlT+KS80kAJsuV28At+aXOAdBTLpyH9K8g+RqAbc6Y9sGIgqSyAIw5j8hiTzFYjgBwyO4+hhcKlj+2AjC91j3FEVWQ6gHgiunMxpmqKN8CUJ+XJA3QrYpSBwF4IklLmc2fq8gxAI5J0ij9qiIXUwB8kn5nUnOeoXXf5vYzADyEodlrO71j3kxNA7Cr+GVLelHVZpcOA/C8k7sKkY8AaKR5OUzm117c+wqT6gOgtRAu3wPwQOFSR4HWkq8csNddAm7E/XV/5nIDmSVFyUxc4GrSX96I/7pV/mxgKWr1460AAAAASUVORK5CYII=\" style=\"height:21px\" alt=\"\"> của một phản ứng được viết theo biến thiên nồng độ các chất theo thời gian như sau: <img class=\"formula\" src=\"data:image/png;base64,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\" style=\"height:37px\" alt=\"\">. Phản ứng đó là",
+  "options": {
+   "A": "4A + B <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAlKuMNs1oAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> 2C + 3D.",
+   "B": "B + 5D <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAlKuMNs1oAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> 2C + 3A.",
+   "C": "4A + 2B <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAlKuMNs1oAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> 2C + 3D.",
+   "D": "½D + B <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAlKuMNs1oAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> 4A + 2C."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L10_C6_0019",
+  "stem": "Phản ứng giữa bromate ion và bromide ion trong dung dịch acid:BrO3– + 5Br– + 6H+ <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAlKuMNs1oAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> 3Br2 + 3H2OSau một khoảng thời gian, đo được: <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAK8AAAAoCAAAAACtTPXJAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAlLX1pJvkAAATkSURBVFjD1Zl7TFNXAMa/YnkUENAN9nARZRtBByYOZ1AYzimKRB4yO5hxInZxLDEhGqPRbEjcli3ZppuPIUxk080gPjaCyxC1uAiim9EM5rIwGgSrbopIFamjhW9/9N7CbUu5ZZrW7597zne/c/rL6ek5t+cqiEdKXu4GcFFKe8ucddhyLT6s8jEYXvnM3YwS0U6H0UiSvXOn60m2vkpPkoP5UD22BAC2acvHAZiQ6u4RlUhh93trK+v47poKiAmqdzecA9mPb+my3K4KoPfSZHezyeI16yJiY0qAuwx0N5ss3qr5QO6Z3xGIHnezyeItXwws9S6B7+RLFsPkbkSnvG0h/kBoyj4j3m5oAQCsNbqbUSKb9e3depL8Ad/QnBF7leTNKSZ3r7mDZbOe9U2IBQDzj/F16C87EORt6Jq6c+D21qub/R/AGFXo74/LkZ3uqzhycMjxdaTLU7Zsf/0uSd653f8gBuk8+6cNqn7V7TRtNM4iucdA0uH+ZqfwUPWqsScBYHSIwnEkY1pK3HrrRK+dnRl/SqzoUnfZerHoDrM27c32CajNVgir/SeKhDKbvv38AGBGuk7u+HLOFaY2dkzbt3fIxPx+GsLzhUp78J9sGK0nSZrff9OvaJC3MnYdybP55dammvUkL/qjliRNk7B9ULfFsXNIchZJnpt4h6Q83i2b1W2cw74hE1qSmueFyqY4ktGFFt4uBhfZeLxHLvhbCJ/z6SR5cXFQFknuXyXhFTSLJJm8jqSD50kHUj/TtOKE7eJn7BMKvt6YDQDiXKmPBBBTBwAYFWzv4UBAT0SoEN4dPwYAApbuvhEGFO3aYbE/OB3YcuxJAEC39sbxJAALCz/yghze1hsHQ37T3O5sjpTY6WeEQsE6AEBjslBvnwzgsQuSsMTLBZaLN+oTLde8L0s34HSkMK9/3XlFWSrsVIFpaQCASR3NUVAC934CMC9oaN6JjQCACzZ2jbT6S2ulULqvBOAt3WYceQAAXablGjOzZL3X1s2Ce/vO5ec0Nskw6KKgBK6rATRFyxhoZ7r1zvdPCUWVCUCvSnLbkQcAvf/6CaW8ZccijdEdlsrLL0Rn5M+QRlUwAEog4iaAMQCAhgJZbF6HRgPoNosd+QK3srfPFG+P7wTQMV7SxJEHAF4QNyz16qLwfCvbmarihKMLJNE+jAKUgNfjVmvGcRdGNPusUNi4BteXbx34ghKqADSpJWFHHgAoA8THQL+cL6ZuE+1/xi5alHZEymtEyP/6f3y0Q9AaXJ2bqa+urjY2hX0OQNP8Bxra38KpEK01LHp2iroulvL6VworTHLS6UrAJ1ya1CMK8vaLYVVl6bFVH55CkicT1Qm1ZG3wSd4rXOkdt1Zr9ey09iWSWvWzG83M6mH9Cszcw3lJZ1/MSF9is01/PFHufiFf+ze52uIv33aZybhPHzhvzRKDy20+XCYvVzndNCyvKdO1z24ZyeNbwQY5rU4s7OSwvMLRSX/lCDDk6+ceGaEay8OL8/VBODo5tHfkq4gMJapkhJIspE55255+41sjcLygIaPuoRK7IGffwXu68/iaZM5rD3U+uCJn4ysenXiSnPGKRyeeJGe84tGJJ8kJ78DRiQfJCe/uHADI7ToI/2vuxrRKMeT7lkFHJ3WLnlitkd+ne3g9U4/a+6H/AFWzFeG9PNXIAAAAAElFTkSuQmCC\" style=\"height:40px\" alt=\"\">. Vậy tốc độ trung bình của phản ứng trong khoảng thời gian đó là",
+  "options": {
+   "A": "1,2.10–3 M.s–1.",
+   "B": "0,4.10–3 Ms–1.",
+   "C": "3,3.10–3 M.s–1.",
+   "D": "3,3.10–5 M.s–1."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L10_C6_0020",
+  "stem": "Cho phản ứng: A + 2B <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAlKuMNs1oAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> 3C + D. Nếu tốc độ trung bình của phản ứng là 1,0 M.s–1. Biến thiên nồng độ trung bình của các chất A (<img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFoAAABHCAAAAACiiw+bAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAlKXoE4uAAAAPWSURBVFjD7ZdbbFRVFIa/uWAbxqanUCkXY9HGSGlqUCyoCRGMsSE0+KClhFsIQQZJfNDogxoCiZcQUyEkTAdDqDZilGgJ0igIJTQtJlwsEFJrY9JyKQNSJp12GkPb6czy4Zy5FDsz57R7Hky6Xmb9e6/9Zc1aa+bsYxMyZfaMkXGaiKlpPTh6ob++pfVewJ6bO2NeydPLkh2zmShIaacvL0EO7awJPl6xMN/p/6PpfEQLJD0naa0JqhOk7zmyvCOG6Cp3JT1nAl0JRZGYGizD/mt884cpE0Dfdrrgl5j8ELYl7HYkB6RH75i/E1ZEVTAXOhN2w6fGjw7N3nvLgb3LkIfg2fQ1FBGRtHN9JLBhTgURryGbYaHJuU6Lrlmt4YbaQV1egXkm0ekK0sY5kXAhfKXrIjioqCCeBYvB/iZ4dN0PLjVZBx/eLyJyxwnnRUSkEL5Wk3UdawBmroymPR361LSxZm0OAG447AcogQ4lBTnNZd2JFMEuEZE6eMZkQVKjX18U9XZBYVhE+jT4MzHEfWZc6FvO2qh79yE4JiLyMaxPjJl2bFzo7do/MX8VlIuIhJbB9/GQ6xw3vPUPjk4q9PDMt+PiNNj+EhHpfRnH7lD0y6ylUfeGNJaPPp7qAVb/9xMn4u3OC4h3N5B3qrr6Xc8bi2dIb/vZkyGm6PuNT/kae6clHk/1AFty9oEFzTcVgPv1TRd6Ak5Nm15aVlasz++m0u49BzZb+DWatlD+zQu8Yr6NFuzk8yJFjruJS6ruIT9WQlW4PgMFGSm4IXKVl8xOiAVrHlgJZLXcmaU8621fiIjsYK/yNkbm+EREOnhRObplqf65wHYjvqhkQqrf6nkvBAPvDEjlZ7FVM9fJcZoT2rcY/vuvqUYHfzP8dcqzHtt+75sQt2QWiIQHDAsl9Lx/gv1dI5K0jRPPOoMTksE3sEn0JHoSDTDy2PVMoY927zcZafk5uJT8QVOBlrNub8J/OC7bHH5lBfG4Yu+QANsjygoSzKnNgYtReRHuJQu1it5XMOyGjbpordIA2KMEPf8DuQzZfhER6Wqogm8bGrrGDLWIPmO/JrIIPjf0RykKYrGNnlfnghu8kfSx1tC3j24FVudy7bhq9JcFFcDUdaPmTwk6dGCzA8ANJzrVoo/06G9vpS8g3rTRltCeikd1ZyvU3leJbmtxG96qPALfqUR75pYbXvYGE420gA4e2hKLdsOlc4ADhhSg64Y2xfziJXras6E5WbyF62Sx65O4+HkfWd2PcPPJ4awVtp6x8ab/Phr/c/RTEfmpJLtw+TdjHvh/XoL/BfUdY3apYX2ZAAAAAElFTkSuQmCC\" style=\"height:37px\" alt=\"\">), B (<img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFsAAABKCAAAAADx13d7AAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAlLApuFm8AAAPzSURBVFjD7ZhdTJtlFMd/LR0b24C1+6gIG26QutnNLdMsJDPbcJiNjGSL30aMkzYxWbwwgk7vduucmkjUCxhOUWFTWCSZRGZCOsyUujgnzhFCNHyIDpEiH4KQ7njR9n07R+n7tg8XJpyr8z/vc345OX3O0+d9LcK8mXX+0MbYHz2WENtipCeFF/tX3xz5rvmr7uHRZZkrcja773Enwe52yYny6ID/5VbuLlq/cmrg8pd/UfB1rESJb0fhzmj9bip3tYb96Y9ztsfKM8CeuQ24oOvTsO1PXZZvToLdiB2e0mTfcmwdUY9rXEmwize9CWkBrU54Ivrxz8cTZ/daTwylQmWkQ5nQFL8gY+xjqYPyKGwNSz8wrIgdzH1EpAXwh/RbkG0MLXHnsqXHC0V3QFVID4DT4FzGZVfnFoHlGagbByAA6YrYg01lVqDMyng9ADNgU8R+P1gGkLMv0hQHjCpiV+/PAcAD/h8AnPCHQXacfeKjMeRMr4HnRETagICSPVjqnAl7FWCfFJHp9P/OzmgwIXYg7aWIew2oFRF5ER66aQCWdcTInptdSZfm74RdIiLX7Vjbo9Z0ci0h9tbduv8e0Cki0pKC6zc9Xk+3SFtpmtXtXucsOmuU7Q91IWQTGVAhIiIN6eS3hqM3zrnoERHJyxSR3p2c1jPm/E97tuqdJbp6+xKr+1MBuo5+JgUH8uwTv19u6YOBLCB/aAS4sLv4c0N7cPzW4T4TafKrBzassC52bNr3/Ac9otUtnRQa7bcJC7E/4dg8sYMXN+wd10NGz534NraR4aEtnsWGZ95kT/5udLj1K4DifstJXtBCqu+abn7SfNXsq+TPU7/Fl7XqF9X7pLXy1+mNSCDz0CtrtaChO3KCZoUrtrAdVMy2gQTDfjAp0qzsRZG7jD36QbB5Mhnukr1LY++TL5IsunKO81tB3fO8TxbYC+wFtm59aw0eagmwa/rPGVxp+s8ruI4SYyvNs5shpT9Kv94Ta6X5nlRBsEaXvvJeZT25vsgOuforTjFtyuo+daMWes5HZEezwt/SVSLbtbepjiczADg461Kz9xNf13G8R2gaXANguW+qgYo81iupuzRrRkbSIPKx5zWU9Xvk08M2Mh+GagOLTbI//McDeKHLp5xdvScP2OXSPtWoY397xQuABxoCitlVjgcBeNrGVK1a9kR9aehd1llipCmm2PVj3rDnhR/blbKrd2wJe/uzDRRuhn31m0jZpByG+jGF7Krlj2u+x8JEHZAK4zETjI/7lMMTpe6He0XkLHhiJZg4qxqHM07p6na49P02Hlg1dLJ9ZV/djuTqLrwl94iI+AuWZu95Y3K2hP/r/ftf9c/2ZNzrHpQAAAAASUVORK5CYII=\" style=\"height:37px\" alt=\"\">), C (<img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAE0AAABSCAAAAAA04gYiAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAlK5QKg8wAAAPtSURBVFjD7Zh/TJR1HMdfDxyJQHcqXDJPiLCVCK5Vk4YtZ26M2piG/UestkoWNekf3ZzpstYqra0fUG2Is1ZbrqHT0Zpj2mxtLWc0UwrYoEQzGOjBnaEEd3z64zm457l7nvvxvfujNT5/fb9vvt/X9/3he889t7cmpLEy0gnDkcgib9f358a8N51LXIXlFRXl2bYLtchO69bvjFCGDxycpKTqjiU3/jrfB3zQbH+umOtyZknQrHzrhs0XQpOht9y8K7YVSdsFJ0xCpwPtI8O8nzcTpk25odoo/LEU9hiF4OLXEqZ9Cmh9BmEr3HnTtOSBPQnT1nmA7eH5QAZEeDk/kCjtLAfXg/PGvLAX6JWEy0xrcE1+DrTOC4+CK3GYmTa6qFmmCqBsTgjkwsNJ0ExPVts/TSx6FnpPh4Trk1CUzKNlIAeKNonIoAZPhJQ+YJuit+NXXgRKa6Dzsq74gNwkrBlprSu2ADRB8BNdyQam1Drt4VUREQkWQ8EtERH5E6hX67TV0ajbbYRrRwBwO2BYyZsv78nQaCQLHtSHVbBUydvhv5tCo+V10P0jAJtgvFfB2+w9984fcQZ4SkREBjJht/n8jofsvc3TTvJ+WF0Dt42IiEgDLJ8w7dixKgFabc54WP0QeF1ERIY90GjaUb06Pu33jOcM6kQueGZERORsDuwz/MnvXqsPvG9vLC0r8VQ9/2s0bQfdxkO2AV/pwwt3w+M9IX2sZQX3i4jIqfz7TgdEJtpXfRneFnpn3Vopu413098OG77Tx/73Wq6z5pHCPN/wzxcDUN0F/FbpOecE4EDh05F3esjqun+ZO3LyaHNlcV7G4oLympcP6d/zm5mz1NMd5S3Z8i3T/DnRsuIvh59mSy1gqrRR8q1kRVrQeqMizY3XSla8Ba9b81l8KSt6W1YbPBYaXtqXMo39zr2hXrsnUqet/mZ6wxmBQNcbWWFV8f8G+Ns7R3I1n3tdfWUaaFaV3l/R/2WaAzh2LS2otVUgMpQmYyUiDig+miZvC5+QBdoC7X9Bq3snCVq8p/7KXUWDifuPt/Lj4KWvTcLOiljLJWZFpQZ+V3mM5XG8HRmDU/0Goc2HurfI1GCmiFjeYtMiUoPB5pW6hRqb9bFTqRZXffYP+D97SZ+Oahu/IL8BylQ6jUoN5CIo30JUahC3YpwUnRrE8xaL1kGHiMhjkDmUeqfRqUEKnVqkBil4s0gN1L1ZpgbK3ixTA1Vv1qmB6ifEOjVQ7bQ155nw5AWYbgPQYFahU5vU4Co4Z5Lv1CY1mL0dXpmWq+PWu2zeMrapwa79kCWB41uS6dQ2NZja7s7y1B6eScqbYqX3Xf8vZ5ZNAZHOlNIAAAAASUVORK5CYII=\" style=\"height:37px\" alt=\"\">) và D (<img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAE4AAABRCAAAAABZQc+PAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAlKA0D0nYAAAQuSURBVFjD7ZhvTFV1GMc/53Lv5Yb88yrCqFhIYJto2nQz0UB7UZS1aiM0g2rR9N43ul6ZNvvjHLbRmCLMtnxlczmHLVdG5TQNWjkcRcuI8E+GJon3ogwGF7hPL879cw7C5d5zzwvWeF79nu99fp/f87vPc875naMIZprFVBrWaILOnW6+6PFa09PT8xcWFt4fIVIZt9n2td2OcSHHqltJLMrLwPt7222Y7Ym0suitioN6YbAC5jUMqI6v6SmSJYKNw3mTWKoTfKthUY9G2GCPAVcDtGiFLeDU0qRaiR7nzwM2aIR2oEEXcpzRqHFfcB/Y/gkLlTBrQBdy51t/1Lgnc74C3gv5g3YolxhMh/tT2e1/ELJ9QeEMUBsLTndV1NteVzbD9WNB4QegMKbLQoMeSF8vcssBq4KKC+gwmt2hPjc4y6H5l4DiBVKMZre4UETkR6AqoJQCfQZL8R31IiLyCCR5VOl54IbBze5PqQDABYMHVWkOcMfYZrutrkBF0mD+mIiI7ATOGMvuwKhLHSRVwqUTABQBbYayG84MtccF4Ak1UTu8aKgUn3A4JJaA0ikiIq/APbf1M1YeiQa3Yt5wSDwCbBERkT8ssEc3oV85FAXuPG+FRV8WpPWLiMj7kNSlndDCpyLy5nIsaWl25xLXuQlxr1quaNQdoducvwxyL2t+qqZRROQyC0T8XbXZvDZ8N67X8Yx2kasJsFAdjm5TcO4bUh3/2XL4PIQTkd5lvKGZGHiSfbCtfJm23nVX4dQadXx210lmPV6QMeLtaO0B68li4Erugg4A/ioY+XnxuEYZe2CCFnohtOavHz77UIbNlprz6Eu7m9T/NJidSBk7JqhsjBbG7Q30qIiMu30askx6w078OD8JZuJukWkmrp3lJuJ8xy3lJuLe6XEVaNy4GmXkfAUvay+yqI6Ld9vW7+lMBiVr5ekSra5M67Px9MZZoeuUSaz8NSBSZlZqKSKKmJrdTKPM4GZw/zPc3qdj4k3xxPIXKF0SvU2V3TedUq8TvlR6I8VPsdw6SNe9bpdwM0L4FLhLFuAjjdBKRNwUm22wzYX9GqEmnlIMOjduJ/xaNrBriTopcbIJkQ8Vhz3ue/f4qXtMdQd7izuG2OTAZiy7pQ+LrANrd0iZE8d/19LmAjeMHoiyiSNntz61X2QsFzKHTcjuRmNlMlg2Qc9RE7J7l99ERP5NhBVRZhcBN5JdrA42Aq1xb7bxulsduIC6uDe7Kiv4LWoROG7GmV17c1WwW10w9HGc2VUl/B0c9qdAzmhcpfAmPRd2XMBnceFq+DrstANrRURkLvQYwPnz8rUfJYuACyIi+fCTgVKcuLhZ0bhuAre9AtjZR9+1SaZNdvosbdo+W+P63haSr6VCUylY7ENba2OqbJcyQeg+EZGG+Vbn6mrPJJud3mfj/wAVYmvk4NeFVgAAAABJRU5ErkJggg==\" style=\"height:37px\" alt=\"\">) lần lượt là",
+  "options": {
+   "A": "1,0 M.s–1; 1,0 M.s–1; 1,0 M.s–1 và 1,0 M.s–1.",
+   "B": "1,0 M.s–1; 0,5 M.s–1; 1/3 M.s–1 và 1,0 M.s–1.",
+   "C": "1,0 M.s–1; 2,0 M.s–1; 3,0 M.s–1 và 1,0 M.s–1.",
+   "D": "2,0 M.s–1; 4,0 M.s–1; 6,0 M.s–1 và 2,0 M.s–1."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L10_C6_0021",
+  "stem": "Cách nào sau đây sẽ làm củ khoai tây chín nhanh nhất?",
+  "options": {
+   "A": "Luộc trong nước sôi.",
+   "B": "Hấp cách thủy trong nồi cơm.",
+   "C": "Nướng ở 180 ℃.",
+   "D": "Hấp trên nồi hơi."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L10_C6_0022",
+  "stem": "Nồi áp suất dùng để ninh, hầm thức ăn có thể làm nóng nước tới nhiệt độ 120 ℃ so với 100 ℃ khi dùng nồi thường. Trong quá trình hầm xương thường diễn ra nhiều phản ứng hóa học, ví dụ quá trình biến đổi các protein, chẳng hạn như thủy phân một phần collagen thành gelatin. Hãy cho biết tốc độ quá trình thủy phân collagen thành gelatin thay đổi như thế nào khi sử dụng nồi áp suất thay cho nồi thường?",
+  "options": {
+   "A": "Không thay đổi.",
+   "B": "Giảm đi 4 lần.",
+   "C": "Ít nhất tăng 4 lần.",
+   "D": "Ít nhất giảm 16 lần."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L10_C6_0023",
+  "stem": "Đối với các phản ứng có chất khí tham gia, khi tăng áp suất, tốc độ phản ứng tăng là do",
+  "options": {
+   "A": "nồng độ của các chất khí tăng lên.",
+   "B": "nồng độ của các chất khí giảm xuống.",
+   "C": "chuyển động của các chất khí tăng lên.",
+   "D": "nồng độ của các chất khí không thay đổi."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L10_C6_0024",
+  "stem": "Khi cho cùng một lượng aluminium (Al) vào cốc đựng dung dịch acid HCl 0,1M, tốc độ phản ứng sẽ lớn nhất khi dùng nhôm ở dạng nào sau đây?",
+  "options": {
+   "A": "Dạng viên nhỏ.",
+   "B": "Dạng bột mịn, khuấy đều.",
+   "C": "Dạng tấm mỏng.",
+   "D": "Dạng nhôm dây."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L10_C6_0025",
+  "stem": "Cho phản ứng hóa học sau: C(s) + O2(g) <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAlLX1pJvkAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> CO2(g). Yếu tố nào sau đây không ảnh hưởng đến tốc độ phản ứng trên?",
+  "options": {
+   "A": "Nhiệt độ.",
+   "B": "Áp suất O2.",
+   "C": "Hàm lượng carbon.",
+   "D": "Diện tích bề mặt carbon."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L10_C6_0026",
+  "stem": "Phát biểu nào sau đây không đúng?",
+  "options": {
+   "A": "Nhiên liệu cháy ở trên vùng cao nhanh hơn khi cháy ở vùng thấp.",
+   "B": "Thực phẩm được bảo quản ở nhiệt độ thấp hơn sẽ giữ được lâu hơn.",
+   "C": "Dùng men làm chất xúc tác để chuyển hóa cơm nếp thành rượu.",
+   "D": "Nếu không cho nước dưa chua khi muối dưa thì dưa vẫn sẽ chua nhưng chậm hơn."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L10_C6_0027",
+  "stem": "Ý nào trong các ý sau đây là đúng?",
+  "options": {
+   "A": "Bất cứ phản ứng nào cũng chỉ vận dụng được một trong các yếu tố ảnh hưởng đến tốc độ phản ứng để tăng tốc độ phản ứng.",
+   "B": "Bất cứ phản ứng nào cũng phải vận dụng đủ các yếu tố ảnh hưởng đến tốc độ phản ứng mới tăng được tốc độ phản ứng.",
+   "C": "Tùy theo phản ứng mà vận dụng một, một số hay tất cả các yếu tố ảnh hưởng đến tốc độ phản ứng để tăng tốc độ phản ứng.",
+   "D": "Bất cứ phản ứng nào cũng cần chất xúc tác để tăng tốc độ phản ứng."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L10_C6_0028",
+  "stem": "Yếu tố nào dưới đây không ảnh hưởng đến tốc độ phản ứng?",
+  "options": {
+   "A": "Nhiệt độ chất phản ứng.",
+   "B": "Thể vật lí của chất phản ứng (rắn, lỏng, kích thước lớn, nhỏ,…).",
+   "C": "Nồng độ chất phản ứng.",
+   "D": "Tỉ trọng của chất phản ứng."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L10_C6_0029",
+  "stem": "Cho bột iron (Fe) vào dung dịch HCl loãng. Sau đó đun nóng hỗn hợp này. Phát biểu nào sau đây không đúng?",
+  "options": {
+   "A": "Khí H2 thoát ra nhanh hơn.",
+   "B": "Bột Fe tan nhanh hơn.",
+   "C": "Lượng muối thu được nhiều hơn.",
+   "D": "Nồng độ HCl giảm nhanh hơn."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L10_C6_0030",
+  "stem": "Cho phản ứng hóa học xảy ra trong pha khí sau: N2 + 3H2 <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAlLX1pJvkAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> 2NH3Phát biểu nào sau đây không đúng? Khi nhiệt độ phản ứng tăng lên,",
+  "options": {
+   "A": "tốc độ chuyển động của phân tử chất đầu (N2, H2) tăng lên.",
+   "B": "tốc độ va chạm giữa phân tử N2 và H2 tăng lên.",
+   "C": "số va chạm hiệu quả tăng lên.",
+   "D": "tốc độ chuyển động của phân tử chất sản phẩm (NH3) giảm."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L10_C6_0031",
+  "stem": "Cho phản ứng hóa học sau: Zn(s) + H2SO4(aq) <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAlLX1pJvkAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> ZnSO4(aq) + H2(g)Yếu tố nào sau đây không ảnh hưởng đến tốc độ phản ứng?",
+  "options": {
+   "A": "Diện tích bề mặt zinc (Zn).",
+   "B": "Nồng độ dung dịch sulfuric acid.",
+   "C": "Thể tích dung dịch sulfuric acid.",
+   "D": "Nhiệt độ của dung dịch sulfuric acid."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L10_C6_0032",
+  "stem": "Phát biểu nào sau đây là đúng về xúc tác?",
+  "options": {
+   "A": "Xúc tác giúp làm tăng năng lượng hoạt hóa của phản ứng.",
+   "B": "Khối lượng xúc tác không thay đổi sau phản ứng.",
+   "C": "Xúc tác không tương tác với các chất trong quá trình phản ứng.",
+   "D": "Xúc tác kết hợp với sản phẩm phản ứng tạo thành hợp chất bền."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L10_C6_0033",
+  "stem": "Cho phản ứng thủy phân tinh bột có xúc tác là HCl. Phát biểu nào sau đây không đúng?",
+  "options": {
+   "A": "HCl không tác dụng với tinh bột trong quá trình phản ứng.",
+   "B": "Nếu nồng độ HCl tăng, tốc độ phản ứng tăng.",
+   "C": "Khi không có HCl, phản ứng thủy phân tinh bột vẫn xảy ra nhưng với tốc độ chậm.",
+   "D": "Nồng độ HCl không đổi sau phản ứng."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L10_C6_0034",
+  "stem": "Nội dung nào thể hiện trong các câu sau đây là sai?",
+  "options": {
+   "A": "Nhiêu liệu cháy ở tầng khí quyển trên cao nhanh hơn khi cháy ở mặt đất.",
+   "B": "Nước giải khát được nén khí CO2 vào ở áp suất cao hơn sẽ có độ chua (độ acid) lớn hơn.",
+   "C": "Thực phẩm được bảo quản ở nhiệt độ thấp hơn sẽ giữ được lâu hơn.",
+   "D": "Than cháy trong oxgen nguyên chất nhanh hơn khi cháy trong không khí."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L10_C6_0035",
+  "stem": "Cho 4 gam calcium carbonate (dạng bột) phản ứng với 100 mL dung dịch HCl 0,10 M. Thể tích khí carbon dioxide được đo và ghi lại trong bảng sau:Vì sao tốc độ phản ứng thay đổi theo thời gian và vì sao phản ứng dừng lại?",
+  "options": {
+   "A": "Tốc độ phản ứng thay đổi theo thời gian vì số va chạm giữa các chất phản ứng ít dần, phản ứng dừng lại vì calcium carbonate phản ứng hết.",
+   "B": "Tốc độ phản ứng thay đổi theo thời gian vì số va chạm giữa các chất phản ứng ít dần, phản ứng dừng lại vì hydrochloric acid phản ứng hết.",
+   "C": "Tốc độ phản ứng thay đổi theo thời gian vì số va chạm giữa các chất phản ứng nhiều lên, phản ứng dừng lại vì calcium carbonate phản ứng hết.",
+   "D": "Tốc độ phản ứng thay đổi theo thời gian vì số va chạm giữa các chất phản ứng nhiều lên, phản ứng dừng lại vì hydrochloric acid phản ứng hết."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L10_C6_0036",
+  "stem": "Cho các phát biểu sau:(a) Tốc độ của phản ứng hóa học là đại lượng mô tả mức độ nhanh hay chậm của chất phản ứng được sử dụng hoặc sản phẩm được tạo thành.(b) Tốc độ của phản ứng hóa học là hiệu số nồng độ của một chất trong hỗn hợp phản ứng tại hai thời điểm khác nhau.(c) Tốc độ của phản ứng hóa học có thể có giá trị âm hoặc dương.(d) Trong cùng một phản ứng hóa học, tốc độ tạo thành của các chất sản phẩm khác nhau là khác nhau, tùy thuộc vào hệ số cân bằng của chúng trong phương trình hóa học.(e) Trong cùng một phản ứng hóa học, tốc độ tiêu thụ của chất phản ứng khác nhau sẽ như nhau nếu chúng được lấy với cùng một nồng độ.Số phát biểu đúng là",
+  "options": {
+   "A": "1.",
+   "B": "2.",
+   "C": "3.",
+   "D": "4."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L10_C6_0037",
+  "stem": "Cho các phát biểu sau:(a) Tốc độ của phản ứng hóa học chỉ có thể được xác định theo sự thay đổi nồng độ chất phản ứng theo thời gian.(b) Tốc độ của phản ứng hóa học không thể xác định được từ sự thay đổi nồng độ chất sản phẩm tạo thành theo thời gian.(c) Theo công thức tính, tốc độ trung bình của phản ứng hóa học trong một khoảng thời gian nhất định là không thay đổi trong khoảng thời gian ấy.(d) Dấu “–” trong biểu thức tính tốc độ trung bình theo biến thiên nồng độ chất phản ứng là để đảm bảo cho giá trị của tốc độ phản ứng không âm.(e) Tốc độ trung bình của một phản ứng trong một khoảng thời gian nhất định được biểu thị bằng biến thiên nồng độ chất phản ứng hoặc sản phẩm tạo thành chia cho khoảng thời gian đó.Số phát biểu không đúng là",
+  "options": {
+   "A": "1.",
+   "B": "2.",
+   "C": "3.",
+   "D": "4."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L10_C6_0038",
+  "stem": "Cho các phát biểu sau:(a) Phản ứng đơn giản là phản ứng xảy ra theo một bước.(b) Phản ứng đơn giản là phản ứng có các hệ số tỉ lượng trong phương trình hóa học bằng nhau và bằng 1.(c) Tốc độ của một phản ứng đơn giản tuân theo định luật tác dụng khối lượng.(d) Hằng số tốc độ phản ứng là tốc độ của phản ứng khi nồng độ của tất cả các chất trong hỗn hợp phản ứng đều bằng nhau và bằng 1.(e) Tốc độ của mọi phản ứng hóa học đều tuân theo định luật tác dụng khối lượng(g) Hằng số tốc độ của phản ứng phụ thuộc vào thời gian.(h) Hằng số tốc độ phản ứng là tốc độ của phản ứng khi nồng độ các chất phản ứng bằng nhau và bằng 1 M.Số phát biểu không đúng là",
+  "options": {
+   "A": "5.",
+   "B": "2.",
+   "C": "3.",
+   "D": "4."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L10_C6_0039",
+  "stem": "Khí oxygen được điều chế trong phòng thí nghiệm bằng cách nhiệt phân potassium chlorate. Để thí nghiệm thành công và rút ngắn thời gian tiến hành có thể dùng một số biện pháp sau:(1) Dùng chất xúc tác manganese dioxide.(2) Nung ở nhiệt độ cao.(3) Dùng phương pháp dời nước để thu khí oxygen.(4) Đập nhỏ potassium chlorate.(5) Trộn đều bột potassium chlorate và xúc tác.Số biện pháp dùng để tăng tốc độ phản ứng là",
+  "options": {
+   "A": "2.",
+   "B": "3.",
+   "C": "4.",
+   "D": "5."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L10_C6_0040",
+  "stem": "Cho các phát biểu sau:(a) Để phản ứng hóa học xảy ra, các hạt (phân tử, nguyên tử, ion) của chất phản ứng phải va chạm với nhau.(b) Khi áp suất khí CO tăng, tốc độ phản ứng 4CO + Fe3O4 <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAlLX1pJvkAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> 4CO2 + 3Fe tăng lên.(c) Khi tăng nhiệt độ lên 10 ℃, tốc độ của các phản ứng hóa học đều gấp đôi.(d) Nếu năng lượng va chạm giữa hai phân tử chất phản ứng nhỏ hơn năng lượng hoạt hóa thì sẽ gây ra phản ứng hóa học.(e) Phản ứng có năng lượng hoạt hóa càng thấp thì xảy ra càng nhanh.Số phát biểu đúng là",
+  "options": {
+   "A": "2.",
+   "B": "3.",
+   "C": "4.",
+   "D": "5."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L10_C6_0043",
+  "stem": "(Đề TSĐH B – 2014) Thực hiện phản ứng sau trong bình kín: H2(g) + Br2(g) <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAlKuMNs1oAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> 2HBr(g). Lúc đầu nồng độ hơi Br2 là 0,072 mol/L. Sau 2 phút, nồng độ hơi Br2 còn lại là 0,048 mol/L. Tốc độ trung bình của phản ứng tính theo Br2 trong khoảng thời gian trên là",
+  "options": {
+   "A": "8.10-4 mol/(L.s).",
+   "B": "2.10-4 mol/(L.s).",
+   "C": "6.10-4 mol/(L.s).",
+   "D": "4.10-4 mol/(L.s)."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L10_C6_0045",
+  "stem": "(Đề TSCĐ – 2012) Cho phản ứng hóa học: Br2 + HCOOH <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAlKuMNs1oAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> 2HBr + CO2. Lúc đầu nồng độ của HCOOH là 0,010 mol/L, sau 40 giây nồng độ của HCOOH là 0,008 mol/L. Tốc độ trung bình của phản ứng trong khoảng thời gian 40 giây tính theo HCOOH là",
+  "options": {
+   "A": "5,0.10–5 mol/(L.s).",
+   "B": "2,5.10–5 mol/(L.s).",
+   "C": "2,5.10–4 mol/(L.s).",
+   "D": "2,0.10–4 mol/(L.s)."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L10_C6_0046",
+  "stem": "Cho phản ứng: 2A + B <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAlKA0D0nYAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> 2M + 3Na) Hãy viết biểu thức tốc độ trung bình của phản ứng trên theo sự thay đổi nồng độ chất A, B, M và N.b) Nếu biến thiên nồng độ trung bình của chất M <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFYAAABKCAAAAAAEKfzLAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAlK5QKg8wAAATASURBVFjD5ZlvTFVlGMB/58AVLyhkgCKWXwDxDxsSy2blmtk0NceaOJ1bOgzw3pKJm6uc9aFVW241EzAc4R9MM1D8s2bZMiuZ2BJq6kwWhvi/1FDUBC7c+/Th3HsFDvdw7uXwwfV8uc9zn+f9nec+7/ue9znnKsJgiDooVD9272VLcFvu9cAe/O0xS7Azcjo1RUREzk/vEmtk90oREdGw8w5bRBWZdsKPPZpuGVWqn/djs9fp3Z6JF3qYB197IiHCnpA6q7DMbYTtiDnlxd4KP6t3f8Nb3aza8WRsOHHhUn15Vhj3DNNduMqL3RXXh3cOsW1+o8rGOo9XP0aLIbZonBebN1vvPBcOm33GmUgK/J6uoX8bYo9zScNmrtQ7CwsTmOwzFhDRLcOPWg2x/3BABBFPRJHOd2/EubVQoxk3VbLEvIx4T0SF6x2jdLtl+5SkfJUizajxMCWInTbyEqhwhTidq8TJ2Nns024Uv0NKENj4K6BCK1G9PYfvvAQOujYB0ALRQWCj7oAK7Qzp7SnOD4M5YynrAOgM7v45pA1UcGHr5Wj+NhdQ87jxJUAstAaDbQcV9OfDxnmjAXLDKQYYB38GgVXo+9e1bXYCkJBFfS0wQ6E2CCwBsDvip2uKA4qB+GwOXX/gXrkrNGyJU9GUGSlUXwM+GO5644H7uBIS9qfGpb4q5dNZCqRU2Sve8U3B5dM22Py0ohWKucrio31wRfZxusfmm5913id1YYzqEBE5lUnGZw23Wxoql0ZyQETWRw67IyJydniv0SLZaSJ67MWwntfdrn19pCBzpM0+euLMNdWtIrJ+GaUiIvkrAmHXciCIG4lX1m+dlC4iN57ZrcOOtYuo4MYT5PIBYPnJ41Dq0Ds8MpCuZknkJlz7F5peCSYlZlFVy875tr6dA+jBHO3byhwBfCpMYExI2Ccz3538aB/fT0gEFaKxh5bu8ruFfVYnEsJDI5ZXDnG/uvjHVHZU8L7zOX2AfpcNVLLTRAapbe5dhKvXQiUldJ/43tgXT4eKTW40wB4KPVujIiQmhortIYP8pPN/x9bTZCnyRBOo0BXa6RBQ3J6HsLamJO+LwcDe2lk8GNjytp/r/EbOhxZhPZ/6n0/giol6mMN+Ff8ylb5e9BOXVdhipwNXGQA/TP2YNYpS0s8IkQp+6ed0OjPivieFRJeIyK3GNFY3Nt4OHD0zScTUgV6y1K7kc3UvwCPJEcQmJ8cEjo62mytC6+cOyInA5BoTrbbhuI3jtkxJhdhsjv1qCuu2gQpDMZ5a2egE//NJ/+LSijCMDsOwr+9nATybxq6bZrDtkaBCAi2GYcW5Wre5nI4yM9gWrbUboxgm8cf3eZqyJIrSLhPYG2NABVvSRaOokrmPa0r0Ii7v75/a+ddEbYFlNBpE3d3m9KlOKAJiMEyjyZ2htR/TjEpWETWu2avGjm+oOZnO1CNbR8b9+2agAadiJwAi0qQG3oqe1J6DloncXhAdN7U04IhVr4j3rd1TeyxsbycdFG9/+/oeExNsUhraZ6MVQTrTr1qW7Iod4iuCfFcwIFQ3aZ7lEV8ReCG6xpoSeN4u1942aBdxr75pSbIb6rRPxfv2QVwRVmTb5j0RlIfqf4f/AOn2fNxfPlwfAAAAAElFTkSuQmCC\" style=\"height:40px\" alt=\"\"> là 1,0 mol.L–1.s–1 thì tốc độ trung bình của phản ứng và biến thiên nồng độ trung bình của N <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFYAAABNCAAAAAAZLMxzAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAlKuMNs1oAAATrSURBVFjD7ZlrbBRVFIC/nWW3La08W56WEqk8KiXSAu0/aEMKCa8IRgoBMaU1SiFiQiOJIVEwhpAIIYjEbVMetqggwVA1ihQSMRQLVIooQeVZXi1grRVaut09/pjZbbvdmZ0uszEmnj97zz3nfnP23Htn77lrEyIhSkSofuyl45bgyjxdsNeKJluCHV2gNUREpHXqVbFGtmwUEREVu+Eti6jSPuGiH3sn4Z5VWCme68e+vTCI/X5yezjY5t6/aljv8E+D2DdT0UU/vDpjWEzU4NFZKz+oM+LOW6Nhq6kPYh7HnE5aVSrDig5V11ZuneWgxAi7JVnDrn8qiPU7sN/wa3sdvPJQa18dvMMIe5LfRBSgOiXICnQ58ZT6lJo898IdMZqSNMlttHRTOKWu2+Gvd39mY/R2G0keTcvCcbvDtm2v4aQNLhJBpIX3utu2jvBkw1eq8hPMFtOS/pyIAjeJ7/5VivOUfHCpyhGYan4DJ9wEBeoZ0M104pc85g/ki9sAVMMz5rED6kGBh0R1n7AZiUQtoX0nAA0w0Dw2qgUUaMUZaGnaXwDkQ4kANEFsj7Ht2AMtZU/MAcZncOVbgFhoMY+1u/V+HYpf6oUargtgEPxhHmtDB/tD7XIAcuM4VA9MhnPmsehhXdOeBiAuF/cuYCZUdjL/XRuaK3KQ413X81+xZf79zSiviMzEfrnDfmC64XZYGa2+EwKl3LlAa2WkcukosLmP51Wv3/6jA2Rdim02cHZ1n9fOmYs2bVXHHoYXRES+iWNRs9Z3a+I8EZHCHLaLiIwKFm2v7g86XbPqtK89ziaf302AnFMFHx9bnjVMuf/zkYqWZABWetZkj9XP7Zt0fX++HOCxSe0+sSZzaHT00JTsos9ui4gUVtT1S2sLEu2zNhFE1qpfpqdSWCHlrA2CnUDwKTMtixdu0jkMPd4ZbMeQpU0RwPYvvV6oh00mKWzujBXlDYF94xygwED6hh/vpjHewK4Ee/hJkHWV75cCvT9yBDP36iHOJ7YNG9TG5MZg5gifxi2WwCS0nQ+zRlFSO6MCsXsKesLqLOWLDbAvpoUdrVESnGnhRtv1IZZQ/sfqYGu5aCmy+pF2tHtkKbZV/vXcFrkigW3bHRHswbtnaiKAdfnLE+DoSIuwl4452fvAp71rVbTFU3Jp/kRTTlWGHmAK695V4C/SbuVO55rNFh9iiMhuvg5x3Nof1yxj4KyISHPVCoZUVZ3W917qFFGgT8jqyLUozl+exGUmEpWZma7v3Vcxl4QrR/JhmYPyh6YmQsttSHJJ6hRImEvTPlNIrw0UcNJm6Na+Mx86irSQ4o4GBWJCYCsalwDkjKDqvBnsoxhQoB8PDN1cC/oDKHkmw33QFxQYzj0jr+uHtaNDnkJZqwnsvSdBgfiYu0ZeJaO0K4rEHBr3m8A2JKrLYPxlAydPab6vqU2aDa8RVa5OULHpvxt4fdmwzNecO4jvL0A8d4yydqNlonqqySr36q9d16S6Ol972j5cW5hqd2fPbHx+hs6AmtgMQET+dNTqbvC6gCuMAa0ipSN7jy24pjfijXmiXV3O3xhOvacjqQd82GPp1lEvJLaLVkVO63fCxMIxJ9vW20G7xD4/y6pgL2d7xZcEkQ9LraF6ctWp1LDyzhlLsBtPqp8235m+6TFKyQ7xUWz/qT9f/gHRbtcWlh2c7wAAAABJRU5ErkJggg==\" style=\"height:40px\" alt=\"\">, A <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFkAAABACAAAAABUuYQgAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAlKuMNs1oAAAPsSURBVFjD1ZhdbBRVFMd/M7ss212LUVC3dlPKBmKKTQghpcYI2FRbNQYDkQ95ECOiKdEQY0J4wI8EE6MPdBsUH0oDhMa0aQRp5CPBL8qDUIq0iWLK0hjKpkpEaz9ou3TZ48PM1nbZnbnLThP5v8zZO2d+OXvuufeeGU2YJunTBZ4gxxwjJkkm+fApx8g9n04mn++ocoy80HPIMERExiuGxTklqq6LiOgA9RV+x0IGbdPOZMyJR3ocDFlk9OEBM+Zzesgujq3N/9mxg+vmPxAIFC9/42h6Z+/SVjPm9zfZRTGQXz5hny7yv/erSKJ7Z/GGDO4frxcRRKQqbEfeBT+a5hmv75xpfvViBvdjxSb5oa9twLcWr2WdaZbwYXK4d3sG/wj9IoiMcN6GfOitDty9IiJyHH63ncJhukR06GOOzfzV1SwpixtL61vmBWzrzu+Ngg6D+KwdO/USaqgfAYgwV6GkfcOgQwyPtV9tDay/r/8AwAD3KJA9o6BD3GYrvda2CvJeoU6AfEYUyO640v6852U3UKN1Hwfm0atABhVyrOF1gAWVhIFqLvdN3IrmRv6ivBCALZz8BZ4p5fPkncQy4xpalvZBkdMMWRXnom+MazzIayLSme85Zd65WCAiIh0FWm/KM8G95i5qpe/HKg3DtZnG67CoLVS94zJwZe8ao6Zads9sTh/zCQYsQn7B7TflxVjY8ZaX5hcEg6EV7xwREZHHxlcvSXnowV0iiHzGH7br1UI/bZZmIlPHXBsVsmGrljU872+6fdydM/lopIHZTTvSkXW0HMBdS+vh8OqfSycPai7QodRuR7JOxgbguVlT0xF4PPfu60Bj+yA0zdkfvq1BtF0pd6I0K8WraZqmfZDjHwFsa2Mku07Sm5eR3CMAsyZ+L+hTIiZV1p6RXJjiGskyZvVs+O68IKe/558W8g0STlNvDoIOPYw6Tf6r667N8/+GvLVZzS9r8uC+2qSZ2OMouWHo7BnTbPnESXLi4FrCpv2RXTayOgePPLGNL68CtJZ0XfF696f10lxkfaasuChlbBMRkT+Za3OmZHNyT27/LSRGNtzElcmT238LxWeCDnmMq4KntP8WuukFHe5nSJU8pf230NBsQCTuOqs4fWOFUREReYqnLWfwH7pFdHCFoirxktr+Z1Z0RrGxUhZHFMl1W4zryiBhmMFYBr9Lj3oM8pMX1MAp7f+9gWu729vSOXZWAIjI1SK1NKe2/61FvtLadI6V34nxrUCetXulz05/L0yI2ddt36eYaDU1vq1h7nXLb6hWh4pGf3gVM88i/W/eci4Z7xqvQ5qxTn+7VO1UyJ2xcgC0u/Bb7r+ctWdODrhiMAAAAABJRU5ErkJggg==\" style=\"height:40px\" alt=\"\"> và B <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFkAAABACAAAAABUuYQgAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAlKuMNs1oAAAQVSURBVFjD5ZhdTBxVFMd/M7ssCJRGJKFYpRaKYqyxErRJDaQkpkDaNBEpxmpiaCthSeOLBpP69eCbjQFqWouLiSLlraVNqzZtqqFo/CjGJdWC5cMUKNW0tOV7l93u8WFmV1h2dwYZHhrPy5x77//+cufcO+feO4qwTKYuFzhE9lqH9M4jt7VbR95/VXuKiEjnPrHOJl/0iIggIuIrmrSQLCffERFRAVxFSVbO3bavrulxloaXrARDWaMe558eNX7D/KF/fU9zRXZaevqagqpTkcXubD3O7+02BH/DmyG/IzPp3W6RwB/vP7Qzstqf3KORt9QbkreTOqW7PyYkXtDd4+VR5E9/ps1g1zqjwA1Mr7vZrLmBSs++fL06L1rHHDcgMs0vRkN+7eh+cgMiIvI1XDN8xTeeE1FhhDSDIY+f3b4roec0AOdYu8pwcaQNgwrjJBoIP33BnlpBPQC9rDFedomToIIXR2xdoPFVqOHMJYAxko3JjhlQwW+USk88fj9szNMGvYJpY7Ldby4/19cAOGkZBdYyaKILpsju60UAO1fONALF9I2EmoaXRq5zApD4Cgd9ULKej4MtgQLoq1a2VpRuPLGwn0gHE7HW5l+ptzWnG1pExL3C0a43XcoQkYt0i9TF3Zrbp+kBPYvGtEPlKzUnt4h64InzWcVv9wFXmnaEFtUG3/UFswhTBGKAvYfHjujuLJ3fPwMbfms7Vjplw/FgSaHe4j9SmjO30/gs2KGfmZTo5Pi/F1TZysvnlV9Puhj4ZF5N1yjYjWfQ0D7M5ULxB3vCai06bzy140B4lQoqytLRtnkvb1NAhfWGGcnYxr58fm5x0yoL4ny5gdoU39Xq2vCGJZMfdrkiN4TNYImiKIqyecnRMTHmQf9iaPGro5JbPADxoXJHoSliyHoeiUYO3xELrlg15gWWubgxz7HlP/MvCzl2Fv1PNj4LKvQzYzW5a/SujfP/gNzmXC5yffPNoNvhtpLsPj8d3KfFaUBe3D5YV8VBPUsd/z2ayKZg4vQVdhbLn0mjVUTkTlki9vjsiCr99LWonfvQ7oRK7SCtHq3E5emLqBItGnbM52Bv68tUKz//YCDzx4MK9+AzTW7dkkxWsX5liW6zCaBCKhOmyQdqACfHhmLLJu4DFTJsN8yCv015DNiW6f8otu7GalDBljVsCkvwxqJW4ZqKqRvO0b6UJ3tNggc6ywDY47j9eUzh5TyNvPlXk+SGXXEApJfRIBCHJ7LO21sAiMhQprmvZOzeQd1rh1Mih8n/7txIBGFHoej/kUoNr/QiIlKnJAUNnhWZLkvK2PpnpAv9F0Fy+17zn7cJ827yin63KpwyvTrMWFOtA/T/dbf23rFuyP1viQSjITJw2jqyyy8iIspd+C/3H1u54I67rDWtAAAAAElFTkSuQmCC\" style=\"height:40px\" alt=\"\"> lần lượt là:",
+  "options": {
+   "A": "2,0 mol.L–1.s–1; 4,0 mol.L–1.s–1; 6,0 mol.L–1.s–1 và 2,0 mol.L–1.s–1.",
+   "B": "0,5 mol.L–1.s–1; 1,5 mol.L–1.s–1; 1,0 mol.L–1.s–1 và 0,5 mol.L–1.s–1.",
+   "C": "1,0 mol.L–1.s–1; 1,0 mol.L–1.s–1; 1,0 mol.L–1.s–1 và 1,0 mol.L–1.s–1.",
+   "D": "2,0 mol.L–1.s–1; 4,0 mol.L–1.s–1; 3,0 mol.L–1.s–1 và 2,0 mol.L–1.s–1."
+  },
+  "answer": "B"
+ }
+]

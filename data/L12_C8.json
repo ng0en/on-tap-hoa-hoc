@@ -1,0 +1,1487 @@
+[
+ {
+  "id": "L12_C8_0001",
+  "stem": "(SBT – KNTT) Sự hình thành các nguyên tố chuyển tiếp dãy thứ nhất là do có sự sắp xếp lần lượt các electron vào phân lớp",
+  "options": {
+   "A": "3d.",
+   "B": "4s.",
+   "C": "4p.",
+   "D": "3p."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C8_0002",
+  "stem": "(OLTN) Kim loại chuyển tiếp dãy thứ nhất thuộc khối nguyên tố nào sau đây?",
+  "options": {
+   "A": "Nguyên tố s.",
+   "B": "Nguyên tố p.",
+   "C": "Nguyên tố d.",
+   "D": "Nguyên tố f."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C8_0003",
+  "stem": "(OLTN) Kim loại chuyển tiếp dãy thứ nhất có chứa phân lớp nào sau đây?",
+  "options": {
+   "A": "4d.",
+   "B": "4f.",
+   "C": "4p.",
+   "D": "3d."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C8_0004",
+  "stem": "(SBT – KNTT) Kim loại nào sau đây thuộc dãy kim loại chuyển tiếp thứ nhất?",
+  "options": {
+   "A": "Ti.",
+   "B": "Al.",
+   "C": "Ba.",
+   "D": "Na."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C8_0005",
+  "stem": "(OLTN) Kim loại chuyển tiếp dãy thứ nhất gồm",
+  "options": {
+   "A": "9 nguyên tố.",
+   "B": "18 nguyên tố.",
+   "C": "6 nguyên tố.",
+   "D": "10 nguyên tố."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C8_0006",
+  "stem": "(SBT – CTST) Các nguyên tố kim loại chuyển tiếp không cùng dãy thứ nhất là",
+  "options": {
+   "A": "Sc, Ni, Ti.",
+   "B": "Fe, Mn, Co.",
+   "C": "Cr, Cu, V.",
+   "D": "Ni, Cu, Ag."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C8_0007",
+  "stem": "Trong bảng tuần hoàn các nguyên tố hoá học, nguyên tố chuyển tiếp dãy thứ nhất được xếp ở",
+  "options": {
+   "A": "chu kì 3.",
+   "B": "chu kì 4.",
+   "C": "chu kì 5.",
+   "D": "chu kì 3 và chu kì 4."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C8_0008",
+  "stem": "Các electron hoá trị của nguyên tử nguyên tố kim loại chuyển tiếp dãy thứ nhất phân bố ở",
+  "options": {
+   "A": "phân lớp 3d và phân lớp 4s.",
+   "B": "phân lớp 3d.",
+   "C": "lớp 4s.",
+   "D": "phân lớp 3p và phân lớp 3d."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C8_0009",
+  "stem": "Ở trạng thái cơ bản, cấu hình electron của nguyên tử nào sau đây có phân lớp 3d bão hoà?",
+  "options": {
+   "A": "Sc (Z = 21).",
+   "B": "Cu (Z = 29).",
+   "C": "Ni (Z = 28).",
+   "D": "Mn (Z = 25)."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C8_0010",
+  "stem": "(SBT – KNTT) Cấu hình electron của nguyên tử vanadium ở trạng thái cơ bản là [Ar]3d34s2. Trong bảng tuần hoàn, nguyên tố vanadium thuộc nhóm",
+  "options": {
+   "A": "VB.",
+   "B": "IB.",
+   "C": "VIB.",
+   "D": "IIB."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C8_0011",
+  "stem": "(SBT – KNTT) Từ cấu hình electron của nguyên tử Cu ở trạng thái cơ bản là [Ar]3d104s1, xác định được cấu hình electron của ion Cu2+ là",
+  "options": {
+   "A": "[Ar]3d9.",
+   "B": "[Ar]3d84s1.",
+   "C": "[Ar]3d10.",
+   "D": "[Ar]3d8."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C8_0012",
+  "stem": "(SBT – KNTT) Nguyên tử Cr có cấu hình electron ở trạng thái cơ bản là [Ar]3d54s1. Trong phản ứng hoá học, khi nguyên tử Cr nhường đi 3 electron để tạo thành ion Cr3+, số electron còn lại trên phân lớp 3d là",
+  "options": {
+   "A": "5.",
+   "B": "4.",
+   "C": "3.",
+   "D": "2."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C8_0013",
+  "stem": "(OLTN) Cấu hình electron nào sau đây là của kim loại chuyển tiếp dãy thứ nhất?",
+  "options": {
+   "A": "[Ar]3d104s24p1.",
+   "B": "[Ar]3d64s2.",
+   "C": "[Ar]4s2.",
+   "D": "[Ar]3d104s24p6."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C8_0014",
+  "stem": "(SBT – KNTT) Sắt là kim loại phổ biến thứ hai (sau nhôm) trên vỏ Trái Đất do nguyên tử sắt thuộc loại nguyên tử bền. Số neutron có trong một nguyên tử sắt <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFQAAAA4CAAAAABGNoA8AAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnLDhYdO0AAARYSURBVFjD1Zh9TNVlFMc/P+FyL8lrEGRzgEkqExeklYZrYpozLZcOWG0uN1vOMleYa7TZNF+yZanTaW71j2/L9UaKWooBQr6sjEzFlOYy0MVIkAJ559sfv9+9XC5wudxLf3T+ueec53c/z3nOeX7Pc+41xNDLsP+AyTAoNpzSaPpO5dxnixw1O38oI92YcW17ef7Ss2V+Q4MB+5+WEQawPS/juxDIvBrA+qUiu9ykJsK4IEm6eFr+SrDnJNv+npIKwHj/A+2V0wIyA1h339D686QAbQFD22eNio5InL2zGbgpbJunRdpDHtnb/dBeo2850w/UENf3xI+PaCjfWfFAYQLFmYybNineKP6w6631zoduHr5y5XxV7y+fntwP1VWylklMlb6FUknSFowK94p+BnCwsrKysvLXSz+dOrpvPfS3P7qh2gcV+h6OS5LqDdb1gpa7eyL7hboVagKcZwTUAhAVR6X3coz2pfrh0ExSGNdNM5R279Bkb9A9LaZ6G+IxpnPONJu4NwDohrOm+iMhGfACx5oB6mrJ8A5NG+3ob0iauFaSdGc8uZKUwTuStIOkNu+F8vru37W1aWZC27n3L2VtBPgic3XHopAjK6MP2PBVGkurbjliJ40zXJHuzRoba3MkZR+25mnemB5uT152vefsXiKtmG9Nn7it03Ofepf+oZ8Ew/25W9ZMAWY1BgKNWezUdgOvt0nSJmBhANAqnNDqSJhr6TOAH9TjjRqM/OzStjbA25a+CNiFeUf5LlVhllLi9HTuhriHLWMycHLQ0Gd6eS7XQKrTSASutoUE3EycA+52GsEOoH6wkZanWcqmlZZyDShwHRKtQGP8IKEuccJpAFpa3Ifkdy+V7lQagSU99l6y39CYJxJMxU4fV6+fy6fQ+owAbnsOBlr9WKB6qKGpQEXnEEPTgaYSD2eg0LjHgLV9QL9a+GCcLWLCssuWT/tnRNtiUrIqfKEuBoo/8nBKyol47fDFstxhtj2SpJZ55Jz4pSCXQ74c0h2PAqyqt8w7TdZ5mrNUkrQCx++StICVkqTRPkH1WxLA8HnL161aMmdM0FEn1IzwKnwg6RtGtkqSjrluqY7P12SPAhg79+X3Pq32oNbMN1zrDn2lzoJ2dkmS2mC5pKnkeQZT3yNh23oFe2H19ISw4Ni0F/f9I8lsz60d0ApRUHe6dysdNcAvuNTUnrbblvoDJsLJTlLMGfwXN2gR9zwJN6AhL93uCJ9zZgigXTt41wG1GC9pxaEDM488fsRvqivbm807O48g036Wke2+3t8e4oIW2Z5qkaT1YLK+hjI/oc7llz69IN8OdLfSYxiolR4opwWzlu43u6xUrFY6lIFa6QFyujP0Y2fo7TFslyRdgoMB5LTrzegT3Z5XmSFJ+pKgGv+hrc+NKKs15S9JNdFGiSRl87yfTCEVdudiuCSVRkbvvnHlDSbcCgB63AOq6uXJjrCHNjT6y5Txv/m351/D9sZaaxL7XgAAAABJRU5ErkJggg==\" style=\"height:22px\" alt=\"\"> là",
+  "options": {
+   "A": "30.",
+   "B": "26.",
+   "C": "56.",
+   "D": "28."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C8_0015",
+  "stem": "(SBT – KNTT) Trong dãy nguyên tử Sc (Z = 21), Ti (Z = 22), V (Z = 23), Cr (Z = 24), bán kính nguyên tử biến đổi như thế nào?",
+  "options": {
+   "A": "Tăng dần.",
+   "B": "Không đổi.",
+   "C": "Giảm dần.",
+   "D": "Không có quy luật."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C8_0016",
+  "stem": "Đặc điểm chung cấu hình electron của nguyên tử kim loại chuyển tiếp dãy thứ nhất là",
+  "options": {
+   "A": "[Ne]3d1÷104s1÷2.",
+   "B": "[Ar]3d1÷104s1÷2.",
+   "C": "[Ar]3d1÷104s2.",
+   "D": "[Ar]3d104s1÷2."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C8_0017",
+  "stem": "(SBT – CTST) Cấu hình electron của nguyên tử nguyên tố chromium (Z = 24) là",
+  "options": {
+   "A": "[Ar]3d44s2.",
+   "B": "[Ar]4d55s1.",
+   "C": "[Ar]3d54s1.",
+   "D": "[Kr]3d54s1."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C8_0018",
+  "stem": "(SBT – CTST) Cấu hình electron của nguyên tử nguyên tố copper (Z = 29) là",
+  "options": {
+   "A": "[Ar]3d104s1.",
+   "B": "[Ar]3d94s2.",
+   "C": "[Ne]3d94s2.",
+   "D": "[Kr]3d104s1."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C8_0019",
+  "stem": "Cấu hình electron của các ion Cr3+ (Z = 24), Co3+ (Z = 27), Fe3+ (Z = 26) lần lượt là",
+  "options": {
+   "A": "[Ar]3d3, [Ar]3d6, [Ar]3d5.",
+   "B": "[Ar]3d3, [Ar]3d5, [Ar]3d6.",
+   "C": "[Ar]3d5, [Ar]3d6, [Ar]3d3.",
+   "D": "[Ar]3d3, [Ar]3d7, [Ar]3d5."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C8_0020",
+  "stem": "(SBT – KNTT) Cấu hình electron của Cu2+ (Z = 29) là",
+  "options": {
+   "A": "[Ar]3d94s2.",
+   "B": "[Ar]3d104s2.",
+   "C": "[Ar]3d84s1.",
+   "D": "[Ar]3d9."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C8_0021",
+  "stem": "(OLTN) Cho các tính chất vật lí sau:(a) dẫn điện và dẫn nhiệt kém.(b) thường có khối lượng riêng lớn.(c) độ cứng cao.(d) nhiệt độ nóng chảy cao.Những tính chất vật lí thường gặp với các kim loại chuyển tiếp là",
+  "options": {
+   "A": "(a), (b), (c).",
+   "B": "(a), (c), (d).",
+   "C": "(a), (b), (d).",
+   "D": "(b), (c), (d)."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C8_0022",
+  "stem": "(SBT – KNTT) Kim loại được mạ lên sắt để bảo vệ sắt và dùng để chế tạo thép không gỉ (dùng làm thìa, dao, dụng cụ y tế,...) là",
+  "options": {
+   "A": "Na.",
+   "B": "Mg.",
+   "C": "Cr.",
+   "D": "Ca."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C8_0023",
+  "stem": "(SBT – KNTT) Sắt được sử dụng để sản xuất nam châm trong các máy phát điện và nhiều thiết bị điện (loa, chuông, ti vi, máy tính, điện thoại,...) dựa trên tính chất nào sau đây?",
+  "options": {
+   "A": "Tính dẫn điện.",
+   "B": "Tính dẫn nhiệt.",
+   "C": "Tính dẻo.",
+   "D": "Tính nhiễm từ."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C8_0024",
+  "stem": "(SBT – KNTT) Đồng kim loại được sử dụng để chế tạo dây dẫn điện, thiết bị điện,.. dựa trên tính chất vật lí đặc trưng nào sau đây?",
+  "options": {
+   "A": "Dẫn điện tốt.",
+   "B": "Tính dẻo.",
+   "C": "Dẫn nhiệt tốt.",
+   "D": "Ánh kim."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C8_0025",
+  "stem": "Nguyên tố kim loại có trong hemoglobin làm nhiệm vụ vận chuyển oxygen, duy trì sự sống là",
+  "options": {
+   "A": "sodium.",
+   "B": "magnesium.",
+   "C": "nhôm.",
+   "D": "sắt."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C8_0026",
+  "stem": "(SBT – KNTT) Trong dãy kim loại chuyển tiếp thứ nhất, kim loại có độ cứng cao nhất là",
+  "options": {
+   "A": "Ti.",
+   "B": "Fe.",
+   "C": "Cr.",
+   "D": "Cu."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C8_0027",
+  "stem": "(SBT – KNTT) Trong dãy kim loại chuyển tiếp thứ nhất, hai kim loại nào sau đây đều là kim loại nhẹ (D &lt; 5 g/cm3)?",
+  "options": {
+   "A": "Cr, Mn.",
+   "B": "Fe, Co.",
+   "C": "Sc, Ti.",
+   "D": "Ni, Cu."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C8_0028",
+  "stem": "(SBT – CTST) Dãy các đơn chất có nhiệt độ nóng chảy giảm dần từ trái sang phải là",
+  "options": {
+   "A": "Fe, Cr, Co.",
+   "B": "V, Sc, Ti.",
+   "C": "Cr, Ni, Fe.",
+   "D": "Cu, Mn, Ni."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C8_0029",
+  "stem": "(SBT – CTST) Ở khoảng 20 °C đến 25 °C, đơn chất có độ dẫn điện cao nhất là",
+  "options": {
+   "A": "V.",
+   "B": "Cr.",
+   "C": "Co.",
+   "D": "Cu."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C8_0030",
+  "stem": "Ở điều kiện thường, dãy các đơn chất kim loại có khối lượng riêng tăng dần từ trái sang phải là",
+  "options": {
+   "A": "Sc, Ti, Co, Ni.",
+   "B": "V, Cr, Mn, Fe.",
+   "C": "Sc, Ti, Co, Cu.",
+   "D": "Sc, Ti, Ni, Cu."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C8_0031",
+  "stem": "(SBT – KNTT) Trong dãy kim loại chuyển tiếp thứ nhất, kim loại có tính dẫn điện tốt nhất là",
+  "options": {
+   "A": "Fe.",
+   "B": "Ti.",
+   "C": "Cu.",
+   "D": "Mn."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C8_0032",
+  "stem": "(SBT – KNTT) Nguyên tố nào sau đây được mệnh danh là “nguyên tố của màu sắc” do có khả năng thể hiện màu sắc phong phú?",
+  "options": {
+   "A": "Sắt.",
+   "B": "Đồng.",
+   "C": "Nickel.",
+   "D": "Chromium."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C8_0033",
+  "stem": "(SBT – KNTT) Dãy kim loại nào sau đây sắp xếp theo thứ tự tăng dần nhiệt độ nóng chảy?",
+  "options": {
+   "A": "Na, Fe, Mg.",
+   "B": "Na, Mg, Fe.",
+   "C": "Fe, Mg, Na.",
+   "D": "Mg, Fe, Na."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C8_0034",
+  "stem": "(SBT – KNTT) Khi so sánh kim loại Fe với Ca, nhận định nào sau đây không đúng?",
+  "options": {
+   "A": "Có khối lượng riêng lớn hơn.",
+   "B": "Có độ cứng cao hơn.",
+   "C": "Có tính khử mạnh hơn.",
+   "D": "Có nhiệt độ nóng chảy cao hơn."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C8_0035",
+  "stem": "(SBT – KNTT) Khi so sánh nguyên tử Ti với K, nhận định nào sau đây không đúng?",
+  "options": {
+   "A": "Có bán kính lớn hơn.",
+   "B": "Có số electron hoá trị nhiều hơn.",
+   "C": "Có số electron độc thân nhiều hơn.",
+   "D": "Có độ âm điện lớn hơn."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C8_0036",
+  "stem": "(SBT – CTST) Nhận xét nào sau đây là đúng?",
+  "options": {
+   "A": "Sắt thuộc nhóm kim loại nặng và có nhiệt độ nóng chảy cao nhất trong dãy kim loại chuyển tiếp thứ nhất.",
+   "B": "Trong số các kim loại chuyển tiếp dãy thứ nhất, chromium có nhiệt độ nóng chảy cao nhất.",
+   "C": "Chromium có độ cứng cao nên được dùng mạ lên các thiết bị để chống mài mòn.",
+   "D": "Các đơn chất kim loại có khối lượng riêng lớn sẽ có độ cứng cao."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C8_0037",
+  "stem": "(SBT – CD) Cho phát biểu “Nguyên tố kim loại chuyển tiếp dãy thứ nhất tạo nhiều hợp chất mà trong đó chúng có các số oxi hoá dương khác nhau, đó là do nguyên tố này có..(1).. và nguyên tử của chúng có..(2)...” Cụm từ cần điền vào (1) và (2) lần lượt là:",
+  "options": {
+   "A": "độ âm điện bé, nhiều electron hoá trị.",
+   "B": "độ âm điện lớn, nhiều electron hoá trị.",
+   "C": "điện tích hạt nhân lớn, bán kính bé.",
+   "D": "bán kính bé, điện tích hạt nhân lớn."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C8_0038",
+  "stem": "Nguyên tố nào sau đây không thể hiện xu hướng có nhiều số oxi hoá trong hợp chất?",
+  "options": {
+   "A": "Cr.",
+   "B": "Mn.",
+   "C": "Fe.",
+   "D": "Mg."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C8_0039",
+  "stem": "(SBT – KNTT) Nguyên tử manganese có số oxi hoá +4 trong hợp chất nào sau đây?",
+  "options": {
+   "A": "KMnO4.",
+   "B": "K2MnO4.",
+   "C": "MnO2.",
+   "D": "MnSO4."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C8_0040",
+  "stem": "(SBT – KNTT) Trong hợp chất K2Cr2O7, số oxi hoá của nguyên tử Cr là",
+  "options": {
+   "A": "+6.",
+   "B": "+3.",
+   "C": "+2.",
+   "D": "0."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C8_0041",
+  "stem": "(SBT – CTST) Trạng thái oxi hoá phổ biến của Fe và Mn tương ứng là",
+  "options": {
+   "A": "+2, +3 và +2, +4, +7.",
+   "B": "+2, +3 và +2, +4, +6.",
+   "C": "+2, +3 và +2, +6, +7.",
+   "D": "+2, +6 và +2, +4, +7."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C8_0042",
+  "stem": "(OLTN) Ở trạng thái cơ bản, cấu hình electron của Mn (Z = 25) là [Ar]3d54s2. Số oxi hoá cao nhất của Mn trong các hợp chất là",
+  "options": {
+   "A": "+5.",
+   "B": "+7.",
+   "C": "+2.",
+   "D": "+6."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C8_0043",
+  "stem": "(OLTN) Cho các hợp chất của manganese: MnO, MnO(OH), Mn2O3 (MnO.MnO2), Mn3O4 (2MnO.MnO2), MnO(OH)2 và MnF3. Số hợp chất chứa nguyên tử Mn có số oxi hoá +3 là",
+  "options": {
+   "A": "2.",
+   "B": "3.",
+   "C": "4.",
+   "D": "1."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C8_0044",
+  "stem": "(OLTN) Trong các số oxi hoá của các kim loại chuyển tiếp dãy thứ nhất, trạng thái thường gặp nhất là +2. Điều này được giải thích là do đa số các kim loại chuyên tiếp dãy thứ nhất có độ âm điện không cao và",
+  "options": {
+   "A": "dễ nhường đi 2 electron ở phân lớp 3d.",
+   "B": "dễ nhường đi 1 electron ở phân lớp 3d và 1 electron ở phân lớp 4s.",
+   "C": "có khả năng nhận thêm 2 electron vào phân lớp 3d.",
+   "D": "có 2 electron lớp ngoài cùng."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C8_0045",
+  "stem": "(SBT – KNTT) Dung dịch nào sau đây có màu vàng chanh?",
+  "options": {
+   "A": "CuSO4.",
+   "B": "FeCl3.",
+   "C": "KMnO4.",
+   "D": "FeSO4."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C8_0046",
+  "stem": "Ion nào sau đây không có electron trên phân lớp 3d và không có màu trong dung dịch nước?",
+  "options": {
+   "A": "Fe3+.",
+   "B": "Cr3+.",
+   "C": "Ti3+.",
+   "D": "Sc3+."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C8_0047",
+  "stem": "(OLTN) Dung dịch muối Fe2(SO4)3 có màu",
+  "options": {
+   "A": "vàng nâu.",
+   "B": "xanh.",
+   "C": "tím.",
+   "D": "đỏ."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C8_0048",
+  "stem": "(OLTN) Dung dịch muối chứa Cu2+(aq) có màu",
+  "options": {
+   "A": "vàng.",
+   "B": "xanh.",
+   "C": "tím.",
+   "D": "đỏ."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C8_0049",
+  "stem": "(SBT – KNTT) Trong dung dịch muối sulfate, ion kim loại nào sau đây có màu xanh?",
+  "options": {
+   "A": "Mn2+.",
+   "B": "Fe3+.",
+   "C": "Ti3+.",
+   "D": "Cu2+."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C8_0050",
+  "stem": "Ion nào sau đây vừa có khả năng thể hiện tính khử, vừa có khả năng thể hiện tính oxi hoá?",
+  "options": {
+   "A": "Cr3+.",
+   "B": "CrO42–.",
+   "C": "AlO2–.",
+   "D": "Sc3+."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C8_0051",
+  "stem": "Muối nào sau đây có khả năng làm mất màu thuốc tím trong môi trường sulfuric acid loãng?",
+  "options": {
+   "A": "Na2SO4.",
+   "B": "FeSO4.",
+   "C": "MgSO4.",
+   "D": "Fe2(SO4)3."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C8_0052",
+  "stem": "(SBT – KNTT) Nhỏ vài giọt dung dịch NaOH vào dung dịch FeCl3, thu được kết tủa có màu",
+  "options": {
+   "A": "keo trắng.",
+   "B": "nâu đỏ.",
+   "C": "xanh lam.",
+   "D": "tím đen."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C8_0053",
+  "stem": "Kim loại nào sau đây thể hiện hai hoá trị khi tác dụng với dung dịch HCl và khí Cl2 (to)?",
+  "options": {
+   "A": "Nhôm.",
+   "B": "Sắt.",
+   "C": "Đồng.",
+   "D": "Magnesium."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C8_0054",
+  "stem": "(SBT – KNTT) Hợp chất iron(III) có khả năng thể hiện tính oxi hoá khi tác dụng với chất khử. Quá trình khử ion Fe3+ được biểu diễn là",
+  "options": {
+   "A": "Fe3+ + le <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnLU9fRHsAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:20px\" alt=\"\"> Fe2+.",
+   "B": "Fe2+ <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnLU9fRHsAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:20px\" alt=\"\"> Fe3+ + le.",
+   "C": "Fe2+ + 2e <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnLU9fRHsAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:20px\" alt=\"\"> Fe.",
+   "D": "Fe <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnLU9fRHsAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:20px\" alt=\"\"> Fe2+ + 2e."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C8_0055",
+  "stem": "(SBT – KNTT) Trong không khí ẩm, gang và thép bị ăn mòn điện hoá. Trong quá trình ăn mòn, sắt bị oxi hoá ở anode tạo thành ion Fe2+ theo quá trình",
+  "options": {
+   "A": "Fe2+ + 2e <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnLU9fRHsAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:20px\" alt=\"\"> Fe.",
+   "B": "Fe <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnLU9fRHsAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:20px\" alt=\"\"> Fe2+ + 2e.",
+   "C": "Fe3+ + le <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnLU9fRHsAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:20px\" alt=\"\"> Fe2+.",
+   "D": "Fe2+ <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnLU9fRHsAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:20px\" alt=\"\"> Fe3+ + le."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C8_0056",
+  "stem": "(SBT – KNTT) Muối nào sau đây vừa có khả năng thể hiện tính oxi hoá (trong môi trường acid), vừa có khả năng thể hiện tính khử (trong môi trường kiềm)?",
+  "options": {
+   "A": "K2Cr2O7.",
+   "B": "Cr2(SO4)3.",
+   "C": "K2CrO4.",
+   "D": "Na2CrO4."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C8_0057",
+  "stem": "(SBT – KNTT) Các hợp chất ứng với số oxi hoá cao nhất của Cr có tính oxi hoá mạnh. Giá trị thế điện cực chuẩn nào sau đây thuộc về cặp Cr2O72–, H+/Cr3+?",
+  "options": {
+   "A": "–0,44 V.",
+   "B": "–2,93 V.",
+   "C": "0 V.",
+   "D": "+1,36 V."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C8_0058",
+  "stem": "(SBT – KNTT) Trong dung dịch K2Cr2O7 tồn tại cân bằng:Cr2O72– (da cam) + H2O <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFEAAAAnCAAAAABSn/s2AAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnLU9fRHsAAAGkSURBVEjH5Za7S8NQFIe/hNTHpLSTk10UFBz0b6ibCD6GgghKN0EsKjiKujgImmxuFRdB8FFFUHRzLC5q3AURpFpECVSh16FNtSmJabyD4plyz+/y5ZzDOfdeRSDZVNlANKDnqbQIXzhlD8mLeJvoBiCTqpI9JFcTQkQOhBBCiN2IcJqH5Gby6/hrifp0+VOTAjSSiFWZMRYOYS0pk6jux0BPSiTSmI6BPgX4q+PEEVYuCnDS/umtGKfGdP8pBrpP4kPXSGZ9GazEGwCTLwBmWxiAR3MMIKwIDGHga2aGZopSjsui0/3n19JnphCsHxctgPl4BwBX2wufUksw4gQAywN9AOwdzlaov3au/z1Rg+f8WRaAi3zKoTYEI96/rtmrcYcaqQ1mExUv3WyGbOj8piZiW32+tKjrdahNx3MAbNUQrQaqNbYJg1shtz3D0ZUaslYBNTUKO/H3AEVzIcpFFvuxhCzIIxaRnVLa3T7N1BStS1KyLp+P6obyE05V1nzT6EFi9LK7cwBeK71mMwBV4+TjRThU3nz59Zq0nY4bVPkDL/sPpbURJM/1G94AAAAASUVORK5CYII=\" style=\"height:21px\" alt=\"\"> 2CrO42– (vàng) + 2H+Cho vài giọt dung dịch chất X vào dung dịch K2Cr2O7 thì dung dịch chuyển dần từ màu da cam sang màu vàng. Chất phù hợp với X là",
+  "options": {
+   "A": "K2SO4.",
+   "B": "H2SO4.",
+   "C": "KCl.",
+   "D": "KOH."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C8_0059",
+  "stem": "(OLTN) Cho khoảng 2 mL dung dịch NaOH vào ống nghiệm chứa khoảng 1 mL dung dịch Fe2(SO4)3. Hiện tượng quan sát được là",
+  "options": {
+   "A": "dung dịch chuyển sang màu xanh.",
+   "B": "xuất hiện kết tủa màu vàng.",
+   "C": "xuất hiện kết tủa màu nâu đỏ.",
+   "D": "dung dịch chuyển sang màu nâu đỏ."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C8_0060",
+  "stem": "(OLTN) Cho khoảng 2 mL dung dịch NaOH vào ống nghiệm chứa khoảng 1 mL dung dịch CuSO4. Hiện tượng quan sát được là",
+  "options": {
+   "A": "dung dịch chuyển sang màu vàng.",
+   "B": "xuất hiện kết tủa màu xanh nhạt.",
+   "C": "xuất hiện kết tủa màu nâu đỏ.",
+   "D": "dung dịch chuyển sang màu nâu đỏ."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C8_0061",
+  "stem": "(OLTN) Nước ngầm nhiễm sắt là nước chứa hàm lượng sắt hoà tan dưới dạng Fe2+ cao vượt quá mức cho phép (&gt; 5 mg/L), gây ra hiện tượng nước có mùi tanh, vị chua, đục và sẫm màu. Một mẫu nước giếng khoan ô nhiễm sắt ở dạng Fe2+(aq) với nồng độ là 25 ppm (1 ppm = 1 mg/L). Nồng độ mol của Fe2+ trong nước giếng khoan là bao nhiêu? (Cho biết: MFe = 55,85 g.mol–1)",
+  "options": {
+   "A": "4,48.10–4 mol/L.",
+   "B": "2,24.10–4 mol/L.",
+   "C": "5,60.10–4 mol/L.",
+   "D": "2,50.10–4 mol/L."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C8_0062",
+  "stem": "(OLTN) Có thể loại bỏ sắt trong nước ngầm bằng cách đưa nước ngầm lên các bể lắng, lọc và sục không khí vào. Khi đó Fe2+ trong nước ngầm bị chuyển thành Fe(OH)3 và lắng xuống. Chất oxi hoá Fe2+ thành Fe(OH)3 là",
+  "options": {
+   "A": "khí O2.",
+   "B": "khí N2.",
+   "C": "nước và khí O2.",
+   "D": "khí O2 và OH–."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C8_0063",
+  "stem": "(OLTN) Dung dịch chứa muối iron(II) trong môi trường acid khi để ngoài không khí bị chuyển từ màu xanh nhạt sang màu vàng nâu. Điều này được giải thích là do",
+  "options": {
+   "A": "phân huỷ một phần tạo thành Fe và iron(III).",
+   "B": "oxygen trong không khí oxi hoá thành hợp chất có màu vàng nâu.",
+   "C": "oxygen trong không khí oxi hoá thành iron(III) oxide.",
+   "D": "oxygen trong không khí oxi hoá thành iron(III) hydroxide."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C8_0064",
+  "stem": "(SBT – CTST) Dung dịch muối chromium(III) sulfate có lẫn copper(II) sulfate, sử dụng dung dịch nào sau đây có thể loại bỏ nguyên tố copper ra khỏi muối chromium(III) sulfate?",
+  "options": {
+   "A": "Dung dịch ammonia.",
+   "B": "Dung dịch NaOH.",
+   "C": "Dung dịch barium chloride.",
+   "D": "Dung dịch soda."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C8_0065",
+  "stem": "(SBT – CTST) Trong thí nghiệm xác định hàm lượng muối Fe(II) bằng dung dịch thuốc tím, nhận xét nào sau đây là không đúng?",
+  "options": {
+   "A": "lon Fe2+ là chất bị oxi hoá.",
+   "B": "H2SO4 là chất tạo môi trường phản ứng.",
+   "C": "lon MnO4– là chất bị khử.",
+   "D": "Dung dịch muối Fe(II) có màu vàng nhạt."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C8_0066",
+  "stem": "(OLTN) Phản ứng chuẩn độ Fe2+ trong dung dịch acid bằng dung dịch KMnO4 được biểu diễn bởi phương trình ion rút gọn sau:MnO4–(aq) + 5Fe2+(aq) + 8H+(aq) <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnLDhYdO0AAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:20px\" alt=\"\"> Mn2+(aq) + 5Fe3+(aq) + 4H2O(l).Chất oxi hoá trong phản ứng trên là",
+  "options": {
+   "A": "Fe2+(aq).",
+   "B": "Mn2+(aq).",
+   "C": "MnO4–(aq).",
+   "D": "H+(aq)."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C8_0067",
+  "stem": "(OLTN) Trong phép chuẩn độ dung dịch Fe2+ bằng MnO4– bình tam giác đựng dung dịch Fe2+ thường được để trên 1 tờ giấy trắng. Mục đích của việc này là gì?",
+  "options": {
+   "A": "Để phản ứng trong bình tam giác xảy ra nhanh hơn.",
+   "B": "Để quan sát sự thay đổi màu dung dịch trong bình tam giác được rõ hơn.",
+   "C": "Để nhận biết được sự thay đổi thể tích dung dịch burette được rõ hơn.",
+   "D": "Để nhận biết được sự xuất hiện màu của ion Fe3+ trong bình tam giác rõ hơn."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C8_0068",
+  "stem": "Một học sinh tiến hành chuẩn độ dung dịch Fe2+ bằng dung dịch KMnO4 theo hai cách như sau:Cách 1. Nhỏ từ từ dung dịch KMnO4 vào dung dịch chứa Fe2+ trong môi trường acid cho đến khi xuất hiện màu hồng nhạt bền trong khoảng 30 giây.Cách 2. Nhỏ từ từ dung dịch chứa Fe2+ trong môi trường acid vào dung dịch KMnO4 cho đến khi màu hồng của dung dịch KMnO4 biến mất. Hãy cho biết cách tiến hành chuẩn độ nào là phù hợp?",
+  "options": {
+   "A": "Cách 1.",
+   "B": "Cách 2.",
+   "C": "Cả hai cách.",
+   "D": "Không có cách nào."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C8_0069",
+  "stem": "(OLTN) Chuẩn độ dung dịch Fe2+ trong môi trường acid bằng dung dịch KMnO4. Kết quả sẽ không phù hợp nếu nồng độ dung dịch Fe2+ khá lớn (&gt; 0,500 M). Điều này là do",
+  "options": {
+   "A": "tiêu tốn một lượng dung dịch KMnO4 quá lớn.",
+   "B": "tại điểm tương đương, dung dịch có màu vàng đậm.",
+   "C": "Fe2+ dễ bị oxi hoá bởi oxygen của không khí.",
+   "D": "Fe3+ sẽ bị oxi hoá tiếp bởi KMnO4."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C8_0070",
+  "stem": "(OLTN) Chuẩn độ 10,00 mL dung dịch FeSO4 và H2SO4 loãng bằng dung dịch KMnO4 0,010 M. Kết quả thu được như sau:Nồng độ mol phù hợp nhất của FeSO4 trong dung dịch chuẩn độ là",
+  "options": {
+   "A": "4,263.10–2 M.",
+   "B": "4,266.10–2 М.",
+   "C": "4,264.10–2 М.",
+   "D": "4,265.10–2 М."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C8_0071",
+  "stem": "(SBT – CD) Cho phát biểu sau: “Phức chất đơn giản thường có một..(1).. liên kết với các phối tử bao quanh. Liên kết giữa nguyên tử trung tâm và phối từ trong phức chất là liên kết..(2)..”. Cụm từ cần điền vào (1) và (2) lần lượt là",
+  "options": {
+   "A": "cation kim loại, ion.",
+   "B": "nguyên tử kim loại, cho – nhận.",
+   "C": "nguyên tử trung tâm, cho – nhận.",
+   "D": "phối tử, ion."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C8_0072",
+  "stem": "(SBT – KNTT) Phối tử trong phức chất [PtCl4]2– và [Fe(CO)5] lần lượt là",
+  "options": {
+   "A": "Cl và C.",
+   "B": "Pt và Fe.",
+   "C": "Cl và CO.",
+   "D": "Cl và CO."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C8_0073",
+  "stem": "(SBT – KNTT) Số lượng phối tử có trong mỗi phức chất [PtCl4]2–, [Fe(CO)5] lần lượt là",
+  "options": {
+   "A": "4 và 5.",
+   "B": "5 và 6.",
+   "C": "2 và 5.",
+   "D": "1 và 2."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C8_0074",
+  "stem": "(SBT – KNTT) Nguyên tử trung tâm của phức chất [PtCl4]2– và [Fe(CO)5] lần lượt là",
+  "options": {
+   "A": "Pt4+ và Fe2+.",
+   "B": "Pt2+ và Fe2+.",
+   "C": "Cl và CO.",
+   "D": "Pt2+ và Fe."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C8_0075",
+  "stem": "(SBT – KNTT) Điện tích của phức chất [PtCl4]2– và [Fe(CO)5] lần lượt là",
+  "options": {
+   "A": "+2 và +5.",
+   "B": "+2 và 0.",
+   "C": "–1 và 0.",
+   "D": "–2 và 0."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C8_0076",
+  "stem": "(OLTN) Trong phân tử phức chất [Ag(NH3)2]OH, nhóm NH3 được gọi là",
+  "options": {
+   "A": "phối tử.",
+   "B": "acid.",
+   "C": "chất oxi hoá.",
+   "D": "nguyên tử trung tâm."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C8_0077",
+  "stem": "(OLTN) Trong phân tử phức chất K3[Fe(CN)6], sắt (iron) được gọi là",
+  "options": {
+   "A": "phối tử.",
+   "B": "base.",
+   "C": "chất khử.",
+   "D": "nguyên tử trung tâm."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C8_0078",
+  "stem": "(OLTN) Số oxi hoá của nguyên tử trung tâm trong phức chất [Co(NH3)4(OH2)2]SO4 là",
+  "options": {
+   "A": "+3.",
+   "B": "+6.",
+   "C": "+2.",
+   "D": "+4."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C8_0079",
+  "stem": "(OLTN) Số oxi hoá của nguyên tử trung tâm platinum trong phức chất [PtCl6]2– là",
+  "options": {
+   "A": "+2.",
+   "B": "+3.",
+   "C": "+4.",
+   "D": "+6."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C8_0080",
+  "stem": "Điện tích của nguyên tử trung tâm trong phức chất [Co(NH3)6]3+ và [FeF6]3– lần lượt là",
+  "options": {
+   "A": "+3 và +3.",
+   "B": "+3 và +2.",
+   "C": "+6 và –6.",
+   "D": "+3 và –3."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C8_0081",
+  "stem": "(SBT – KNTT) Số lượng phối tử có trong phức chất [PtCl4(NH3)2] là",
+  "options": {
+   "A": "6.",
+   "B": "2.",
+   "C": "4.",
+   "D": "7."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C8_0082",
+  "stem": "Với phối tử Cl–, tất cả các ion nào sau đây sẽ là nguyên tử trung tâm trong phức chất tứ diện?",
+  "options": {
+   "A": "Cu2+, Ni2+, Mn2+.",
+   "B": "Fe3+, Cr3+, Co³+.",
+   "C": "Cr3+, Co3+, Sc3+.",
+   "D": "Ni2+, Cu2+, Zn2+."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C8_0083",
+  "stem": "(OLTN) Khi cho kim loại sodium tác dụng với phức chất [Mn2(CO)10] thu được hợp chất phức Na[Mn(CO)5] với phối tử carbonyl (CO). Số oxi hoá của Mn trong phức chất Na[Mn(CO)5] là",
+  "options": {
+   "A": "+2.",
+   "B": "+1.",
+   "C": "–1.",
+   "D": "0."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C8_0084",
+  "stem": "Theo thuyết Liên kết hoá trị, để trở thành phối tử trong phức chất thì phân tử hoặc anion cần có",
+  "options": {
+   "A": "các orbital trống.",
+   "B": "ít nhất 4 orbital trống.",
+   "C": "cặp electron hoá trị riêng.",
+   "D": "ít nhất hai cặp electron hoá trị riêng."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C8_0085",
+  "stem": "Trong phức chất, giữa phối tử và nguyên tử trung tâm có loại liên kết nào sau đây?",
+  "options": {
+   "A": "Ion.",
+   "B": "Hydrogen.",
+   "C": "Cho – nhận.",
+   "D": "Kim loại."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C8_0086",
+  "stem": "(OTTN) Phần tử có thể trở thành phối tử trong phức chất là",
+  "options": {
+   "A": "anion hoặc phân tử trung hoà có cặp electron hoá trị riêng.",
+   "B": "anion có kích thước lớn.",
+   "C": "phân tử trung hoà có hoặc không có cặp electron hoá trị riêng.",
+   "D": "cation kim loại chuyển tiếp có các orbital trống."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C8_0087",
+  "stem": "(OTTN) Phần tử có thể trở thành nguyên tử trung tâm trong phức chất khi chúng sử dụng các orbital trống để nhận cặp electron hoá trị riêng từ phối tử. Các phần tử đó là",
+  "options": {
+   "A": "tất cả các cation kim loại.",
+   "B": "nguyên tử hoặc cation của một số kim loại.",
+   "C": "các nguyên tử nguyên tố chuyển tiếp dãy thứ nhất.",
+   "D": "các cation kim loại của nguyên tố chuyển tiếp dãy thứ nhất."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C8_0088",
+  "stem": "Theo thuyết Liên kết hoá trị, tương tác giữa phối tử và nguyên tử trung tâm trong phức chất là",
+  "options": {
+   "A": "liên kết cộng hoá trị theo kiểu cho – nhận.",
+   "B": "liên kết ion.",
+   "C": "tương tác van der Waals.",
+   "D": "liên kết hydrogen."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C8_0089",
+  "stem": "(OLTN) Trong phức chất [Fe(OH2)6]2+, mỗi phân tử H2O sử dụng bao nhiêu electron để tạo liên kết phối trí với AO trống của ion Fe2+?",
+  "options": {
+   "A": "2.",
+   "B": "1.",
+   "C": "4.",
+   "D": "6."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C8_0090",
+  "stem": "(OLTN) Trong phân tử phức chất [Cu(OH2)2(NH3)4]SO4, nguyên tử trung tâm copper tạo liên kết cho – nhận với những phối tử nào?",
+  "options": {
+   "A": "Chỉ có H2O.",
+   "B": "Chỉ có NH3.",
+   "C": "Chỉ có SO42–.",
+   "D": "Cả NH3 và H2O."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C8_0091",
+  "stem": "(SBT – KNTT) Dạng hình học có thể có của phức chất [FeF6]3– là",
+  "options": {
+   "A": "tứ diện.",
+   "B": "bát diện.",
+   "C": "vuông phẳng.",
+   "D": "tứ diện hoặc vuông phẳng."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C8_0092",
+  "stem": "(SBT – KNTT) Công thức tổng quát của phức chất (với nguyên tử trung tâm M và phối tử L) có dạng tứ diện và bát diện lần lượt là",
+  "options": {
+   "A": "[ML2] và [ML4].",
+   "B": "[ML4] và [ML6].",
+   "C": "[ML6] và [ML2].",
+   "D": "[ML6] và [ML4]."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C8_0093",
+  "stem": "Chọn đáp án đúng nhất về dạng hình học có thể có của phức chất có công thức tổng quát [ML4].",
+  "options": {
+   "A": "Tứ diện.",
+   "B": "Bát diện.",
+   "C": "Vuông phẳng.",
+   "D": "Tứ diện hoặc vuông phẳng."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C8_0094",
+  "stem": "(SBT – KNTT) Phức chất [Cu(H2O)6]2+ có dạng hình học là",
+  "options": {
+   "A": "vuông phẳng.",
+   "B": "tứ diện.",
+   "C": "bát diện.",
+   "D": "đường thẳng."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C8_0095",
+  "stem": "Phức chất của Cr(0) có dạng hình học bát diện chỉ chứa phối tử CO có công thức hoá học là",
+  "options": {
+   "A": "[Cr(CO)4].",
+   "B": "[Cr(CO)6].",
+   "C": "[Cr(CO)4]2+.",
+   "D": "[Cr(CO)6]2+."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C8_0096",
+  "stem": "(SBT – CTST) Phức chất nào sau đây có dạng hình học không phải là tứ diện?",
+  "options": {
+   "A": "[CuCl4]2–.",
+   "B": "[CoCl4]2–.",
+   "C": "[PdCl4]2–.",
+   "D": "[FeCl4]–."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C8_0097",
+  "stem": "(SBT – CTST) Phức chất có dạng hình học không phải tứ diện là",
+  "options": {
+   "A": "[CoBr4]2–.",
+   "B": "[PtBr4]2–.",
+   "C": "[Al(OH)4]–.",
+   "D": "[FeCl4]–."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C8_0098",
+  "stem": "(SBT – KNTT) Chọn đáp án đúng nhất sau về liên kết trong phức chất [PtCl4]2–.",
+  "options": {
+   "A": "Là liên kết cộng hoá trị được hình thành do sự cho cặp electron chưa liên kết từ phối tử Cl– vào nguyên tử trung tâm Pt2+.",
+   "B": "Là liên kết cộng hoá trị được hình thành do sự cho cặp electron chưa liên kết từ nguyên tử trung tâm Pt2+ vào phối tử Cl–.",
+   "C": "Là liên kết tĩnh điện giữa nguyên tử trung tâm Pt2+ và phối tử Cl–.",
+   "D": "Là liên kết cộng hoá trị được hình thành do sự ghép đôi cặp electron của phối tử Cl– và nguyên tử trung tâm Pt2+."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C8_0099",
+  "stem": "(SBT – CTST) Nhận xét nào sau đây là không đúng?",
+  "options": {
+   "A": "Nguyên tử trung tâm chỉ có thể là cation kim loại.",
+   "B": "Thành phần của phức chất có nguyên tử trung tâm và phối tử.",
+   "C": "Phối tử còn cặp electron chưa liên kết, có khả năng cho nguyên tử trung tâm.",
+   "D": "Liên kết giữa phối tử và nguyên tử trung tâm là liên kết cho – nhận."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C8_0100",
+  "stem": "(SBT – CD) Phát biểu nào sau đây không đúng về phức chất?",
+  "options": {
+   "A": "Phức chất đơn giản thường có một nguyên tử trung tâm liên kết với các phối tử bao quanh.",
+   "B": "Phức chất có thể mang điện tích hoặc không mang điện tích.",
+   "C": "Liên kết giữa nguyên tử trung tâm và phối tử trong phức chất là liên kết ion.",
+   "D": "K2[PtCl4] hoặc anion [PtCl4]2– đều được xếp vào loại phức chất."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C8_0101",
+  "stem": "(SBT – CTST) Nhận định nào sau đây là đúng?",
+  "options": {
+   "A": "Phức chất chỉ có dạng hình học là bát diện.",
+   "B": "Phức chất luôn chứa cầu ngoại.",
+   "C": "Phức chất có các dạng hình học khác nhau.",
+   "D": "Một phức chất có thể tồn tại ở các dạng hình học khác nhau."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C8_0102",
+  "stem": "(OLTN) Thực nghiệm cho biết phức chất [Co(en)3]2+ (trong đó en là kí hiệu của ethylenediamine, H2N–CH2–CH2–NH2) có 6 liên kết cho – nhận giữa nguyên tử trung tâm với các phối tử. Mỗi phối tử en đã liên kết với nguyên tử trung tâm qua",
+  "options": {
+   "A": "hai nguyên tử carbon.",
+   "B": "hai nguyên tử nitrogen.",
+   "C": "một nguyên tử carbon và một nguyên tử nitrogen.",
+   "D": "một nguyên tử nitrogen và một nguyên tử hydrogen."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C8_0103",
+  "stem": "(OLTN) Cho carbon monoxide liên tục đi qua nickel (Ni) nung nóng ở 80 °C, thu được phức chất [Ni(CO)4] ở thể khí. Tiếp tục dẫn [Ni(CO)4] qua khu vực có nhiệt độ khoảng 200 °C, phức chất [Ni(CO)4] phân huỷ thu được nickel tinh khiết. Quá trình này được ứng dụng để tinh chế nickel. Số oxi hoá của nickel trong phức chất [Ni(CO)4] là",
+  "options": {
+   "A": "+2.",
+   "B": "+1.",
+   "C": "–1.",
+   "D": "0."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C8_0104",
+  "stem": "Phức chất đơn nhân với nguyên tử trung tâm platinum (Pt) tạo được 4 liên kết cho nhận với phối tử ethylenediamine (H2N–CH2–CH2–NH2) và chloro; trong đó ethylenediamine liên kết với nguyên tử trung tâm qua hai nguyên tử nitrogen. Công thức phân tử của phức chất là",
+  "options": {
+   "A": "PtCl2(C2H8N2).",
+   "B": "PtCl2(C2H8N2)2.",
+   "C": "PtCl(C2H8N2)3.",
+   "D": "PtCl(C2H8N2)2."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C8_0105",
+  "stem": "Khi cho dung dịch KCN đến dư vào dung dịch iron(II) sulfate thu được phức chất bát diện; trong đó nguyên tử trung tâm iron tạo 6 liên kết sigma với 6 nguyên tử carbon trong phối tử cyano (CN–). Công thức của phức chất là",
+  "options": {
+   "A": "[Fe(CN)6]3–.",
+   "B": "[Fe(CN)6]4–.",
+   "C": "[Fe(CN)4]2+.",
+   "D": "[Fe(CN)6]2+."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C8_0106",
+  "stem": "Nhỏ dung dịch KCN đặc đến dư vào dung dịch AgNO3 thu được phức chất X. Trong phức chất X, nguyên tử trung tâm bạc tạo 2 liên kết σ với nguyên tử carbon trong phối tử cyano (CN–). Công thức của phức chất là",
+  "options": {
+   "A": "[Ag(CN)2]+.",
+   "B": "[Ag(CN)4]3–.",
+   "C": "[Ag(CN)2]–.",
+   "D": "[Ag(CN)2]."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C8_0111",
+  "stem": "(SBT – KNTT) Phức chất nào sau đây của Cu2+ có màu vàng?",
+  "options": {
+   "A": "[Cu(H2O)6]2+.",
+   "B": "[CuCl4]2–.",
+   "C": "[Cu(NH3)4(H2O)2].",
+   "D": "[Cu(OH)2(H2O)4]."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C8_0112",
+  "stem": "(HTHH) Trong dung dịch, ion phức chất nào sau đây có màu xanh lam?",
+  "options": {
+   "A": "[Fe(H2O)]2+.",
+   "B": "[CuCl4]2–.",
+   "C": "[Ag(NH3)2]+.",
+   "D": "[Cu(NH3)4(H2O)2]."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C8_0113",
+  "stem": "(SBT – CTST) Dung dịch phức chất aqua không thể có màu xanh là",
+  "options": {
+   "A": "[Cr(H2O)6]3+.",
+   "B": "[Zn(H2O)]2+.",
+   "C": "[Ni(H2O)]2+.",
+   "D": "[Cu(H2O)]2+."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C8_0114",
+  "stem": "(HTHH) Trong dung dịch, màu sắc của các ion phức chất [CuCl4]2– và [Cu(H2O)6]2+ lần lượt là",
+  "options": {
+   "A": "không màu và xanh lam.",
+   "B": "xanh và xanh nhạt.",
+   "C": "vàng và xanh.",
+   "D": "xanh và xanh lam."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C8_0115",
+  "stem": "Phức chất [Cu(H2O)6]2+ có màu xanh; phức chất [Cu(NH3)4(H2O)2] có màu xanh lam và phức chất [CuCl4]2– có màu vàng. Màu sắc của ba phức chất khác nhau là do chúng khác nhau về",
+  "options": {
+   "A": "nguyên tử trung tâm.",
+   "B": "cả nguyên tử trung tâm và phối tử.",
+   "C": "phối tử.",
+   "D": "số lượng phối tử."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C8_0116",
+  "stem": "(SBT – KNTT) Hai ống nghiệm (1) và (2) đều chứa phức chất của Cu2+. Ống nghiệm (1) có màu xanh lam, ống nghiệm (2) có màu xanh nhạt. Ống nghiệm (1) và (2) lần lượt chứa phức chất là",
+  "options": {
+   "A": "[Cu(H2O)6]2+ và [Cu(NH3)4(H2O)2].",
+   "B": "[Cu(H2O)6]2+ và [CuCl4]2.",
+   "C": "[CuCl4] và [Cu(NH3)4(H2O)2].",
+   "D": "[Cu(NH3)4(H2O)2] và [Cu(H2O)6]2+."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C8_0117",
+  "stem": "(SBT – KNTT) Nhỏ vài giọt dung dịch HCl đặc vào dung dịch CuSO4 tạo thành phức chất [CuCl4]2–. Dấu hiệu nào sau đây chứng tỏ phức chất [CuCl4]2– tạo thành?",
+  "options": {
+   "A": "Hoà tan kết tủa.",
+   "B": "Đổi màu dung dịch từ màu xanh sang màu vàng.",
+   "C": "Xuất hiện kết tủa.",
+   "D": "Đổi màu dung dịch từ màu vàng sang màu xanh."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C8_0118",
+  "stem": "(SBT – KNTT) Cho lượng dư dung dịch NH3 tác dụng với AgCl. Phát biểu nào sau đây đúng?",
+  "options": {
+   "A": "Kết tủa trắng tan dần, phức chất [Ag(NH3)2]+ không màu được tạo thành.",
+   "B": "Không có hiện tượng gì xảy ra.",
+   "C": "Kết tủa trắng tan dần, phức chất [Ag(NH3)2]+ màu xanh được tạo thành.",
+   "D": "Kết tủa trắng tan dần, phức chất [Ag(NH3)4]+ không màu được tạo thành."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C8_0119",
+  "stem": "(SBT – KNTT) Nhỏ vài giọt dung dịch NaOH loãng vào dung dịch CuSO4 tạo thành phức chất [Cu(OH)2(H2O)4]. Dấu hiệu nào sau đây chứng tỏ phức chất [Cu(OH)2(H2O)4] tạo thành?",
+  "options": {
+   "A": "Xuất hiện kết tủa màu xanh lam.",
+   "B": "Hoà tan kết tủa.",
+   "C": "Dung dịch chuyển từ màu xanh sang màu vàng.",
+   "D": "Xuất hiện kết tủa màu xanh nhạt."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C8_0120",
+  "stem": "(SBT – CTST) Nhỏ từng giọt dung dịch sodium hydroxide cho đến dư vào dung dịch aluminium chloride, dấu hiệu chứng tỏ đã tạo ra phức chất chứa phối tử OH– là",
+  "options": {
+   "A": "kết tủa bị hoà tan.",
+   "B": "dung dịch bị chuyển từ không màu sang có màu.",
+   "C": "kết tủa keo trắng tạo thành.",
+   "D": "dung dịch bị mất màu."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C8_0121",
+  "stem": "(HTHH) Nhỏ vài giọt dung dịch NH3 đặc vào kết tủa AgCl, thu được ion phức chất [Ag(NH3)2]+. Dấu hiệu chứng tỏ có sự tạo thành ion phức chất [Ag(NH3)2]+ là",
+  "options": {
+   "A": "hoà tan kết tủa.",
+   "B": "đổi màu kết tủa.",
+   "C": "tạo thành kết tủa.",
+   "D": "đổi màu dung dịch."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C8_0122",
+  "stem": "(HTHH) Nhỏ vài giọt dung dịch NaOH vào dung dịch Al2(SO4)3, thu được phức chất [Al(OH)3(H2O)3]. Dấu hiệu chứng tỏ có sự tạo thành phức chất [Al(OH)3(H2O)3] là",
+  "options": {
+   "A": "đổi màu kết tủa.",
+   "B": "hoà tan kết tủa.",
+   "C": "đổi màu dung dịch.",
+   "D": "tạo thành kết tủa."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C8_0123",
+  "stem": "(HTHH) Nhỏ vài giọt dung dịch NaOH vào dung dịch CuSO4 màu xanh, thu được phức chất [Cu(OH)2(H2O)4]. Dấu hiệu chứng tỏ có sự tạo thành phức chất [Cu(OH)2(H2O)4] là",
+  "options": {
+   "A": "đổi màu kết tủa.",
+   "B": "hoà tan kết tủa.",
+   "C": "đổi màu dung dịch từ xanh sang vàng.",
+   "D": "tạo thành kết tủa màu xanh nhạt."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C8_0124",
+  "stem": "Nhỏ vài giọt dung dịch HCl đặc vào dung dịch CuSO4 thu được ion phức chất [CuCl4]2–. Dấu hiệu chứng tỏ có sự tạo thành ion phức chất [CuCl4]2– là",
+  "options": {
+   "A": "đổi màu kết tủa.",
+   "B": "hoà tan kết tủa.",
+   "C": "đổi màu dung dịch.",
+   "D": "tạo thành kết tủa."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C8_0125",
+  "stem": "(OLTN) Phản ứng thay thế phối tử trong các phân tử phức chất thường kèm theo sự thay đổi",
+  "options": {
+   "A": "màu sắc phức chất.",
+   "B": "số oxi hoá của phối tử.",
+   "C": "số oxi hoá của nguyên tử trung tâm.",
+   "D": "khối lượng dung dịch."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C8_0126",
+  "stem": "(SBT – KNTT) Các phối tử H2O trong phức chất [Ni(H2O)6]2+ có thể bị thế hết bởi sáu phối tử NH3 tạo thành phức chất là",
+  "options": {
+   "A": "[Ni(NH3)6]2+.",
+   "B": "[Ni(NH3)2(H2O)4].",
+   "C": "[Ni(NH3)(H2O)5]2+.",
+   "D": "[Ni(NH3)5(H2O)]2+."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C8_0127",
+  "stem": "(SBT – KNTT) Phối tử H2O trong phức chất aqua [Cu(H2O)6]2+ có thể bị thế bởi 1 phối tử NH3 tạo thành phức chất là",
+  "options": {
+   "A": "[Cu(NH3)6]2+.",
+   "B": "[Cu(NH3)2(H2O)5].",
+   "C": "[Cu(NH3)(H2O)5]2+.",
+   "D": "[Cu(NH3)(H2O)5]+."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C8_0128",
+  "stem": "(SBT – KNTT) Trong phức chất [Co(H2O)6]2+, 2 phối tử H2O có thể bị thế bởi 2 phối tử OH–. Phát biểu nào sau đây không đúng?",
+  "options": {
+   "A": "Phức chất tạo thành có 4 phối tử nước và 2 phối tử OH–.",
+   "B": "Phức chất tạo thành có điện tích +2.",
+   "C": "Phức chất tạo thành có nguyên tử trung tâm là Co2+.",
+   "D": "Phức chất tạo thành là [Co(OH)2(H2O)4]."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C8_0129",
+  "stem": "(HTHH) Ion phức chất aqua [Cu(H2O)6]2+ tham gia phản ứng thế bốn phối tử nước bằng bốn phối tử ammonia, tạo thành ion phức chất",
+  "options": {
+   "A": "[Cu(NH3)2(H2O)4]2+.",
+   "B": "[Cu(NH3)4(H2O)2]2+.",
+   "C": "[Cu(NH3)4(OH)2].",
+   "D": "[Cu(NH3)2](OH)2."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C8_0130",
+  "stem": "Ion phức chất [Pt(NH3)4]2+ tham gia phản ứng thế hai phối tử NH3 bằng hai phối tử Cl–, tạo thành phức chất có điện tích bằng",
+  "options": {
+   "A": "0.",
+   "B": "–2.",
+   "C": "–4.",
+   "D": "+2."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C8_0131",
+  "stem": "(OLTN) Trong dung dịch FeCl3, Fe3+ có thể tồn tại ở nhiều dạng phức chất khác nhau, một trong số đó là phức chất bát diện có điện tích là +1 tạo bởi giữa ion Fe3+ với phối tử H2O và Cl–. Số phối tử H2O có trong phức chất là",
+  "options": {
+   "A": "4.",
+   "B": "6.",
+   "C": "5.",
+   "D": "3."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C8_0133",
+  "stem": "(OLTN) Trong dung dịch nước, ion Ni2+ tồn tại ở dưới dạng phức chất bát diện [Ni(OH2)6]2+. Số liên kết sigma (σ) có trong phức chất là",
+  "options": {
+   "A": "6.",
+   "B": "12.",
+   "C": "18.",
+   "D": "16."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C8_0134",
+  "stem": "(OLTN) Cho sơ đồ chuyển hoá sau:CuSO4(s) <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFMAAAAmCAAAAACdNviuAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnLU9fRHsAAAJvSURBVEjHrVZbSJNhGH7mIc1Z1sUmKCypCKkYWdBkhldBkkIXlRhGhcGQ6EAiuXUgKOhAFlhRF110gKKuIhCqO6XYonJCQ8pQEyuVETZya3Nr39PF3PYv3f5v9r9X7+F5H77v/Z//5dMRmluO9pQSnCNHdcdH0V1TfiuRcu5sOdx4wp+2harmwUeSHZZEone5h6TdGknTkOmc767Mn3c0rwdw1vNkAXcfnL/J/8YKAIWbXqbpy5MZuqME6NPHowlhAAAYv2bL6avGr5+VsLUBuFgJ2HviFR1i+kurwrSc+k70POvE6rmVslwvAMC7IlvO/Ab4ehr+SR4pnw5eK6p1NgMI9bX+zzwTtscK8wfzpfpD64BzVbvTwTIIM/KbJD/txb7PfLTBcJ4kaRon3zfajjV1+Oc0PHeQJCU0n2KvWzMUo+aHC+AcaAtnKjuLXFlz9l4VmQF24zCpIwKlKQPuOphwa93Kwq57UcNK4MwOAKe6AACB2VJxHBOZqXJDR0RfpXCuKUu4fdPKgnFt0h+e/YfG/gghRF61EBRCCPHgbnedzF7Kwr4UXyep03TP15tuQ+M97wrfAABNzzm5uESeMxJaAgCIBpZKoKXuPtQSgri5DUCbSwYv8TUnN3o50d5kIRmqcavjZTj3XybJOxaSfLpZHS9x98BjxRqt6x/QYp794VXJoNCkPlEJzu8FBYpo2bgWnMF8ZbQoqAWnfkYZhfSqDRKcFWHly+hHhXqHujRCJW/Jbxe2lp5+QfpyRjTRZ/vJpH9/uzaa928ZjLtT1lFtODllG4s54QNDEnDJXReJ6YkiVwKs7Z6X1lLW9hf8Ty7eBVcNYgAAAABJRU5ErkJggg==\" style=\"height:26px\" alt=\"\"> [Cu(OH2)6]2+(aq) <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFYAAAAeCAAAAACTNrYqAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnLDhYdO0AAAJhSURBVEjHtZRNSFRhFIafsR9/yLScJKsRNEOUEjJNMLA2hSmFIBWohUUJJRJEuSiMWrhKLCprIZKItMiMMkopAtE0DBkaM6uBySQcsNIQ01FG72nhVaPu5Cddz+Lycu55X853/izCYpjfoqjOI+tYBVCzi7qAAqR6v2va/erUrYrCbtpjzg0PFiV0GjHFyKov6iBCROTjTvEWxNXLyIVpZ79tWGQgakh2NIrUZRoJLDXM0jsBcGkq0sNoYYIHCKzNTAmBtqdiKW1IXgnhMY05vp9pJFtROTTRtPtK14tWSqiynfnwHEg8feQhbLo8sbXUHQYQ1g/33tCtLHv0UG1viT/OaADnNt1b3FQGvXdWa2x4C/DNBgfTuV+t2rIg64pAazA2F6B/Ab+am1CYfxiy7D/A7dr7j14b13bfOJASn7dxqv14blGAu6/jXU985I0e0k6mj3dvrj8fJ+8fh3QMNKdOvvxiT/yd+ikawGL2OlRyAnwM2H+YN6lZRCzC6FzCy/x1MD45V/2gGWQU+LfTsaclFosQOzj748BtHRxrmPWt65pBRoHEDsKMP0zTNE3zZDwxvwjSvPaziOmyY3Ht07U118rD8xZjwL5bQfnefvXqwD1fpBXwtWV/2jPHWYrWj3jKafXkKzFU2tCXJiJtIlscIjktKgylIlRlA6kwvAZyr6kwlGTtUQC0ZURAjN002RF/gJ4H14GAnyoMpZaFjgEtnWUWYCzUtGy3O2Eq625y0iNwpqgwlCZhIFWbxdl2FYbaTXhdPKmjqw1KBMXl9SxfoncvWCne9JuwgJYt3H4BB3vlYoqXSrwAAAAASUVORK5CYII=\" style=\"height:26px\" alt=\"\"> [Cu(OH)4(OH)2](s)[Cu(OH2)4(OH)2](s) <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFYAAAAhCAAAAABmGgNSAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnLDhYdO0AAAJ/SURBVEjHtZZdSJNRGMd/01H5rcSE5oWUubIsDUknGn1chEbSQDBWgYRC1E0gRUSFQRddWBnah+CFiSUagYQUyOiDFFMU+oCWGCaR+NFgzHDzi+3pwq3GmHVs839xeHjO8/+dw3ne97yvRlgNRawK9d/Y4dJKwHF5c3ixhnyARBOuu9rdC4xfKe5u0lyz0Zl6Yug/sOZmbxDpHaMrTHMX0B/N22OmREeJzrh1eax2uYnZRYDb/ekDKbyoy7QD69pyD5SoHUJwrK2d0VdzURX9tSPaG0NOc49h0AJsv3XyPQA1Ovi+cuxMH/avmriKN0YtYNUYvPlTlmP1AOezoWfl2I0PMR2uhIVI8I0ANGZfzfpT9nhsLqU8KODvT0JO7zyQMf3Zl0hq7fSbTqu6eGcluwVqE4Ai074M24Sj4fi2aHvXsPX5IQqq3c77tCTrWyYsBTnMJAfY3upTAZBQ1He2LSDzLXdGRCQkrFOkeDIgV33ELSKaUK6aphjXYF1Adxbz9t8EREZi/FTlWzV4Vh74pztERMQSH+svLS9FNIJ7wm+x2ERvEDyLy+6XXh/lDcQjHq8WDu5sDbVlQXQ9fzbUlgXRWMaUhNqyIOpOygRQxHbF5y8FHZuyVOrVsPXz5zDr1n64tNdzxlSk4lA5sHfpbpEnIo25Io5Uu4JD6RPZYI6AUpjcAgm7Hik4lLB9BoDmstc1gKFXwaFVqMEWC1Be3mP8FE3cVLh2G+EB8UDhDyt4IlUcKtgN0zB+D0Y1afBTH65DKByCuI7RNcNPk8BapmJRecC+7Fj8HU8anAoOtTuh/bSP6ygdUDEovrwfXcal4Fl2ikp9uK8ar1bpR/QXiKYJNTGYzJ0AAAAASUVORK5CYII=\" style=\"height:26px\" alt=\"\"> [Cu(NH3)4(OH2)]2+(aq)Những phản ứng có sự tạo thành phức chất là",
+  "options": {
+   "A": "(1) và (2).",
+   "B": "(1) và (3).",
+   "C": "(2) và (3).",
+   "D": "(1), (2) và (3)."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C8_0135",
+  "stem": "(OLTN) Cho sơ đồ chuyển hoá sau:AgNO3(s) <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFMAAAAmCAAAAACdNviuAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnLU9fRHsAAAJvSURBVEjHrVZbSJNhGH7mIc1Z1sUmKCypCKkYWdBkhldBkkIXlRhGhcGQ6EAiuXUgKOhAFlhRF110gKKuIhCqO6XYonJCQ8pQEyuVETZya3Nr39PF3PYv3f5v9r9X7+F5H77v/Z//5dMRmluO9pQSnCNHdcdH0V1TfiuRcu5sOdx4wp+2harmwUeSHZZEone5h6TdGknTkOmc767Mn3c0rwdw1vNkAXcfnL/J/8YKAIWbXqbpy5MZuqME6NPHowlhAAAYv2bL6avGr5+VsLUBuFgJ2HviFR1i+kurwrSc+k70POvE6rmVslwvAMC7IlvO/Ab4ehr+SR4pnw5eK6p1NgMI9bX+zzwTtscK8wfzpfpD64BzVbvTwTIIM/KbJD/txb7PfLTBcJ4kaRon3zfajjV1+Oc0PHeQJCU0n2KvWzMUo+aHC+AcaAtnKjuLXFlz9l4VmQF24zCpIwKlKQPuOphwa93Kwq57UcNK4MwOAKe6AACB2VJxHBOZqXJDR0RfpXCuKUu4fdPKgnFt0h+e/YfG/gghRF61EBRCCPHgbnedzF7Kwr4UXyep03TP15tuQ+M97wrfAABNzzm5uESeMxJaAgCIBpZKoKXuPtQSgri5DUCbSwYv8TUnN3o50d5kIRmqcavjZTj3XybJOxaSfLpZHS9x98BjxRqt6x/QYp794VXJoNCkPlEJzu8FBYpo2bgWnMF8ZbQoqAWnfkYZhfSqDRKcFWHly+hHhXqHujRCJW/Jbxe2lp5+QfpyRjTRZ/vJpH9/uzaa928ZjLtT1lFtODllG4s54QNDEnDJXReJ6YkiVwKs7Z6X1lLW9hf8Ty7eBVcNYgAAAABJRU5ErkJggg==\" style=\"height:26px\" alt=\"\"> [Ag(OH2)4]+(aq) <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFYAAAAhCAAAAABmGgNSAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnLDhYdO0AAAJ3SURBVEjHtVVfSFNRHP7udh+md5YSM9oCiWo0kxQkp0hkPURGo6FBrASpCT0Go4igWNBDVKayCouyGYZYEBFCECOFFJsmsR4yEyyi1crFmLJ/TbZfD7vLy7jWmZvfw7kf3znfd37c37nncoTVgGJVUv8fO9PcBiB4fkt+Y/V1AFBsRuQWvzOO7xcaR5zcJT8Gy1qmVxBreSASpTgWWs2xs9AeMe6ywKSBSVO7bflYfrmJ6CIAdI1vfaPDS0dFAIBqoGavie0lyMf6H+HzcKzAOt45y7dPhy2j+kkXgO0dxz0AgGsa4Gv2sSE3Ap+4IuurWh7AFKcX9ZOuozcA4EwVMJp97KaHMB9sA+JKID0CAO5WXaxcWvbYG9O1ygb8+yRUj/0GYJj/kBZK+gcl05tt525mUy2AzrUA9psbDH5f8Pax8sLAi5mp5wdQb0+Eu9FXqu3zueqrESrNsL3WlgEAKBe4Tw1kKF9qQkREOcWGiRp/ZGj2Qwki4nK5apxCZNKR0Z1F457rAIhmBQls6V3lVeqVyk+JiMi1Ri0FjyEijpDwSTZTF4tEXkUkIJHXFYiEkpQUEd+3oz/Xlsngcl0015bJwGv4Sbm2TAYjJRXs5zbYkWbvnjAZmKqdO9GzHod1/Mer5ejx2lmqZtm7yUlE3UTtDUS0e4jBwRL7TRVNkTuVRNTVzGBh+fNObFSliLsFgH6MwcIS61ennsMJG4CiOQYLz7BGkQQAPPM4FQCSLJWwrNkwDwCOsF0BAAtaBgtLy36pQkTvlYIgCDGiK615OgnU1rvEk8a3+YpdaJr4m3r6HouD7eON308zj5vJkO+rJouTsAL8AUfVP9+ckHJLAAAAAElFTkSuQmCC\" style=\"height:26px\" alt=\"\"> Ag2O(s)Ag2O(s) <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFYAAAAhCAAAAABmGgNSAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnK6Y84U4AAAJ/SURBVEjHtZZdSJNRGMd/01H5rcSE5oWUubIsDUknGn1chEbSQDBWgYRC1E0gRUSFQRddWBnah+CFiSUagYQUyOiDFFMU+oCWGCaR+NFgzHDzi+3pwq3GmHVs839xeHjO8/+dw3ne97yvRlgNRawK9d/Y4dJKwHF5c3ixhnyARBOuu9rdC4xfKe5u0lyz0Zl6Yug/sOZmbxDpHaMrTHMX0B/N22OmREeJzrh1eax2uYnZRYDb/ekDKbyoy7QD69pyD5SoHUJwrK2d0VdzURX9tSPaG0NOc49h0AJsv3XyPQA1Ovi+cuxMH/avmriKN0YtYNUYvPlTlmP1AOezoWfl2I0PMR2uhIVI8I0ANGZfzfpT9nhsLqU8KODvT0JO7zyQMf3Zl0hq7fSbTqu6eGcluwVqE4Ai074M24Sj4fi2aHvXsPX5IQqq3c77tCTrWyYsBTnMJAfY3upTAZBQ1He2LSDzLXdGRCQkrFOkeDIgV33ELSKaUK6aphjXYF1Adxbz9t8EREZi/FTlWzV4Vh74pztERMQSH+svLS9FNIJ7wm+x2ERvEDyLy+6XXh/lDcQjHq8WDu5sDbVlQXQ9fzbUlgXRWMaUhNqyIOpOygRQxHbF5y8FHZuyVOrVsPXz5zDr1n64tNdzxlSk4lA5sHfpbpEnIo25Io5Uu4JD6RPZYI6AUpjcAgm7Hik4lLB9BoDmstc1gKFXwaFVqMEWC1Be3mP8FE3cVLh2G+EB8UDhDyt4IlUcKtgN0zB+D0Y1afBTH65DKByCuI7RNcNPk8BapmJRecC+7Fj8HU8anAoOtTuh/bSP6ygdUDEovrwfXcal4Fl2ikp9uK8ar1bpR/QXiKYJNTGYzJ0AAAAASUVORK5CYII=\" style=\"height:26px\" alt=\"\"> [Ag(NH3)2]+(aq) <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFYAAAAhCAAAAABmGgNSAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnLDhYdO0AAAJkSURBVEjHtZRNSFRhFIYfx6smwmAEKcTYH5mBEAqpGSSCVKRCkWAgUy0K+5OwpkRT6ccCBwsyiygXtkkzNKQkolpIsxiVRKRo0EkiKwgFpxxBcbxfi/HeaXFjvoE7Z/FyzuG8Ly/n3u/ECKIRlqiohpWdrSrT0UTZ1Xs17Ep2THN7zwD0Hr7YaG+ga01OgNGSpnkjnjCOzw9Xkv5DGq57LyYqF4ToyfgthHAKcTT7mhDXJ4zoyn9cfu07AXyq3zalIeBtuZMAztNWwAHK453F2ZEsYdLt8bndKpXnbpazguAtzEkAxtIBYoDMuiOLxrLGbp+98P108CZ+MA9YHswLdgdb7TmZIEJWLvU1WCNwW+NqyXe5ElXVAgQRqDhYVeaH7R6AGYDYjvuuyP+EuAyXjgA0pR6Hy22zQBsAGVdfR7AEKNwBcM+xFY83iENzPbb1nVlVdaWWU7bEKStPxvqLqX5uzBcmx9lhIYQwXXZyyw8hhOk3YeOZ0nlQoNsZaua3almRL9TtyNQyg9lu57xH75WAOmLvRYGCtNBosp41L4W6G/TMYLYgjbGAGgxruqqOv6qAGLPvrdi9vzYK97ZjUy1RkF18FDQtFe9GtOyBX2Zezm33cBbAhStw4NiCBEFKdqa2GuDlAJCSe8Ms2adF8cC30X0A5e1myX7YDCzdqgHA5vtu1hKSgObquGCVNB2eoYQfAYuA5bvt+LA0giphRUp27R+I/QX1SiOo/lSTlpA7/k/xxZYSniF1E+Z2Da3SC6dyXoIi9cjengxoqdsekCBIPt6P+uPtlFEVph/GCD5Z5PEXTNmYCt0LuakAAAAASUVORK5CYII=\" style=\"height:26px\" alt=\"\"> [Ag(CN)2](aq)Những phản ứng có sự tạo thành phức chất là",
+  "options": {
+   "A": "(1), (2), (3).",
+   "B": "(1), (3), (4).",
+   "C": "(2), (3), (4).",
+   "D": "(1), (2), (4)."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C8_0136",
+  "stem": "(OLTN) Số nguyên tử nitrogen có trong phức chất tạo bởi giữa Ni2+ với EDTA là",
+  "options": {
+   "A": "2.",
+   "B": "4.",
+   "C": "6.",
+   "D": "8."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C8_0137",
+  "stem": "(OLTN) Điện tích của phức tạo bởi giữa Ni2+ với EDTA là",
+  "options": {
+   "A": "+2.",
+   "B": "–2.",
+   "C": "+4.",
+   "D": "–4."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C8_0138",
+  "stem": "(SBT – KNTT) Phát biểu nào sau đây đúng?",
+  "options": {
+   "A": "Phức chất aqua là phức chất chứa phối tử NH3.",
+   "B": "Phức chất của kim loại chuyển tiếp đều tan trong dung dịch.",
+   "C": "Muối CuSO4 khan màu trắng khi tan vào nước tạo thành dung dịch có màu xanh do tạo thành phức chất aqua [Cu(H2O)6]2+.",
+   "D": "Phức chất của kim loại chuyển tiếp đều có màu."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C8_0139",
+  "stem": "(SBT – KNTT) Phát biểu nào sau đây không đúng?",
+  "options": {
+   "A": "Trong dung dịch, các ion kim loại chuyển tiếp đều tạo phức chất aqua.",
+   "B": "Các phối tử H2O trong phức chất aqua không thể bị thế bởi các phối tử khác.",
+   "C": "Phức chất aqua của các ion kim loại chuyển tiếp hầu hết có dạng hình học bát diện.",
+   "D": "Các phối tử trong phức chất có thể bị thay thế một phần hoặc thay thế hết bởi các phối tử khác."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C8_0140",
+  "stem": "(SBT – KNTT) Phát biểu nào sau đây đúng?",
+  "options": {
+   "A": "Các phối tử trong phức chất chỉ có thể bị thế một phần bởi các phối tử khác.",
+   "B": "Các phối tử trong phức chất chỉ có thể bị thế tất cả bởi các phối tử khác.",
+   "C": "Tất cả các phức chất aqua đều kém tan trong nước.",
+   "D": "Phức chất được dùng làm thuốc chữa bệnh ung thư với tên gọi thương phẩm là cisplatin có công thức hoá học là [PtCl2(NH3)2]."
+  },
+  "answer": "D"
+ }
+]

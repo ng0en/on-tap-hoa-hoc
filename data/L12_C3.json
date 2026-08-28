@@ -1,0 +1,2631 @@
+[
+ {
+  "id": "L12_C3_0001",
+  "stem": "(Đề TN THPT QG - 2020) Chất nào sau đây là amine?",
+  "options": {
+   "A": "C2H5NH2.",
+   "B": "HCOOH.",
+   "C": "C2H5OH.",
+   "D": "CH3COOC2H5."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C3_0002",
+  "stem": "(Đề MH – 2022) Phân tử chất nào sau đây chứa nguyên tử nitrogen?",
+  "options": {
+   "A": "Acetic acid.",
+   "B": "Methylamine.",
+   "C": "Tinh bột.",
+   "D": "Glucose."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C3_0003",
+  "stem": "(Đề TSCĐ - 2012) Công thức chung của amine no, đơn chức, mạch hở là",
+  "options": {
+   "A": "CnH2n-5N (n ≥ 6).",
+   "B": "CnH2n+1N (n ≥ 2).",
+   "C": "CnH2n-1N (n ≥ 2).",
+   "D": "CnH2n+3N (n ≥1)."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C3_0004",
+  "stem": "Công thức tổng quát của amine no, mạch hở có dạng là",
+  "options": {
+   "A": "CnH2n+3N.",
+   "B": "CnH2n+2+kNk.",
+   "C": "CnH2n+2-2a+kNk.",
+   "D": "CnH2n+1N."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C3_0005",
+  "stem": "Công thức chung của amine không no (có 1C=C), đơn chức, mạch hở là",
+  "options": {
+   "A": "CnH2n-5N (n ≥ 6).",
+   "B": "CnH2n+1N (n ≥ 2).",
+   "C": "CnH2n-1N (n ≥ 2).",
+   "D": "CnH2n+3N (n ≥1)."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C3_0006",
+  "stem": "(Đề TSĐH A - 2011) Alcohol và amine nào sau đây cùng bậc?",
+  "options": {
+   "A": "(CH3)3COH và (CH3)3CNH2.",
+   "B": "(C6H5)2NH và C6H5CH2OH.",
+   "C": "(CH3)2CHOH và (CH3)2CHNH2.",
+   "D": "C6H5NHCH3 và C6H5CH(OH)CH3."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C3_0007",
+  "stem": "(Đề THPT QG - 2016) Chất nào sau đây thuộc loại amine bậc ba?",
+  "options": {
+   "A": "C2H5-NH2.",
+   "B": "(CH3)3N.",
+   "C": "CH3-NH-CH3.",
+   "D": "CH3-NH2."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C3_0008",
+  "stem": "(SBT Hóa học 12 – CB) Trong các chất dưới đây, chất nào là amine bậc hai?",
+  "options": {
+   "A": "H2N[CH2]6NH2.",
+   "B": "(CH3)2CHNH2.",
+   "C": "CH3NHCH3.",
+   "D": "C6H5NH2."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C3_0009",
+  "stem": "(Đề MH – 2023) Chất nào sau đây là amine bậc một?",
+  "options": {
+   "A": "CH3NHC2H5.",
+   "B": "(CH3)2NH.",
+   "C": "(C2H5)3N.",
+   "D": "C6H5NH2."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C3_0010",
+  "stem": "(Đề MH - 2024) Chất nào sau đây thuộc loại amine bậc một?",
+  "options": {
+   "A": "Triolein.",
+   "B": "Trimethylamine.",
+   "C": "Dimethylamine.",
+   "D": "Methylamine."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C3_0011",
+  "stem": "(Đề TSCĐ - 2010) Số amine thơm bậc một ứng với công thức phân tử C7H9N là",
+  "options": {
+   "A": "3.",
+   "B": "2.",
+   "C": "5.",
+   "D": "4."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C3_0012",
+  "stem": "(Đề TSCĐ - 2009) Số đồng phân cấu tạo của amine bậc một có cùng công thức phân tử C4H11N là",
+  "options": {
+   "A": "4.",
+   "B": "5.",
+   "C": "2.",
+   "D": "3."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C3_0013",
+  "stem": "(Đề MH lần II - 2017) Số amine có công thức phân tử C3H9N là",
+  "options": {
+   "A": "2.",
+   "B": "3.",
+   "C": "4.",
+   "D": "5."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C3_0014",
+  "stem": "(Đề TSĐH A - 2012) Số amine bậc một có cùng công thức phân tử C3H9N là",
+  "options": {
+   "A": "3.",
+   "B": "1.",
+   "C": "2.",
+   "D": "4."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C3_0015",
+  "stem": "(SGK – KNTT) Trong các đồng phân cấu tạo của các amine có công thức C3H9N, số amine bậc hai là",
+  "options": {
+   "A": "0.",
+   "B": "1.",
+   "C": "2.",
+   "D": "3."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C3_0016",
+  "stem": "(Đề TSĐH A - 2010) Trong số các chất: C3H8, C3H7Cl, C3H8O và C3H9N; chất có nhiều đồng phân cấu tạo nhất là",
+  "options": {
+   "A": "C3H9N.",
+   "B": "C3H7Cl.",
+   "C": "C3H8O.",
+   "D": "C3H8."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C3_0017",
+  "stem": "(Đề TSĐH A - 2014) Có bao nhiêu amine bậc ba là đồng phân cấu tạo của nhau ứng với công thức phân tử C5H13N?",
+  "options": {
+   "A": "4.",
+   "B": "2.",
+   "C": "5.",
+   "D": "3."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C3_0018",
+  "stem": "(SGK – CTST) Số đồng phân amine bậc hai có công thức phân tử C5H13N là",
+  "options": {
+   "A": "6.",
+   "B": "3.",
+   "C": "4.",
+   "D": "5."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C3_0019",
+  "stem": "(Đề THPT QG - 2017) Công thức phân tử của dimethylamine là",
+  "options": {
+   "A": "C2H8N2.",
+   "B": "C2H7N.",
+   "C": "C4H11N",
+   "D": "C2H6N2."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C3_0020",
+  "stem": "(Đề TNTHPT – 2022) Công thức phân tử của ethylamine là",
+  "options": {
+   "A": "C4H11N.",
+   "B": "CH5N.",
+   "C": "C3H9N.",
+   "D": "C2H7N."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C3_0021",
+  "stem": "(Đề TNTHPT – 2022) Chất X có công thức CH3NH2. Tên gọi của X là",
+  "options": {
+   "A": "trimethylamine.",
+   "B": "ethylamine.",
+   "C": "methylamine.",
+   "D": "dimethylamine."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C3_0022",
+  "stem": "(Đề TNTHPT – 2023) Hợp chất C2H5NHC2H5 có tên là",
+  "options": {
+   "A": "ethylmethylamine.",
+   "B": "dimethylamine.",
+   "C": "propylamine.",
+   "D": "diethylamine."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C3_0023",
+  "stem": "(Đề TNTHPT – 2023) Hợp chất CH3NHCH3 có tên là",
+  "options": {
+   "A": "propylamine.",
+   "B": "diethylamine.",
+   "C": "ethylmethylamine.",
+   "D": "dimethylamine."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C3_0024",
+  "stem": "(SGK – CTST) Tên gọi và bậc của amine có công thức cấu tạo CH3CH2CH(CH3)CH2-NH2 là",
+  "options": {
+   "A": "3-methylbutan-4-amine, bậc một.",
+   "B": "2-methylbutan-l-amine, bậc hai.",
+   "C": "3-methylbutan-4-amine, bậc hai.",
+   "D": "2-methylbutan-l-amine, bậc một."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C3_0025",
+  "stem": "(SBT Hóa học 12 – CB) Trong các tên gọi dưới đây, tên nào phù hợp với chất (CH3)2CHNH2?",
+  "options": {
+   "A": "Methylethylamine.",
+   "B": "Ethylmethylamine.",
+   "C": "Isopropanamine.",
+   "D": "Isopropylamine."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C3_0026",
+  "stem": "(SBT Hóa học 12 – CB) Trong các tên gọi sau tên gọi nào phù hợp với chất C6H5CH2NH2?",
+  "options": {
+   "A": "Benzylamine.",
+   "B": "Benzenamine.",
+   "C": "Phenylamine.",
+   "D": "Aniline."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C3_0027",
+  "stem": "(Đề MH lần III - 2017) Dung dịch chất nào sau đây không làm quỳ tím chuyển màu?",
+  "options": {
+   "A": "Ethylamine.",
+   "B": "Aniline.",
+   "C": "Methylamine.",
+   "D": "Trimethylamine."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C3_0028",
+  "stem": "(Đề TSĐH B - 2008) Chất phản ứng với dung dịch FeCl3 cho kết tủa là",
+  "options": {
+   "A": "CH3NH2.",
+   "B": "CH3COOCH3.",
+   "C": "CH3OH.",
+   "D": "CH3COOH."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C3_0029",
+  "stem": "(Đề THPT QG - 2019) Ethylamine tác dụng được với chất nào sau đây trong dung dịch?",
+  "options": {
+   "A": "K2SO4.",
+   "B": "NaOH.",
+   "C": "HCl.",
+   "D": "KCl."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C3_0030",
+  "stem": "Aniline và phenol đều có phản ứng với",
+  "options": {
+   "A": "dung dịch NaCl.",
+   "B": "nước Br2.",
+   "C": "dung dịch HCl.",
+   "D": "dung dịch NaOH."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C3_0031",
+  "stem": "(Đề THPT QG - 2017) Nhỏ vài giọt nước bromine vào ống nghiệm chứa aniline, hiện tượng quan sát được là",
+  "options": {
+   "A": "xuất hiện màu xanh.",
+   "B": "xuất hiện màu tím.",
+   "C": "có kết tủa màu trắng.",
+   "D": "có bọt khí thoát ra."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C3_0032",
+  "stem": "(Đề TSĐH B - 2007) Có 3 chất lỏng benzene, aniline, styrene, đựng riêng biệt trong 3 lọ mất nhãn. Thuốc thử để phân biệt 3 chất lỏng trên là",
+  "options": {
+   "A": "dung dịch phenolphthalein.",
+   "B": "nước bromine.",
+   "C": "dung dịch NaOH.",
+   "D": "giấy quì tím."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C3_0033",
+  "stem": "Chất hữu cơ X có công thức phân tử là C3H9O2N. X tác dụng với NaOH đun nóng thu được muối Y có phân tử khối nhỏ hơn phân tử khối của X. X không thể là chất nào?",
+  "options": {
+   "A": "CH3CH2COONH4.",
+   "B": "CH3COONH3CH3.",
+   "C": "HCOONH2(CH3)2.",
+   "D": "HCOONH3CH2CH3."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C3_0034",
+  "stem": "(Đề THPT QG - 2018) Kết quả thí nghiệm của các chất X, Y, Z với các thuốc thử được ghi ở bảng sau:Các chất X, Y, Z lần lượt là:",
+  "options": {
+   "A": "Aniline, glucose, ethylamine.",
+   "B": "Ethylamine, glucose, aniline.",
+   "C": "Ethylamine, aniline, glucose.",
+   "D": "Glucose, ethylamine, aniline."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C3_0035",
+  "stem": "(Đề THPT QG - 2018) Kết quả thí nghiệm của các chất X, Y, Z với các thuốc thử được ghi ở bảng sau:Các chất X, Y, Z lần lượt là:",
+  "options": {
+   "A": "Tinh bột, aniline, ethyl formate.",
+   "B": "Ethyl formate, tinh bột, aniline.",
+   "C": "Tinh bột, ethyl formate, aniline.",
+   "D": "Aniline, ethyl formate, tinh bột."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C3_0036",
+  "stem": "(Đề TSĐH A - 2007) Phát biểu nào sau đây không đúng?",
+  "options": {
+   "A": "Acetic acid phản ứng với dung dịch NaOH, lấy dung dịch muối vừa tạo ra cho tác dụng với khí CO2 lại thu được acetic acid.",
+   "B": "Phenol phản ứng với dung dịch NaOH, lấy muối vừa tạo ra cho tác dụng với dung dịch HCl lại thu được phenol.",
+   "C": "Aniline phản ứng với dung dịch HCl, lấy muối vừa tạo ra cho tác dụng với dung dịch NaOH lại thu được aniline.",
+   "D": "Dung dịch sodium phenolate phản ứng với khí CO2, lấy kết tủa vừa tạo ra cho tác dụng với dung dịch NaOH lại thu được sodium phenolate."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C3_0037",
+  "stem": "(Đề MH lần I - 2017) Phát biểu nào sau đây đúng?",
+  "options": {
+   "A": "Tất cả các amine đều làm quỳ tím ẩm chuyển màu xanh.",
+   "B": "Ở nhiệt độ thường, tất cả các amine đều tan nhiều trong nước.",
+   "C": "Để rửa sạch ống nghiệm có dính aniline, có thể dùng dung dịch HCl.",
+   "D": "Các amine đều không độc, được sử dụng trong chế biến thực phẩm."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C3_0038",
+  "stem": "(TSĐH A – 2009) Phát biểu nào sau đây là đúng?",
+  "options": {
+   "A": "Aniline tác dụng với nitrous acid (HNO2) khi đun nóng, thu được muối diazonium.",
+   "B": "Benzene làm mất màu nước bromine ở nhiệt độ thường.",
+   "C": "Ethylamine phản ứng với nitrous acid (HNO2) ở nhiệt độ thường, sinh ra bọt khí.",
+   "D": "Các alcohol đa chức đều phản ứng với Cu(OH)2 tạo dung dịch màu xanh lam."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C3_0039",
+  "stem": "(SGK – Cánh Diều) Phát biểu nào dưới đây không đúng?",
+  "options": {
+   "A": "Phân tử ethylamine chứa nhóm chức –NH2.",
+   "B": "Ethylamine tan tốt trong nước.",
+   "C": "Ethylamine tác dụng với nitrous acid thu được muối diazonium.",
+   "D": "Dung dịch ethylamine trong nước làm quỳ tím hóa xanh."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C3_0040",
+  "stem": "(SGK – KNTT) Cho các phát biểu sau:(1) Dung dịch ethylamine và dung dịch aniline đều làm xanh giấy quỳ tím.(2) Nhỏ từ từ đến dư dung dịch methylamine vào dung dịch copper(II) sulfate, ban đầu thấy xuất hiện kết tủa màu xanh nhạt, sau đó kết tủa tan tạo thành dung dịch màu xanh lam.(3) Cho dung dịch methylamine vào ống nghiệm đựng dung dịch iron(III) chloride thấy xuất hiện kết tủa nâu đỏ.(4) Nhỏ vài giọt dung dịch aniline vào ống nghiệm đựng nước bromine thấy xuất hiện kết tủa trắng.Số phát biểu đúng là",
+  "options": {
+   "A": "1.",
+   "B": "2.",
+   "C": "3.",
+   "D": "4."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C3_0041",
+  "stem": "(Đề TNTHPT – 2023) Chất nào sau đây có chứa nguyên tố nitrogen trong phân tử?",
+  "options": {
+   "A": "Ethyl formate.",
+   "B": "Saccharose.",
+   "C": "Tristearin.",
+   "D": "Alanine."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C3_0043",
+  "stem": "(SBT – CTST) Có bao nhiêu amino acid cần thiết phải cung cấp cho cơ thể thông qua thực phẩm, dinh dưỡng?",
+  "options": {
+   "A": "9.",
+   "B": "20.",
+   "C": "10.",
+   "D": "18."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C3_0044",
+  "stem": "(Đề TSCĐ - 2012) Số nhóm amino và số nhóm carboxyl có trong một phân tử glutamic acid tương ứng là",
+  "options": {
+   "A": "1 và 2.",
+   "B": "1 và 1.",
+   "C": "2 và 1.",
+   "D": "2 và 2."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C3_0045",
+  "stem": "(Đề TN THPT QG – 2020) Số nhóm carboxyl (COOH) trong phân tử alanine là",
+  "options": {
+   "A": "3.",
+   "B": "4.",
+   "C": "2.",
+   "D": "1."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C3_0046",
+  "stem": "(Đề THPT QG - 2017) Hợp chất H2NCH2COOH có tên là",
+  "options": {
+   "A": "valine.",
+   "B": "lysine.",
+   "C": "alanine.",
+   "D": "glycine."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C3_0047",
+  "stem": "(Đề TN THPT QG – 2020) Số nhóm amino (NH2) trong phân tử alanine là",
+  "options": {
+   "A": "4.",
+   "B": "2.",
+   "C": "3.",
+   "D": "1."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C3_0048",
+  "stem": "(Đề MH lần II - 2017) Amino acid có phân tử khối nhỏ nhất là",
+  "options": {
+   "A": "Glycine.",
+   "B": "Alanine.",
+   "C": "Valine.",
+   "D": "Lysine."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C3_0049",
+  "stem": "(SBT Hóa học 12 – CB) Trong các tên gọi dưới đây, tên nào không phù hợp với hợp chất CH3CH(NH2)COOH?",
+  "options": {
+   "A": "2-aminopropanoic acid.",
+   "B": "α-aminopropionic acid.",
+   "C": "Aniline.",
+   "D": "Alanine."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C3_0050",
+  "stem": "(SBT Hóa học 12 – CB) Trong các chất dưới đây, tên nào không phù hợp với chất H2N[CH2]4CH(NH2)COOH?",
+  "options": {
+   "A": "1,5-diaminohexanoic acid.",
+   "B": "2,6-diaminohexanoic acid.",
+   "C": "α,ε-diaminocaproic acid.",
+   "D": "Lysine."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C3_0051",
+  "stem": "(Đề TSCĐ - 2012) Cho các chất hữu cơ: CH3CH(CH3)NH2(X) và CH3CH(NH2)COOH (Y). Tên thay thế của X và Y lần lượt là",
+  "options": {
+   "A": "propan-1-amine và 2-aminopropanoic acid.",
+   "B": "propan-1-amine và aminoethanoic acid.",
+   "C": "propan-2-amine và aminoethanoic acid.",
+   "D": "propan-2-amine và 2-aminopropanoic acid."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C3_0052",
+  "stem": "(Đề MH – 2023) Ở điều kiện thường, chất nào sau đây là chất rắn?",
+  "options": {
+   "A": "Dimethylamine.",
+   "B": "Ethylamine.",
+   "C": "Glycine.",
+   "D": "Methylamine."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C3_0053",
+  "stem": "(SBT – CTST) Nguyên nhân chủ yếu dẫn đến tính tan của amino acid trong nước là do",
+  "options": {
+   "A": "phân tử phân cực mạnh nên dễ tan trong nước.",
+   "B": "cấu tạo lưỡng cực của phân tử, có tính kị nước nên ít tan trong nước.",
+   "C": "năng lượng liên kết của phân tử lớn, khó phá vỡ nên ít tan trong nước.",
+   "D": "hình thành liên kết hydrogen với nước nên dễ tan trong nước."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C3_0054",
+  "stem": "(SBT – CTST) Ở điều kiện thường, trạng thái tồn tại của amino acid là",
+  "options": {
+   "A": "thể lỏng.",
+   "B": "thể khí.",
+   "C": "thể rắn.",
+   "D": "thể rắn và lỏng."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C3_0055",
+  "stem": "(SBT – CTST) Amino acid không có loại phản ứng nào sau đây?",
+  "options": {
+   "A": "Phản ứng với acid và base.",
+   "B": "Phản ứng ester hoá.",
+   "C": "Phản ứng trùng ngưng.",
+   "D": "Phản ứng thuỷ phân."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C3_0056",
+  "stem": "(SBT – CTST) Tính lưỡng tính của amino acid thể hiện qua phản ứng với",
+  "options": {
+   "A": "acid mạnh, base mạnh.",
+   "B": "acid, kim loại kiềm.",
+   "C": "alcohol trong môi trường acid mạnh.",
+   "D": "Cu(OH)2, loại phản ứng màu biuret."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C3_0057",
+  "stem": "(Đề THPT QG - 2019) Dung dịch nào sau đây không làm đổi màu quỳ tím?",
+  "options": {
+   "A": "NaOH.",
+   "B": "H2NCH2COOH.",
+   "C": "HCl.",
+   "D": "CH3NH2."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C3_0060",
+  "stem": "(Đề TSĐH A - 2011) Dung dịch nào sau đây làm quỳ tím đổi thành màu xanh?",
+  "options": {
+   "A": "Dung dịch glycine.",
+   "B": "Dung dịch lysine.",
+   "C": "Dung dịch alanine.",
+   "D": "Dung dịch valine."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C3_0061",
+  "stem": "(Đề TSĐH A - 2011) Cho ba dung dịch có cùng nồng độ mol: (1) H2NCH2COOH, (2) CH3COOH, (3) CH3CH2NH2. Dãy xếp theo thứ tự pH tăng dần là:",
+  "options": {
+   "A": "(2), (1), (3).",
+   "B": "(3), (1), (2).",
+   "C": "(1), (2), (3).",
+   "D": "(2), (3), (1)."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C3_0062",
+  "stem": "(Đề TN THPT QG - 2020) Dung dịch nào sau đây làm xanh giấy quỳ tím?",
+  "options": {
+   "A": "Glutamic acid.",
+   "B": "Methylamine.",
+   "C": "Alanine.",
+   "D": "Glycine."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C3_0063",
+  "stem": "(Đề TSĐH A - 2012) Dung dịch chất nào sau đây làm quỳ tím chuyển thành màu hồng?",
+  "options": {
+   "A": "Aminoacetic acid.",
+   "B": "α-aminopropionic acid.",
+   "C": "α-aminoglutaric acid.",
+   "D": "α,ε-diaminocaproic acid."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C3_0064",
+  "stem": "(Đề MH - 2021) Dung dịch nào sau đây làm quỳ tím chuyển sang màu xanh?",
+  "options": {
+   "A": "Glycine.",
+   "B": "Methylamine.",
+   "C": "Aniline.",
+   "D": "Glucose."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C3_0065",
+  "stem": "(Đề TN THPT QG – 2021) Dung dịch chất nào sau đây làm quỳ tím chuyển thành màu hồng?",
+  "options": {
+   "A": "Glutamic acid.",
+   "B": "Glycine.",
+   "C": "Alanine.",
+   "D": "Valine."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C3_0066",
+  "stem": "(SBT Hóa học 12 – CB) Để phân biệt 3 dung dịch: H2NCH2COOH; CH3COOH; C2H5NH2, chỉ cần dùng một thuốc thử là",
+  "options": {
+   "A": "dung dịch NaOH.",
+   "B": "dung dịch HCl.",
+   "C": "sodium kim loại.",
+   "D": "quỳ tím."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C3_0067",
+  "stem": "(Đề THPT QG - 2019) Aminoacetic acid (H2N-CH2-COOH) tác dụng được với dung dịch nào sau đây?",
+  "options": {
+   "A": "NaNO3.",
+   "B": "NaCl.",
+   "C": "HCl.",
+   "D": "Na2SO4."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C3_0068",
+  "stem": "(Đề TSĐH B - 2007) Cho các loại hợp chất: amino acid (X), muối ammonium của carboxylic acid (Y), amine (Z), ester của amino acid (T). Dãy gồm các loại hợp chất đều tác dụng với dung dịch NaOH và dung dịch HCl là",
+  "options": {
+   "A": "Y, Z, T.",
+   "B": "X, Y, T.",
+   "C": "X, Y, Z, T.",
+   "D": "X, Y, Z."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C3_0069",
+  "stem": "(Đề TSĐH B - 2010) Hai hợp chất hữu cơ X và Y có cùng công thức phân tử là C3H7NO2, đều là chất rắn ở điều kiện thường. Chất X phản ứng với dung dịch NaOH, giải phóng khí. Chất Y có phản ứng trùng ngưng. Các chất X và Y lần lượt là",
+  "options": {
+   "A": "vinylammonium formate và ammonium acrylate.",
+   "B": "ammonium acrylate và 2-aminopropionic acid.",
+   "C": "2-aminopropionic acid và ammonium acrylate.",
+   "D": "2-aminopropionic acid và 3-aminopropionic acid."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C3_0070",
+  "stem": "(Đề TSCĐ - 2009) Chất X có công thức phân tử C3H7O2N và làm mất màu nước bromine. Tên gọi của X là",
+  "options": {
+   "A": "methyl aminoacetate.",
+   "B": "α-aminopropionic acid.",
+   "C": "ammonium acrylate.",
+   "D": "β-aminopropionic acid."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C3_0071",
+  "stem": "(Đề TSCĐ - 2011) Hai chất nào sau đây đều tác dụng được với dung dịch NaOH loãng?",
+  "options": {
+   "A": "CH3NH3Cl và CH3NH2.",
+   "B": "CH3NH3Cl và H2NCH2COONa.",
+   "C": "CH3NH2 và H2NCH2COOH.",
+   "D": "ClH3NCH2COOC2H5 và H2NCH2COOC2H5."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C3_0072",
+  "stem": "(Đề THPT QG - 2017) Kết quả thí nghiệm của các dung dịch X, Y, Z, T với thuốc thử được ghi ở bảng sau:Các dung dịch X, Y, Z, T lần lượt là:",
+  "options": {
+   "A": "Glutamic acid, tinh bột, aniline, glucose.",
+   "B": "Glutamic acid, tinh bột, glucose, aniline.",
+   "C": "Glutamic acid, glucose, tinh bột, aniline.",
+   "D": "Aniline, tinh bột, glucose, glutamic acid."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C3_0073",
+  "stem": "(Đề THPT QG - 2015) Bảng dưới đây ghi lại hiện tượng khi làm thí nghiệm với các chất sau ở dạng dung dịch nước: X, Y, Z, T và Q.Các chất X, Y, Z, T và Q lần lượt là:",
+  "options": {
+   "A": "Glycerol, glucose, ethylene glycol, methanol, acetaldehyde.",
+   "B": "Phenol, glucose, glycerol, ethanol, aldehyde formic.",
+   "C": "Aniline, glucose, glycerol, aldehyde formic, methanol.",
+   "D": "Fructose, glucose, acetaldehyde, ethanol, aldehyde formic."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C3_0074",
+  "stem": "(Đề THPT QG - 2018) Kết quả thí nghiệm của các chất X, Y, Z với các thuốc thử được ghi ở bảng sau:Các chất X, Y, Z lần lượt là:",
+  "options": {
+   "A": "Ethyl formate, glutamic acid, aniline.",
+   "B": "Glutamic acid, ethyl formate, aniline.",
+   "C": "Aniline, ethyl formate, glutamic acid.",
+   "D": "Glutamic acid, aniline, ethyl formate."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C3_0075",
+  "stem": "(Đề TSĐH A - 2008) Phát biểu nào sau đây không đúng?",
+  "options": {
+   "A": "Trong dung dịch, H2N-CH2-COOH còn tồn tại ở dạng ion lưỡng cực H3N+-CH2-COO–.",
+   "B": "Amino acid là hợp chất hữu cơ tạp chức, phân tử chứa đồng thời nhóm -NH2 và nhóm -COOH.",
+   "C": "Amino acid là những chất rắn, kết tinh, tan tốt trong nước và có vị ngọt.",
+   "D": "Hợp chất H2N-CH2-COOH3N-CH3 là ester của glycine."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C3_0076",
+  "stem": "(Đề THPT QG - 2017) Phát biểu nào sau đây sai?",
+  "options": {
+   "A": "Dung dịch glutamic acid làm quỳ tím chuyển màu hồng.",
+   "B": "Amino acid là hợp chất hữu cơ tạp chức.",
+   "C": "Dung dịch glycine không làm đổi màu phenolphthalein.",
+   "D": "Aniline tác dụng với nước bromine tạo thành kết tủa màu vàng."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C3_0077",
+  "stem": "(Đề THPT QG - 2015) Cho các phát biểu sau:(a) Ở nhiệt độ thường, Cu(OH)2 tan được trong dung dịch glycerol.(b) Ở nhiệt độ thường, C2H4 phản ứng được với nước bromine.(c) Đốt cháy hoàn toàn CH3COOCH3 thu được số mol CO2 bằng số mol H2O.(d) Glycine (H2NCH2COOH) phản ứng được với dung dịch NaOH.Số phát biểu đúng là",
+  "options": {
+   "A": "3.",
+   "B": "4.",
+   "C": "1.",
+   "D": "2."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C3_0078",
+  "stem": "(Đề THPT QG - 2018) Cho các phát biểu sau:(a) Phản ứng thế bromine vào vòng thơm của aniline dễ hơn benzene.(b) Có hai chất hữu cơ đơn chức, mạch hở có cùng công thức C2H4O2.(c) Trong phân tử, các amino acid đều chỉ có một nhóm NH2 và một nhóm COOH.(d) Hợp chất H2N-CH2-COO-CH3 tác dụng được với dung dịch NaOH và dung dịch HCl.(e) Thủy phân hoàn toàn tinh bột và cellulose đều thu được glucose.(g) Mỡ động vật và dầu thực vật chứa nhiều chất béo.Số phát biểu đúng là",
+  "options": {
+   "A": "6.",
+   "B": "3.",
+   "C": "4.",
+   "D": "5."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C3_0079",
+  "stem": "(Đề THPT QG - 2018) Cho các phát biểu sau:(a) Thủy phân triolein, thu được ethylene glycol.(b) Tinh bột bị thủy phân khi có xúc tác acid hoặc enzyme.(c) Thủy phân vinyl formate, thu được hai sản phẩm đều có phản ứng tráng bạc.(d) Trùng ngưng ε-aminocaproic acid, thu được polycaproamide.(e) Chỉ dùng quỳ tím có thể phân biệt ba dung dịch: alanine, lysine, glutamic acid.(g) Phenylamine tan ít trong nước nhưng tan tốt trong dung dịch HCl.Số phát biểu đúng là",
+  "options": {
+   "A": "4.",
+   "B": "3.",
+   "C": "5.",
+   "D": "2."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C3_0080",
+  "stem": "(Đề THPT QG - 2018) Thực hiện các thí nghiệm sau:(a) Sục khí CH3NH2 vào dung dịch CH3COOH.(b) Đun nóng tinh bột trong dung dịch H2SO4 loãng.(c) Sục khí H2 vào nồi kín chứa triolein (xúc tác Ni), đun nóng.(d) Nhỏ vài giọt nước bromine vào dung dịch aniline.(e) Cho dung dịch HCl vào dung dịch glutamic acid.(g) Cho dung dịch methyl formate vào dung dịch AgNO3 trong NH3, đun nóng.Số thí nghiệm xảy ra phản ứng là",
+  "options": {
+   "A": "5.",
+   "B": "4.",
+   "C": "6.",
+   "D": "3."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C3_0081",
+  "stem": "Phát biểu nào sau đây đúng?",
+  "options": {
+   "A": "Phân tử dipeptide có 2 liên kết peptide.",
+   "B": "Phân tử tripeptide có 3 liên kết peptide.",
+   "C": "Trong phân tử peptide mạch hở, số liên kết peptide bao giờ cũng bằng gốc α-amino acid.",
+   "D": "Trong phân tử peptide mạch hở chứa n gốc α-amino acid, số liên kết peptide bằng (n-1)."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C3_0082",
+  "stem": "Hợp chất nào sau đây thuộc loại dipeptide?",
+  "options": {
+   "A": "H2NCH2CONHCH2CONHCH2COOH.",
+   "B": "H2NCH2CONHCH(CH3)COOH.",
+   "C": "H2NCH2CH2CONHCH2CH2COOH.",
+   "D": "H2NCH2CH2CONHCH2COOH."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C3_0083",
+  "stem": "(Đề TNTHPT – 2023) Chất nào sau đây thuộc loại tripeptide?",
+  "options": {
+   "A": "Glucose.",
+   "B": "Saccharose.",
+   "C": "Gly-Ala.",
+   "D": "Gly-Ala-Gly."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C3_0084",
+  "stem": "(Đề TN THPT QG – 2021) Chất nào sau đây là dipeptide?",
+  "options": {
+   "A": "Gly-Ala-Gly.",
+   "B": "Ala-Gly-Gly.",
+   "C": "Gly-Ala-Ala.",
+   "D": "Gly-Ala."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C3_0085",
+  "stem": "(Đề TNTHPT – 2022) Số liên kết peptide trong phân tử peptide Gly-Ala-Val-Gly là",
+  "options": {
+   "A": "2.",
+   "B": "4.",
+   "C": "3.",
+   "D": "1."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C3_0086",
+  "stem": "(Đề TNTHPT – 2022) Số liên kết peptide trong phân tử peptide Gly-Ala-Gly là",
+  "options": {
+   "A": "4.",
+   "B": "3.",
+   "C": "1.",
+   "D": "2."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C3_0087",
+  "stem": "Trong phân tử Ala-Gly, amino acid đầu N chứa nhóm",
+  "options": {
+   "A": "NH2.",
+   "B": "COOH.",
+   "C": "NO2.",
+   "D": "CHO."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C3_0088",
+  "stem": "Amino acid đầu N và amino acid đầu C trong phân tử peptide Ala-Gly-Val-Gly-Val lần lượt là",
+  "options": {
+   "A": "Val và Ala.",
+   "B": "Ala và Gly.",
+   "C": "Val và Gly.",
+   "D": "Ala và Val."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C3_0089",
+  "stem": "Peptide X có công thức cấu tạo như sau: H2N-[CH2]4-CH(NH2)CO-NHCH2-CO-NH-CH(CH3)-COOH. Amino acid đầu N và đầu C tương ứng là",
+  "options": {
+   "A": "Lys và Gly.",
+   "B": "Gly và Ala.",
+   "C": "Ala và Gly.",
+   "D": "Lys và Ala."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C3_0090",
+  "stem": "(Đề MH - 2024) Số nguyên tử carbon trong phân tử Gly-Ala là",
+  "options": {
+   "A": "7.",
+   "B": "5.",
+   "C": "4.",
+   "D": "6."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C3_0091",
+  "stem": "Dipeptide có công thức: H2NCH2CONHCH(CH3)COOH. Tên viết tắt của X là",
+  "options": {
+   "A": "Gly-Val.",
+   "B": "Gly-Ala.",
+   "C": "Ala-Gly.",
+   "D": "Ala-Val."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C3_0092",
+  "stem": "Peptide X có công thức: H2NCH2CONHCH(CH3)CONHCH(CH3)COOH. Tên viết tắt của X là",
+  "options": {
+   "A": "Ala-Gly-Gly.",
+   "B": "Gly-Ala-Ala.",
+   "C": "Gly-Val-Val.",
+   "D": "Ala-Val-Val."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C3_0093",
+  "stem": "Phân tử peptide nào sau đây có 4 nguyên tử oxygen?",
+  "options": {
+   "A": "Gly-Ala-Ala.",
+   "B": "Gly-Ala.",
+   "C": "Gly-Gly-Ala-Val.",
+   "D": "Gly-Ala-Glu."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C3_0094",
+  "stem": "(SBT – CTST) Tính chất hoá học nào không đặc trưng với loại hợp chất peptide?",
+  "options": {
+   "A": "Phản ứng thủy phân trong môi trường acid.",
+   "B": "Phản ứng màu biuret.",
+   "C": "Phản ứng ester hoá.",
+   "D": "Phản ứng thủy phân trong môi trường base."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C3_0095",
+  "stem": "Dung dịch Ala-Gly phản ứng được với dung dịch nào sau đây?",
+  "options": {
+   "A": "HCl.",
+   "B": "KNO3.",
+   "C": "NaCl.",
+   "D": "NaNO3."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C3_0096",
+  "stem": "Peptide nào sau đây không có phản ứng màu biuret?",
+  "options": {
+   "A": "Ala-Gly.",
+   "B": "Ala-Ala-Gly-Gly.",
+   "C": "Ala-Gly-Gly.",
+   "D": "Gly-Ala-Gly."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C3_0097",
+  "stem": "Tripeptide Gly-Ala-Gly không tác dụng với chất nào sau đây?",
+  "options": {
+   "A": "Cu(OH)2 trong môi trường kiềm.",
+   "B": "Dung dịch Na2SO4.",
+   "C": "Dung dịch HCl.",
+   "D": "Dung dịch NaOH."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C3_0098",
+  "stem": "(Đề MH lần III - 2017) Chất nào sau đây không phản ứng với NaOH trong dung dịch?",
+  "options": {
+   "A": "Gly-Ala.",
+   "B": "Glycine.",
+   "C": "Methylamine.",
+   "D": "Methyl formate."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C3_0099",
+  "stem": "Thủy phân hoàn toàn H2N-CH2-CO-NH-CH(CH3)-CO-NH-CH(CH3)-CO-NH-CH2-COOH thu được bao nhiêu loại α-amino acid khác nhau?",
+  "options": {
+   "A": "4.",
+   "B": "3.",
+   "C": "5.",
+   "D": "2."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C3_0100",
+  "stem": "Thủy phân một peptide có cấu tạo như sau:H2N–CH2–CONH–CH(CH3)–CONH–CH(COOH)–CH2CH2COOHSản phẩm nào sau đây là không thể có sau khi thủy phân?",
+  "options": {
+   "A": "Glu-Gly.",
+   "B": "Ala-Glu.",
+   "C": "Ala.",
+   "D": "Gly-Ala."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C3_0101",
+  "stem": "(Đề TSĐH B - 2008) Đun nóng chất H2N-CH2-CONH-CH(CH3)-CONH-CH2-COOH trong dung dịch HCl (dư), sau khi các phản ứng kết thúc thu được sản phẩm là:",
+  "options": {
+   "A": "H2N-CH2-COOH, H2N-CH2-CH2-COOH.",
+   "B": "H3N+-CH2-COOHCl–, H3N+-CH2-CH2-COOHCl–.",
+   "C": "H3N+-CH2-COOHCl–, H3N+-CH(CH3)-COOHCl–.",
+   "D": "H2N-CH2-COOH, H2N-CH(CH3)-COOH."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C3_0102",
+  "stem": "(Đề THPT QG - 2017) Thủy phân hoàn toàn 1 mol pentapeptide X mạch hở, thu được 3 mol glycine, 1 mol alanine và 1 mol valine. Mặt khác, thủy phân không hoàn toàn X, thu được hỗn hợp sản phẩm trong đó có Ala-Gly, Gly-Ala, Gly-Gly-Val. Cấu tạo của X là",
+  "options": {
+   "A": "Gly-Ala-Gly-Gly-Val.",
+   "B": "Ala-Gly-Gly-Val-Gly.",
+   "C": "Gly-Gly-Val-Gly-Ala.",
+   "D": "Gly-Gly-Ala-Gly-Val."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C3_0103",
+  "stem": "(Đề THPT QG - 2017) Thủy phân không hoàn toàn tetrepeptide X mạch hở, thu được hỗn hợp sản phẩm trong đó có Gly-Ala, Phe-Val và Ala-Phe. Cấu tạo của X là",
+  "options": {
+   "A": "Gly-Ala-Val-Phe.",
+   "B": "Val-Phe-Gly-Ala.",
+   "C": "Ala-Val-Phe-Gly.",
+   "D": "Gly-Ala-Phe-Val."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C3_0104",
+  "stem": "(Đề TSĐH B - 2010) Thủy phân hoàn toàn 1 mol pentapeptide X, thu được 2 mol Gly, 1 mol Ala, 1 mol Val và 1 mol Phe. Thủy phân không hoàn toàn X thu được dipeptide Val-Phe và tripeptide Gly-Ala-Val nhưng không thu được dipeptide Gly-Gly. Chất X có công thức là",
+  "options": {
+   "A": "Gly-Phe-Gly-Ala-Val.",
+   "B": "Gly-Ala-Val-Val-Phe.",
+   "C": "Gly-Ala-Val-Phe-Gly.",
+   "D": "Val-Phe-Gly-Ala-Gly."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C3_0105",
+  "stem": "(Đề THPT QG - 2018) Kết quả thí nghiệm của các chất X, Y, Z với các thuốc thử được ghi ở bảng sau:Các chất X, Y, Z lần lượt là:",
+  "options": {
+   "A": "Gly-Ala-Gly, ethyl formate, aniline.",
+   "B": "Gly-Ala-Gly, aniline, ethyl formate.",
+   "C": "Ethyl formate, Gly-Ala-Gly, aniline.",
+   "D": "Aniline, ethyl formate, Gly-Ala-Gly."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C3_0106",
+  "stem": "(Đề THPT QG - 2019) Phát biểu nào sau đây đúng?",
+  "options": {
+   "A": "Glycine là hợp chất có tính lưỡng tính.",
+   "B": "Dimethylamine có công thức CH3CH2NH2.",
+   "C": "Phân tử Gly-Ala-Val có 6 nguyên tử oxygen.",
+   "D": "Valine tác dụng với dung dịch Br2 tạo kết tủa."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C3_0107",
+  "stem": "(Đề THPT QG - 2019) Phát biểu nào sau đây đúng?",
+  "options": {
+   "A": "Ở điều kiện thường, glycine là chất lỏng.",
+   "B": "Aniline tác dụng với nước bromine tạo kết tủa.",
+   "C": "Phân tử Gly-Ala có một nguyên tử nitrogen.",
+   "D": "Phân tử glutamic acid có hai nguyên tử oxygen."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C3_0108",
+  "stem": "(Đề TSĐH A - 2012) Phát biểu nào sau đây là đúng?",
+  "options": {
+   "A": "Tất cả các peptide đều có phản ứng màu biuret.",
+   "B": "H2N-CH2-CH2-CO-NH-CH2-COOH là một dipeptide.",
+   "C": "Muối phenylammonium chloride không tan trong nước.",
+   "D": "Ở điều kiện thường, methylamine và dimethylamine là những chất khí có mùi khai."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C3_0109",
+  "stem": "(Đề MH lần III - 2017) Cho các phát biểu sau:(a) Tất cả các peptide đều có phản ứng màu biuret.(b) Muối phenylammonium chloride không tan trong nước.(c) Ở điều kiện thường, methylamine và dimethylamine là những chất khí.(d) Trong phân tử peptide mạch hở Gly-Ala-Gly có 4 nguyên tử oxygen.(e) Ở điều kiện thường, amino acid là những chất lỏng.Số phát biểu đúng là",
+  "options": {
+   "A": "2.",
+   "B": "4.",
+   "C": "5.",
+   "D": "3."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C3_0110",
+  "stem": "(Đề THPT QG - 2018) Cho các phát biểu sau:(a) Dipeptide Gly-Ala có phản ứng màu biuret.(b) Dung dịch glutamic acid đổi màu quỳ tím thành xanh.(c) Methyl formate và glucose có cùng công thức đơn giản nhất.(d) Methylamine có lực base mạnh hơn ammonia.(e) Saccharose có phản ứng thủy phân trong môi trường acid.(g) Methyl methacrylate làm mất màu nước bromine.Số phát biểu đúng là",
+  "options": {
+   "A": "6.",
+   "B": "4.",
+   "C": "5.",
+   "D": "3."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C3_0111",
+  "stem": "(SGK – CTST) Chất cơ sở để hình thành nên các phân tử protein đơn giản là",
+  "options": {
+   "A": "α-amino acid.",
+   "B": "acid béo.",
+   "C": "các loại đường.",
+   "D": "tinh bột."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C3_0112",
+  "stem": "Protein nào sau đây có trong lòng trắng trứng?",
+  "options": {
+   "A": "Fibroin.",
+   "B": "Albumin.",
+   "C": "Fibroin.",
+   "D": "Hemoglobin."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C3_0113",
+  "stem": "Sản phẩm cuối cùng của quá trình thủy phân các protein đơn giản nhờ chất xúc tác thích hợp là",
+  "options": {
+   "A": "ester.",
+   "B": "α-amino acid.",
+   "C": "carboxylic acid.",
+   "D": "β-amino acid."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C3_0114",
+  "stem": "Đốt cháy hoàn toàn chất hữu cơ nào sau đây thu được sản phẩm có chứa N2?",
+  "options": {
+   "A": "Chất béo.",
+   "B": "Tinh bột.",
+   "C": "Cellulose.",
+   "D": "Protein."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C3_0115",
+  "stem": "(Đề MH lần I - 2017) Chất có phản ứng màu biuret là",
+  "options": {
+   "A": "chất béo.",
+   "B": "protein.",
+   "C": "tinh bột.",
+   "D": "saccharose."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C3_0116",
+  "stem": "Sự kết tủa protein bằng nhiệt độ được gọi là",
+  "options": {
+   "A": "sự trùng ngưng protein.",
+   "B": "sự ngưng tụ protein.",
+   "C": "sự phân hủy protein.",
+   "D": "sự đông tụ protein."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C3_0117",
+  "stem": "Khi nhỏ acid HNO3 đậm đặc vào dd lòng trắng trứng đun nóng hỗn hợp thấy xuất hiện: ..(1).., cho copper(II) hydroxide vào dung dịch lòng trắng trứng thấy màu ..(2).. xuất hiện",
+  "options": {
+   "A": "(1) kết tủa màu vàng, (2) xanh.",
+   "B": "(1) kết tủa màu xanh, (2) vàng.",
+   "C": "(1) kết tủa màu trắng, (2) tím.",
+   "D": "(1) kết tủa màu vàng, (2) tím."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C3_0118",
+  "stem": "Khi đun nóng protein trong dung dịch acid hoặc kiềm hoặc dưới tác dụng của các enzyme, protein bị thủy phân thành ..(1).., cuối cùng thành ..(2)..",
+  "options": {
+   "A": "(1) phân tử protein nhỏ hơn; (2) amino acid.",
+   "B": "(1) chuỗi polypeptide; (2) hỗn hợp các α-amino acid.",
+   "C": "(1) chuỗi polypeptide; (2) amino acid.",
+   "D": "(1) amino acid; (2) chuỗi polypeptide."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C3_0121",
+  "stem": "Thuốc thử nào dưới đây dùng để phân biệt các dung dịch: ethylene glycol, albumin, glucose?",
+  "options": {
+   "A": "Cu(OH)2/OH–.",
+   "B": "Dung dịch I2.",
+   "C": "HNO3.",
+   "D": "AgNO3/NH3."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C3_0122",
+  "stem": "(Đề THPT QG - 2017) Kết quả thí nghiệm của các dung dịch X, Y, Z, T với thuốc thử được ghi ở bảng sau:Các dung dịch X, Y, Z, T lần lượt là:",
+  "options": {
+   "A": "Glucose, lòng trắng trứng, hồ tinh bột, acetic acid.",
+   "B": "Acetic acid, glucose, hồ tinh bột, lòng trắng trứng.",
+   "C": "Acetic acid, hồ tinh bột, glucose, lòng trắng trứng.",
+   "D": "Acetic acid, glucose, lòng trắng trứng, hồ tinh bột."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C3_0123",
+  "stem": "(Đề MH lần II - 2017) Tiến hành thí nghiệm với các chất X, Y, Z, T. Kết quả được ghi ở bảng sau:Các chất X, Y, Z, T lần lượt là:",
+  "options": {
+   "A": "Lòng trắng trứng, triolein, vinyl acetate, hồ tinh bột.",
+   "B": "Triolein, vinyl acetate, hồ tinh bột, lòng trắng trứng.",
+   "C": "Lòng trắng trứng, triolein, hồ tinh bột, vinyl acetate.",
+   "D": "Vinyl acetate, lòng trắng trứng, triolein, hồ tinh bột."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C3_0124",
+  "stem": "(SGK Hóa học 12 – KNTT) Phát biểu nào sau đây sai khi nói về enzyme?",
+  "options": {
+   "A": "Phần lớn enzyme là những protein xúc tác cho các phản ứng hóa học và sinh hóa.",
+   "B": "Enzyme có tính chọn lọc cao, mỗi enzyme chỉ xúc tác cho một hoặc một số phản ứng nhất định.",
+   "C": "Tốc độ phản ứng có xúc tác enzyme thường nhanh hơn nhiều lần so với với xúc tác hóa học.",
+   "D": "Tốc độ phản ứng có xúc tác enzyme thường chậm hơn nhiều lần so với với xúc tác hóa học."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C3_0126",
+  "stem": "(SBT – CTST) Phát biểu nào sau đây đúng khi nói về phản ứng màu biuret?",
+  "options": {
+   "A": "Các amino acid có thể cho phản ứng màu biuret với Cu(OH)2.",
+   "B": "Dung dịch của các polypeptide hoà tan Cu(OH)2 cho dung dịch có màu tím.",
+   "C": "Các peptide (trừ dipeptide) cho phản ứng màu biuret với Cu(OH)2, HNO3.",
+   "D": "Phản ứng màu biuret dùng để nhận biết sự có mặt của tinh bột và protein."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C3_0127",
+  "stem": "(SGV – KNTT) Phát biểu nào sau đây sai?",
+  "options": {
+   "A": "Polypeptide có phản ứng màu biuret trong môi trường kiềm.",
+   "B": "Aminoacetic acid làm đổi màu giấy quỳ tím ẩm.",
+   "C": "Protein là hợp phần quan trọng trong thức ăn của người và động vật.",
+   "D": "Trùng ngưng ε-aminocaproic acid thu được polymer."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C3_0128",
+  "stem": "(SGK – KNTT) Phát biểu nào sau đây không đúng?",
+  "options": {
+   "A": "Thuỷ phân hoàn toàn polypeptide thu được các phân tử α-amino acid.",
+   "B": "Protein tác dụng với Cu(OH)2 trong môi trường kiềm tạo dung dịch màu xanh lam.",
+   "C": "Protein có thể bị đông tụ dưới tác dụng của nhiệt, acid hoặc base.",
+   "D": "Protein tác dụng với dung dịch nitric acid đặc tạo thành sản phẩm rắn có màu vàng."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C3_0129",
+  "stem": "(Đề TSCĐ - 2012) Phát biểu nào sau đây là sai?",
+  "options": {
+   "A": "Protein đơn giản được tạo thành từ các gốc α-amino acid.",
+   "B": "Tất cả các peptide đều có khả năng tham gia phản ứng thủy phân.",
+   "C": "Trong phân tử dipeptide mạch hở có hai liên kết peptide.",
+   "D": "Tripeptide Gly–Ala–Gly có phản ứng màu biuret với Cu(OH)2."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C3_0130",
+  "stem": "(Đề TSĐH A - 2011) Khi nói về peptide và protein, phát biểu nào sau đây là sai?",
+  "options": {
+   "A": "Protein có phản ứng màu biuret với Cu(OH)2.",
+   "B": "Tất cả các protein đều tan trong nước tạo thành dung dịch keo.",
+   "C": "Thủy phân hoàn toàn protein đơn giản thu được các α-amino acid.",
+   "D": "Liên kết của nhóm CO với nhóm NH giữa hai đơn vị α-amino acid được gọi là liên kết peptide."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C3_0131",
+  "stem": "(Đề TN THPT QG - 2020) Phát biểu nào sau đây là sai?",
+  "options": {
+   "A": "Protein bị thủy phân nhờ xúc tác acid.",
+   "B": "Protein được tạo nên từ chuỗi các peptide kết hợp lại với nhau.",
+   "C": "Amino acid có tính chất lưỡng tính.",
+   "D": "Dipeptide có phản ứng màu biuret."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C3_0132",
+  "stem": "(Đề MH lần III - 2017) Phát biểu nào sau đây sai?",
+  "options": {
+   "A": "Protein là cơ sở tạo nên sự sống.",
+   "B": "Protein đơn giản là những chất có tối đa 10 liên kết peptide.",
+   "C": "Protein bị thủy phân nhờ xúc tác acid, base hoặc enzyme.",
+   "D": "Protein có phản ứng màu biuret."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C3_0133",
+  "stem": "(Đề TN THPT QG - 2020) Phát biểu nào sau đây sai?",
+  "options": {
+   "A": "Protein bị thủy phân nhờ xúc tác enzyme.",
+   "B": "Dung dịch valine làm quỳ tím chuyển sang màu xanh.",
+   "C": "Amino acid có tính chất lưỡng tính.",
+   "D": "Dung dịch protein có phản ứng màu biuret."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C3_0134",
+  "stem": "(Đề THPT QG - 2019) Phát biểu nào sau đây đúng?",
+  "options": {
+   "A": "Phân tử lysine có một nguyên tử nitrogen.",
+   "B": "Dung dịch protein có phản ứng màu biuret.",
+   "C": "Aniline là chất lỏng tan nhiều trong nước.",
+   "D": "Phân tử Gly-Ala-Ala có ba nguyên tử oxygen."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C3_0135",
+  "stem": "Phát biểu nào sau đây là sai?",
+  "options": {
+   "A": "Vắt chanh vào một cốc sữa, ta thấy hiện tượng đông tụ protein xuất hiện.",
+   "B": "Phân tử protein được cấu tạo từ một hay nhiều chuổi polypeptide.",
+   "C": "Khi cho Cu(OH)2/OH– vào dung dịch lòng trắng trứng, ta thấy có phức chất màu tím.",
+   "D": "Protein rất ít tan trong nước lạnh nhưng lại dễ tan trong nước nóng."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C3_0136",
+  "stem": "Cho các phát biểu sau về protein:(1) Protein là hợp chất cao phân tử thiên nhiên có cấu trúc phức tạp.(2) Protein chỉ có trong cơ thể người và động vật.(3) Protein bền đối với nhiệt, đối với acid và kiềm.(4) Chỉ các protein có cấu trúc dạng hình cầu mới có khả năng tan trong nước tạo dung dịch keo.Số phát biểu đúng là",
+  "options": {
+   "A": "1.",
+   "B": "2.",
+   "C": "3.",
+   "D": "4."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C3_0137",
+  "stem": "(Đề MH lần III - 2017) Cho các phát biểu sau:(a) Thủy phân vinyl acetate bằng NaOH đun nóng, thu được sodium acetate và formaldehyde.(b) Polyethylene được điều chế bằng phản ứng trùng ngưng.(c) Ở điều kiện thường, aniline là chất khí.(d) Cellulose thuộc loại polysaccharide.(e) Thủy phân hoàn toàn albumin thu được hỗn hợp α-amino acid.(g) Ở điều kiện thích hợp, triolein tham gia phản ứng cộng H2.Số phát biểu đúng là",
+  "options": {
+   "A": "3.",
+   "B": "2.",
+   "C": "4.",
+   "D": "5."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C3_0138",
+  "stem": "(Đề THPT QG - 2017) Cho các phát biểu sau:(a) Trong dung dịch, glycine tồn tại chủ yếu ở dạng ion lưỡng cực.(b) Amino acid là chất rắn kết tinh, dễ tan trong nước.(c) Saccharose và glucose đều có phản ứng tráng bạc.(d) Hydrogen hóa hoàn toàn triolein (xúc tác Ni, to) thu được tripalmitin.(e) Triolein và protein có cùng thành phần nguyên tố.(f) Cellulose trinitrate được dùng làm thuốc súng không khói.Số phát biểu đúng là",
+  "options": {
+   "A": "4.",
+   "B": "5.",
+   "C": "3.",
+   "D": "6."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C3_0139",
+  "stem": "(Đề THPT QG - 2017) Cho các phát biểu sau:(a) Dung dịch lòng trắng trứng bị đông tụ khi đun nóng.(b) Trong phân tử lysine có một nguyên tử nitrogen.(c) Dung dịch alanine làm đổi màu quỳ tím.(d) Triolein có phản ứng cộng H2 (xúc tác Ni, to).(e) Tinh bột là đồng phân của cellulose.(g) Aniline là chất rắn, tan tốt trong nước.Số phát biểu đúng là",
+  "options": {
+   "A": "4.",
+   "B": "2.",
+   "C": "1.",
+   "D": "3."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C3_0140",
+  "stem": "(SGK – CTST) Cho các phát biểu sau:a) Protein dạng hình cầu và dạng hình sợi tan tốt trong nước.b) Một trong những tính chất hoá học đặc trưng của protein là phản ứng thuỷ phân.c) Phản ứng của protein với nitric acid cho sản phẩm có màu tím.d) Khi đun nóng lòng trắng trứng sẽ xảy ra hiện tượng đông tụ.e) Trong cơ thể, enzyme đóng vai trò là chất xúc tác sinh học.Số phát biểu đúng là",
+  "options": {
+   "A": "4.",
+   "B": "3.",
+   "C": "5.",
+   "D": "2."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C3_0141",
+  "stem": "(Đề TNTHPT – 2023) Khối lượng methylamine cần để tác dụng vừa đủ với 0,01 mol HCl là",
+  "options": {
+   "A": "0,90 gam.",
+   "B": "0,31 gam.",
+   "C": "0,62 gam.",
+   "D": "0,45 gam."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C3_0142",
+  "stem": "(Đề TNTHPT – 2023) Khối lượng ethylamine cần để tác dụng vừa đủ với 0,01 mol HCl là",
+  "options": {
+   "A": "0,31 gam.",
+   "B": "0,59 gam.",
+   "C": "0,45 gam.",
+   "D": "0,90 gam."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C3_0144",
+  "stem": "(Đề THPT QG - 2017) Cho 30 gam hỗn hợp hai amine đơn chức tác dụng vừa đủ với V mL dung dịch HCl 1,5 M, thu được dung dịch chứa 47,52 gam hỗn hợp muối. Giá trị của V là",
+  "options": {
+   "A": "160.",
+   "B": "720.",
+   "C": "329.",
+   "D": "320."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C3_0145",
+  "stem": "(Đề MH lần I - 2017) Cho 2,0 gam hỗn hợp X gồm methylamine, dimethylamine phản ứng vừa đủ với 0,05 mol HCl, thu được m gam muối. Giá trị của m là",
+  "options": {
+   "A": "3,425.",
+   "B": "4,725.",
+   "C": "2,550.",
+   "D": "3,825."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C3_0146",
+  "stem": "(Đề TSCĐ - 2007) Để trung hòa 25 gam dung dịch của một amine đơn chức X nồng độ 12,4% cần dùng 100 mL dung dịch HCl 1 M. Công thức phân tử của X là",
+  "options": {
+   "A": "C3H5N.",
+   "B": "C2H7N.",
+   "C": "CH5N.",
+   "D": "C3H7N."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C3_0147",
+  "stem": "(Đề THPT QG - 2018) Cho 9,85 gam hỗn hợp gồm hai amine đơn chức tác dụng vừa đủ với V mL dung dịch HCl 1 M, thu được dung dịch chứa 18,975 gam hỗn hợp muối. Giá trị của V là",
+  "options": {
+   "A": "300.",
+   "B": "450.",
+   "C": "400.",
+   "D": "250."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C3_0148",
+  "stem": "(Đề TSCĐ - 2012) Cho 20 gam hỗn hợp gồm hai amine no, đơn chức, mạch hở tác dụng vừa đủ với V mL dung dịch HCl 1 M, thu được dung dịch chứa 31,68 gam hỗn hợp muối. Giá trị của V là",
+  "options": {
+   "A": "320.",
+   "B": "50.",
+   "C": "200.",
+   "D": "100."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C3_0149",
+  "stem": "(Đề THPT QG - 2019) Cho 4,5 gam amine X (no, đơn chức, mạch hở) tác dụng hết với dung dịch HCl dư, thu được 8,15 gam muối. Số nguyên tử H trong phân tử X là",
+  "options": {
+   "A": "7.",
+   "B": "4.",
+   "C": "5.",
+   "D": "2."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C3_0150",
+  "stem": "(Đề TSĐH A - 2013) Cho 0,76 gam hỗn hợp X gồm hai amine đơn chức, có số mol bằng nhau, phản ứng hoàn toàn với dung dịch HCl dư, thu được 1,49 gam muối. Khối lượng của amine có phân tử khối nhỏ hơn trong 0,76 gam X là",
+  "options": {
+   "A": "0,58 gam.",
+   "B": "0,31 gam.",
+   "C": "0,45 gam.",
+   "D": "0,38 gam."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C3_0151",
+  "stem": "(Đề TSCĐ - 2008) Cho 5,9 gam amine đơn chức X tác dụng vừa đủ với dung dịch HCl, sau khi phản ứng xảy ra hoàn toàn thu được dung dịch Y. Làm bay hơi dung dịch Y được 9,55 gam muối khan. Số công thức cấu tạo ứng với công thức phân tử của X là",
+  "options": {
+   "A": "5.",
+   "B": "4.",
+   "C": "2.",
+   "D": "3."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C3_0152",
+  "stem": "(Đề THPT QG - 2017) Cho 19,4 gam hỗn hợp hai amine (no, đơn chức, mạch hở, kế tiếp nhau trong dãy đồng đẳng) tác dụng hết với dung dịch HCl, thu được 34 gam muối. Công thức phân tử của hai amine là",
+  "options": {
+   "A": "C3H9N và C4H11N.",
+   "B": "C3H7N và C4H9N.",
+   "C": "CH5N và C2H7N.",
+   "D": "C2H7N và C3H9N."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C3_0153",
+  "stem": "(Đề TSCĐ - 2010) Cho 2,1 gam hỗn hợp X gồm 2 amine no, đơn chức, kế tiếp nhau trong dãy đồng đẳng phản ứng hết với dung dịch HCl (dư), thu được 3,925 gam hỗn hợp muối. Công thức của 2 amine trong hỗn hợp X là",
+  "options": {
+   "A": "C3H7NH2 và C4H9NH2.",
+   "B": "CH3NH2 và C2H5NH2.",
+   "C": "CH3NH2 và (CH3)3N.",
+   "D": "C2H5NH2 và C3H7NH2."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C3_0154",
+  "stem": "(Đề TSĐH B - 2010) Trung hoà hoàn toàn 8,88 gam một amine (bậc một, mạch carbon không phân nhánh) bằng acid HCl, tạo ra 17,64 gam muối. Amine có công thức là",
+  "options": {
+   "A": "H2NCH2CH2CH2CH2NH2.",
+   "B": "CH3CH2CH2NH2.",
+   "C": "H2NCH2CH2NH2.",
+   "D": "H2NCH2CH2CH2NH2."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C3_0155",
+  "stem": "Hỗn hợp X gồm methylamine và dimethylamine có tỉ khối so với methane bằng 2,4625. Lấy 7,88 gam X tác dụng với dung dịch HCl loãng, dư thư được m gam muối. Giá trị của m là",
+  "options": {
+   "A": "14,98.",
+   "B": "14,45.",
+   "C": "14,27.",
+   "D": "15,18. <u>Giải:</u>"
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C3_0159",
+  "stem": "(Đề TN THPT - 2021) Cho 7,12 gam alanine tác dụng với dung dịch HCl dư, cô cạn cẩn thận dung dịch sau phản ứng, thu được m gam muối khan. Giá trị của m là",
+  "options": {
+   "A": "12,55.",
+   "B": "10,59.",
+   "C": "8,92.",
+   "D": "10,04."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C3_0160",
+  "stem": "(Đề TN THPT - 2020) Cho m gam H2NCH2COOH phản ứng hoàn toàn với dung dịch HCl dư, thu được 6,69 gam muối. Giá trị của m là",
+  "options": {
+   "A": "2,25.",
+   "B": "3,00.",
+   "C": "4,50.",
+   "D": "5,25."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C3_0161",
+  "stem": "Cho 4,78 gam hỗn hợp CH3-CH(NH2)-COOH và H2N-CH2-COOH phản ứng vừa đủ với dung dịch chứa a mol HCl thu được 6,97 gam muối. Giá trị của a là",
+  "options": {
+   "A": "0,6.",
+   "B": "0,03.",
+   "C": "0,06.",
+   "D": "0,12."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C3_0162",
+  "stem": "Cho 25,3 gam hỗn hợp X gồm glycine và alanine (có tỉ lệ mol là 1: 2) phản ứng vừa đủ với dung dịch chứa HCl thu được m gam muối. Giá trị của m là",
+  "options": {
+   "A": "36,25.",
+   "B": "32,6.",
+   "C": "47,2.",
+   "D": "39,9."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C3_0163",
+  "stem": "Cho m gam hỗn hợp X gồm glycine và alanine (có tỉ lệ mol là 1: 1) phản ứng vừa đủ với dung dịch chứa a mol HCl thu được 23,7 gam muối. Giá trị của a là",
+  "options": {
+   "A": "0,4.",
+   "B": "0,03.",
+   "C": "0,2.",
+   "D": "0,12."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C3_0164",
+  "stem": "(Đề THPT QG - 2019) Cho 8,9 gam amino acid X (công thức có dạng H2NCnH2nCOOH) tác dụng hết với dung dịch HCl dư, thu được 12,55 gam muối. Số nguyên tử H trong phân tử X là",
+  "options": {
+   "A": "7.",
+   "B": "11.",
+   "C": "5.",
+   "D": "9."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C3_0165",
+  "stem": "(Đề TSCĐ - 2011) Amino acid X có dạng H2NRCOOH (R là gốc hydrocarbon). Cho 0,1 mol X phản ứng hết với dung dịch HCl (dư) thu được dung dịch chứa 11,15 gam muối. Tên gọi của X là",
+  "options": {
+   "A": "glycine.",
+   "B": "valine.",
+   "C": "alanine.",
+   "D": "phenylalanine."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C3_0166",
+  "stem": "(Đề TNTHPT – 2022) Cho 0,1 mol glutamic acid tác dụng với dung dịch NaOH dư, sau phản ứng hoàn toàn thu được m gam muối. Giá trị của m là",
+  "options": {
+   "A": "22,3.",
+   "B": "19,1.",
+   "C": "16,9.",
+   "D": "18,5."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C3_0167",
+  "stem": "(Đề TN THPT - 2021) Cho 10,68 gam alanine tác dụng với dung dịch NaOH vừa đủ, cô cạn dung dịch sau phản ứng, thu được m gam muối khan. Giá trị của m là",
+  "options": {
+   "A": "12,88.",
+   "B": "13,32.",
+   "C": "11,10.",
+   "D": "16,65."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C3_0168",
+  "stem": "(Đề TN THPT - 2020) Cho 1,5 gam H2N-CH2-COOH tác dụng hết với dung dịch NaOH, thu được dung dịch chứa m gam muối. Giá trị của m là",
+  "options": {
+   "A": "1,94.",
+   "B": "2,26.",
+   "C": "1,96.",
+   "D": "2,28."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C3_0169",
+  "stem": "(Đề THPT QG - 2018) Cho 31,4 gam hỗn hợp gồm glycine và alanine phản ứng vừa đủ với 400 mL dung dịch NaOH 1 M. Cô cạn dung dịch sau phản ứng, thu được m gam muối khan. Giá trị của m là",
+  "options": {
+   "A": "40,6.",
+   "B": "40,2.",
+   "C": "42,5.",
+   "D": "48,6."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C3_0170",
+  "stem": "(Đề THPT QG - 2018) Cho m gam hỗn hợp gồm glycine và alanine tác dụng vừa đủ với 250 mL dung dịch NaOH 1 M. Cô cạn dung dịch sau phản ứng, thu được 26,35 gam muối khan. Giá trị của m là",
+  "options": {
+   "A": "20,60.",
+   "B": "20,85.",
+   "C": "25,80.",
+   "D": "22,45."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C3_0171",
+  "stem": "(Đề TSCĐ - 2008) Trong phân tử amino acid X có một nhóm amino và một nhóm carboxyl. Cho 15,0 gam X tác dụng vừa đủ với dung dịch NaOH, cô cạn dung dịch sau phản ứng thu được 19,4 gam muối khan. Công thức của X là",
+  "options": {
+   "A": "H2NC3H6COOH.",
+   "B": "H2NCH2COOH.",
+   "C": "H2NC2H4COOH.",
+   "D": "H2NC4H8COOH."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C3_0172",
+  "stem": "X là một α-amino acid chỉ chứa 1 nhóm NH2 và 1 nhóm COOH. Cho 3,115 gam X tác dụng hết với dung dịch NaOH, thu được dung dịch chứa 3,885 gam muối. Tên gọi của X là",
+  "options": {
+   "A": "valine.",
+   "B": "glycine.",
+   "C": "alanine.",
+   "D": "glutamic acid."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C3_0173",
+  "stem": "(Đề TSĐH B - 2014) Amino acid X trong phân tử chỉ chứa hai loại nhóm chức. Cho 0,1 mol X tác dụng vừa đủ với 0,2 mol NaOH, thu được 17,7 gam muối. Số nguyên tử hydrogen trong phân tử X là",
+  "options": {
+   "A": "6.",
+   "B": "8.",
+   "C": "7.",
+   "D": "9."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C3_0174",
+  "stem": "(Đề TSĐH A - 2013) Cho 100 mL dung dịch amino acid X nồng độ 0,4 M tác dụng vừa đủ với 80 mL dung dịch NaOH 0,5 M, thu được dung dịch chứa 5 gam muối. Công thức của X là",
+  "options": {
+   "A": "NH2C3H6COOH.",
+   "B": "NH2C3H5(COOH)2.",
+   "C": "(NH2)2C4H7COOH.",
+   "D": "NH2C2H4COOH."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C3_0175",
+  "stem": "(Đề THPT QG - 2016) Hỗn hợp X gồm glycine, alanine và glutamic acid (trong đó nguyên tố oxygen chiếm 41,2% về khối lượng). Cho m gam X tác dụng với dung dịch NaOH dư, thu được 20,532 gam muối. Giá trị của m là",
+  "options": {
+   "A": "13,8.",
+   "B": "13,1.",
+   "C": "12,0.",
+   "D": "16,0."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C3_0176",
+  "stem": "(Đề TSĐH A - 2014) Cho 0,02 mol α-amino acid X tác dụng vừa đủ với dung dịch chứa 0,04 mol NaOH. Mặt khác 0,02 mol X tác dụng vừa đủ với dung dịch chứa 0,02 mol HCl, thu được 3,67 gam muối. Công thức của X là",
+  "options": {
+   "A": "HOOC-CH2CH(NH2)-COOH.",
+   "B": "CH3CH(NH2)-COOH.",
+   "C": "HOOC-CH2CH2CH(NH2)-COOH.",
+   "D": "H2N-CH2CH(NH2)-COOH."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C3_0177",
+  "stem": "Cho 0,01 mol amino acid X tác dụng với HCl thì dùng hết 80 mL dung dịch HCl 0,125 M và thu được 1,835 gam muối khan. Còn khi cho 0,01 mol X tác dụng với dung dịch NaOH thì cần dùng 25 gam dung dịch NaOH 3,2%. Công thức của X là",
+  "options": {
+   "A": "(NH2)2C3H5COOH.",
+   "B": "H2N-C2H4-COOH.",
+   "C": "H2N-C3H6-COOH.",
+   "D": "H2NC3H5(COOH)2."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C3_0178",
+  "stem": "Cho 100 mL dung dịch nồng độ 0,3 M của aminoacid no X phản ứng vừa đủ với 48 mL dung dịch NaOH 1,25 M, sau đó đem cô cạn dung dịch thu được 5,31 gam muối khan. Nếu cho 100 mL dung dịch trên tác dụng với dung dịch HCl vừa đủ rồi đem cô cạn sẽ thu được bao nhiêu gam muối khan?",
+  "options": {
+   "A": "3,765gam.",
+   "B": "5,085gam.",
+   "C": "5,505 gam.",
+   "D": "4,185 gam."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C3_0179",
+  "stem": "(Đề TSĐH B - 2010) Hỗn hợp X gồm alanine và glutamic acid. Cho m gam X tác dụng hoàn toàn với dung dịch NaOH (dư), thu được dung dịch Y chứa (m + 30,8) gam muối. Mặt khác, nếu cho m gam X tác dụng hoàn toàn với dung dịch HCl, thu được dung dịch Z chứa (m + 36,5) gam muối. Giá trị của m là",
+  "options": {
+   "A": "112,2.",
+   "B": "165,6.",
+   "C": "123,8.",
+   "D": "171,0."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C3_0180",
+  "stem": "(Đề THPT QG - 2017) Cho m gam hỗn hợp X gồm glutamic acid và valine tác dụng với dung dịch HCl dư, thu được (m + 9,125) gam muối. Mặt khác, cho m gam X tác dụng với dung dịch NaOH dư, thu được (m + 7,7) gam muối. Biết các phản ứng xảy ra hoàn toàn. Giá trị của m là",
+  "options": {
+   "A": "39,60.",
+   "B": "32,25.",
+   "C": "26,40.",
+   "D": "33,75."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C3_0181",
+  "stem": "(Đề TSĐH A - 2009) Cho 1 mol amino acid X phản ứng với dung dịch HCl (dư), thu được m1 gam muối Y. Cũng 1 mol amino acid X phản ứng với dung dịch NaOH (dư), thu được m2 gam muối Z. Biết m2 – m1 = 7,5. Công thức phân tử của X là",
+  "options": {
+   "A": "C4H10O2N2.",
+   "B": "C5H9O4N.",
+   "C": "C4H8O4N2.",
+   "D": "C5H11O2N."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C3_0182",
+  "stem": "Cho 1 mol amino acid X phản ứng với dung dịch HCl (dư), thu được m1 gam muối Y. Cũng 1 mol amino acid X phản ứng với dung dịch NaOH (dư), thu được m2 gam muối Z. Biết m1 – m2 = 51. Công thức phân tử của X là",
+  "options": {
+   "A": "C4H10O2N2.",
+   "B": "C5H9O4N.",
+   "C": "C4H8O4N2.",
+   "D": "C5H11O2N."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C3_0183",
+  "stem": "Hỗn hợp X gồm ba amino acid (chỉ chứa nhóm chức -COOH và -NH2 trong phân tử), trong đó tỉ lệ mN : mO = 7 : 16. Để tác dụng vừa đủ với 10,36 gam hỗn hợp X cần đủ 120 mL dung dịch HCl 1 M. Mặt khác cho 10,36 gam hỗn hợp X tác dụng với 150 mL dung dịch NaOH 1 M rồi cô cạn thu được m gam rắn. Giá trị của m là",
+  "options": {
+   "A": "13,36.",
+   "B": "14,20.",
+   "C": "13,00.",
+   "D": "12,46."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C3_0184",
+  "stem": "Chia hỗn hợp gồm hai amino acid mạch hở thành 3 phần bằng nhau.Phần 1: Cho tác dụng vừa đủ với 100 mL dung dịch HCl 0,4 M, thu được 6,18 gam muối.Phần 2: Cho tác dụng hết với dung dịch NaOH, thu được 6,04 gam muối.Phần 3: Đốt cháy hoàn toàn, thu được N2, 7,04 gam CO2 và a gam H2O. Giá trị của a là",
+  "options": {
+   "A": "1,08.",
+   "B": "2,16.",
+   "C": "2,88.",
+   "D": "3,24."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C3_0185",
+  "stem": "X và Y đều là α-aminoacid no mạch hở và có cùng số nguyên tử carbon trong phân tử. X có 1 nhóm –NH2 và 1 nhóm –COOH còn Y có 1 nhóm –NH2 và 2 nhóm –COOH. Lấy 0,25 mol hỗn hợp Z gồm X và Y tác dụng với dung dịch NaOH vừa đủ thu được dung dịch chứa 40,09 gam chất tan gồm 2 muối trung hòa. Cũng lấy 0,25 mol hỗn hợp Z ở trên tác dụng với dung dịch HCl vừa đủ thu được dung dịch chứa 39,975 gam gồm 2 muối. Phần trăm khối lượng X trong hỗn hợp Z là",
+  "options": {
+   "A": "23,15%.",
+   "B": "26,71%.",
+   "C": "19,65%.",
+   "D": "30,34%."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C3_0186",
+  "stem": "Cho 0,1 mol glutamic acid vào 150 mL dung dịch HCl 2 M, thu được dung dịch X. Cho dung dịch NaOH dư vào X. Sau khi các phản ứng xảy ra hoàn toàn, số mol NaOH tham gia phản ứng là",
+  "options": {
+   "A": "0,50 mol.",
+   "B": "0,65 mol.",
+   "C": "0,35 mol.",
+   "D": "0,55 mol."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C3_0187",
+  "stem": "(Đề TSCĐ - 2014) Cho 0,1 mol α-aminopropionic acid tác dụng vừa đủ với dung dịch HCl, thu được dung dịch X. Cho X tác dụng với 200 mL dung dịch NaOH 1 M, thu được dung dịch chứa m gam muối. Giá trị của m là",
+  "options": {
+   "A": "11,10.",
+   "B": "16,95.",
+   "C": "11,70.",
+   "D": "18,75."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C3_0188",
+  "stem": "(Đề MH lần II - 2017) Cho 0,15 mol glutamic acid vào 175 mL dung dịch HCl 2 M, thu được dung dịch X. Cho dung dịch NaOH dư vào X. Sau khi các phản ứng xảy ra hoàn toàn, số mol NaOH tham gia phản ứng là",
+  "options": {
+   "A": "0,50 mol.",
+   "B": "0,65 mol.",
+   "C": "0,35 mol.",
+   "D": "0,55 mol."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C3_0189",
+  "stem": "Cho 2,67 gam một amino acid X (chứa 1 nhóm -COOH) vào 100 mL HCl 0,2 M, thu được dung dịch Y. Y phản ứng vừa đủ với 200 mL KOH 0,25 M. Số đồng phân cấu tạo của X là",
+  "options": {
+   "A": "3.",
+   "B": "4.",
+   "C": "2.",
+   "D": "1."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C3_0190",
+  "stem": "(Đề MH lần I - 2017) Cho 15,00 gam glycine vào 300 mL dung dịch HCl, thu được dung dịch X. Cho X tác dụng vừa đủ với 250 mL dung dịch KOH 2 M, thu được dung dịch Y. Cô cạn Y, thu được m gam chất rắn khan. Giá trị của m là",
+  "options": {
+   "A": "53,95.",
+   "B": "44,95.",
+   "C": "22,60.",
+   "D": "22,35."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C3_0191",
+  "stem": "Cho 0,02 mol glycine tác dụng với 300 mL dung dịch HCl 1 M được dung dịch X. Để trung hoà dung dịch X cần vừa đủ V lít dung dịch NaOH 1 M được dung dịch Y. Cô cạn cẩn thận Y được m gam chất rắn khan. Giá trị V và m là",
+  "options": {
+   "A": "0,32 và 23,45.",
+   "B": "0,02 và 19,05.",
+   "C": "0,32 và 19,05.",
+   "D": "0,32 và 19,49."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C3_0192",
+  "stem": "Cho 0,1 mol α-amino acid X tác dụng vừa đủ với 100 mL dung dịch HCl 1,0 M thu được chất hữu cơ Y. Để tác dụng vừa đủ với chất hữu cơ Y cần 200 mL dung dịch NaOH 1,0 M và dung dịch sau phản ứng chứa 15,55 gam muối. Vậy công thức α-amino acid X là",
+  "options": {
+   "A": "lysine.",
+   "B": "glycine.",
+   "C": "alanine.",
+   "D": "valine."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C3_0193",
+  "stem": "X là một α-amino acid có công thức tổng quát dạng H2N–R–COOH. Cho 8,9 gam X tác dụng với 200 mL dung dịch HCl 1 M, thu được dung dịch Y. Để phản ứng với hết với các chất trong dd Y cần dùng 300 mL dd NaOH 1 M. Công thức cấu tạo đúng của X là",
+  "options": {
+   "A": "H2N-CH2-COOH.",
+   "B": "H2N-CH2-CH2-COOH.",
+   "C": "CH3CH(NH2)COOH.",
+   "D": "CH3CH2CH(NH2)COOH."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C3_0194",
+  "stem": "(Đề TSĐH A - 2013) Amino acid X có công thức H2NCxHy(COOH)2. Cho 0,1 mol X vào 0,2 lít dung dịch H2SO4 0,5 M, thu được dung dịch Y. Cho Y phản ứng vừa đủ với dung dịch gồm NaOH 1 M và KOH 3 M, thu được dung dịch chứa 36,7 gam muối. Phần trăm khối lượng của nitơ trong X là",
+  "options": {
+   "A": "10,526%.",
+   "B": "10,687%.",
+   "C": "11,966%.",
+   "D": "9,524%."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C3_0195",
+  "stem": "(Đề THPT QG - 2017) Hỗn hợp X gồm amino acid Y (có dạng H2N-CnH2n-COOH) và 0,02 mol H2NC3H5(COOH)2. Cho X vào dung dịch chứa 0,04 mol HCl, thu được dung dịch Z. Dung dịch Z phản ứng vừa đủ với dung dịch gồm 0,04 mol NaOH và 0,05 mol KOH, thu được dung dịch chứa 8,21 gam muối. Phân tử khối của Y là",
+  "options": {
+   "A": "117.",
+   "B": "75.",
+   "C": "89.",
+   "D": "103."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C3_0196",
+  "stem": "Cho m gam glutamic acid tác dụng với 200 mL dung dịch NaOH 1 M, thu được dung dịch X chứa 16,88 gam chất tan. X tác dụng vừa đủ với V mL dung dịch HCl 1 M. Giá trị của V là",
+  "options": {
+   "A": "300.",
+   "B": "280.",
+   "C": "320.",
+   "D": "240."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C3_0197",
+  "stem": "(Đề THPT QG - 2017) Cho 7,3 gam lysine và 15 gam glycine vào dung dịch chứa 0,3 mol KOH, thu được dung dịch Y. Cho Y tác dụng hoàn toàn với dung dịch HCl dư, thu được m gam muối. Giá trị của m là",
+  "options": {
+   "A": "55,600.",
+   "B": "53,775.",
+   "C": "61,000.",
+   "D": "32,250."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C3_0198",
+  "stem": "Cho 20,15 gam hỗn hợp X gồm glycine và alanine phản ứng với 200 mL dung dịch NaOH 1 M, thu được dung dịch Y. Dung dịch Y phản ứng vừa đủ với 450 mL dung dịch HCl 1 M. Thành phần % về khối lượng của glycine trong hỗn hợp X là",
+  "options": {
+   "A": "55,83%.",
+   "B": "53,58%.",
+   "C": "44,17%.",
+   "D": "47,41%."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C3_0199",
+  "stem": "",
+  "options": {
+   "A": "146.",
+   "B": "147.",
+   "C": "104.",
+   "D": "105."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C3_0200",
+  "stem": "Cho 13,35 gam hỗn hợp X gồm NH2CH2CH2COOH và CH3CHNH2COOH tác dụng với V mL dung dịch NaOH 1 M thu được dung dịch Y. Biết dung dịch Y tác dụng vừa đủ với 250 mL dung dịch HCl 1 M. Giá trị của V là",
+  "options": {
+   "A": "100 mL.",
+   "B": "150 mL.",
+   "C": "200 mL.",
+   "D": "250 mL."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C3_0201",
+  "stem": "Cho 0,2 mol (NH2)2RCOOH vào V mL dung dịch Ba(OH)2 1 M, thu được dung dịch X. Cho HCl dư vào dung dịch X, sau khi các phản ứng xảy ra hoàn toàn, số mol HCl đã phản ứng là 0,8. Giá trị của V là",
+  "options": {
+   "A": "400.",
+   "B": "300.",
+   "C": "200.",
+   "D": "600."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C3_0202",
+  "stem": "Cho 0,1 mol một amino acid X tác dụng vừa đủ với 100 mL dung dịch NaOH 1 M, sau phản ứng được chất hữu cơ Y. Lấy toàn bộ chất Y đem phản ứng với dung dịch HCl 1 M thấy vừa hết 200 mL dung dịch. Sau phản ứng đem cô cạn dung dịch thu được 19,8 gam chất rắn khan Z. Công thức cấu tạo thu gọn của amino acid X là",
+  "options": {
+   "A": "H2N-C3H6-COOH.",
+   "B": "(H2N)2-C3H5-COOH.",
+   "C": "(H2N)2-C3H5-COOH.",
+   "D": "H2N-C3H5(COOH)."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C3_0203",
+  "stem": "Hỗn hợp E gồm hai aminoacid X và Y đều chứa một nhóm COOH và một nhóm NH2 (tỉ lệ mol 3: 2). Cho 17,24 gam E tác dụng hết với 110 mL dung dịch KOH 2 M thu được dung dịch Z. Để tác dụng hết với các chất trong Z cần 140 mL dung dịch HCl 3 M. Công thức cấu tạo của X, Y lần lượt là",
+  "options": {
+   "A": "H2NCH2COOH và H2NC4H8COOH.",
+   "B": "H2NCH2COOH và H2NC3H6COOH.",
+   "C": "H2NC2H4COOH và H2NC3H6COOH.",
+   "D": "H2NCH2COOH và H2NC2H4COOH."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C3_0204",
+  "stem": "(Đề THPT QG - 2017) Đốt cháy hoàn toàn 12,36 gam amino acid X có công thức dạng H2NCxHy(COOH)t, thu được a mol CO2 và b mol H2O (b &gt; a). Mặt khác, cho 0,2 mol X vào 1 lít dung dịch hỗn hợp KOH 0,4 M và NaOH 0,3 M, thu được dung dịch Y. Thêm HCl dư vào Y, thu được dung dịch 75,25 gam muối. Giá trị của b là",
+  "options": {
+   "A": "0,30.",
+   "B": "0,42.",
+   "C": "0,48.",
+   "D": "0,54."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C3_0205",
+  "stem": "Ester A được điều chế từ α-amino acid và methyl alcohol. Tỉ khối hơi của A so với hydrogen bằng 44,5. Công thức cấu tạo của A là",
+  "options": {
+   "A": "HCOOH3NCH=CH2.",
+   "B": "H2NCH2CH2COOCH3.",
+   "C": "CH2=CHCOONH4.",
+   "D": "H2NCH2COOCH3."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C3_0206",
+  "stem": "(Đề THPT QG - 2017) Cho 19,1 gam hỗn hợp CH3COOC2H5 và H2NCH2COOC2H5 tác dụng vừa đủ với 200 mL dung dịch NaOH 1 M, thu được dung dịch chứa m gam muối. Giá trị m là",
+  "options": {
+   "A": "16,6.",
+   "B": "17,9.",
+   "C": "19,4.",
+   "D": "9,2."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C3_0207",
+  "stem": "(Đề TSCĐ - 2007) Hợp chất X có công thức phân tử trùng với công thức đơn giản nhất, vừa tác dụng được với acid vừa tác dụng được với kiềm trong điều kiện thích hợp. Trong phân tử X, thành phần phần trăm khối lượng của các nguyên tố C, H, N lần lượt bằng 40,449%; 7,865% và 15,73%; còn lại là oxygen. Khi cho 4,45 gam X phản ứng hoàn toàn với một lượng vừa đủ dung dịch NaOH (đun nóng) thu được 4,85 gam muối khan. Công thức cấu tạo thu gọn của X là",
+  "options": {
+   "A": "CH2=CHCOONH4.",
+   "B": "H2NCOO-CH2CH3.",
+   "C": "H2NCH2COO-CH3.",
+   "D": "H2NC2H4COOH."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C3_0208",
+  "stem": "Cho 8,9 gam một hợp chất hữu cơ X có công thức phân tử C3H7O2N phản ứng với 100 mL dung dịch NaOH 1,5 M. Sau khi phản ứng xảy ra hoàn toàn, cô cạn dung dịch thu được 11,7 gam chất rắn. Công thức cấu tạo thu gọn của X là",
+  "options": {
+   "A": "HCOOH3NCH=CH2.",
+   "B": "H2NCH2CH2COOH.",
+   "C": "CH2=CHCOONH4.",
+   "D": "H2NCH2COOCH3."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C3_0209",
+  "stem": "X là ester tạo bởi α-amino acid Y (chứa 1 nhóm -COOH và 1 nhóm -NH2) với alcohol đơn chức Z. Thủy phân hoàn toàn 0,1 mol X trong 200 mL dung dịch NaOH 1 M, cô cạn dung dịch thu được 13,7 gam chất rắn và 4,6 gam alcohol Z. Vậy công thức của X là",
+  "options": {
+   "A": "CH3COOH3NCH=CH2.",
+   "B": "H2NCH2CH2COOCH3.",
+   "C": "CH2=CHCOONH3CH3.",
+   "D": "H2NCH2COOC2H5."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C3_0210",
+  "stem": "Chất hữu cơ X mạch hở có công thức phân tử là C4H9O2N. Cho 10,3 gam X tác dụng vừa đủ với dung dịch NaOH, thì thu được 9,7 gam muối. Công thức hóa học của X là",
+  "options": {
+   "A": "CH2=CH-COONH3-CH3.",
+   "B": "H2N-CH2-COO-C2H5",
+   "C": "H2N-C3H6-COOH.",
+   "D": "H2N-C2H4-COO-CH3."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C3_0211",
+  "stem": "E là ester của glycine với 1 alcohol no, đơn chức mạch hở. Phần trăm khối lượng oxygen trong E là 27,35%. Cho 16,38 gam E tác dụng với 300 mL dung dịch NaOH 1 M. Sau khi phản ứng kết thúc cô cạn dung dịch thu được bao nhiêu gam chất rắn khan?",
+  "options": {
+   "A": "20,55 gam.",
+   "B": "19,98 gam.",
+   "C": "20,78 gam.",
+   "D": "21,35 gam."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C3_0212",
+  "stem": "(Đề TSĐH A - 2011) Chất hữu cơ X mạch hở có dạng H2N-R-COOR&#x27; (R, R&#x27; là các gốc hydrocarbon), phần trăm khối lượng nitrogen trong X là 15,73%. Cho m gam X phản ứng hoàn toàn với dung dịch NaOH, toàn bộ lượng alcohol sinh ra cho tác dụng hết với CuO (đun nóng) được aldehyde Y (alcohol chỉ bị oxi hoá thành aldehyde). Cho toàn bộ Y tác dụng với một lượng dư dung dịch AgNO3 trong NH3, thu được 12,96 gam Ag kết tủa. Giá trị của m là",
+  "options": {
+   "A": "3,56.",
+   "B": "5,34.",
+   "C": "2,67.",
+   "D": "4,45."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C3_0213",
+  "stem": "X là ester tạo bởi alcohol đơn chức và α-amino acid. X không tác dụng với Na. Đun nón 0,1 mol X tác dụng với 200 mL dung dịch NaOH 1 M (vừa đủ) thu được 6,4 gam alcohol và 19,1 gam muối. Oxi hóa hoàn toàn 6,4 gam alcohol đơn chức thành aldehyde, sau đó cho toàn bộ lượng aldehyde đó tác dụng với lượng dư AgNO3/NH3 thu được m gam Ag. Giá trị của m là",
+  "options": {
+   "A": "21,6 gam.",
+   "B": "43,2 gam.",
+   "C": "86,4 gam.",
+   "D": "32,4 gam."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C3_0214",
+  "stem": "X là ester tạo từ amino acid và alcohol đơn chức có CTPT là C4H9O2N. Đun nón 0,1 mol X với 200 mL dung dịch NaOH 1 M, cô cạn dung dịch sau phản ứng thu được m gam chất rắn khan và hơi alcohol. Cho hơi alcohol qua CuO dư, nung nóng thu được aldehyde Y. Cho toàn bộ Y tác dụng với lượng dư AgNO3/NH3 thu được 43,2 gam Ag. Giá trị của m là",
+  "options": {
+   "A": "11,1 gam.",
+   "B": "12,4 gam.",
+   "C": "15,1 gam.",
+   "D": "12,55 gam."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C3_0215",
+  "stem": "Khi thủy phân hoàn toàn 55,95 gam một peptide X thu được 66,75 gam alanine (amino acid duy nhất). X là",
+  "options": {
+   "A": "tripeptide.",
+   "B": "tetrapeptide.",
+   "C": "pentapeptide.",
+   "D": "dipeptide."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C3_0216",
+  "stem": "Khi thủy phân hoàn toàn 65 gam một peptide X thu được 22,25 gam alanine và 56,25 gam glycine. X là",
+  "options": {
+   "A": "tripeptide.",
+   "B": "tetrapeptide.",
+   "C": "pentapeptide.",
+   "D": "dipeptide."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C3_0217",
+  "stem": "Thuỷ phân hoàn toàn 500 gam một oligopeptide X (chứa từ 2 đến 10 gốc α-amino acid) thu được 178 gam amino acid Y và 412 gam amino acid Z. Biết phân tử khối của Y là 89. Phân tử khối của Z là",
+  "options": {
+   "A": "103.",
+   "B": "75.",
+   "C": "117.",
+   "D": "147."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C3_0218",
+  "stem": "(Đề TSĐH A - 2013) Cho X là hexapeptide Ala–Gly–Ala–Val–Gly–Val và Y là tetrapeptide Gly–Ala–Gly–Glu. Thủy phân hoàn toàn m gam hỗn hợp gồm X và Y thu được 4 amino acid, trong đó có 30 gam glycine và 28,48 gam alanine. Giá trị của m là",
+  "options": {
+   "A": "73,4.",
+   "B": "77,6.",
+   "C": "83,2.",
+   "D": "87,4."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C3_0219",
+  "stem": "(Đề TSĐH A - 2011) Thủy phân hết m gam tetrapeptide Ala-Ala-Ala-Ala (mạch hở) thu được hỗn hợp gồm 28,48 gam Ala, 32 gam Ala-Ala và 27,72 gam Ala-Ala-Ala. Giá trị của m là",
+  "options": {
+   "A": "66,44.",
+   "B": "111,74.",
+   "C": "81,54.",
+   "D": "90,6."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C3_0220",
+  "stem": "Thủy phân hết m gam tetrapeptide Gly-Gly-Gly-Gly (mạch hở) thu được hỗn hợp gồm 30 gam Gly; 21,12 gam Gly-Gly và 15,12 gam Gly-Gly-Gly. Giá trị của m là",
+  "options": {
+   "A": "66,24.",
+   "B": "59,04.",
+   "C": "66,06.",
+   "D": "66,44."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C3_0221",
+  "stem": "Thủy phân một tetrapeptide X (mạch hở) chỉ thu được 14,6 gam Ala-Gly; 7,3 gam Gly-Ala; 6,125 gam Gly-Ala-Val; 1,875 gam Gly; 8,775 gam Val; m gam hỗn hợp gồm Ala-Val và Ala. Giá trị của m là",
+  "options": {
+   "A": "29,006.",
+   "B": "38,675.",
+   "C": "34,375.",
+   "D": "29,925."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C3_0222",
+  "stem": "Tripeptide M và tetrapeptide Q được tạo ra từ một amino acid X mạch hở (amino acid chỉ chứa 1 nhóm –COOH và 1 nhóm –NH2). Phần trăm khối lượng nitrogen trong X bằng 18,667%. Thủy phân không hoàn toàn m gam hỗn hợp M, Q (có tỉ lệ số mol 1: 1) thu được 0,945 gam M; 4,62 gam dipeptide và 3,75 gam X. Giá trị của m là",
+  "options": {
+   "A": "4,1945 gam.",
+   "B": "8,389 gam.",
+   "C": "12,58 gam.",
+   "D": "25,167 gam."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C3_0223",
+  "stem": "Thủy phân 60,6 gam Gly-Gly-Gly-Gly-Gly thì thu được m gam Gly-Gly-Gly; 13,2 gam Gly-Gly và 37,5 gam Gly. Giá trị của m là",
+  "options": {
+   "A": "18,9.",
+   "B": "19,8.",
+   "C": "9,9.",
+   "D": "37,8."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C3_0224",
+  "stem": "Thủy phân hết một lượng pentapeptide T thu được 32,88 gam Ala-Gly-Ala-Gly; 10,85 gam Ala-Gly-Ala; 16,24 gam Ala-Gly-Gly; 26,28 gam Ala-Gly; 8,9 gam Ala; còn lại là Gly và Gly-Gly với tỉ lệ mol tương ứng là 1:10. Tổng khối lượng Gly-Gly và Gly trong hỗn hợp sản phẩm là",
+  "options": {
+   "A": "25,11 gam.",
+   "B": "27,90 gam.",
+   "C": "34,875 gam.",
+   "D": "28,80 gam."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C3_0225",
+  "stem": "(SGV – KNTT) Thuỷ phân hoàn toàn m gam tripeptide Ala-Ala-Val trong dung dịch HCl dư, thu được 2,427 gam muối. Giá trị của m là",
+  "options": {
+   "A": "1,036.",
+   "B": "1,554.",
+   "C": "2,360.",
+   "D": "2,072."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C3_0226",
+  "stem": "Thủy phân hoàn toàn 14,6 gam Gly-Ala trong dung dịch HCl dư, thu được m gam muối. Giá trị của m là",
+  "options": {
+   "A": "11,15 gam.",
+   "B": "12,55 gam.",
+   "C": "18,6 gam.",
+   "D": "23,7 gam."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C3_0227",
+  "stem": "Từ glycine và alanine tạo ra 2 dipeptide X và Y chứa đồng thời 2 amino acid. Lấy 14,892 gam hỗn hợp X, Y phản ứng vừa đủ với V lít dung dịch HCl 1 M, đun nóng. Giá trị của V là",
+  "options": {
+   "A": "0,102.",
+   "B": "0,25.",
+   "C": "0,122.",
+   "D": "0,204."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C3_0228",
+  "stem": "(Đề TSĐH A - 2011) Thủy phân hoàn toàn 60 gam hỗn hợp hai dipeptide thu được 63,6 gam hỗn hợp X gồm các amino acid (các amino acid chỉ có một nhóm amino và một nhóm carboxyl trong phân tử). Nếu cho 1/10 hỗn hợp X tác dụng với dung dịch HCl (dư), cô cạn cẩn thận dung dịch, thì lượng muối khan thu được là",
+  "options": {
+   "A": "7,82 gam.",
+   "B": "16,30 gam.",
+   "C": "7,09 gam.",
+   "D": "8,15 gam."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C3_0229",
+  "stem": "Thủy phân hoàn toàn 143,45 gam hỗn hợp A gồm hai tetrapeptide thu được 159,74 gam hỗn hợp X gồm các amino acid (các amino acid chỉ chứa 1nhóm –COOH và 1 nhóm –NH2). Cho toàn bộ X tác dụng với dung dịch HCl dư, sau đó cô cạn dung dịch thì thu được m gam muối khan. Khối lượng nước phản ứng và giá trị của m lần lượt là",
+  "options": {
+   "A": "8,145 gam và 203,78 gam.",
+   "B": "32,58 gam và 10,15 gam.",
+   "C": "16,2 gam và 203,78 gam.",
+   "D": "16,29 gam và 203,78 gam."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C3_0230",
+  "stem": "Cho 24,36 gam tripeptide mạch hở Gly-Ala-Gly tác dụng với lượng dung dịch HCl vừa đủ, sau phản ứng thu được dung dịch Y chứa m gam muối. Giá trị m là",
+  "options": {
+   "A": "37,50 gam.",
+   "B": "41,82 gam.",
+   "C": "38,45 gam.",
+   "D": "40,42 gam."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C3_0231",
+  "stem": "Cho 0,1 mol Ala-Lys tác dụng với dung dịch HCl dư, đun nóng. Sau khi các phản ứng xảy ra hoàn toàn, số mol HCl đã phản ứng là",
+  "options": {
+   "A": "0,2.",
+   "B": "0,1.",
+   "C": "0,3.",
+   "D": "0,4."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C3_0232",
+  "stem": "Cho 0,1 mol Gly-Ala-Lys tác dụng vừa đủ với dung dịch chứa a mol HCl. Giá trị của a là",
+  "options": {
+   "A": "0,1.",
+   "B": "0,2.",
+   "C": "0,4.",
+   "D": "0,3."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C3_0233",
+  "stem": "Cho m gam tetrapeptide Gly-Ala-Gly-Val tác dụng với dung dịch HCl vừa đủ, thu được dung dịch chứa 100,4 gam muối. Giá trị của m là",
+  "options": {
+   "A": "20,8.",
+   "B": "71,2.",
+   "C": "30,2.",
+   "D": "60,4."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C3_0234",
+  "stem": "Thủy phân hoàn toàn 0,12 mol hexapeptide X có công thức Gly(Ala)2(Val)3 trong dung dịch HCl dư. Đem cô cạn cẩn thận dung dịch sau phản ứng thu được m gam muối khan. Giá trị của m là",
+  "options": {
+   "A": "88,92.",
+   "B": "92,12.",
+   "C": "82,84.",
+   "D": "98,76."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C3_0235",
+  "stem": "(Đề THPT QG - 2016) Thủy phân hoàn toàn 14,6 gam Gly-Ala trong dung dịch NaOH dư, thu được m gam muối. Giá trị của m là",
+  "options": {
+   "A": "16,8.",
+   "B": "22,6.",
+   "C": "20,8.",
+   "D": "18,6."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C3_0236",
+  "stem": "(Đề TSCĐ - 2012) Thủy phân hoàn toàn m gam dipeptide Gly-Ala (mạch hở) bằng dung dịch KOH vừa đủ, thu được dung dịch X. Cô cạn toàn bộ dung dịch X thu được 2,4 gam muối khan. Giá trị của m là",
+  "options": {
+   "A": "1,46.",
+   "B": "1,36.",
+   "C": "1,64.",
+   "D": "1,22."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C3_0237",
+  "stem": "(Đề MH - 2020) Cho 0,1 mol Gly–Ala tác dụng với dung dịch KOH dư, đun nóng. Sau khi các phản ứng xảy ra hoàn toàn, số mol KOH đã phản ứng là",
+  "options": {
+   "A": "0,2.",
+   "B": "0,1.",
+   "C": "0,3.",
+   "D": "0,4."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C3_0238",
+  "stem": "(Đề MH - 2020) Cho m gam Gly-Ala tác dụng hết với dung dịch NaOH dư, đun nóng. Số mol NaOH đã phản ứng là 0,2 mol. Giá trị của m là",
+  "options": {
+   "A": "14,6.",
+   "B": "29,2.",
+   "C": "26,4.",
+   "D": "32,8."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C3_0239",
+  "stem": "Thủy phân hoàn toàn Ala–Glu–Val bằng 200 mL dung dịch NaOH 1 M vừa đủ, sau phản ứng thu được m gam muối. Giá trị của m là",
+  "options": {
+   "A": "22,05.",
+   "B": "38,4.",
+   "C": "44,1.",
+   "D": "22,3."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C3_0240",
+  "stem": "Thủy phân hoàn toàn 19,6 gam tripeptide Val-Gly-Ala trong 300 mL dung dịch NaOH 1 M đun nóng. Cô cạn dung dịch sau phản ứng, thu được m gam chất rắn khan. Giá trị của m là",
+  "options": {
+   "A": "28,72.",
+   "B": "30,16.",
+   "C": "34,70.",
+   "D": "24,50."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C3_0241",
+  "stem": "Thủy phân 2,61 gam dipeptide X (tạo bởi các α-amino acid chứa 1 nhóm –COOH và 1 nhóm NH2 trong phân tử) trong dung dịch NaOH dư, thu được 3,54 gam muối. Dipeptide X là",
+  "options": {
+   "A": "Gly-Ala.",
+   "B": "Gly-Val.",
+   "C": "Ala-Val.",
+   "D": "Ala-Ala."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C3_0242",
+  "stem": "Thủy phân hoàn toàn 10,85 gam tripeptide mạch hở X bằng 150 mL dung dịch NaOH 1 M (vừa đủ), thu được a gam hỗn hợp muối của các amino acid (có dạng H2NCnH2nCOOH). Giá trị của a là",
+  "options": {
+   "A": "15,95.",
+   "B": "16,09.",
+   "C": "15,81.",
+   "D": "14,15."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C3_0243",
+  "stem": "Tripeptide X có công thức sau: H2N–CH2–CO–NH–CH(CH3)–CO–NH–CH(CH3)–COOH. Thủy phân hoàn toàn 0,1 mol X trong 400 mL dung dịch NaOH 1 M. Khối lượng chất rắn thu được khi cô cạn dung dịch sau phản ứng là",
+  "options": {
+   "A": "28,6 gam.",
+   "B": "22,2 gam.",
+   "C": "35,9 gam.",
+   "D": "31,9 gam."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C3_0244",
+  "stem": "Đun nóng 0,1 mol một pentapeptide X (được tạo thành từ một amino acid Y chỉ chứa một nhóm - NH2 và một nhóm -COOH) với 700 mL dung dịch NaOH 1 M, đến phản ứng hoàn toàn cô cạn dung dịch thu được 63,5 gam chất rắn khan. Tên gọi của Y là",
+  "options": {
+   "A": "α-aminoacetic acid.",
+   "B": "α-aminopropionic acid.",
+   "C": "α-amino-β-phenylpropionic acid.",
+   "D": "α-aminoisovaleric acid."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C3_0245",
+  "stem": "(Đề TSĐH B - 2012) Đun nóng m gam hỗn hợp gồm a mol tetrapeptide mạch hở X và 2a mol tripeptide mạch hở Y với 600 mL dung dịch NaOH 1 M (vừa đủ). Sau khi các phản ứng kết thúc, cô cạn dung dịch thu được 72,48 gam muối khan của các amino acid đều có một nhóm -COOH và một nhóm -NH2 trong phân tử. Giá trị của m là",
+  "options": {
+   "A": "51,72.",
+   "B": "54,30.",
+   "C": "66,00.",
+   "D": "44,48."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C3_0246",
+  "stem": "X là tetrapeptide Ala-Gly-Val-Ala, Y là tripeptide Val-Gly-Val. Đun nóng m gam hỗn hợp X và Y có tỉ lệ số mol nX: nY = 1: 3 với 780 mL dung dịch NaOH 1 M (vừa đủ), sau khi phản ứng kết thúc thu được dung dịch Z. Cô cạn dung dịch thu được 94,98 gam muối. Giá trị của m là",
+  "options": {
+   "A": "68,1 gam.",
+   "B": "64,86 gam.",
+   "C": "77,04 gam.",
+   "D": "65,13 gam."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C3_0247",
+  "stem": "(Đề TSĐH A - 2014) Thủy phân hoàn toàn 4,34 gam tripeptide mạch hở X (được tạo nên từ hai α-amino acid có công thức dạng H2NCxHyCOOH) bằng dung dịch NaOH dư, thu được 6,38 gam muối. Mặt khác thủy phân hoàn toàn 4,34 gam X bằng dung dịch HCl dư, thu được m gam muối. Giá trị của m là",
+  "options": {
+   "A": "6,53.",
+   "B": "7,25.",
+   "C": "8,25.",
+   "D": "5,06."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C3_0248",
+  "stem": "X là dipeptide Ala-Glu, Y là tripeptide Ala-Ala-Gly. Đun nóng m gam hỗn hợp chứa X và Y có tỉ lệ số mol của X và Y tương ứng là 1: 2 với dung dịch NaOH vừa đủ. Phản ứng hoàn toàn thu được dung dịch T. Cô cạn cẩn thận dung dịch T thu được 56,4 gam chất rắn khan. Giá trị của m là",
+  "options": {
+   "A": "45,6.",
+   "B": "40,27.",
+   "C": "39,12.",
+   "D": "38,68."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C3_0249",
+  "stem": "Tripeptide X tạo thành từ 3 α-amino acid no, đơn chức, mạch hở và có phân tử khối nhỏ nhất. Thủy phân 55,44 gam X bằng 200 mL dung dịch NaOH 4,8 M đun nóng, sau đó cô cạn dung dịch thu được bao nhiêu gam chất rắn khan?",
+  "options": {
+   "A": "88,560 gam.",
+   "B": "92,096 gam.",
+   "C": "93,618 gam.",
+   "D": "73,14 gam."
+  },
+  "answer": "A"
+ }
+]

@@ -1,0 +1,750 @@
+[
+ {
+  "id": "L10_C4_0001",
+  "stem": "Số oxi hóa là một số đại số đặc trưng cho đại lượng nào sau đây của nguyên tử trong phân tử?",
+  "options": {
+   "A": "Hóa trị.",
+   "B": "Điện tích.",
+   "C": "Khối lượng.",
+   "D": "Số hiệu nguyên tử."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L10_C4_0002",
+  "stem": "Số oxi hóa cao nhất của một nguyên tố nhóm A phụ thuộc vào cấu hình electron lớp ngoài cùng của nguyên tử nguyên tố đó. Cấu hình electron ngoài cùng nào sau đây thể hiện số oxi hóa cao nhất?",
+  "options": {
+   "A": "4s1.",
+   "B": "3s2.",
+   "C": "3s23p5.",
+   "D": "2s22p6."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L10_C4_0003",
+  "stem": "Trong hợp chất SO3, số oxi hóa của sulfur (S) là",
+  "options": {
+   "A": "+2.",
+   "B": "+3.",
+   "C": "+5.",
+   "D": "+6."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L10_C4_0004",
+  "stem": "(Đề THPT QG - 2018) Nguyên tố chromium (Cr) có số oxi hóa +6 trong hợp chất nào sau đây?",
+  "options": {
+   "A": "Cr(OH)3.",
+   "B": "Na2CrO4.",
+   "C": "Cr2O3.",
+   "D": "NaCrO2."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L10_C4_0005",
+  "stem": "Chromium(VI) oxide là chất rắn, màu đỏ thẫm, vừa là acidic oxide, vừa là chất oxi hóa mạnh. Số oxi hóa của chromium (Cr) trong oxide trên là",
+  "options": {
+   "A": "0.",
+   "B": "+6.",
+   "C": "+2.",
+   "D": "+3."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L10_C4_0006",
+  "stem": "Fe2O3 là thành phần chính của quặng hematite đỏ, dùng để luyện gang. Số oxi hóa của iron (Fe) trong Fe2O3 là",
+  "options": {
+   "A": "+3.",
+   "B": "+6.",
+   "C": "–3.",
+   "D": "–6."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L10_C4_0007",
+  "stem": "Ammonia (NH3) là nguyên liệu để sản xuất nitric acid và nhiều loại phân bón. Số oxi hóa của nitrogen (N) trong ammonia là",
+  "options": {
+   "A": "+3.",
+   "B": "–3.",
+   "C": "+1.",
+   "D": "–1."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L10_C4_0008",
+  "stem": "Iron có số oxi hóa +2 trong hợp chất nào sau đây?",
+  "options": {
+   "A": "Fe(OH)3.",
+   "B": "FeCl3.",
+   "C": "FeSO4.",
+   "D": "Fe2O3."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L10_C4_0009",
+  "stem": "(Đề THPT QG - 2018) Số oxi hóa của chromium (Cr) trong hợp chất K2Cr2O7 là",
+  "options": {
+   "A": "+2.",
+   "B": "+3.",
+   "C": "+6.",
+   "D": "+4."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L10_C4_0010",
+  "stem": "Số oxi hóa của nguyên tử S trong hợp chất SO2 là",
+  "options": {
+   "A": "+2.",
+   "B": "+4.",
+   "C": "+6.",
+   "D": "–1."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L10_C4_0011",
+  "stem": "Hợp chất nào sau đây chứa hai loại nguyên tử iron (Fe) với số oxi hóa +2 và +3?",
+  "options": {
+   "A": "FeO.",
+   "B": "Fe3O4.",
+   "C": "Fe(OH)3.",
+   "D": "Fe2O3."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L10_C4_0012",
+  "stem": "Chromium (Cr) có số oxi hóa +2 trong hợp chất nào sau đây?",
+  "options": {
+   "A": "Cr(OH)3.",
+   "B": "Na2CrO4.",
+   "C": "CrCl2.",
+   "D": "Cr2O3."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L10_C4_0013",
+  "stem": "Thuốc tím chứa ion permanganate (MnO4–) có tính oxi hóa mạnh, được sử dụng để sát trùng, diệt khuẩn trong y học, đời sống và nuôi trồng thủy sản. Số oxi hóa của manganse trong ion permanganate là",
+  "options": {
+   "A": "+2.",
+   "B": "+3.",
+   "C": "+7.",
+   "D": "+6."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L10_C4_0014",
+  "stem": "Cho các phân tử sau: N2, NH3, HNO3. Số oxi hóa của nguyên tử N trong các phân tử trên lần lượt là",
+  "options": {
+   "A": "0, –3, –4.",
+   "B": "0, +3, +5.",
+   "C": "–3, –3, +4.",
+   "D": "0, –3, +5."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L10_C4_0015",
+  "stem": "Cho các hợp chất sau: NH3, NH4Cl, HNO3, NO2. Số hợp chất chứa nguyên tử nitrogen có số oxi hóa –3 là",
+  "options": {
+   "A": "1.",
+   "B": "3.",
+   "C": "2.",
+   "D": "4."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L10_C4_0016",
+  "stem": "Cho các phân tử sau: H2S, SO3, CaSO4, Na2S, H2SO4. Số oxi hóa của nguyên tử S trong các phân tử trên lần lượt là",
+  "options": {
+   "A": "0, +6, +4, +4, +6.",
+   "B": "0, +6, +4, +2, +6.",
+   "C": "+2, +6, +6, –2, +6.",
+   "D": "–2, +6, +6, –2, +6."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L10_C4_0017",
+  "stem": "Cho các chất sau: Cl2, HCl, NaCl, KClO3, HClO4. Số oxi hóa của nguyên tử Cl trong phân tử các chất trên lần lượt là",
+  "options": {
+   "A": "0, +1, +1, +5, +7.",
+   "B": "0, –1, –1, +5, +7.",
+   "C": "1, –1, –1, –5, –7.",
+   "D": "0, 1, 1, 5, 7."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L10_C4_0018",
+  "stem": "Cho các chất sau: C2H6, CH4O và C2H4. Số oxi hóa trung bình của nguyên tử C trong các phân tử trên lần lượt là",
+  "options": {
+   "A": "–3, –2, –2.",
+   "B": "–3, –3, –2.",
+   "C": "–2, –2, –2.",
+   "D": "–3, –2, –3."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L10_C4_0019",
+  "stem": "Trong thiên nhiên manganese (Mn) là nguyên tố tương đối phổ biến, đứng thứ ba trong các kim loại chuyển tiếp, chỉ sau Fe và Ti. Các khoáng vật chính của manganese là hausmanite (Mn3O4), pyrolusite (MnO2), braunite (Mn2O3) và manganite (MnOOH). Manganese tồn tại ở rất nhiều trạng thái số oxi hóa khác nhau từ +2 tới +7.Cho các chất sau: Mn, MnO2, MnCl2, KMnO4. Số oxi hóa của nguyên tố Mn trong các chất lần lượt là",
+  "options": {
+   "A": "+2, –2, –4, +8.",
+   "B": "0, +4, +2, +7.",
+   "C": "0, +4, –2, +7.",
+   "D": "0, +2, –4, –7."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L10_C4_0020",
+  "stem": "Cho một số hợp chất: H2S, H2SO3, H2SO4, NaHS, Na2SO3, SO3, K2S, SO2. Dãy các chất trong đó sulfur (S) có cùng số oxi hóa là",
+  "options": {
+   "A": "H2S, H2SO3, H2SO4.",
+   "B": "H2SO3, H2SO4, Na2SO3, SO3.",
+   "C": "H2SO3, H2SO4, Na2SO3, SO2.",
+   "D": "H2S, NaHS, K2S."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L10_C4_0021",
+  "stem": "Dấu hiệu để nhận ra phản ứng là phản ứng oxi hóa – khử dựa trên sự thay đổi đại lượng nào sau đây của nguyên tử?",
+  "options": {
+   "A": "Số mol.",
+   "B": "Số oxi hóa.",
+   "C": "Số khối.",
+   "D": "Số proton."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L10_C4_0022",
+  "stem": "Phản ứng oxi hóa – khử là phản ứng có sự nhường và nhận",
+  "options": {
+   "A": "electron.",
+   "B": "neutron.",
+   "C": "proton.",
+   "D": "cation."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L10_C4_0023",
+  "stem": "Trong phản ứng oxi hóa – khử, chất oxi hóa là chất",
+  "options": {
+   "A": "nhường electron.",
+   "B": "nhận electron.",
+   "C": "nhận proton.",
+   "D": "nhường proton."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L10_C4_0024",
+  "stem": "Trong phản ứng oxi hóa – khử, chất nhường electron được gọi là",
+  "options": {
+   "A": "chất khử.",
+   "B": "chất oxi hóa.",
+   "C": "acid.",
+   "D": "base."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L10_C4_0025",
+  "stem": "Phản ứng nào dưới đây là phản ứng oxi hoá – khử?",
+  "options": {
+   "A": "HNO3 + NaOH <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAlH7W+d3kAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> NaNO3 + H2O.",
+   "B": "N2O5 + H2O <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAlH7W+d3kAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> 2HNO3.",
+   "C": "2HNO3 + 3H2S <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAlH7W+d3kAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> 3S + 2NO + 4H2O.",
+   "D": "2Fe(OH)3 <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAE0AAAAgCAAAAAByCKroAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAlH7W+d3kAAAEqSURBVEjHY/zPQEXARE3DiDZtT2CW5x7Cyv4TBV7zP/1/k+8VIWVEum23lBSDmvheKvn0JR8DA4PgS8pNW1nDwMAg8ZGBgeG9BMWm/W9jYGBgcHn+hOHOS2eCVhMI1xuuDPzyxf//7/LP8d5NMLIIxuljhmriop2EOCUSjJpGI9OYGP5R0TQRtr0PLhNS9AbGIJiGOnglEgko+Sd/m8jUSxTI1fxIRdNei3j+oZ5p/xcx5FPRtP/BDJP////PwsDwPhczkrwjUbglLxDspVC6BkUFP0O+ZDADw///T5gxQRmqzeoIGdzJxPP/f0Zy69N///8hg6WV6icEGMg2DRU81WE+oUJM6iUK+LAeoF6crmeY+596pumWQmiqlEj/gjogDCrFAhRQt7QEANWTdyq5RaZ+AAAAAElFTkSuQmCC\" style=\"height:22px\" alt=\"\"> Fe2O3 + 3H2O."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L10_C4_0026",
+  "stem": "(Đề THPT QG - 2015) Phản ứng nào sau đây không phải là phản ứng oxi hóa – khử?",
+  "options": {
+   "A": "CaCO3 <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAE0AAAAgCAAAAAByCKroAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAlH7W+d3kAAAEqSURBVEjHY/zPQEXARE3DiDZtT2CW5x7Cyv4TBV7zP/1/k+8VIWVEum23lBSDmvheKvn0JR8DA4PgS8pNW1nDwMAg8ZGBgeG9BMWm/W9jYGBgcHn+hOHOS2eCVhMI1xuuDPzyxf//7/LP8d5NMLIIxuljhmriop2EOCUSjJpGI9OYGP5R0TQRtr0PLhNS9AbGIJiGOnglEgko+Sd/m8jUSxTI1fxIRdNei3j+oZ5p/xcx5FPRtP/BDJP////PwsDwPhczkrwjUbglLxDspVC6BkUFP0O+ZDADw///T5gxQRmqzeoIGdzJxPP/f0Zy69N///8hg6WV6icEGMg2DRU81WE+oUJM6iUK+LAeoF6crmeY+596pumWQmiqlEj/gjogDCrFAhRQt7QEANWTdyq5RaZ+AAAAAElFTkSuQmCC\" style=\"height:22px\" alt=\"\"> CaO + CO2.",
+   "B": "2KClO3 <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAE0AAAAgCAAAAAByCKroAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAlH7W+d3kAAAEqSURBVEjHY/zPQEXARE3DiDZtT2CW5x7Cyv4TBV7zP/1/k+8VIWVEum23lBSDmvheKvn0JR8DA4PgS8pNW1nDwMAg8ZGBgeG9BMWm/W9jYGBgcHn+hOHOS2eCVhMI1xuuDPzyxf//7/LP8d5NMLIIxuljhmriop2EOCUSjJpGI9OYGP5R0TQRtr0PLhNS9AbGIJiGOnglEgko+Sd/m8jUSxTI1fxIRdNei3j+oZ5p/xcx5FPRtP/BDJP////PwsDwPhczkrwjUbglLxDspVC6BkUFP0O+ZDADw///T5gxQRmqzeoIGdzJxPP/f0Zy69N///8hg6WV6icEGMg2DRU81WE+oUJM6iUK+LAeoF6crmeY+596pumWQmiqlEj/gjogDCrFAhRQt7QEANWTdyq5RaZ+AAAAAElFTkSuQmCC\" style=\"height:22px\" alt=\"\"> 2KCl + 3O2.",
+   "C": "2NaOH + Cl2 <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAlHCy3JsMAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> NaCl + NaClO + H2O.",
+   "D": "4Fe(OH)2 + O2 <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAE0AAAAjCAAAAAD0nNhGAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAlH7W+d3kAAAFSSURBVEjHY/zPQEXARE3DiDbtpnei+y3Cyv4TBf7p7f6/UZ+gMiJNO8f97/9v9vOElBHp04syjAwsshepFG5vuRgYGHjeUisWGBgYGP4zUsk04a8MDAxfhCk3bWUNAwODwZP/DL8f61Ns2v82BgYGBn2VvQzbNQmaRiiF3HBl4Jcv/v//ule6103K09tjhmrikiQJ6Y1IMGoajUxjYvhHRdNE2PY+uExAzZ+PMBbBNNTBK5FIQMkZ0+8QBiM1apn/hjpLiHQbMWA/QxtxOYs4kMS4loqmfVLkPPn//38WBob3uZgh4R2Jwi15AWe+3gVl1KCoULrvc0SNgeH//yfMmKAM1Wp1hAzuuOiiIE7/wcH/f//+/cvdGL6CWnH6fyuD+ff/VEpvDJ+0mE5JMDAwsFDDMIa6j0ckGBio5NPnHJsgDKr49M6RBAiDOuEGA9QtLQE6vjizQAmB9QAAAABJRU5ErkJggg==\" style=\"height:23px\" alt=\"\"> 2Fe2O3 + 4H2O."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L10_C4_0027",
+  "stem": "Phản ứng nào dưới đây là phản ứng oxi hoá – khử?",
+  "options": {
+   "A": "2HgO <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAE0AAAAgCAAAAAByCKroAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAlH7W+d3kAAAEqSURBVEjHY/zPQEXARE3DiDZtT2CW5x7Cyv4TBV7zP/1/k+8VIWVEum23lBSDmvheKvn0JR8DA4PgS8pNW1nDwMAg8ZGBgeG9BMWm/W9jYGBgcHn+hOHOS2eCVhMI1xuuDPzyxf//7/LP8d5NMLIIxuljhmriop2EOCUSjJpGI9OYGP5R0TQRtr0PLhNS9AbGIJiGOnglEgko+Sd/m8jUSxTI1fxIRdNei3j+oZ5p/xcx5FPRtP/BDJP////PwsDwPhczkrwjUbglLxDspVC6BkUFP0O+ZDADw///T5gxQRmqzeoIGdzJxPP/f0Zy69N///8hg6WV6icEGMg2DRU81WE+oUJM6iUK+LAeoF6crmeY+596pumWQmiqlEj/gjogDCrFAhRQt7QEANWTdyq5RaZ+AAAAAElFTkSuQmCC\" style=\"height:22px\" alt=\"\"> 2Hg + O2.",
+   "B": "CaCO3 <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAE0AAAAgCAAAAAByCKroAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAlH7W+d3kAAAEqSURBVEjHY/zPQEXARE3DiDZtT2CW5x7Cyv4TBV7zP/1/k+8VIWVEum23lBSDmvheKvn0JR8DA4PgS8pNW1nDwMAg8ZGBgeG9BMWm/W9jYGBgcHn+hOHOS2eCVhMI1xuuDPzyxf//7/LP8d5NMLIIxuljhmriop2EOCUSjJpGI9OYGP5R0TQRtr0PLhNS9AbGIJiGOnglEgko+Sd/m8jUSxTI1fxIRdNei3j+oZ5p/xcx5FPRtP/BDJP////PwsDwPhczkrwjUbglLxDspVC6BkUFP0O+ZDADw///T5gxQRmqzeoIGdzJxPP/f0Zy69N///8hg6WV6icEGMg2DRU81WE+oUJM6iUK+LAeoF6crmeY+596pumWQmiqlEj/gjogDCrFAhRQt7QEANWTdyq5RaZ+AAAAAElFTkSuQmCC\" style=\"height:22px\" alt=\"\"> CaO + CO2.",
+   "C": "2Al(OH)3 <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAE0AAAAgCAAAAAByCKroAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAlH7W+d3kAAAEqSURBVEjHY/zPQEXARE3DiDZtT2CW5x7Cyv4TBV7zP/1/k+8VIWVEum23lBSDmvheKvn0JR8DA4PgS8pNW1nDwMAg8ZGBgeG9BMWm/W9jYGBgcHn+hOHOS2eCVhMI1xuuDPzyxf//7/LP8d5NMLIIxuljhmriop2EOCUSjJpGI9OYGP5R0TQRtr0PLhNS9AbGIJiGOnglEgko+Sd/m8jUSxTI1fxIRdNei3j+oZ5p/xcx5FPRtP/BDJP////PwsDwPhczkrwjUbglLxDspVC6BkUFP0O+ZDADw///T5gxQRmqzeoIGdzJxPP/f0Zy69N///8hg6WV6icEGMg2DRU81WE+oUJM6iUK+LAeoF6crmeY+596pumWQmiqlEj/gjogDCrFAhRQt7QEANWTdyq5RaZ+AAAAAElFTkSuQmCC\" style=\"height:22px\" alt=\"\"> Al2O3 + 3H2O.",
+   "D": "2NaHCO3 <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAE0AAAAgCAAAAAByCKroAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAlH7W+d3kAAAEqSURBVEjHY/zPQEXARE3DiDZtT2CW5x7Cyv4TBV7zP/1/k+8VIWVEum23lBSDmvheKvn0JR8DA4PgS8pNW1nDwMAg8ZGBgeG9BMWm/W9jYGBgcHn+hOHOS2eCVhMI1xuuDPzyxf//7/LP8d5NMLIIxuljhmriop2EOCUSjJpGI9OYGP5R0TQRtr0PLhNS9AbGIJiGOnglEgko+Sd/m8jUSxTI1fxIRdNei3j+oZ5p/xcx5FPRtP/BDJP////PwsDwPhczkrwjUbglLxDspVC6BkUFP0O+ZDADw///T5gxQRmqzeoIGdzJxPP/f0Zy69N///8hg6WV6icEGMg2DRU81WE+oUJM6iUK+LAeoF6crmeY+596pumWQmiqlEj/gjogDCrFAhRQt7QEANWTdyq5RaZ+AAAAAElFTkSuQmCC\" style=\"height:22px\" alt=\"\"> Na2CO3 + CO2 + H2O."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L10_C4_0028",
+  "stem": "Phản ứng nào dưới đây không phải là phản ứng oxi hoá – khử?",
+  "options": {
+   "A": "Al4C3 + 12H2O <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAlH7W+d3kAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> 4Al(OH)3 + 3CH4.",
+   "B": "2Na + 2H2O <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAlH7W+d3kAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> 2NaOH + H2.",
+   "C": "NaH + H2O <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAlH7W+d3kAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> NaOH + H2.",
+   "D": "2F2 + 2H2O <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAlH7W+d3kAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> 4HF + O2."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L10_C4_0029",
+  "stem": "Phản ứng nào sau đây là phản ứng oxi hóa – khử?",
+  "options": {
+   "A": "2Ca + O2 <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAE0AAAAjCAAAAAD0nNhGAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAlG7LTs2AAAAFSSURBVEjHY/zPQEXARE3DiDbtpnei+y3Cyv4TBf7p7f6/UZ+gMiJNO8f97/9v9vOElBHp04syjAwsshepFG5vuRgYGHjeUisWGBgYGP4zUsk04a8MDAxfhCk3bWUNAwODwZP/DL8f61Ns2v82BgYGBn2VvQzbNQmaRiiF3HBl4Jcv/v//ule6103K09tjhmrikiQJ6Y1IMGoajUxjYvhHRdNE2PY+uExAzZ+PMBbBNNTBK5FIQMkZ0+8QBiM1apn/hjpLiHQbMWA/QxtxOYs4kMS4loqmfVLkPPn//38WBob3uZgh4R2Jwi15AWe+3gVl1KCoULrvc0SNgeH//yfMmKAM1Wp1hAzuuOiiIE7/wcH/f//+/cvdGL6CWnH6fyuD+ff/VEpvDJ+0mE5JMDAwsFDDMIa6j0ckGBio5NPnHJsgDKr49M6RBAiDOuEGA9QtLQE6vjizQAmB9QAAAABJRU5ErkJggg==\" style=\"height:23px\" alt=\"\"> 2CaO.",
+   "B": "CaCO3 <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAE0AAAAjCAAAAAD0nNhGAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAlHsK5R+8AAAFSSURBVEjHY/zPQEXARE3DiDbtpnei+y3Cyv4TBf7p7f6/UZ+gMiJNO8f97/9v9vOElBHp04syjAwsshepFG5vuRgYGHjeUisWGBgYGP4zUsk04a8MDAxfhCk3bWUNAwODwZP/DL8f61Ns2v82BgYGBn2VvQzbNQmaRiiF3HBl4Jcv/v//ule6103K09tjhmrikiQJ6Y1IMGoajUxjYvhHRdNE2PY+uExAzZ+PMBbBNNTBK5FIQMkZ0+8QBiM1apn/hjpLiHQbMWA/QxtxOYs4kMS4loqmfVLkPPn//38WBob3uZgh4R2Jwi15AWe+3gVl1KCoULrvc0SNgeH//yfMmKAM1Wp1hAzuuOiiIE7/wcH/f//+/cvdGL6CWnH6fyuD+ff/VEpvDJ+0mE5JMDAwsFDDMIa6j0ckGBio5NPnHJsgDKr49M6RBAiDOuEGA9QtLQE6vjizQAmB9QAAAABJRU5ErkJggg==\" style=\"height:23px\" alt=\"\"> CaO + CO2.",
+   "C": "CaO + H2O <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAlHsK5R+8AAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> Ca(OH)2.",
+   "D": "Ca(OH)2 + CO2 <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAlHsK5R+8AAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> CaCO3 + H2O."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L10_C4_0030",
+  "stem": "Trong thiên nhiên manganese (Mn) là nguyên tố tương đối phổ biến, đứng thứ ba trong các kim loại chuyển tiếp, chỉ sau Fe và Ti. Các khoáng vật chính của manganese là hausmanite (Mn3O4), pyrolusite (MnO2), braunite (Mn2O3) và manganite (MnOOH). Manganese tồn tại ở rất nhiều trạng thái số oxi hóa khác nhau từ +2 tới +7.Phản ứng nào sau đây không có sự thay đổi số oxi hóa của nguyên tố Mn?",
+  "options": {
+   "A": "MnO2 + 4HCl <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAE0AAAAgCAAAAAByCKroAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAlH7W+d3kAAAEqSURBVEjHY/zPQEXARE3DiDZtT2CW5x7Cyv4TBV7zP/1/k+8VIWVEum23lBSDmvheKvn0JR8DA4PgS8pNW1nDwMAg8ZGBgeG9BMWm/W9jYGBgcHn+hOHOS2eCVhMI1xuuDPzyxf//7/LP8d5NMLIIxuljhmriop2EOCUSjJpGI9OYGP5R0TQRtr0PLhNS9AbGIJiGOnglEgko+Sd/m8jUSxTI1fxIRdNei3j+oZ5p/xcx5FPRtP/BDJP////PwsDwPhczkrwjUbglLxDspVC6BkUFP0O+ZDADw///T5gxQRmqzeoIGdzJxPP/f0Zy69N///8hg6WV6icEGMg2DRU81WE+oUJM6iUK+LAeoF6crmeY+596pumWQmiqlEj/gjogDCrFAhRQt7QEANWTdyq5RaZ+AAAAAElFTkSuQmCC\" style=\"height:22px\" alt=\"\"> MnCl2 + Cl2 + 2H2O.",
+   "B": "Mn + O2 <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAlHsK5R+8AAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:18px\" alt=\"\"> MnO2.",
+   "C": "2HCl + MnO <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAlHsK5R+8AAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:18px\" alt=\"\"> MnCl2 + H2O.",
+   "D": "6KI + 2KMnO4 + 4H2O <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAlHsK5R+8AAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:18px\" alt=\"\"> 3I2 + 2MnO2 + 8KOH."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L10_C4_0031",
+  "stem": "Trong phản ứng hóa học: Fe + H2SO4 <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAlIAPYWkQAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> FeSO4 + H2; mỗi nguyên tử Fe đã",
+  "options": {
+   "A": "nhường 2 electron.",
+   "B": "nhận 2 electron.",
+   "C": "nhường 1 electron.",
+   "D": "nhận 1 electron."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L10_C4_0032",
+  "stem": "Cho phản ứng: Zn + CuCl2 <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAlH7W+d3kAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:18px\" alt=\"\"> ZnCl2 + Cu. Trong phản ứng này, 1 mol Cu+2",
+  "options": {
+   "A": "đã nhận 1 mol electron.",
+   "B": "đã nhận 2 mol electron.",
+   "C": "đã nhường 1 mol electron.",
+   "D": "đã nhường 2 mol electron."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L10_C4_0033",
+  "stem": "Calcium chloride dùng trong điện phân để sản xuất calcium kim loại và điều chế các hợp kim của calcium. Với tính chất hút ẩm lớn, calcium chloride được dùng làm tác nhân sấy khí và chất lỏng. Do nhiệt độ đông đặc thấp nên dung dịch calcium(II) chloride được dùng làm chất tải lạnh trong các hệ thống lạnh,… Ngoài ra, calcium chloride còn được làm chất keo tụ trong hóa dược và dược phẩm hay trong công việc khoan dầu khí.Trong phản ứng tạo thành calcium(II) chloride từ đơn chất: Ca + Cl2 <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAlH7W+d3kAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> CaCl2. Kết luận nào sau đây đúng?",
+  "options": {
+   "A": "Mỗi nguyên tử Ca nhận 2e.",
+   "B": "Mỗi nguyên tử Cl nhận 2e.",
+   "C": "Mỗi phân tử Cl2 nhường 2e.",
+   "D": "Mỗi nguyên tử Ca nhường 2e."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L10_C4_0034",
+  "stem": "Carbon đóng vai trò chất oxi hóa ở phản ứng nào sau đây?",
+  "options": {
+   "A": "C + O2 <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAE0AAAAgCAAAAAByCKroAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAlH7W+d3kAAAEqSURBVEjHY/zPQEXARE3DiDZtT2CW5x7Cyv4TBV7zP/1/k+8VIWVEum23lBSDmvheKvn0JR8DA4PgS8pNW1nDwMAg8ZGBgeG9BMWm/W9jYGBgcHn+hOHOS2eCVhMI1xuuDPzyxf//7/LP8d5NMLIIxuljhmriop2EOCUSjJpGI9OYGP5R0TQRtr0PLhNS9AbGIJiGOnglEgko+Sd/m8jUSxTI1fxIRdNei3j+oZ5p/xcx5FPRtP/BDJP////PwsDwPhczkrwjUbglLxDspVC6BkUFP0O+ZDADw///T5gxQRmqzeoIGdzJxPP/f0Zy69N///8hg6WV6icEGMg2DRU81WE+oUJM6iUK+LAeoF6crmeY+596pumWQmiqlEj/gjogDCrFAhRQt7QEANWTdyq5RaZ+AAAAAElFTkSuQmCC\" style=\"height:22px\" alt=\"\"> CO2.",
+   "B": "C + CO2 <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAE0AAAAgCAAAAAByCKroAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAlH7W+d3kAAAEqSURBVEjHY/zPQEXARE3DiDZtT2CW5x7Cyv4TBV7zP/1/k+8VIWVEum23lBSDmvheKvn0JR8DA4PgS8pNW1nDwMAg8ZGBgeG9BMWm/W9jYGBgcHn+hOHOS2eCVhMI1xuuDPzyxf//7/LP8d5NMLIIxuljhmriop2EOCUSjJpGI9OYGP5R0TQRtr0PLhNS9AbGIJiGOnglEgko+Sd/m8jUSxTI1fxIRdNei3j+oZ5p/xcx5FPRtP/BDJP////PwsDwPhczkrwjUbglLxDspVC6BkUFP0O+ZDADw///T5gxQRmqzeoIGdzJxPP/f0Zy69N///8hg6WV6icEGMg2DRU81WE+oUJM6iUK+LAeoF6crmeY+596pumWQmiqlEj/gjogDCrFAhRQt7QEANWTdyq5RaZ+AAAAAElFTkSuQmCC\" style=\"height:22px\" alt=\"\"> 2CO.",
+   "C": "C + H2O <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAE0AAAAgCAAAAAByCKroAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAlH7W+d3kAAAEqSURBVEjHY/zPQEXARE3DiDZtT2CW5x7Cyv4TBV7zP/1/k+8VIWVEum23lBSDmvheKvn0JR8DA4PgS8pNW1nDwMAg8ZGBgeG9BMWm/W9jYGBgcHn+hOHOS2eCVhMI1xuuDPzyxf//7/LP8d5NMLIIxuljhmriop2EOCUSjJpGI9OYGP5R0TQRtr0PLhNS9AbGIJiGOnglEgko+Sd/m8jUSxTI1fxIRdNei3j+oZ5p/xcx5FPRtP/BDJP////PwsDwPhczkrwjUbglLxDspVC6BkUFP0O+ZDADw///T5gxQRmqzeoIGdzJxPP/f0Zy69N///8hg6WV6icEGMg2DRU81WE+oUJM6iUK+LAeoF6crmeY+596pumWQmiqlEj/gjogDCrFAhRQt7QEANWTdyq5RaZ+AAAAAElFTkSuQmCC\" style=\"height:22px\" alt=\"\"> CO + H2.",
+   "D": "C + 2H2 <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAE0AAAAgCAAAAAByCKroAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAlH7W+d3kAAAEqSURBVEjHY/zPQEXARE3DiDZtT2CW5x7Cyv4TBV7zP/1/k+8VIWVEum23lBSDmvheKvn0JR8DA4PgS8pNW1nDwMAg8ZGBgeG9BMWm/W9jYGBgcHn+hOHOS2eCVhMI1xuuDPzyxf//7/LP8d5NMLIIxuljhmriop2EOCUSjJpGI9OYGP5R0TQRtr0PLhNS9AbGIJiGOnglEgko+Sd/m8jUSxTI1fxIRdNei3j+oZ5p/xcx5FPRtP/BDJP////PwsDwPhczkrwjUbglLxDspVC6BkUFP0O+ZDADw///T5gxQRmqzeoIGdzJxPP/f0Zy69N///8hg6WV6icEGMg2DRU81WE+oUJM6iUK+LAeoF6crmeY+596pumWQmiqlEj/gjogDCrFAhRQt7QEANWTdyq5RaZ+AAAAAElFTkSuQmCC\" style=\"height:22px\" alt=\"\"> CH4."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L10_C4_0035",
+  "stem": "Phản ứng nào dưới đây NH3 không đóng vai trò là chất khử?",
+  "options": {
+   "A": "4NH3 + 5O2 <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFMAAAAaCAAAAADujj94AAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAlGsXUg/YAAAFxSURBVEjHY/zPQHXARH0jGVjI0bRln8zVqRw4pRnJ8bv8TY5KhXSq+v3rDw4G2Tu45Ykwc/s/JM71ewwM3JzfGR6r4NZA2O/fFZ8gBbp/rgsDw5Y9clencOLW8h8XOKindOa89sRvmQxJi+GCs1k8a/4TArjN/H+F4/Dm6f//n2b4jSTIvZugkf/xhKd2TcKODDKiEG8cFb1kI8dIvGa2Tp52ispmbpdNyE/6xcDG8I6BgWGC5EMGBgYGBrZ3RBiKM6RX6Bz5v4Qp5vFPc62W//+Pi+7///////+5ksnfcGqp+EMo3lHA94BvhBWlFpNkZvMjIhQ9F5hHipnEgflsB/7//8/4n+HcLdQQDkPEGx4phnO3GC6+QZP7n/36iBYDw///Rdyo4AfCXjxS/4u4ubHFecb//2SVnzjAv38fDCUOcZJXzuMATEwV/zdx4kufZICD3OeoHu+26/7//0/d8GQ4ZMfAwEBmHUcoXKlvJAMA7JDNzMLraVIAAAAASUVORK5CYII=\" style=\"height:22px\" alt=\"\"> 4NO + 6H2O.",
+   "B": "2NH3 + 3Cl2 <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAlH7W+d3kAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:18px\" alt=\"\"> N2 + 6HCl.",
+   "C": "2NH3 + 3CuO <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAE0AAAAgCAAAAAByCKroAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAlH7W+d3kAAAEqSURBVEjHY/zPQEXARE3DiDZtT2CW5x7Cyv4TBV7zP/1/k+8VIWVEum23lBSDmvheKvn0JR8DA4PgS8pNW1nDwMAg8ZGBgeG9BMWm/W9jYGBgcHn+hOHOS2eCVhMI1xuuDPzyxf//7/LP8d5NMLIIxuljhmriop2EOCUSjJpGI9OYGP5R0TQRtr0PLhNS9AbGIJiGOnglEgko+Sd/m8jUSxTI1fxIRdNei3j+oZ5p/xcx5FPRtP/BDJP////PwsDwPhczkrwjUbglLxDspVC6BkUFP0O+ZDADw///T5gxQRmqzeoIGdzJxPP/f0Zy69N///8hg6WV6icEGMg2DRU81WE+oUJM6iUK+LAeoF6crmeY+596pumWQmiqlEj/gjogDCrFAhRQt7QEANWTdyq5RaZ+AAAAAElFTkSuQmCC\" style=\"height:22px\" alt=\"\"> 3Cu + N2 + 3H2O.",
+   "D": "2NH3 + H2O2 + MnSO4 <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAlH7W+d3kAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:18px\" alt=\"\"> MnO2 + (NH4)2SO4."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L10_C4_0036",
+  "stem": "Cho phản ứng: 2Na + Cl2 <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAlH7W+d3kAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:18px\" alt=\"\"> 2NaCl. Trong phản ứng này, nguyên tử sodium (Na)",
+  "options": {
+   "A": "bị oxi hoá.",
+   "B": "vừa bị oxi hoá, vừa bị khử.",
+   "C": "bị khử.",
+   "D": "không bị oxi hoá, không bị khử."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L10_C4_0037",
+  "stem": "Khi tham gia các phản ứng đốt cháy nhiên liệu, oxygen đóng vai trò là",
+  "options": {
+   "A": "chất khử.",
+   "B": "acid.",
+   "C": "base.",
+   "D": "chất oxi hóa."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L10_C4_0038",
+  "stem": "Trong các phản ứng hóa học: 2Na + 2H2O <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAlIAPYWkQAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> 2NaOH + H2, chất oxi hóa là",
+  "options": {
+   "A": "H2O.",
+   "B": "NaOH.",
+   "C": "Na.",
+   "D": "H2."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L10_C4_0039",
+  "stem": "Cho nước Cl2 vào dung dịch NaBr xảy ra phản ứng hóa học: Cl2 + 2NaBr <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAlIAPYWkQAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> 2NaCl + Br2.Trong phản ứng hóa học trên, xảy ra quá trình oxi hóa chất",
+  "options": {
+   "A": "NaCl.",
+   "B": "Br2.",
+   "C": "Cl2.",
+   "D": "NaBr."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L10_C4_0040",
+  "stem": "Phương trình hóa học của phản ứng nào sau đây không thể hiện tính khử của ammonia (NH3)?",
+  "options": {
+   "A": "4NH3 + 5O2 <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFMAAAAaCAAAAADujj94AAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAlHCy3JsMAAAFxSURBVEjHY/zPQHXARH0jGVjI0bRln8zVqRw4pRnJ8bv8TY5KhXSq+v3rDw4G2Tu45Ykwc/s/JM71ewwM3JzfGR6r4NZA2O/fFZ8gBbp/rgsDw5Y9clencOLW8h8XOKindOa89sRvmQxJi+GCs1k8a/4TArjN/H+F4/Dm6f//n2b4jSTIvZugkf/xhKd2TcKODDKiEG8cFb1kI8dIvGa2Tp52ispmbpdNyE/6xcDG8I6BgWGC5EMGBgYGBrZ3RBiKM6RX6Bz5v4Qp5vFPc62W//+Pi+7///////+5ksnfcGqp+EMo3lHA94BvhBWlFpNkZvMjIhQ9F5hHipnEgflsB/7//8/4n+HcLdQQDkPEGx4phnO3GC6+QZP7n/36iBYDw///Rdyo4AfCXjxS/4u4ubHFecb//2SVnzjAv38fDCUOcZJXzuMATEwV/zdx4kufZICD3OeoHu+26/7//0/d8GQ4ZMfAwEBmHUcoXKlvJAMA7JDNzMLraVIAAAAASUVORK5CYII=\" style=\"height:22px\" alt=\"\"> 4NO + 6H2O.",
+   "B": "NH3 + HCl <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAlH7W+d3kAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> NH4Cl.",
+   "C": "2NH3 + 3Cl2 <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAlH7W+d3kAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> 6HCl + N2.",
+   "D": "4NH3 + 3O2 <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAE0AAAAgCAAAAAByCKroAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAlH7W+d3kAAAEqSURBVEjHY/zPQEXARE3DiDZtT2CW5x7Cyv4TBV7zP/1/k+8VIWVEum23lBSDmvheKvn0JR8DA4PgS8pNW1nDwMAg8ZGBgeG9BMWm/W9jYGBgcHn+hOHOS2eCVhMI1xuuDPzyxf//7/LP8d5NMLIIxuljhmriop2EOCUSjJpGI9OYGP5R0TQRtr0PLhNS9AbGIJiGOnglEgko+Sd/m8jUSxTI1fxIRdNei3j+oZ5p/xcx5FPRtP/BDJP////PwsDwPhczkrwjUbglLxDspVC6BkUFP0O+ZDADw///T5gxQRmqzeoIGdzJxPP/f0Zy69N///8hg6WV6icEGMg2DRU81WE+oUJM6iUK+LAeoF6crmeY+596pumWQmiqlEj/gjogDCrFAhRQt7QEANWTdyq5RaZ+AAAAAElFTkSuQmCC\" style=\"height:22px\" alt=\"\"> 2N2 + 6H2O."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L10_C4_0041",
+  "stem": "Nguyên tử sulfur chỉ thể hiện tính khử (trong điều kiện phản ứng phù hợp) trong hợp chất nào sau đây?",
+  "options": {
+   "A": "SO2.",
+   "B": "H2SO4.",
+   "C": "H2S.",
+   "D": "Na2SO3."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L10_C4_0042",
+  "stem": "Xét phản ứng điều chế H2 trong phòng thí nghiệm: Zn + 2HCl <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAlH7W+d3kAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> ZnCl2 + H2. Chất đóng vai trò chất khử trong phản ứng là",
+  "options": {
+   "A": "H2.",
+   "B": "ZnCl2.",
+   "C": "HCl.",
+   "D": "Zn."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L10_C4_0043",
+  "stem": "Nguyên tử sulfur (S) thể hiện tính khử và tính oxi hóa trong chất nào sau đây?",
+  "options": {
+   "A": "SO3.",
+   "B": "SO2.",
+   "C": "H2SO4.",
+   "D": "H2S."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L10_C4_0044",
+  "stem": "Nguyên tử carbon (C) có khả năng thể hiện tính oxi hóa, vừa có khả năng thể hiện tính khử trong chất nào sau đây?",
+  "options": {
+   "A": "C.",
+   "B": "CO2.",
+   "C": "CaCO3.",
+   "D": "CH4."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L10_C4_0045",
+  "stem": "Dẫn khí H2 đi qua ống sứ đựng bột CuO nung nóng để thực hiện phản ứng hóa học sau:CuO + H2 <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAE0AAAAgCAAAAAByCKroAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAlH7W+d3kAAAEqSURBVEjHY/zPQEXARE3DiDZtT2CW5x7Cyv4TBV7zP/1/k+8VIWVEum23lBSDmvheKvn0JR8DA4PgS8pNW1nDwMAg8ZGBgeG9BMWm/W9jYGBgcHn+hOHOS2eCVhMI1xuuDPzyxf//7/LP8d5NMLIIxuljhmriop2EOCUSjJpGI9OYGP5R0TQRtr0PLhNS9AbGIJiGOnglEgko+Sd/m8jUSxTI1fxIRdNei3j+oZ5p/xcx5FPRtP/BDJP////PwsDwPhczkrwjUbglLxDspVC6BkUFP0O+ZDADw///T5gxQRmqzeoIGdzJxPP/f0Zy69N///8hg6WV6icEGMg2DRU81WE+oUJM6iUK+LAeoF6crmeY+596pumWQmiqlEj/gjogDCrFAhRQt7QEANWTdyq5RaZ+AAAAAElFTkSuQmCC\" style=\"height:22px\" alt=\"\"> Cu + H2O. Trong phản ứng trên, chất đóng vai trò chất khử là",
+  "options": {
+   "A": "CuO.",
+   "B": "Cu.",
+   "C": "H2.",
+   "D": "H2O."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L10_C4_0046",
+  "stem": "Sục khí SO2 vào dung dịch KMnO4 (thuốc tím), màu tím nhạt dần rồi mất màu (biết sản phẩm tạo thành là K2SO4, MnSO4, H2SO4 và H2O). Nguyên nhân là do",
+  "options": {
+   "A": "SO2 đã oxi hóa KMnO4 thành MnO2.",
+   "B": "SO2 đã khử KMnO4 thành Mn+2.",
+   "C": "KMnO4 đã khử SO2 thành S+6.",
+   "D": "H2O đã oxi hóa KMnO4 thành Mn+2."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L10_C4_0047",
+  "stem": "Sản xuất gang trong công nghiệp bằng các sử dụng khí CO khử Fe2O3 ở nhiệt độ cao theo phản ứng sau: Fe2O3 + 3CO <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAE0AAAAgCAAAAAByCKroAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAlH7W+d3kAAAEqSURBVEjHY/zPQEXARE3DiDZtT2CW5x7Cyv4TBV7zP/1/k+8VIWVEum23lBSDmvheKvn0JR8DA4PgS8pNW1nDwMAg8ZGBgeG9BMWm/W9jYGBgcHn+hOHOS2eCVhMI1xuuDPzyxf//7/LP8d5NMLIIxuljhmriop2EOCUSjJpGI9OYGP5R0TQRtr0PLhNS9AbGIJiGOnglEgko+Sd/m8jUSxTI1fxIRdNei3j+oZ5p/xcx5FPRtP/BDJP////PwsDwPhczkrwjUbglLxDspVC6BkUFP0O+ZDADw///T5gxQRmqzeoIGdzJxPP/f0Zy69N///8hg6WV6icEGMg2DRU81WE+oUJM6iUK+LAeoF6crmeY+596pumWQmiqlEj/gjogDCrFAhRQt7QEANWTdyq5RaZ+AAAAAElFTkSuQmCC\" style=\"height:22px\" alt=\"\"> 2Fe + 3CO2. Trong phản ứng trên, chất đóng vai trò chất khử là",
+  "options": {
+   "A": "Fe2O3.",
+   "B": "CO.",
+   "C": "Fe.",
+   "D": "CO2."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L10_C4_0048",
+  "stem": "Bromine vừa là chất oxi hóa, vừa là chất khử trong phản ứng nào sau đây?",
+  "options": {
+   "A": "3Br2 + 6NaOH <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAlHsK5R+8AAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> 5NaBr + NaBrO3 + 3H2O.",
+   "B": "Br2 + H2 <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAlHsK5R+8AAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> 2HBr.",
+   "C": "3Br2 + 2Al <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAlHsK5R+8AAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> 2AlBr3.",
+   "D": "Br2 + 2KI <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAlHsK5R+8AAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> I2 + 2KBr."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L10_C4_0049",
+  "stem": "Chlorine vừa đóng vai trò chất oxi hóa, vừa đóng vai trò chất khử trong phản ứng nào sau đây?",
+  "options": {
+   "A": "2Na + Cl2 <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAE0AAAAgCAAAAAByCKroAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAlH7W+d3kAAAEqSURBVEjHY/zPQEXARE3DiDZtT2CW5x7Cyv4TBV7zP/1/k+8VIWVEum23lBSDmvheKvn0JR8DA4PgS8pNW1nDwMAg8ZGBgeG9BMWm/W9jYGBgcHn+hOHOS2eCVhMI1xuuDPzyxf//7/LP8d5NMLIIxuljhmriop2EOCUSjJpGI9OYGP5R0TQRtr0PLhNS9AbGIJiGOnglEgko+Sd/m8jUSxTI1fxIRdNei3j+oZ5p/xcx5FPRtP/BDJP////PwsDwPhczkrwjUbglLxDspVC6BkUFP0O+ZDADw///T5gxQRmqzeoIGdzJxPP/f0Zy69N///8hg6WV6icEGMg2DRU81WE+oUJM6iUK+LAeoF6crmeY+596pumWQmiqlEj/gjogDCrFAhRQt7QEANWTdyq5RaZ+AAAAAElFTkSuQmCC\" style=\"height:22px\" alt=\"\"> 2NaCl.",
+   "B": "H2 + Cl2 <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAE0AAAAaCAAAAADX6Y4jAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAlIAPYWkQAAAFnSURBVDjLY/zPQEXARE3DCJu2Rl9fT387AwNDt5aWYigh1f8JgOa5//8H8X75v5j34f83FgQUEzTt7Of//ycynP+fqPX///8TBBQT9KkRDwMDG8MPBqlr3T8ZzCn16YEgUztVhuP/X6owCOU8odCnl1hL/vyfznD8///vi1wZRJ9S5tONvzOYISyO2F0rXi+lLIX8YWCEMNr+MTCEs32nzDQDhvbLW9YyMDBcms7AsOOPG3YrPxIZC3/T+IQTVzNoH5uuq6xvtAK7ojOm3yEMRmrk0/+GOkuISyFEgf0MbUSlECJBEuNaKpr2SZHz5P///1kYGN7nYoaEdyQKt+QFnPl6F5RRg6JC6b7PETUGhv//nzBjgjJUq9URMrjjoouCOP0HB////fv3L3dj+Apqxen/rQzm3/9TKb0xfNJiOiXBwMDAQg3DGOo+HpFgYKCST59zbIIwqOLTO0cSIAzqhBsMULc+BQCJNSjXYJeYkQAAAABJRU5ErkJggg==\" style=\"height:19px\" alt=\"\"> 2HCl.",
+   "C": "2FeCl2 + Cl2 <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAE0AAAAgCAAAAAByCKroAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAlH7W+d3kAAAEqSURBVEjHY/zPQEXARE3DiDZtT2CW5x7Cyv4TBV7zP/1/k+8VIWVEum23lBSDmvheKvn0JR8DA4PgS8pNW1nDwMAg8ZGBgeG9BMWm/W9jYGBgcHn+hOHOS2eCVhMI1xuuDPzyxf//7/LP8d5NMLIIxuljhmriop2EOCUSjJpGI9OYGP5R0TQRtr0PLhNS9AbGIJiGOnglEgko+Sd/m8jUSxTI1fxIRdNei3j+oZ5p/xcx5FPRtP/BDJP////PwsDwPhczkrwjUbglLxDspVC6BkUFP0O+ZDADw///T5gxQRmqzeoIGdzJxPP/f0Zy69N///8hg6WV6icEGMg2DRU81WE+oUJM6iUK+LAeoF6crmeY+596pumWQmiqlEj/gjogDCrFAhRQt7QEANWTdyq5RaZ+AAAAAElFTkSuQmCC\" style=\"height:22px\" alt=\"\"> 2FeCl3.",
+   "D": "2NaOH + Cl2 <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAlIXTfatIAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> NaCl + NaClO + H2O."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L10_C4_0050",
+  "stem": "Thực hiện các phản ứng sau:(a) C + O2 <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAE0AAAAgCAAAAAByCKroAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAlH7W+d3kAAAEqSURBVEjHY/zPQEXARE3DiDZtT2CW5x7Cyv4TBV7zP/1/k+8VIWVEum23lBSDmvheKvn0JR8DA4PgS8pNW1nDwMAg8ZGBgeG9BMWm/W9jYGBgcHn+hOHOS2eCVhMI1xuuDPzyxf//7/LP8d5NMLIIxuljhmriop2EOCUSjJpGI9OYGP5R0TQRtr0PLhNS9AbGIJiGOnglEgko+Sd/m8jUSxTI1fxIRdNei3j+oZ5p/xcx5FPRtP/BDJP////PwsDwPhczkrwjUbglLxDspVC6BkUFP0O+ZDADw///T5gxQRmqzeoIGdzJxPP/f0Zy69N///8hg6WV6icEGMg2DRU81WE+oUJM6iUK+LAeoF6crmeY+596pumWQmiqlEj/gjogDCrFAhRQt7QEANWTdyq5RaZ+AAAAAElFTkSuQmCC\" style=\"height:22px\" alt=\"\"> CO2(b) 4Al + 3C <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAE0AAAAgCAAAAAByCKroAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAlH7W+d3kAAAEqSURBVEjHY/zPQEXARE3DiDZtT2CW5x7Cyv4TBV7zP/1/k+8VIWVEum23lBSDmvheKvn0JR8DA4PgS8pNW1nDwMAg8ZGBgeG9BMWm/W9jYGBgcHn+hOHOS2eCVhMI1xuuDPzyxf//7/LP8d5NMLIIxuljhmriop2EOCUSjJpGI9OYGP5R0TQRtr0PLhNS9AbGIJiGOnglEgko+Sd/m8jUSxTI1fxIRdNei3j+oZ5p/xcx5FPRtP/BDJP////PwsDwPhczkrwjUbglLxDspVC6BkUFP0O+ZDADw///T5gxQRmqzeoIGdzJxPP/f0Zy69N///8hg6WV6icEGMg2DRU81WE+oUJM6iUK+LAeoF6crmeY+596pumWQmiqlEj/gjogDCrFAhRQt7QEANWTdyq5RaZ+AAAAAElFTkSuQmCC\" style=\"height:22px\" alt=\"\"> Al4C3(c) C + CO2 <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAE0AAAAgCAAAAAByCKroAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAlH7W+d3kAAAEqSURBVEjHY/zPQEXARE3DiDZtT2CW5x7Cyv4TBV7zP/1/k+8VIWVEum23lBSDmvheKvn0JR8DA4PgS8pNW1nDwMAg8ZGBgeG9BMWm/W9jYGBgcHn+hOHOS2eCVhMI1xuuDPzyxf//7/LP8d5NMLIIxuljhmriop2EOCUSjJpGI9OYGP5R0TQRtr0PLhNS9AbGIJiGOnglEgko+Sd/m8jUSxTI1fxIRdNei3j+oZ5p/xcx5FPRtP/BDJP////PwsDwPhczkrwjUbglLxDspVC6BkUFP0O+ZDADw///T5gxQRmqzeoIGdzJxPP/f0Zy69N///8hg6WV6icEGMg2DRU81WE+oUJM6iUK+LAeoF6crmeY+596pumWQmiqlEj/gjogDCrFAhRQt7QEANWTdyq5RaZ+AAAAAElFTkSuQmCC\" style=\"height:22px\" alt=\"\"> 2CO(d) CaO + 3C <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAE0AAAAgCAAAAAByCKroAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAlH7W+d3kAAAEqSURBVEjHY/zPQEXARE3DiDZtT2CW5x7Cyv4TBV7zP/1/k+8VIWVEum23lBSDmvheKvn0JR8DA4PgS8pNW1nDwMAg8ZGBgeG9BMWm/W9jYGBgcHn+hOHOS2eCVhMI1xuuDPzyxf//7/LP8d5NMLIIxuljhmriop2EOCUSjJpGI9OYGP5R0TQRtr0PLhNS9AbGIJiGOnglEgko+Sd/m8jUSxTI1fxIRdNei3j+oZ5p/xcx5FPRtP/BDJP////PwsDwPhczkrwjUbglLxDspVC6BkUFP0O+ZDADw///T5gxQRmqzeoIGdzJxPP/f0Zy69N///8hg6WV6icEGMg2DRU81WE+oUJM6iUK+LAeoF6crmeY+596pumWQmiqlEj/gjogDCrFAhRQt7QEANWTdyq5RaZ+AAAAAElFTkSuQmCC\" style=\"height:22px\" alt=\"\"> CaC2 + COPhản ứng trong đó carbon vừa đóng vai trò chất oxi hóa, vừa đóng vai trò chất khử là",
+  "options": {
+   "A": "(a).",
+   "B": "(b).",
+   "C": "(c).",
+   "D": "(d)."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L10_C4_0051",
+  "stem": "Trong phản ứng: 3NO2 + H2O <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAlH7W+d3kAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:18px\" alt=\"\"> 2HNO3 + NO. NO2 đóng vai trò",
+  "options": {
+   "A": "là chất oxi hoá.",
+   "B": "là chất oxi hoá, nhưng đồng thời cũng là chất khử.",
+   "C": "là chất khử.",
+   "D": "không là chất oxi hoá và cũng không là chất khử."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L10_C4_0052",
+  "stem": "Nguyên tử S đóng vai trò vừa là chất khử, vừa là chất oxi hoá trong phản ứng nào sau đây?",
+  "options": {
+   "A": "S + 2Na <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAE0AAAAgCAAAAAByCKroAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAlH7W+d3kAAAEqSURBVEjHY/zPQEXARE3DiDZtT2CW5x7Cyv4TBV7zP/1/k+8VIWVEum23lBSDmvheKvn0JR8DA4PgS8pNW1nDwMAg8ZGBgeG9BMWm/W9jYGBgcHn+hOHOS2eCVhMI1xuuDPzyxf//7/LP8d5NMLIIxuljhmriop2EOCUSjJpGI9OYGP5R0TQRtr0PLhNS9AbGIJiGOnglEgko+Sd/m8jUSxTI1fxIRdNei3j+oZ5p/xcx5FPRtP/BDJP////PwsDwPhczkrwjUbglLxDspVC6BkUFP0O+ZDADw///T5gxQRmqzeoIGdzJxPP/f0Zy69N///8hg6WV6icEGMg2DRU81WE+oUJM6iUK+LAeoF6crmeY+596pumWQmiqlEj/gjogDCrFAhRQt7QEANWTdyq5RaZ+AAAAAElFTkSuQmCC\" style=\"height:22px\" alt=\"\"> Na2S.",
+   "B": "S + 6HNO3 <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAE0AAAAgCAAAAAByCKroAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAlH7W+d3kAAAEqSURBVEjHY/zPQEXARE3DiDZtT2CW5x7Cyv4TBV7zP/1/k+8VIWVEum23lBSDmvheKvn0JR8DA4PgS8pNW1nDwMAg8ZGBgeG9BMWm/W9jYGBgcHn+hOHOS2eCVhMI1xuuDPzyxf//7/LP8d5NMLIIxuljhmriop2EOCUSjJpGI9OYGP5R0TQRtr0PLhNS9AbGIJiGOnglEgko+Sd/m8jUSxTI1fxIRdNei3j+oZ5p/xcx5FPRtP/BDJP////PwsDwPhczkrwjUbglLxDspVC6BkUFP0O+ZDADw///T5gxQRmqzeoIGdzJxPP/f0Zy69N///8hg6WV6icEGMg2DRU81WE+oUJM6iUK+LAeoF6crmeY+596pumWQmiqlEj/gjogDCrFAhRQt7QEANWTdyq5RaZ+AAAAAElFTkSuQmCC\" style=\"height:22px\" alt=\"\"> H2SO4 + 6NO2 + 2H2O.",
+   "C": "S + 3F2 <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAE0AAAAgCAAAAAByCKroAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAlH7W+d3kAAAEqSURBVEjHY/zPQEXARE3DiDZtT2CW5x7Cyv4TBV7zP/1/k+8VIWVEum23lBSDmvheKvn0JR8DA4PgS8pNW1nDwMAg8ZGBgeG9BMWm/W9jYGBgcHn+hOHOS2eCVhMI1xuuDPzyxf//7/LP8d5NMLIIxuljhmriop2EOCUSjJpGI9OYGP5R0TQRtr0PLhNS9AbGIJiGOnglEgko+Sd/m8jUSxTI1fxIRdNei3j+oZ5p/xcx5FPRtP/BDJP////PwsDwPhczkrwjUbglLxDspVC6BkUFP0O+ZDADw///T5gxQRmqzeoIGdzJxPP/f0Zy69N///8hg6WV6icEGMg2DRU81WE+oUJM6iUK+LAeoF6crmeY+596pumWQmiqlEj/gjogDCrFAhRQt7QEANWTdyq5RaZ+AAAAAElFTkSuQmCC\" style=\"height:22px\" alt=\"\"> SF6.",
+   "D": "4S + 6NaOH(đặc) <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAE0AAAAgCAAAAAByCKroAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAlH7W+d3kAAAEqSURBVEjHY/zPQEXARE3DiDZtT2CW5x7Cyv4TBV7zP/1/k+8VIWVEum23lBSDmvheKvn0JR8DA4PgS8pNW1nDwMAg8ZGBgeG9BMWm/W9jYGBgcHn+hOHOS2eCVhMI1xuuDPzyxf//7/LP8d5NMLIIxuljhmriop2EOCUSjJpGI9OYGP5R0TQRtr0PLhNS9AbGIJiGOnglEgko+Sd/m8jUSxTI1fxIRdNei3j+oZ5p/xcx5FPRtP/BDJP////PwsDwPhczkrwjUbglLxDspVC6BkUFP0O+ZDADw///T5gxQRmqzeoIGdzJxPP/f0Zy69N///8hg6WV6icEGMg2DRU81WE+oUJM6iUK+LAeoF6crmeY+596pumWQmiqlEj/gjogDCrFAhRQt7QEANWTdyq5RaZ+AAAAAElFTkSuQmCC\" style=\"height:22px\" alt=\"\"> 2Na2S + Na2S2O3 + 3H2O."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L10_C4_0053",
+  "stem": "Thực hiện các phản ứng hóa học sau:(a) S + O2 <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAE0AAAAgCAAAAAByCKroAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAlH7W+d3kAAAEqSURBVEjHY/zPQEXARE3DiDZtT2CW5x7Cyv4TBV7zP/1/k+8VIWVEum23lBSDmvheKvn0JR8DA4PgS8pNW1nDwMAg8ZGBgeG9BMWm/W9jYGBgcHn+hOHOS2eCVhMI1xuuDPzyxf//7/LP8d5NMLIIxuljhmriop2EOCUSjJpGI9OYGP5R0TQRtr0PLhNS9AbGIJiGOnglEgko+Sd/m8jUSxTI1fxIRdNei3j+oZ5p/xcx5FPRtP/BDJP////PwsDwPhczkrwjUbglLxDspVC6BkUFP0O+ZDADw///T5gxQRmqzeoIGdzJxPP/f0Zy69N///8hg6WV6icEGMg2DRU81WE+oUJM6iUK+LAeoF6crmeY+596pumWQmiqlEj/gjogDCrFAhRQt7QEANWTdyq5RaZ+AAAAAElFTkSuQmCC\" style=\"height:22px\" alt=\"\"> SO2; \t\t\t(b) Hg + S <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAlHVuwFlUAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:18px\" alt=\"\"> HgS;(c) H2 + S <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAE0AAAAgCAAAAAByCKroAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAlH7W+d3kAAAEqSURBVEjHY/zPQEXARE3DiDZtT2CW5x7Cyv4TBV7zP/1/k+8VIWVEum23lBSDmvheKvn0JR8DA4PgS8pNW1nDwMAg8ZGBgeG9BMWm/W9jYGBgcHn+hOHOS2eCVhMI1xuuDPzyxf//7/LP8d5NMLIIxuljhmriop2EOCUSjJpGI9OYGP5R0TQRtr0PLhNS9AbGIJiGOnglEgko+Sd/m8jUSxTI1fxIRdNei3j+oZ5p/xcx5FPRtP/BDJP////PwsDwPhczkrwjUbglLxDspVC6BkUFP0O+ZDADw///T5gxQRmqzeoIGdzJxPP/f0Zy69N///8hg6WV6icEGMg2DRU81WE+oUJM6iUK+LAeoF6crmeY+596pumWQmiqlEj/gjogDCrFAhRQt7QEANWTdyq5RaZ+AAAAAElFTkSuQmCC\" style=\"height:22px\" alt=\"\"> H2S; \t\t\t(d) S + 3F2 <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAE0AAAAgCAAAAAByCKroAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAlH7W+d3kAAAEqSURBVEjHY/zPQEXARE3DiDZtT2CW5x7Cyv4TBV7zP/1/k+8VIWVEum23lBSDmvheKvn0JR8DA4PgS8pNW1nDwMAg8ZGBgeG9BMWm/W9jYGBgcHn+hOHOS2eCVhMI1xuuDPzyxf//7/LP8d5NMLIIxuljhmriop2EOCUSjJpGI9OYGP5R0TQRtr0PLhNS9AbGIJiGOnglEgko+Sd/m8jUSxTI1fxIRdNei3j+oZ5p/xcx5FPRtP/BDJP////PwsDwPhczkrwjUbglLxDspVC6BkUFP0O+ZDADw///T5gxQRmqzeoIGdzJxPP/f0Zy69N///8hg6WV6icEGMg2DRU81WE+oUJM6iUK+LAeoF6crmeY+596pumWQmiqlEj/gjogDCrFAhRQt7QEANWTdyq5RaZ+AAAAAElFTkSuQmCC\" style=\"height:22px\" alt=\"\"> SF6.Số phản ứng sulfur (S) đóng vai trò chất oxi hóa là",
+  "options": {
+   "A": "1.",
+   "B": "2.",
+   "C": "3.",
+   "D": "4."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L10_C4_0054",
+  "stem": "Cho phản ứng hóa học: Fe + CuSO4 <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAlH7W+d3kAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:18px\" alt=\"\"> FeSO4 + Cu. Trong phản ứng trên xảy ra",
+  "options": {
+   "A": "sự oxi hóa Fe và sự oxi hóa Cu.",
+   "B": "sự khử Fe2+ và sự oxi hóa Cu.",
+   "C": "sự oxi hóa Fe và sự khử Cu2+.",
+   "D": "sự khử Fe2+ và sự khử Cu2+."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L10_C4_0055",
+  "stem": "(Đề TSĐH B - 2013) Cho phương trình hóa học của phản ứng:2Cr + 3Sn2+ <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAlH7W+d3kAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:18px\" alt=\"\"> 2Cr3+ + 3Sn. Nhận xét nào sau đây về phản ứng trên là đúng?",
+  "options": {
+   "A": "Sn2+ là chất khử, Cr3+ là chất oxi hóa.",
+   "B": "Cr là chất oxi hóa, Sn2+ là chất khử.",
+   "C": "Cr là chất khử, Sn2+ là chất oxi hóa.",
+   "D": "Cr3+ là chất khử, Sn2+ là chất oxi hóa."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L10_C4_0056",
+  "stem": "(Đề TSCĐ - 2014) Cho phương trình hóa học:aAl + bH2SO4 <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAlG7LTs2AAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> cAl2(SO4)3 + dSO2 + eH2O. Tỉ lệ a: b là",
+  "options": {
+   "A": "1: 1.",
+   "B": "2: 3.",
+   "C": "1: 3.",
+   "D": "1: 2."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L10_C4_0057",
+  "stem": "(Đề TSĐH A - 2013) Cho phương trình hóa học:aAl + bHNO3 <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAlH7W+d3kAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:18px\" alt=\"\"> cAl(NO3)3 + dNO + eH2O. Tỉ lệ a: b là",
+  "options": {
+   "A": "1: 3.",
+   "B": "2: 3.",
+   "C": "2: 5.",
+   "D": "1: 4."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L10_C4_0058",
+  "stem": "(Đề TSĐH A - 2010) Trong phản ứng: K2Cr2O7 + HCl <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAlH7W+d3kAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> CrCl3 + Cl2 + KCl + H2O. Số phân tử HCl đóng vai trò chất khử bằng k lần tổng số phân tử HCl tham gia phản ứng. Giá trị của k là",
+  "options": {
+   "A": "3/14.",
+   "B": "4/7.",
+   "C": "1/7.",
+   "D": "3/7."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L10_C4_0059",
+  "stem": "(Đề TSCĐ - 2012) Cho phản ứng hóa học: Cl2 + KOH <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAE0AAAAgCAAAAAByCKroAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAlH7W+d3kAAAEqSURBVEjHY/zPQEXARE3DiDZtT2CW5x7Cyv4TBV7zP/1/k+8VIWVEum23lBSDmvheKvn0JR8DA4PgS8pNW1nDwMAg8ZGBgeG9BMWm/W9jYGBgcHn+hOHOS2eCVhMI1xuuDPzyxf//7/LP8d5NMLIIxuljhmriop2EOCUSjJpGI9OYGP5R0TQRtr0PLhNS9AbGIJiGOnglEgko+Sd/m8jUSxTI1fxIRdNei3j+oZ5p/xcx5FPRtP/BDJP////PwsDwPhczkrwjUbglLxDspVC6BkUFP0O+ZDADw///T5gxQRmqzeoIGdzJxPP/f0Zy69N///8hg6WV6icEGMg2DRU81WE+oUJM6iUK+LAeoF6crmeY+596pumWQmiqlEj/gjogDCrFAhRQt7QEANWTdyq5RaZ+AAAAAElFTkSuQmCC\" style=\"height:22px\" alt=\"\"> KCl + KClO3 + H2O. Tỉ lệ giữa số nguyên tử chlorine (Cl) đóng vai trò chất oxi hóa và số nguyên tử chlorine đóng vai trò chất khử trong phương trình hóa học của phản ứng đã cho tương ứng là",
+  "options": {
+   "A": "1: 5.",
+   "B": "5: 1.",
+   "C": "3: 1.",
+   "D": "1: 3."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L10_C4_0060",
+  "stem": "(Đề TSĐH A - 2013) Cho phương trình phản ứng:aFeSO4 + bK2Cr2O7 + cH2SO4 <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAlH7W+d3kAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:18px\" alt=\"\"> dFe2(SO4)3 + eK2SO4 + fCr2(SO4)3 + gH2O. Tỉ lệ a: b là",
+  "options": {
+   "A": "6: 1.",
+   "B": "2: 3.",
+   "C": "3: 2.",
+   "D": "1: 6."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L10_C4_0061",
+  "stem": "(Đề MH lần II - 2017) Hòa tan hoàn toàn 5,85 gam bột kim loại M vào dung dịch HCl, thu được 0,325 mol khí H2. Kim loại M là",
+  "options": {
+   "A": "Mg.",
+   "B": "Al.",
+   "C": "Zn.",
+   "D": "Fe."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L10_C4_0062",
+  "stem": "(Đề THPT QG - 2015) Hòa tan hoàn toàn 6,5 gam Zn bằng dung dịch H2SO4 loãng, thu được V lít H2 (đkc). Giá trị của V là",
+  "options": {
+   "A": "2,24.",
+   "B": "3,36.",
+   "C": "1,12.",
+   "D": "4,48."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L10_C4_0063",
+  "stem": "(Đề TSCĐ - 2014) Hòa tan hết 4,68 gam kim loại kiềm M vào H2O dư, thu được 1,4874 lít khí H2 (đkc). Kim loại M là",
+  "options": {
+   "A": "Rb.",
+   "B": "Li.",
+   "C": "K.",
+   "D": "Na."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L10_C4_0064",
+  "stem": "Cho 8,6765 lít hỗn hợp khí X (đkc) gồm Cl2 và O2 phản ứng vừa đủ với 11,1 gam hỗn hợp Y gồm Mg và Al, thu được 30,1 gam hỗn hợp Z. Phần trăm khối lượng của Al trong Y là",
+  "options": {
+   "A": "75,68%.",
+   "B": "24,32%.",
+   "C": "51,35%.",
+   "D": "48,65%."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L10_C4_0065",
+  "stem": "(Đề TSCĐ - 2009) Đốt cháy hoàn toàn 7,2 gam kim loại M (có hoá trị hai không đổi trong hợp chất) trong hỗn hợp khí X gồm Cl2 và O2. Sau phản ứng thu được 23,0 gam chất rắn và thể tích hỗn hợp khí đã phản ứng là 6,1975 lít (ở đkc). Kim loại M là",
+  "options": {
+   "A": "Mg.",
+   "B": "Be.",
+   "C": "Cu.",
+   "D": "Ca."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L10_C4_0067",
+  "stem": "(Đề THPT QG - 2017) Cho 1,5 gam hỗn hợp X gồm Al và Mg phản ứng hết với dung dịch HCl dư, thu được 0,075 mol khí H2. Khối lượng của Mg trong X là",
+  "options": {
+   "A": "0,60 gam.",
+   "B": "0,90 gam.",
+   "C": "0,42 gam.",
+   "D": "0,48 gam."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L10_C4_0068",
+  "stem": "(Đề MH lần I - 2017) Hòa tan hoàn toàn 13,8 gam hỗn hợp X gồm Al, Fe vào dung dịch H2SO4 loãng, thu được 11,1555 lít khí H2 (đkc). Phần trăm về khối lượng của Al trong X là",
+  "options": {
+   "A": "58,70%.",
+   "B": "20,24%.",
+   "C": "39,13%.",
+   "D": "76,91%."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L10_C4_0069",
+  "stem": "(Đề THPT QG - 2018) Cho 0,425 gam hỗn hợp X gồm Na và K vào nước dư, thu được 0,0075 mol khí H2 (đkc). Khối lượng kim loại Na trong X là",
+  "options": {
+   "A": "0,115 gam.",
+   "B": "0,230 gam.",
+   "C": "0,276 gam.",
+   "D": "0,345 gam."
+  },
+  "answer": "B"
+ }
+]

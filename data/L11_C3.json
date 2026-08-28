@@ -1,0 +1,1553 @@
+[
+ {
+  "id": "L11_C3_0001",
+  "stem": "(SBT – KNTT) Hợp chất hữu cơ là các hợp chất của..(1).. (trừ các oxide của carbon, muối carbonate, cyanide, carbide,...). Từ thích hợp điền vào (1) trong định nghĩa trên là",
+  "options": {
+   "A": "carbon.",
+   "B": "hydrogen.",
+   "C": "oxygen.",
+   "D": "nitrogen."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C3_0002",
+  "stem": "(SBT – KNTT) Hóa học hữu cơ là ngành hóa học chuyên nghiên cứu về các..(1).. Cụm từ thích hợp điền vào (1) trong định nghĩa trên là",
+  "options": {
+   "A": "hợp chất hữu cơ.",
+   "B": "hợp chất vô cơ.",
+   "C": "hợp chất thiên nhiên.",
+   "D": "hợp chất phức."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C3_0003",
+  "stem": "(SBT – KNTT) Xét phản ứng quang hợp: 6CO2 + 6H2O <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAmG5n+4KMAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> C6H12O6 + 6O2Chất nào trong phản ứng này thuộc loại hợp chất hữu cơ?",
+  "options": {
+   "A": "CO2.",
+   "B": "H2O.",
+   "C": "C6H12O6.",
+   "D": "O2."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C3_0004",
+  "stem": "(SBT – CTST) Trong thành phần phân tử hợp chất hữu cơ phải luôn có nguyên tố",
+  "options": {
+   "A": "carbon và hydrogen.",
+   "B": "carbon.",
+   "C": "carbon, hydrogen và oxygen.",
+   "D": "carbon và nitrogen."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C3_0005",
+  "stem": "(SBT – Cánh Diều) Chất nào dưới đây không là chất hữu cơ?",
+  "options": {
+   "A": "Acetic acid.",
+   "B": "Methane.",
+   "C": "Ammonium nitrate.",
+   "D": "Ethanol."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C3_0006",
+  "stem": "(SGK – KNTT) Cho các chất sau đây: C6H12O6, C12H22O11, C2H2, CO2, CaCO3. Số hợp chất hữu cơ có mặt trong dãy trên là",
+  "options": {
+   "A": "1.",
+   "B": "2.",
+   "C": "3.",
+   "D": "4."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C3_0007",
+  "stem": "(SGK – CTST) Cho dãy các chất sau: Na2CO3, BaCl2, MgSO4, CH3COONa, C2H5Br, CaO, CHCl3, HCOOH. Số chất thuộc hợp chất vô cơ và hợp chất chất hữu cơ lần lượt là",
+  "options": {
+   "A": "3 và 5.",
+   "B": "4 và 4.",
+   "C": "2 và 6.",
+   "D": "5 và 3."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C3_0008",
+  "stem": "(SBT – KNTT) Xét các chất CH4, HCN, CO2, CH2=CH2, CH3CH=O, Na2CO3, CH3COONa, H2NCH2COOH và Al4C3. Trong các chất này, số hợp chất hữu cơ là",
+  "options": {
+   "A": "3.",
+   "B": "4.",
+   "C": "5.",
+   "D": "6."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C3_0009",
+  "stem": "Cho các chất sau: NaCl, H2SO4, CH4, CH2=CH2, HCOONa, CH3-CH2-OH, CH3-CH=O, KOH, Ba(NO3)2, CO2, Al4C3, KCN. Số chất thuộc hợp chất vô cơ và hợp chất chất hữu cơ lần lượt là",
+  "options": {
+   "A": "7 và 5.",
+   "B": "5 và 7.",
+   "C": "6 và 6.",
+   "D": "8 và 4."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C3_0010",
+  "stem": "(SBT – KNTT) Phân tử chất nào sau đây không chỉ chứa liên kết cộng hóa trị?",
+  "options": {
+   "A": "CH3CH2OH.",
+   "B": "CH3CH=O.",
+   "C": "CH≡CH.",
+   "D": "CH3COONa,"
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C3_0011",
+  "stem": "(SBT – KNTT) Trong các chất sau đây, chất nào dễ cháy nhất?",
+  "options": {
+   "A": "CO2.",
+   "B": "C2H5OH.",
+   "C": "Na2CO3.",
+   "D": "N2."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C3_0012",
+  "stem": "(SBT – CTST) Phản ứng hoá học của các hợp chất hữu cơ thường xảy ra",
+  "options": {
+   "A": "chậm, không hoàn toàn, không theo một hướng nhất định.",
+   "B": "nhanh và cho một sản phẩm duy nhất.",
+   "C": "nhanh, không hoàn toàn, không theo một hướng nhất định.",
+   "D": "chậm, hoàn toàn, không theo một hướng nhất định."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C3_0013",
+  "stem": "Đặc điểm của phản ứng hoá học giữa các hợp chất hữu cơ thường",
+  "options": {
+   "A": "xảy ra nhanh, thu được nhiều sản phẩm.",
+   "B": "xảy ra chậm, theo một hướng duy nhất.",
+   "C": "xảy ra chậm, thu được nhiều sản phẩm.",
+   "D": "xảy ra nhanh, theo nhiều hướng."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C3_0014",
+  "stem": "(SBT – CTST) Liên kết hóa học trong hợp chất hữu cơ thường là",
+  "options": {
+   "A": "liên kết cộng hoá trị.",
+   "B": "liên kết kim loại.",
+   "C": "liên kết hydrogen.",
+   "D": "liên kết ion."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C3_0015",
+  "stem": "(SBT – CTST) Các hợp chất hữu cơ thường có",
+  "options": {
+   "A": "nhiệt độ nóng chảy, nhiệt độ sôi cao, không tan hoặc ít tan trong nước, tan nhiều trong các dung môi hữu cơ.",
+   "B": "nhiệt độ nóng chảy, nhiệt độ sôi thấp, tan nhiều trong nước và các dung môi hữu cơ.",
+   "C": "nhiệt độ nóng chảy, nhiệt độ sôi thấp, không tan hoặc ít tan trong nước, tan nhiều trong các dung môi hữu cơ.",
+   "D": "nhiệt độ nóng chảy, nhiệt độ sôi thấp, không tan trong nước."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C3_0016",
+  "stem": "(SBT – CTST) Hydrocarbon là hợp chất hữu cơ có thành phần nguyên tố gồm",
+  "options": {
+   "A": "carbon và hydrogen.",
+   "B": "hydrogen và oxygen.",
+   "C": "carbon và oxygen.",
+   "D": "carbon và nitrogen."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C3_0017",
+  "stem": "(SBT – KNTT) Cho các hợp chất sau: CH4; NH3; C2H2; CCl4; C2H4; C6H6. Số hợp chất thuộc loại hydrocarbon là",
+  "options": {
+   "A": "1.",
+   "B": "2.",
+   "C": "3.",
+   "D": "4."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C3_0018",
+  "stem": "(SBT – CTST) Cho các chất sau: CH3CH2CH3, CH3NH2, CH2=CHCH3, CH2=CH-COOH, CH2=CH-CH=CH2, CH3OH, CH≡CH, C6H5OH, HCHO, CH3COOCH3, H2NCH2COOH. Số chất thuộc hydrocarbon và dẫn xuất hydrocarbon trong dãy trên lần lượt là",
+  "options": {
+   "A": "3 và 8.",
+   "B": "8 và 3.",
+   "C": "7 và 4.",
+   "D": "4 và 7."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C3_0019",
+  "stem": "(SGK – Cánh Diều) Cho dãy các hợp chất: C3H6 (1), C7H6O2 (2), CCl4 (3), C18H38 (4), C6H5NH2 (5) và C4H4S (6). Số chất thuộc hydrocarbon và dẫn xuất hydrocarbon trong dãy trên lần lượt là",
+  "options": {
+   "A": "3 và 3.",
+   "B": "2 và 4.",
+   "C": "1 và 5.",
+   "D": "4 và 2."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C3_0020",
+  "stem": "(SBT – KNTT) Nhóm chức là..(1).. gây ra những phản ứng đặc trưng của phân tử hợp chất hữu cơ. Cụm từ thích hợp điền vào (1) trong phát biểu trên là",
+  "options": {
+   "A": "nguyên tử.",
+   "B": "phân tử.",
+   "C": "nhóm nguyên tử.",
+   "D": "nguyên tử hoặc nhóm nguyên tử."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C3_0021",
+  "stem": "Phổ hồng ngoại là phương pháp vật lí rất quan trọng và phổ biến để nghiên cứu về",
+  "options": {
+   "A": "thành phần nguyên tố chất hữu cơ.",
+   "B": "thành phần phân tử hợp chất hữu cơ.",
+   "C": "cấu tạo hợp chất hữu cơ.",
+   "D": "cấu trúc không gian hợp chất hữu cơ."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C3_0022",
+  "stem": "Trường hợp nào dưới đây khoanh đúng nhóm chức carboxylic acid của ethanoic acid?",
+  "options": {
+   "A": "CH3COOH.",
+   "B": "CH3COOH.",
+   "C": "CH3COOH.",
+   "D": "CH3COOH."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C3_0023",
+  "stem": "Nhóm chức là nguyên tử hay nhóm nguyên tử gây ra",
+  "options": {
+   "A": "tính chất vật lí đặc trưng của hợp chất hữu cơ.",
+   "B": "tính chất hoá học không đặc trưng của hợp chất hữu cơ.",
+   "C": "tính chất vật lí đặc trưng của hợp chất hữu cơ.",
+   "D": "tính chất hoá học đặc trưng của hợp chất hữu cơ."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C3_0024",
+  "stem": "(SBT – Cánh Diều) Vì sao có thể dựa vào nhóm chức để phân loại các hợp chất hữu cơ?",
+  "options": {
+   "A": "Vì biết được nhóm chức thì biết được thành phần các nguyên tố hoá học có trong phân tử hợp chất hữu cơ.",
+   "B": "Vì nhóm chức không bị biến đổi khi phân tử hữu cơ tham gia phản ứng.",
+   "C": "Vì nhóm chức tham gia vào các phản ứng trong cơ thể sống.",
+   "D": "Vì nhóm chức gây ra các phản ứng hoá học đặc trưng cho phân tử hữu cơ."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C3_0025",
+  "stem": "Butanal là một aldehyde có công thức cấu tạo là CH3CH2CH2CHO có tính chất đặc trưng là tác dụng với dung dịch AgNO3/NH3 tạo lớp silver (Ag) bám trên ống nghiệm. Chất nào sau đây có tính chất tương tự butanal?",
+  "options": {
+   "A": "CH3CH2OH.",
+   "B": "CH3COOH.",
+   "C": "CH3CH2CH2CH3.",
+   "D": "CH3CHO."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C3_0027",
+  "stem": "Ethanol có công thức cấu tạo là C2H5OH, tính chất đặc trưng của ethanol là tác dụng với kim loại hoạt động như Na, K, không tác dụng với dung dịch NaOH, KOH. Hợp chất hữu cơ X có cùng nhóm chức với ethanol, X không thể là chất nào sau đây?",
+  "options": {
+   "A": "CH3OH.",
+   "B": "C2H5OH.",
+   "C": "CH2=CHCH2OH.",
+   "D": "CH3CHO."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C3_0028",
+  "stem": "(SGK – KNTT) Glutamic acid là một chất dẫn truyền thần kinh, giúp phòng ngừa và điều trị các triệu chứng suy nhược thần kinh do thiếu hụt glutamic acid như mất ngủ, nhức đầu, ù tai, chóng mặt,… Glutamic acid có công thức cấu tạo: HOOOC-CH2-CH2-CH(NH2)-COOH. Các nhóm chức có trong phân tử glutamic acid là",
+  "options": {
+   "A": "NH2.",
+   "B": "CH2.",
+   "C": "COOH.",
+   "D": "NH2 và COOH."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C3_0029",
+  "stem": "Lactic acid là một loại α-hydroxy acid hay AHA. Cấu trúc phân tử của chúng cho phép thẩm thấu vào sâu trong tế bào da, có khả năng ngậm nước cao và cấp ẩm, giúp da mềm mại. Lactic acid có công thức cấu tạo: CH3 – CH(OH) – COOH. Nhóm chức có trong phân tử lactic acid là",
+  "options": {
+   "A": "carboxylic acid và aldehyde.",
+   "B": "aldehyde và alcohol.",
+   "C": "alcohol và carboxylic acid.",
+   "D": "ketone và carboxylic acid."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C3_0030",
+  "stem": "(SGK – Cánh Diều) Các hợp chất CH3CHO, C2H5CHO, C3H7CHO và C6H13CHO có một số tính chất giống nhau (bị oxi hoá thành carboxylic acid, bị khử thành alcohol,…). Nhóm các nguyên tử có trong thành phần của những chất trên đã làm cho chúng có tính chất giống nhau là",
+  "options": {
+   "A": "CH.",
+   "B": "CHO.",
+   "C": "OH.",
+   "D": "CH3."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C3_0032",
+  "stem": "(SBT – Cánh Diều) Trên phổ hồng ngoại của hợp chất hữu cơ X có các hấp thụ đặc trưng ở 2 817 cm–1 và 1 731 cm–1. Chất X là chất nào trong các chất dưới đây?",
+  "options": {
+   "A": "CH3COCH2CH3.",
+   "B": "CH2=CHCH2CH2OH.",
+   "C": "CH3CH2CH2CHO.",
+   "D": "CH3CH=CHCH2OH."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C3_0033",
+  "stem": "(SBT – Cánh Diều) Phổ hồng ngoại của hợp chất hữu cơ nào dưới đây không có hấp thụ ở vùng 1 750 – 1 600 cm–1?",
+  "options": {
+   "A": "Alcohol.",
+   "B": "Ketone.",
+   "C": "Ester.",
+   "D": "Aldehyde."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C3_0034",
+  "stem": "Phổ IR của một hợp chất hữu cơ có các tín hiệu hấp thụ ở 2 917 cm–1, 2 860 cm–1, 2 688 cm–1 và 1 792 cm–1. Hợp chất hữu cơ này là",
+  "options": {
+   "A": "CH3CH2CH2COOH.",
+   "B": "CH3CH2CH2CH2OH.",
+   "C": "CH3COOCH2CH3.",
+   "D": "HOCH2CH=CHCH2OH."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C3_0035",
+  "stem": "Phổ hồng ngoại của hợp chất hữu cơ nào sau đây có hấp thụ ở vùng 3 500 – 3 200 cm–1?",
+  "options": {
+   "A": "Aldehyde.",
+   "B": "Ketone.",
+   "C": "Ester.",
+   "D": "Alcohol."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C3_0036",
+  "stem": "Liên kết C = O trong hợp chất aldehyde có số sóng hấp thụ đặc trưng trên phổ hồng ngoại là",
+  "options": {
+   "A": "2 695 – 2 830 cm–1.",
+   "B": "1 740 – 1 685 cm–1.",
+   "C": "1 300 – 1 000 cm–1.",
+   "D": "3 500 – 3 200 cm–1."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C3_0037",
+  "stem": "Trên phổ hồng ngoại của hợp chất hữu cơ X chỉ có hấp thụ đặc trưng ở 1 715 cm–1. Chất X có thể là chất nào trong các chất dưới đây?",
+  "options": {
+   "A": "CH3COCH3.",
+   "B": "CH3CH2OH.",
+   "C": "CH3CH2CHO.",
+   "D": "C6H5CH2OH."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C3_0042",
+  "stem": "Phương pháp chưng cất lôi cuốn hơi nước được dùng để tách các chất có nhiệt độ sôi cao và không tan trong nước. Không thực hiện được phương pháp chưng cất lôi cuốn hơi nước cho quá trình nào sau đây?",
+  "options": {
+   "A": "Tinh dầu bưởi.",
+   "B": "Rượu.",
+   "C": "Tinh dầu sả chanh.",
+   "D": "Tinh dầu tràm."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C3_0043",
+  "stem": "(SBT – KNTT) Chưng cất là phương pháp tách chất dựa vào sự khác nhau về tính chất vật lí (ở một áp suất nhất định) nào sau đây của các chất trong hỗn hợp?",
+  "options": {
+   "A": "Nhiệt độ sôi.",
+   "B": "Nhiệt độ nóng chảy.",
+   "C": "Độ tan.",
+   "D": "Màu sắc."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C3_0044",
+  "stem": "(SBT – CTST) Để tách các chất lỏng có nhiệt độ sôi khác nhau thường dùng phương pháp",
+  "options": {
+   "A": "chưng cất.",
+   "B": "chiết.",
+   "C": "kết tinh.",
+   "D": "sắc kí."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C3_0045",
+  "stem": "(SBT – CTST) Phương pháp chưng cất dùng để tách các chất",
+  "options": {
+   "A": "có nhiệt độ sôi khác nhau.",
+   "B": "có nhiệt độ nóng chảy khác nhau.",
+   "C": "có độ tan khác nhau.",
+   "D": "có khối lượng riêng khác nhau."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C3_0046",
+  "stem": "(SBT – Cánh Diều) Tính chất vật lí nào sau đây được quan tâm khi tách hai chất lỏng tan vào nhau bằng phương pháp chưng cất?",
+  "options": {
+   "A": "Nhiệt độ sôi của chất.",
+   "B": "Nhiệt độ nóng chảy của chất.",
+   "C": "Tính tan của chất trong nước.",
+   "D": "Màu sắc của chất."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C3_0047",
+  "stem": "Chất lỏng cần tách được chuyển sang pha hơi, rồi làm lạnh cho hơi ngưng tụ, thu lấy chất lỏng ở khoảng nhiệt độ thích hợp đây là cách tiến hành của phương pháp?",
+  "options": {
+   "A": "Phương pháp chưng cất.",
+   "B": "Phương pháp chiết.",
+   "C": "Phương pháp kết tinh.",
+   "D": "Sắc kí cột."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C3_0048",
+  "stem": "(SBT – CTST) Nhiệt độ sôi của rượu (thành phần chính là ethanol) là 78 °C và của nước là 100 °C. Phương pháp nào có thể tách rượu ra khỏi nước?",
+  "options": {
+   "A": "Cô cạn.",
+   "B": "Lọc.",
+   "C": "Bay hơi.",
+   "D": "Chưng cất."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C3_0050",
+  "stem": "(SBT – Cánh Diều) Hỗn hợp X gồm các alkane: pentane (ts = 36,1 °C), heptane (ts = 98,4 °C),octane (ts = 125,7 °C) và nonane (ts = 150,8 °C). Có thể tách riêng các chất đó một cách thuận lợi bằng phương pháp nào sau đây?",
+  "options": {
+   "A": "Kết tinh.",
+   "B": "Chưng cất.",
+   "C": "Sắc kí.",
+   "D": "Chiết."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C3_0051",
+  "stem": "(SBT – KNTT) Trong quá trình chưng cất dầu thô, người ta thu được nhiều phân đoạn dầu mỏ trong đó có xăng (thành phần chính là hỗn hợp các hydrocarbon có số nguyên tử C từ 4 đến 12, nhiệt độ sôi khoảng từ 40 °C đến 200 °C) và dầu hỏa (thành phần chính là hỗn hợp các hydrocarbon có số nguyên tử C từ 12 đến 16, nhiệt độ sôi khoảng từ 200 °C đền 250 °C). Sản phẩm thu được ở 150 °C đến 200 °C là",
+  "options": {
+   "A": "xăng.",
+   "B": "dầu hỏa.",
+   "C": "xăng và dầu hỏa.",
+   "D": "dầu hỏa và xăng."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C3_0052",
+  "stem": "(SBT – CTST) Để tách benzene (nhiệt độ sôi là 80 °C) và acetic acid (nhiệt độ sôi là 118 °C) ra khỏi nhau, có thể dùng phương pháp",
+  "options": {
+   "A": "chưng cất ở áp suất thấp.",
+   "B": "chưng cất ở áp suất thường.",
+   "C": "chiết bằng dung môi hexane.",
+   "D": "chiết bằng dung môi ethanol."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C3_0053",
+  "stem": "(SBT – Cánh Diều) Pent-1-ene và dipentyl ether đồng thời được sinh ra khi đun nóng pentan-1-ol với dung dịch H2SO4 đặc. Biết rằng nhiệt độ sôi của pentan-1-ol, pent-1-ene và dipentyl ether lần lượt là 137,8 °C; 30,0 °C và 186,8 °C. Từ hỗn hợp phản ứng, các chất được tách khỏi nhau bằng phương pháp chưng cất. Các phân đoạn thu được (theo thứ tự từ trước đến sau) trong quá trình chưng cất lần lượt là",
+  "options": {
+   "A": "pentan-1-ol, pent-1-ene và dipentyl ether.",
+   "B": "pent-1-ene, pentan-1-ol và dipentyl ether.",
+   "C": "dipentyl ether, pent-1-ene và pentan-1-ol.",
+   "D": "pent-1-ene, dipentyl ether và pentan-1-ol."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C3_0054",
+  "stem": "(SBT – KNTT) Chiết là phương pháp dùng một dung môi thích hợp hoà tan chất cần tách chuyển sang pha lỏng (gọi là dịch chiết) và chất này được tách ra khỏi hỗn hợp các chất còn lại. Tách lấy dịch chiết, giải phóng dung môi sẽ thu được",
+  "options": {
+   "A": "chất cần tách.",
+   "B": "các chất còn lại.",
+   "C": "hỗn hợp ban đầu.",
+   "D": "hợp chất khí."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C3_0055",
+  "stem": "(SBT – CTST) Phương pháp chiết là sự tách chất dựa vào sự khác nhau",
+  "options": {
+   "A": "về kích thước phân tử.",
+   "B": "ở mức độ nặng nhẹ về khối lượng.",
+   "C": "về khả năng bay hơi.",
+   "D": "về khả năng tan trong các dung môi khác nhau."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C3_0056",
+  "stem": "Để tách các chất từ một hỗn hợp lỏng không đồng nhất thường dùng phương pháp",
+  "options": {
+   "A": "chưng cất.",
+   "B": "chiết.",
+   "C": "kết tinh.",
+   "D": "sắc kí."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C3_0057",
+  "stem": "Phương pháp nào sau đây được ứng dụng để ngâm rượu thuốc?",
+  "options": {
+   "A": "Chiết lỏng – lỏng.",
+   "B": "Chiết lỏng – rắn.",
+   "C": "Phương pháp kết tinh.",
+   "D": "Sắc kí cột."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C3_0058",
+  "stem": "Phương pháp chiết nào sau đây thường dùng để tách các chất hữu cơ hòa tan trong nước?",
+  "options": {
+   "A": "Chiết lỏng – lỏng.",
+   "B": "Chiết lỏng – rắn.",
+   "C": "Chiết rắn – rắn.",
+   "D": "Chiết lỏng – khí."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C3_0059",
+  "stem": "(SBT – CTST) Phương pháp chiết được dùng để tách chất trong hỗn hợp nào sau đây?",
+  "options": {
+   "A": "Nước và dầu ăn.",
+   "B": "Bột mì và nước.",
+   "C": "Cát và nước.",
+   "D": "Nước và rượu."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C3_0060",
+  "stem": "Phương pháp dùng dung môi lỏng hòa tan chất hữu cơ để tách chúng ra khỏi hỗn hợp rắn?",
+  "options": {
+   "A": "Chiết lỏng – lỏng.",
+   "B": "Chiết lỏng – rắn.",
+   "C": "Phương pháp kết tinh.",
+   "D": "Sắc kí cột."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C3_0062",
+  "stem": "Giã lá cây chàm, cho vào nước, lọc lấy dung dịch màu để nhuộm sợi, vải thuộc loại phản ứng tách biệt và tinh chế nào?",
+  "options": {
+   "A": "Phương pháp chưng cất.",
+   "B": "Phương pháp chiết.",
+   "C": "Phương pháp kết tinh.",
+   "D": "Sắc kí cột."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C3_0063",
+  "stem": "(SBT – KNTT) Thêm benzene vào ống nghiệm đựng dung dịch nước bromine. Sau một thời gian quan sát thấy màu đỏ nâu của bromine",
+  "options": {
+   "A": "chủ yếu trong lớp nước.",
+   "B": "chủ yếu trong lớp benzene.",
+   "C": "phân bố đồng đều ở hai lớp.",
+   "D": "bị mất màu hoàn toàn."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C3_0064",
+  "stem": "Phương pháp kết tinh dùng để tách biệt các chất",
+  "options": {
+   "A": "có nhiệt độ sôi khác nhau.",
+   "B": "có nhiệt độ nóng chảy khác nhau.",
+   "C": "có độ tan khác nhau.",
+   "D": "có khối lượng riêng khác nhau."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C3_0065",
+  "stem": "Phương pháp tách biệt và tinh chế hỗn hợp các chất rắn dựa vào độ tan khác nhau và sự thay đổi độ tan của chúng theo nhiệt độ là phương pháp?",
+  "options": {
+   "A": "Phương pháp chưng cất.",
+   "B": "Phương pháp chiết.",
+   "C": "Phương pháp kết tinh.",
+   "D": "Sắc kí cột."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C3_0066",
+  "stem": "Kết tinh là phương pháp tách biệt và tinh chế hỗn hợp các chất..(1).. dựa vào độ tan khác nhau và sự thay đổi độ tan của chúng theo..(2).. Từ hoặc cụm từ ở (1) và (2) lần lượt là",
+  "options": {
+   "A": "lỏng – thời gian.",
+   "B": "rắn – nhiệt độ.",
+   "C": "lỏng – nhiệt độ.",
+   "D": "rắn – thời gian."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C3_0067",
+  "stem": "(SBT – CTST) Phương pháp kết tinh dùng để tách các chất",
+  "options": {
+   "A": "có nhiệt độ sôi khác nhau.",
+   "B": "có nguyên tử khối khác nhau.",
+   "C": "có độ tan khác nhau.",
+   "D": "có khối lượng riêng khác nhau."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C3_0068",
+  "stem": "(SBT – CTST) Để tinh chế các chất rắn tan ra khỏi dung dịch thường dùng phương pháp",
+  "options": {
+   "A": "chưng cất.",
+   "B": "chiết.",
+   "C": "kết tinh.",
+   "D": "sắc kí."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C3_0069",
+  "stem": "Làm đường từ mía thuộc loại phản ứng tách biệt và tinh chế nào?",
+  "options": {
+   "A": "Phương pháp chưng cất.",
+   "B": "Phương pháp chiết.",
+   "C": "Phương pháp kết tinh.",
+   "D": "Sắc kí cột."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C3_0070",
+  "stem": "Mật ong để lâu thường thấy có những hạt rắn xuất hiện ở đáy chai. Đó là hiện tượng gì?",
+  "options": {
+   "A": "Khi để lâu, mật ong bị oxi hóa trong không khí tạo kết tủa.",
+   "B": "Khi để lâu, nước trong mật ong bay hơi làm kết tinh tinh bột.",
+   "C": "Khi để lâu, nước trong mật ong bay hơi làm kết tinh đường glucose và fructose.",
+   "D": "Khi để lâu, nước trong mật ong bay hơi làm kết tinh đường sucrose."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C3_0071",
+  "stem": "(SBT – KNTT) Dung môi thích hợp được lựa chọn trong phương pháp kết tinh thường là dung môi trong đó độ tan của chất cần tinh chế",
+  "options": {
+   "A": "không thay đổi khi thay đổi nhiệt độ của dung dịch.",
+   "B": "tăng nhanh khi tăng nhiệt độ, tan kém ở nhiệt độ thường.",
+   "C": "giảm nhanh khi tăng nhiệt độ, tan tốt ở nhiệt độ thường.",
+   "D": "lớn ở nhiệt độ thường và nhỏ ở nhiệt độ cao."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C3_0072",
+  "stem": "(SBT – KNTT) Xét ba yêu cầu: (a) không hòa tan tạp chất; (b) không có tương tác hóa học với chất kết tinh; (c) dễ bay hơi, dễ kiếm, rẻ tiền. Trong ba yêu cầu này, có bao nhiêu yêu cầu là cần thiết đối với dung môi được lựa chọn trong phương pháp kết tinh?",
+  "options": {
+   "A": "0.",
+   "B": "1.",
+   "C": "2.",
+   "D": "3."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C3_0073",
+  "stem": "(SBT – CTST) Phương pháp kết tinh được ứng dụng trong trường hợp nào dưới đây?",
+  "options": {
+   "A": "Làm đường cát, đường phèn từ mía.",
+   "B": "Giã cây chàm, cho vào nước, lọc lấy dung dịch màu để nhuộm sợi, vải.",
+   "C": "Nấu rượu để uống.",
+   "D": "Ngâm rượu thuốc."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C3_0074",
+  "stem": "(SBT – Cánh Diều) Sử dụng phương pháp kết tinh lại để tinh chế chất rắn. Hợp chất cần kết tinh lại cần có tính chất nào dưới đây để việc kết tinh lại được thuận lợi?",
+  "options": {
+   "A": "Tan trong dung môi phân cực, không tan trong dung môi không phân cực.",
+   "B": "Tan tốt trong cả dung dịch nóng và lạnh.",
+   "C": "Ít tan trong cả dung dịch nóng và lạnh.",
+   "D": "Tan tốt trong dung dịch nóng, ít tan trong dung dịch lạnh."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C3_0075",
+  "stem": "Sắc kí cột là phương pháp tách biệt và tinh chế hỗn hợp các chất dựa vào sự phân bố khác nhau của chúng giữa hai pha động và pha tĩnh. Pha tĩnh là một chất rắn có diện tích bề mặt..(1).., có khả năng..(2).. khác nhau các chất trong hỗn hợp cần tách. Từ hoặc cụm từ ở (1) và (2) lần lượt là",
+  "options": {
+   "A": "bé – hấp thụ.",
+   "B": "lớn – hấp thụ.",
+   "C": "lớn – hấp phụ.",
+   "D": "bé – hấp phụ."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C3_0076",
+  "stem": "Trong phương pháp sắc kí, hỗn hợp lỏng hoặc khí của các chất cần tách là pha động. Pha động tiếp xúc liên tục với pha tĩnh là một chất rắn có diện tích bề mặt rất lớn, có khả năng hấp phụ..(1).. với các chất trong hỗn hợp cần tách, khiến cho các chất trong hỗn hợp di chuyển với tốc độ..(2).. và tách ra khỏi nhau. Cụm từ thích hợp điền vào chỗ trống (1) và (2) lần lượt là",
+  "options": {
+   "A": "(1) giống nhau và (2) giống nhau.",
+   "B": "(1) khác nhau và (2) khác nhau.",
+   "C": "(1) khác nhau và (2) giống nhau.",
+   "D": "(1) giống nhau và (2) khác nhau."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C3_0077",
+  "stem": "Sử dụng các cột thủy tinh có chứa các chất hấp phụ dạng bột trong sắc kí cột thuộc pha nào sau đây?",
+  "options": {
+   "A": "Pha động.",
+   "B": "Pha lỏng.",
+   "C": "Pha tĩnh.",
+   "D": "Pha rắn."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C3_0078",
+  "stem": "Việc tách các chất ra khỏi nhau bằng phương pháp sắc kí dựa trên đặc tính nào sau đây của chất?",
+  "options": {
+   "A": "Phân tử khối.",
+   "B": "Nhiệt độ sôi.",
+   "C": "Khả năng hấp phụ và hoà tan.",
+   "D": "Nhiệt độ nóng chảy."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C3_0079",
+  "stem": "Phương pháp dùng để tách các chất hữu cơ có hàm lượng nhỏ và khó tách ra khỏi nhau?",
+  "options": {
+   "A": "Phương pháp chưng cất.",
+   "B": "Phương pháp chiết.",
+   "C": "Phương pháp kết tinh.",
+   "D": "Sắc kí cột."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C3_0080",
+  "stem": "(SBT – Cánh Diều) Ngâm củ nghệ với ethanol nóng, sau đó lọc bỏ phần bã, lấy dung dịch đem cô để làm bay hơi bớt dung môi. Phần dung dịch còn lại sau khi cô được làm lạnh, để yên một thời gian rồi lọc lấy kết tủa curcumin màu vàng. Từ mô tả ở trên, hãy cho biết, người ta đã sử dụng các kĩ thuật tinh chế nào để lấy được curcumin từ củ nghệ?",
+  "options": {
+   "A": "Chiết, chưng cất và kết tinh.",
+   "B": "Chiết và kết tinh.",
+   "C": "Chưng chất và kết tinh.",
+   "D": "Chưng cất, kết tinh và sắc kí."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C3_0081",
+  "stem": "Cho các phát biểu sau:(1) Ngâm hoa quả làm xiro thuộc phương pháp chiết.(2) Làm đường từ mía thuộc phương pháp chưng cất.(3) Nấu rượu uống thuộc phương pháp kết tinh.(4) Phân tích thổ nhưỡng thuộc phương pháp chiết lỏng – rắn.(5) Để phân tích dư lượng thuốc bảo vệ thực vật trong nông sản dùng phương pháp chưng cất.Số phát biểu đúng là",
+  "options": {
+   "A": "2.",
+   "B": "3.",
+   "C": "4.",
+   "D": "1."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C3_0082",
+  "stem": "Phát biểu nào sau được dùng để định nghĩa công thức đơn giản nhất của hợp chất hữu cơ?",
+  "options": {
+   "A": "Công thức đơn giản nhất là công thức biểu thị số nguyên tử của mỗi nguyên tố trong phân tử.",
+   "B": "Công thức đơn giản nhất là công thức biểu thị tỉ lệ tối giản về số nguyên tử của các nguyên tố trong phân tử.",
+   "C": "Công thức đơn giản nhất là công thức biểu thị tỉ lệ phần trăm số mol của mỗi nguyên tốtrong phân tử.",
+   "D": "Công thức đơn giản nhất là công thức biểu thị tỉ lệ số nguyên tử C và H có trong phân tử."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C3_0083",
+  "stem": "(SBT – Cánh Diều) Phát biểu nào sau đây là không đúng?",
+  "options": {
+   "A": "Hai chất có cùng công thức thực nghiệm có thể có phân tử khối khác nhau.",
+   "B": "Hai chất có cùng công thức thực nghiệm có phần trăm khối lượng các nguyên tố trong phân tử của chúng như nhau.",
+   "C": "Hai chất có cùng công thức thực nghiệm thì thành phần các nguyên tố trong phân tử của chúng giống nhau.",
+   "D": "Hai chất có cùng công thức thực nghiệm luôn có cùng công thức phân tử."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C3_0084",
+  "stem": "Cho chất acetylene (C2H2) và benzene (C6H6), hãy chọn nhận xét đúng trong các nhận xét sau?",
+  "options": {
+   "A": "Hai chất đó giống nhau về công thức phân tử và khác nhau về công thức đơn giản nhất.",
+   "B": "Hai chất đó khác nhau về công thức phân tử và giống nhau về công thức đơn giản nhất.",
+   "C": "Hai chất đó khác nhau về công thức phân tử và khác nhau về công thức đơn giản nhất.",
+   "D": "Hai chất đó có cùng công thức phân tử và cùng công thức đơn giản nhất."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C3_0085",
+  "stem": "Chất X có công thức phân tử C6H10O4. Công thức nào sau đây là công thức đơn giản nhất của X?",
+  "options": {
+   "A": "C3H5O2.",
+   "B": "C6H10O4.",
+   "C": "C3H10O2.",
+   "D": "C12H20O8."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C3_0086",
+  "stem": "Hợp chất X có công thức đơn giản nhất là CH3O. Công thức phân tử nào sau đây ứng với X?",
+  "options": {
+   "A": "C3H9O3.",
+   "B": "C2H6O2.",
+   "C": "C2H6O.",
+   "D": "CH3O."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C3_0087",
+  "stem": "(SBT – KNTT) Công thức phân tử của methyl formate và glucose lần lượt là C2H4O2 và C6H12O6. Công thức đơn giản nhất của hai chất này là",
+  "options": {
+   "A": "CH2O.",
+   "B": "C2H4O2.",
+   "C": "C4H8O4.",
+   "D": "C6H12O6."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C3_0088",
+  "stem": "Chất X có công thức đơn giản nhất là CH2O. Công thức phân tử là",
+  "options": {
+   "A": "C2H4O.",
+   "B": "C2H4O2.",
+   "C": "C3H6O2.",
+   "D": "C3H6O."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C3_0089",
+  "stem": "Tỉ lệ (tối giản) số nguyên tử C, H, O trong phân tử C2H4O2 lần lượt là",
+  "options": {
+   "A": "2: 4: 2.",
+   "B": "1: 2: 1.",
+   "C": "2: 4: 1.",
+   "D": "1: 2: 2."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C3_0090",
+  "stem": "Vitamin A (retinol) có công thức phân tử C20H30O, công thức đơn giản nhất của vitamin A là",
+  "options": {
+   "A": "C2H3O.",
+   "B": "C20H30O.",
+   "C": "C4H6O.",
+   "D": "C4H6O2."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C3_0091",
+  "stem": "Chất nào sau đây có cùng công thức đơn giản với C2H2?",
+  "options": {
+   "A": "CH4.",
+   "B": "C6H6.",
+   "C": "C2H4.",
+   "D": "C3H6."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C3_0092",
+  "stem": "Phân tích chất hữu cơ X chứa C, H, O ta có: nC : nH : nO = 1: 3: 1. Công thức đơn giản nhất của X là",
+  "options": {
+   "A": "C6H12O4.",
+   "B": "CH3O.",
+   "C": "C3H6O2.",
+   "D": "C3H6O."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C3_0093",
+  "stem": "Dãy các chất nào sau đây có cùng công thức đơn giản nhất?",
+  "options": {
+   "A": "CH4, C2H6, C3H8.",
+   "B": "C2H4O2, C6H12O6, C3H6O3.",
+   "C": "C6H12O6, C4H8O2, C3H6O.",
+   "D": "CH4, C2H4, C3H4."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C3_0094",
+  "stem": "(SBT – Cánh Diều) Phổ MS của chất Y cho thấy Y có phân tử khối bằng 60. Công thức phân tử nào dưới đây không phù hợp với Y?",
+  "options": {
+   "A": "C3H8O.",
+   "B": "C2H4O2.",
+   "C": "C3H7F.",
+   "D": "C2H8N2."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C3_0095",
+  "stem": "(SBT – Cánh Diều) Sau khi biết công thức thực nghiệm, có thể xác định công thức phân tử của hợp chất hữu cơ dựa trên đặc điểm nào sau đây?",
+  "options": {
+   "A": "Phân tử khối của chất.",
+   "B": "Thành phần phần trăm về khối lượng các nguyên tố có trong phân tử chất.",
+   "C": "Khi lượng các sản phẩm thu được khi đốt cháy hoàn toàn một lượng chất xác định.",
+   "D": "Các hấp thụ đặc trưng trên phổ IR của chất."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C3_0096",
+  "stem": "Công thức phân tử không thể cho ta biết",
+  "options": {
+   "A": "số lượng các nguyên tố trong hợp chất.",
+   "B": "tỉ lệ giữa các nguyên tố trong hợp chất.",
+   "C": "hàm lượng mỗi nguyên tố trong hợp chất.",
+   "D": "cấu trúc phân tử hợp chất hữu cơ."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C3_0097",
+  "stem": "(SBT – KNTT) Công thức phân tử cho biết thông tin nào sau đây về phân tử hợp chất hữu cơ?",
+  "options": {
+   "A": "Thành phần và số lượng nguyên tử của mỗi nguyên tố.",
+   "B": "Thành phần nguyên tố và tỉ lệ số lượng nguyên tử của mỗi nguyên tố.",
+   "C": "Số lượng nguyên tử mỗi nguyên tố và trật tự liên kết giữa các nguyên tử.",
+   "D": "Tỉ lệ số lượng nguyên tử của mỗi nguyên tố và trật tự liên kết giữa các nguyên tử."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C3_0098",
+  "stem": "Để xác định phân tử khối của hợp chất hữu cơ, người ta sử dụng phổ khối lượng MS, trong đó phân tử khối của chất là giá trị m/z của",
+  "options": {
+   "A": "peak [M+] lớn nhất.",
+   "B": "peak [M+] nhỏ nhất.",
+   "C": "peak xuất hiện nhiều nhất.",
+   "D": "nhóm peak xuất hiện nhiều nhất."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C3_0099",
+  "stem": "(SBT – KNTT) Trong phương pháp phổ khối lượng, đối với các hợp chất đơn giản, thường mảnh có giá trị m/z lớn nhất ứng với mảnh ion phân tử [M+] và giá trị này bằng giá trị..(1).. của chất nghiên cứu. Cụm từ thích hợp điền vào (1) là",
+  "options": {
+   "A": "phân tử khối.",
+   "B": "nguyên tử khối.",
+   "C": "điện tích ion.",
+   "D": "khối lượng."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C3_0100",
+  "stem": "Từ phổ MS của acetone, người ta xác định được ion phân tử [M+] có giá trị m/z bằng 58. Vậy, phân tử khối của acetone là",
+  "options": {
+   "A": "58.",
+   "B": "57.",
+   "C": "59.",
+   "D": "56."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C3_0101",
+  "stem": "Từ phổ MS của benzene, người ta xác định được ion phân tử [C6H6+] có giá trị m/z bằng 78. Vậy,phân tử khối của benzene là",
+  "options": {
+   "A": "78.",
+   "B": "79.",
+   "C": "77.",
+   "D": "76."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C3_0102",
+  "stem": "(SBT – Cánh Diều) Acetic acid có công thức phân tử là C2H4O2. Kết luận nào dưới đây là đúng?",
+  "options": {
+   "A": "Acetic acid có công thức thực nghiệm là CH2O và có khối lượng riêng lớn gấp 30 lần so với hydrogen ở cùng điều kiện (nhiệt độ, áp suất).",
+   "B": "Acetic acid có công thức phân tử là CH2O và có tỉ khối hơi so với hydrogen ở cùng điều kiện (nhiệt độ, áp suất) là 30.",
+   "C": "Acetic acid có công thức thực nghiệm là CH2O và có phân tử khối là 60.",
+   "D": "Acetic acid có công thức thực nghiệm là (CH2O)2 và có phân tử khối là 60."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C3_0103",
+  "stem": "Tỉ khối hơi của chất X so với hydrogen bằng 44. Phân tử khối của X là",
+  "options": {
+   "A": "44.",
+   "B": "46.",
+   "C": "22.",
+   "D": "88."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C3_0104",
+  "stem": "Thể tích của 1,5 gam chất X bằng thể tích của 0,8 gam khí oxygen (đo ở cùng điều kiện nhiệt độ, áp suất). Phân tử khối của X là",
+  "options": {
+   "A": "60.",
+   "B": "30.",
+   "C": "120.",
+   "D": "32."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C3_0105",
+  "stem": "Một hydrocarbon X ở thể khí có tỉ khối hơi so với không khí là 0,5517. Công thức phân tử của X là",
+  "options": {
+   "A": "C2H6.",
+   "B": "CH4.",
+   "C": "C2H4.",
+   "D": "C2H2."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C3_0106",
+  "stem": "Propene có công thức đơn giản nhất là CH2 và phân tử khối là 42. Công thức phân tử của propene là",
+  "options": {
+   "A": "C3H4.",
+   "B": "C4H8.",
+   "C": "C3H6.",
+   "D": "C2H4."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C3_0110",
+  "stem": "Kết quả phổ khối MS của acetone được cho trong bảng sau:Phân tử khối của acetone là",
+  "options": {
+   "A": "58.",
+   "B": "57.",
+   "C": "59.",
+   "D": "56."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C3_0112",
+  "stem": "(SBT – Cánh Diều) Glyoxal có thành phần phần trăm khối lượng các nguyên tố là: 41,4% C; 3,4% H và 55,2% O. Công thức nào dưới đây phù hợp với công thức thực nghiệm của glyoxal?",
+  "options": {
+   "A": "CHO.",
+   "B": "CH2O.",
+   "C": "CH2O2.",
+   "D": "C2H6O."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C3_0113",
+  "stem": "(SBT – KNTT) Một hợp chất hữu cơ A chứa 32% C, 4% H và 64% O về khối lượng. Biết một phân tử A có 6 nguyên tử oxygen, công thức phân tử của A là",
+  "options": {
+   "A": "C2H3O3.",
+   "B": "C4H6O6.",
+   "C": "C6H12O6.",
+   "D": "C6H4O6."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C3_0114",
+  "stem": "(SBT – Cánh Diều) CFC (chlorofluorocarbon) là kí hiệu chung chỉ nhóm các hợp chất hữu cơ mà trong phân tử có chứa ba loại nguyên tố Cl, F và C. Ưu điểm của chúng là rất bền, không cháy, không mùi, không độc, không gây ra sự ăn mòn, dễ bay hơi,… nên được dùng làm chất sinh hàn trong tủ lạnh, điều hoà không khí, dùng trong các bình xịt để tạo bọt xốp,…Tuy nhiên, do có nhược điểm lớn là phá huỷ tầng ozone bảo vệ Trái Đất nên từ những năm 1990, CFC bị hạn chế sử dụng theo các quy định của các công ước về bảo vệ môi trường và chống biến đổi khí hậu.Freon-12 là một loại chất CFC được sử dụng khá phố biến, có chứa 31,40% fluorine và 58,68% chlorine về khối lượng. Công thức phân tử của freon-12 là",
+  "options": {
+   "A": "CCl3F.",
+   "B": "CCl2F2.",
+   "C": "CClF3.",
+   "D": "C2Cl4F2."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C3_0115",
+  "stem": "Một trong những luận điểm của thuyết cấu tạo hoá học do Butlerov đề xuất năm 1862 có nội dung là:",
+  "options": {
+   "A": "Tính chất của các chất không phụ thuộc vào thành phần phân tử mà chỉ phụ thuộc vào cấu tạo hoá học.",
+   "B": "Tính chất của các chất không phụ thuộc vào thành phần phân tử và cấu tạo hoá học.",
+   "C": "Tính chất của các chất chỉ phụ thuộc vào thành phần phân tử mà không phụ thuộc vào cấu tạohoá học.",
+   "D": "Tính chất của các chất phụ thuộc vào thành phần phân tử và cấu tạo hóa học."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C3_0117",
+  "stem": "Nguyên tử carbon có thể liên kết trực tiếp với nhau tạo thành các dạng mạch carbon là",
+  "options": {
+   "A": "mạch vòng, mạch hở phân nhánh.",
+   "B": "mạch hở không phân nhánh, mạch hở phân nhánh.",
+   "C": "mạch vòng, mạch hở không phân nhánh, mạch hở phân nhánh.",
+   "D": "mạch hở phân nhánh."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C3_0118",
+  "stem": "Theo thuyết cấu tạo hóa học, chất nào sau đây là sai về hóa trị của carbon?",
+  "options": {
+   "A": "CH3-CH=O.",
+   "B": "CH3-O-CH-CH3.",
+   "C": "CH3-CH(CH3)-CH3.",
+   "D": "CH3Cl."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C3_0121",
+  "stem": "Cấu tạo hóa học là..(1).. giữa các nguyên tử trong phân tử. Cụm từ thích hợp điền vào (1) là",
+  "options": {
+   "A": "thứ tự liên kết.",
+   "B": "phản ứng.",
+   "C": "liên kết.",
+   "D": "tỉ lệ số lượng."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C3_0122",
+  "stem": "Cấu tạo hoá học là",
+  "options": {
+   "A": "số lượng liên kết giữa các nguyên tử trong phân tử.",
+   "B": "các loại liên kết giữa các nguyên tử trong phân tử.",
+   "C": "biểu diễn thứ tự và cách thức liên kết của các nguyên tử trong phân tử.",
+   "D": "bản chất liên kết giữa các nguyên tử trong phân tử."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C3_0123",
+  "stem": "(SBT – KNTT) Công thức nào dưới đây là công thức cấu tạo?",
+  "options": {
+   "A": "HOCH2CH2OH.",
+   "B": "C2H6O2.",
+   "C": "CH3O.",
+   "D": "CnH3nOn."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C3_0124",
+  "stem": "(SBT – Cánh Diều) Công thức nào dưới đây biểu diễn đúng cấu tạo hoá học của chất?<img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGoAAAAvCAAAAAAu3wCUAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAmGXfwgY8AAALLSURBVFjD7ZdLSFRhFMd/1y7lyDimXJMBs7AEqcQUCemtlEEqSikiRg+RNBVp0WZa1CKKIsgs8LEI7GVJ0oMsyU2bIlJUxCYIVJIwF2om6ShqnhajMOPMOF2aXJRn9fG/55wf53z33u98irBU5rdkJDtqyLIrM2P7zlpqtin57XwsUmLLPfhbT+w5lJpwoMVZ7SlIyspIrnHpkHM+EelbW2ATkdf5IuWMiIhwXtxbU0C1iExfuOOkdgRdnRX5Gpvr4u+Yzw8o8a8yAHtjvPZg4mhOIaDmhDjJxZvPKGCufvDESwMHX2SrAJz2ino5mAtAVKqj+uVdGgCJoXVeUJ2y6Xd3tgN3rlYi7YtI62LBKoxidBDSVJdSbBC3AXBybe2D8EQAxjDYNUM/MN4EpJhc86kQiM0hceNqQHFEneyHm6UABGILmlMr7sPhBgBM8wnGTcBANtC1xTWfCluVubqnVrotvOsn88XEYTXPuVZfh1V2NYZuAKR3HxA5CAS736s1mfXTAJS673Gwpmn+9mW6+S4AI+cwapoWaFfNSc8BeDOcB/hpmqatcI+iSimcBD704M38Hz6tBmhw3tDK3ssCX4uPpC8WrAJhrdcOhv38NptF7SMsRbGfamgMO3UxrOt43EL33W1XUkInBkPKnNTo9kv7tanRsoKF7o75QDxZm7wtFV+a599tPN/DvXZUjy3yZ39cn+ZTlOLxvLIFzOx470uU6vFJxcaBHDfyUKMxYb2PURZfVgRLfwovo5ZRzqb8uyPnMmoZ9T+gVL0BcqvOuHIk4myUfpbeuedYdJ+IVJpadE9MelGvaBYRkQOxPhzO3Fu9IRmA9E6rzkjdr4V1nX0c38BfR43NX6X48bdRpvmrFCadkbpRMX0zAHTj/ZL+h6i8yWYAnsVH60Xp/q5Koj6LyA1Tm+6XXf+Bf++2cdVwhGWj7qL+zdniF68NlCx2HNsyAAAAAElFTkSuQmCC\" style=\"height:40px\" alt=\"\"> (1);\t\t <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHsAAAAvCAAAAADms+pCAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAmG5n+4KMAAANUSURBVFjD7ZhpSFRRFMd/Y6M5wzRRvJI2i9SoIFyI9o3AbLNEKwlpLzSMsqIPBiW00ULZQmmLZQvRUESLJQXRp4oWW7CRooWm9cNYto5R6unDG9Nx3jRM4wI1/y/vcu455zf33Ht5541OaDEFtRxaZZdnD0+aPGRYIXsH6ObepSxDF53rwd86Z2TyhP4Jt1yMBUN044DzKX02uAUUJ8anJMQmf36eGdJnA+RG6xaW1c6JiK3bfIeIXJ0rkkuFiAg5oq1iY76I/Fx7xNWcO5oCEbmR7haQo1wXkY+TXoq0XSIiksPvuSAgMzTPAIzq57VKlTNT0wF9avsGEzPGLnujFXBnzdbBQNu0Vto1t1+Yqgcgyyv7on06AFETGs7sq0nXCjjcagoA0zprsx9IX69Qp+7hybXbpgtHtAJ6GD1n08MnTPUME/Vui3VAbATg4nrbBl0H1XllWLLi1dG3YmCMWQ2on/rUfeBFPYPIJY7XHRqNs9YF2KUOs3lba00DUn6HHRJ5apyknrUnAKXqxOBedXnczpoeYnRW9Wf8CNEsTWk1tcuNxdrJ6Zq/HVrXd4tYuzwcgJ52oJ0zYH+lAaBGNA5bEHRMsvwEYJH2trRTFCVUHSZ2OgpAxWpMiqK0cfHLGrhbTakoiuJELag+AcDZyxqJg4A8Xfp34OEzvCn0xJl8gFN6rVQHg91sMZtX3AB+nAvWCNADYbe3jQ+r/lAzhcKTZGdEP95LUdjC9WGls2Mbuo8o2TSmQ6W9/WIX6wFLSPU86LvqtVv+5XGbq9p8tUdG2nY5rmxbRl4RSzMMW2LKtgLiSSVybZE0jew2iS8X0Sqeqjg+dvW6CX8nBcT0x/fYacvEJmLzat2gYNB5fH87jFVDbzYN2mFkY8RUPNd8R+S7VA1zeZGpfw8/2SWPTLaZf1q3BzUG26kW71sC7AC7GeTzHftH1h1gB9gBdtNK72uAFBw3hVSEr4xqBLivPeas3jYR2WO+5X+76iv7EpdFRCQh2n+2r/ttMYwGIPGB1e+S+8q2dle/tCJofvZXg/o08KXZ2WaH+vyGudnZ/WxVADzF+z9Djc1O+65+SZ+N6+032+f7nRn1QkR2mkv8v2O+90zHDptavw/PjvR/2f9rv/YLrHhUngoF0F8AAAAASUVORK5CYII=\" style=\"height:40px\" alt=\"\"> (2); <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGoAAAAvCAAAAAAu3wCUAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAmGu750DUAAALvSURBVFjD7ZdPSBRxFMc/o2ursbtlTXqwrKyDSGJkiESFbVGUfzJMCKJSMTTsYBSCXYIuXSSzf/aXLIrS8mBsRCK5h0hKK6UMIqOEyEAzxT+tf1+H2cqdFlfYdg/mO8289533md/7zcybpwj+sgC/kQiAsaJFoYXd2JKVZJs+PHrOmrzDGn/Y1StXrGk7N2a//ztdV/G69O1r1lZwMUHJecnbfCWu9M9lIrI9TkSknnrR2fCmhM8i8tHq6t4X3S4i5y3P9fr2RbmDIlKfI1LKdxERjv0OGiZd8+nHbRHAklQXb+312kjgQM3+Zp2+ILjcACQ1u0s2+V5VJC4FoNDFWxliBSC1pdVV3vkg0+BGPxXUcGuMO3fr4kAAlqFDtUjMJNm0u2hLAno0z6cmMGoV6xPTL93AQ2CzBYD+EM0XQh/Q2A4LEwHoxTQhdYrBHWq5HbBvAKBuP8zvAsDE4C9dRybwegUAlm4nHgtQdgsy7gFg/qMHbHMBRY+aaHvSf5fVGOOs0EhQVCcQqp3F3hg1ALQRC1w4BUYtsFJx6odnTWmvjKqqznMe5zW0AXDkR4Cqqqq2Rex21AJQsyoaMKmqatYCYemVIwAcZEqoiVaQtusL0GUPmuhdX1DYDpxpuqzXlyt5DuDNB3fJDDB2/FVfcVHoowuUDW1xjQZWX8uyBPX2rHWt89mbuSbjt8gXy/XZwhtPbgsf6x7fScVdivPj3l3EFn6g6rMjYh/a18LH1iTjq0XEH5/bePrDcPcE+sCe3d6Lfwo4ILL16xQKWEKJt4uqrKqIWuCfAmZDFv7uwjOoGZTelOn6yzmDmkH9HyjP/cpe6jAPGAo3es/y1K2vmutF5Gloudd93xOqe/ZRERE5YezwFuVpr2yDKQCkDlV7Wz9PqFaiADez1L9H9aMNU8FKn69RFufINCgWX6Ni0cYebZbyKSrFch+AmuAMb1Ee36s75joReTLnktfvleeG31DiMA0EHNrg9aKm57/FT+pzAhu0IM9DAAAAAElFTkSuQmCC\" style=\"height:40px\" alt=\"\"> (3); \t\t<img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHUAAAAUCAAAAACWxy2fAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAmGXfwgY8AAAIqSURBVEjH5ZZPSNNhHMY/CyupDRkM1KIyUgovKkUUSFtLi7FmUw+uDkIUTayDsIrA2KEMopM0BA8dojoUCUVYeqg2CBoEoSG71MBDdsqWYdtgf/h2+O2P2++1Ihgeek5fnud5vw/Pe3h5DcIaYN1ahP4xdepoQ2VSs5e3mYdiTDoNzsk8nRmzO7vte304ulSnCvKrHkPHY+K+2lpfvNwUOW3tce479k61X0TkRIuISJCg5JDq2L8gIvN2kcAO0WGFPMMTERGrVWea2jQuIunr9xT7q5Q3cPt1dCvQ4OJfZACS/X1eoKrvo0JUp949sBOAoSKVTeYGw2aVrMOLrycBaGr629RU5IyOe3M8f2JJJeswQ/PqopYatQFLBXJZjDqj7ecq8tVRYLZVK5iAtl0A/GCFqWx/LrUxBIQO50kjid/VKJVH3IBNm899gcAFAEwkagqesv3qG97YHNGG9PoCl8l3NdSoZA1zWfIV24jUA5DaoA9QvxLecBSAi8kC9bYxh91KWYPZYrFUa6Or/j4A3/2K/eVdH8VjxgHOBz3PtsBiqFjm0GLRpJB1qH7oGh8AJkoTvO2hUROIZPzbzVdiMu3GPS0LIq0ikr3T2etxHByU50dMI8u6F6Aghzw4nkp8uK5uOF5u+nS281R3e9fLkv3v5caECLqN8/1SUVwKK94mCdykgsiOfdsD5V3Ttz5Xsmg2KeFBfVf/3AceVK5q+lrLbC8Y/qO/xC8WKReoyoVniQAAAABJRU5ErkJggg==\" style=\"height:21px\" alt=\"\"> (4).",
+  "options": {
+   "A": "Công thức (1).",
+   "B": "Công thức (2) và công thức (3).",
+   "C": "Công thức (4).",
+   "D": "Công thức (1) và công thức (3)."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C3_0131",
+  "stem": "Những hợp chất hữu cơ khác nhau nhưng có cùng công thức phân tử được gọi là các chất",
+  "options": {
+   "A": "đồng phân của nhau.",
+   "B": "đồng đẳng của nhau.",
+   "C": "đồng vị của nhau.",
+   "D": "đồng khối của nhau."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C3_0132",
+  "stem": "Đồng phân là những chất khác nhau có cùng",
+  "options": {
+   "A": "khối lượng phân tử.",
+   "B": "công thức phân tử.",
+   "C": "công thức đơn giản nhất.",
+   "D": "thành phần nguyên tố."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C3_0133",
+  "stem": "(SBT – CTST) Cặp chất nào sau đây là đồng phân của nhau?",
+  "options": {
+   "A": "CH3COOH, HCOOCH3.",
+   "B": "CH3COOH, HCOOH.",
+   "C": "CH3OH, C2H5OH.",
+   "D": "C2H5OH, CH3OCH2CH3."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C3_0134",
+  "stem": "Cặp chất nào sau đây không phải là đồng phân của nhau?",
+  "options": {
+   "A": "CH3-CH2-OH; CH3-CHO.",
+   "B": "CH3-CH2-COOH: HCOO-CH2-CH3.",
+   "C": "CH2=CH-CH2-CH3; CH3-CH=CH-CH3.",
+   "D": "CH3-O-CH3; CH3-CH2-OH."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C3_0135",
+  "stem": "(SBT – CTST) Cặp chất nào sau đây là đồng phân của nhau?",
+  "options": {
+   "A": "CH4, CH3CH3.",
+   "B": "CH3OCH3, CH3CH=O.",
+   "C": "CH3OH, C2H5OH.",
+   "D": "C2H5OH, CH3OCH3."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C3_0136",
+  "stem": "Hai hợp chất là CH3CH2CH2OH và CH3CH2OCH3 là loại đồng phân cấu tạo nào?",
+  "options": {
+   "A": "Đồng phân vị trí nhóm chức.",
+   "B": "Đồng phân vị trí nối đôi.",
+   "C": "Đồng phân nhóm chức.",
+   "D": "Đồng phân mạch carbon."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C3_0137",
+  "stem": "(SBT – KNTT) Cặp chất nào dưới đây là đồng phân loại nhóm chức?",
+  "options": {
+   "A": "CH3OCH3 và CH3CH2CH2OH.",
+   "B": "CH3COOH và HCOOCH3.",
+   "C": "CH2=CH-CH3 và CH2=C(CH3)CH3.",
+   "D": "CH3CH2CH2OH và CH3CH(OH)CH3."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C3_0138",
+  "stem": "(SBT – KNTT) Cặp chất nào dưới đây là đồng phân vị trí nhóm chức?",
+  "options": {
+   "A": "CH3OCH2CH3 và CH3CH2CH2OH.",
+   "B": "CH3COCH3 và CH3CH2CH=O.",
+   "C": "CH≡CCH2CH3 và CH3CH=CH-CH=CH2CH3.",
+   "D": "CH3CH2CH2OH và CH3CH(OH)CH3."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C3_0139",
+  "stem": "(SBT – Cánh Diều) Chọn phát biểu đúng về bốn chất (đều có phân tử khối là 60) sau đây.CH3CH2CH2OH (1); \t\tCH3COOH (2); NH2CH2CH2NH2 (3); \t\t(CH3)2CHOH (4).",
+  "options": {
+   "A": "Chất (1) và chất (4) là đồng phân của nhau.",
+   "B": "Chất (1), chất (2) và chất (4) là đồng phân của nhau.",
+   "C": "Chất (1) và chất (2) là đồng phân của nhau.",
+   "D": "Cả bốn chất đều là đồng phân của nhau."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C3_0141",
+  "stem": "Cho các chất sau: CH3-O-CH3 (1); C2H5OH (2); CH3CH2CH2OH (3); CH3CH(OH)CH3 (4); CH3CH(OH)CH2CH3 (5); CH3-OH (6). Những cặp chất nào là đồng phân của nhau?",
+  "options": {
+   "A": "(1) và (3); (2) và (5).",
+   "B": "1) và (2); (3) và (4).",
+   "C": "(1) và (4); (3) và (5).",
+   "D": "(1) và (5); (2) và (4)."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C3_0142",
+  "stem": "(Đề TSCĐ - 2011) Chất nào sau đây có đồng phân hình học?",
+  "options": {
+   "A": "CH2=CH-CH=CH2.",
+   "B": "CH3-CH=C(CH3)2.",
+   "C": "CH3-CH=CH-CH=CH2.",
+   "D": "CH2=CH-CH2-CH3."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C3_0144",
+  "stem": "(Đề TSĐH A - 2008) Cho các chất sau: CH2=CH-CH2-CH2-CH=CH2, CH2=CH-CH=CH-CH2-CH3, CH3-C(CH3)=CH-CH3, CH2=CH-CH2-CH=CH2. Số chất có đồng phân hình học là",
+  "options": {
+   "A": "2.",
+   "B": "3.",
+   "C": "1.",
+   "D": "4."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C3_0145",
+  "stem": "Số đồng phân cấu tạo có thể có của C5H12 là",
+  "options": {
+   "A": "1.",
+   "B": "2.",
+   "C": "3.",
+   "D": "4."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C3_0146",
+  "stem": "(SBT – Cánh Diều) Số đồng phân mạch hở có cùng công thức phân tử C3H6Br2 là",
+  "options": {
+   "A": "1.",
+   "B": "2.",
+   "C": "3.",
+   "D": "4."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C3_0147",
+  "stem": "Đồng đẳng là những chất có tính chất hoá học tương tự nhau và thành phần phân tử hơn kém nhau một hoặc nhiều nhóm",
+  "options": {
+   "A": "CH2.",
+   "B": "CH3.",
+   "C": "OH.",
+   "D": "NH2."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C3_0148",
+  "stem": "(SBT – KNTT) Các chất hữu cơ có tính chất hóa học tương tự nhau và thành phần phân tử hơn kém nhau một hay nhiều nhóm CH2 được gọi là các chất",
+  "options": {
+   "A": "đồng phân của nhau.",
+   "B": "đồng đẳng của nhau.",
+   "C": "đồng vị của nhau.",
+   "D": "đồng khối của nhau."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C3_0149",
+  "stem": "(SBT – KNTT) Cặp chất nào dưới đây là đồng đẳng của nhau?",
+  "options": {
+   "A": "CH3OH và CH3CH2CH2CH2OH.",
+   "B": "CH3CH2OH và HOCH2CH2OH.",
+   "C": "CH3CH2CHO và CH3COCH2CH3.",
+   "D": "CH3COOH và CH3COOCH3."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C3_0150",
+  "stem": "(SBT – CTST) Cặp chất nào sau đây là đồng đẳng của nhau?",
+  "options": {
+   "A": "CH3OH, CH3OCH3.",
+   "B": "CH3OCH3, CH3CHO.",
+   "C": "HCHO, CH3CHO.",
+   "D": "CH3CH2OH, C2H4(OH)2."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C3_0151",
+  "stem": "(SGK – KNTT) Trong các dãy chất sau đây, dãy nào gồm các chất là đồng đẳng của nhau?",
+  "options": {
+   "A": "CH3–CH2–OH và CH3–CH2–CH2–OH.",
+   "B": "CH3–O–CH3 và CH3–CH2–OH.",
+   "C": "CH4, C2H6 và C4H8.",
+   "D": "CH4 và C3H6."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C3_0152",
+  "stem": "(SBT – CTST) Cặp chất nào sau đây là đồng đẳng của nhau?",
+  "options": {
+   "A": "CH4, CH3CH2CH2CH3.",
+   "B": "CH3OCH3, CH3CH2OH.",
+   "C": "HCHO, CH3COOH.",
+   "D": "HOCH2CH2OH, C3H5(OH)3."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C3_0153",
+  "stem": "(Đề MH – 2021) Cặp chất nào sau đây cùng dãy đồng đẳng?",
+  "options": {
+   "A": "CH4 và C2H4.",
+   "B": "CH4 và C2H6.",
+   "C": "C2H4 và C2H6.",
+   "D": "C2H2 và C4H4."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C3_0154",
+  "stem": "Cặp chất có thể là đồng đẳng kế tiếp của nhau là",
+  "options": {
+   "A": "CH3OH; C2H6O2.",
+   "B": "C2H6O; C3H6O.",
+   "C": "C2H6O2; C3H8O3.",
+   "D": "CH4O; C2H6O."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C3_0155",
+  "stem": "(SBT – KNTT) Cặp chất nào dưới đây là đồng đẳng của nhau?",
+  "options": {
+   "A": "CH3CH=CH2 và CH3CH2CH2CH3.",
+   "B": "CH2=CH-CH=CH2 và CH3C≡CH.",
+   "C": "CH3CH2CH2CH3 và (CH3)2CHCH3.",
+   "D": "CH2=CH-CH=CH2 và CH2=C(CH3)-CH=CH2."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C3_0156",
+  "stem": "Công thức C6H6 thuộc dãy đồng đẳng nào sau đây?",
+  "options": {
+   "A": "CnH2n–8 (n ≥ 7).",
+   "B": "CnH2n–6 (n ≥ 6).",
+   "C": "CnH2n–6 (n ≥ 7).",
+   "D": "CnH2n (n ≥ 6)."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C3_0157",
+  "stem": "Các chất nào sau đây thuộc dãy đồng đẳng có công thức chung CnH2n+2 (n ≥ 1)?",
+  "options": {
+   "A": "CH4, C2H2, C3H8, C4H10, C6H12.",
+   "B": "CH4, C3H8, C4H10, C5H12.",
+   "C": "C4H10, C6H12, C5H12.",
+   "D": "C2H4, C2H2, C3H8, C4H10, C6H12."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C3_0158",
+  "stem": "Trong các dãy chất sau đây, dãy nào gồm các chất là đồng đẳng của nhau?",
+  "options": {
+   "A": "C2H5OH, CH2=CHCH2OH.",
+   "B": "C2H6, CH4, C4H10.",
+   "C": "CH3COCH3, CH3CHO.",
+   "D": "C2H4, C3H6, C4H6."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C3_0159",
+  "stem": "Cho các chất: C6H5OH (X); C6H5CH2OH (Y); HOC6H4OH (Z); C6H5CH2CH2OH (T). Các chất đồng đẳng của nhau là",
+  "options": {
+   "A": "Y, T.",
+   "B": "X, Z, T.",
+   "C": "X, Z.",
+   "D": "Y, Z."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C3_0160",
+  "stem": "Cho các chất sau đây:(I) CH3-CH(OH)-CH3; \t(II) CH3-CH2-OH; \t\t(III) CH3-CH2-CH2-OH;(IV) CH3-CH2-CH2-O-CH3; \t(V) CH3-CH2-CH2-CH2-OH; \t(VI) CH3-OHCác chất đồng đẳng của nhau là",
+  "options": {
+   "A": "I, II và VI.",
+   "B": "I, III và IV.",
+   "C": "II, III, V và VI.",
+   "D": "I, II, III, IV."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C3_0161",
+  "stem": "Phát biểu nào sau đây chưa chính xác?",
+  "options": {
+   "A": "Các chất là đồng phân của nhau thì có cùng công thức phân tử.",
+   "B": "Tính chất của các chất phụ thuộc vào thành phân phân tử và cấu tạo hoá học.",
+   "C": "Các chất có cùng khối lượng phân tử là đồng phân của nhau.",
+   "D": "Hoá trị của carbon trong các hợp chất hữu cơ là không đổi."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C3_0162",
+  "stem": "Kết luận nào sau đây đúng?",
+  "options": {
+   "A": "Các nguyên tử trong phân tử hợp chất hữu cơ liên kết với nhau không theo một thứ tự nhất định.",
+   "B": "Các chất có thành phần phân tử hơn kém nhau một hay nhiều nhóm -CH2-, do đó tính chất hóa học khác nhau là những chất đồng đẳng.",
+   "C": "Các chất có cùng công thức phân tử nhưng khác nhau về công thức cấu tạo được gọi là các chất đồng đẳng của nhau.",
+   "D": "Các chất khác nhau có cùng công thức phân tử được gọi là các chất đồng phân của nhau."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C3_0163",
+  "stem": "(SBT – KNTT) Cho các phát biểu sau:(1) Công thức cấu tạo biểu diễn kiểu liên kết và trật tự liên kết giữa các nguyên tử trong phân tử.(2) Chất đồng phân có cùng công thức phân tử nhưng có thể khác nhau về loại nhóm chức, mạch carbon, vị trí liên kết π hoặc vị trí nhóm chức.(3) Chất đồng đẳng có cấu tạo và tính chất tương tự, nhưng thành phần phân tử khác nhau một hay nhiều nhóm CH2.Số phát biểu đúng là",
+  "options": {
+   "A": "0.",
+   "B": "1.",
+   "C": "2.",
+   "D": "3."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C3_0164",
+  "stem": "(SBT – KNTT) Cho các phát biểu sau:(1) Cấu tạo hóa học là trật tự liên kết giữa các nguyên tử trong phân tử.(2) Cấu tạo hóa học khác nhau tạo ra các chất khác nhau.(3) Trong phân tử hợp chất hữu cơ, nguyên tử carbon luôn có hóa trị bốn.(4) Trong phân tử hợp chất hữu cơ, các nguyên tử carbon chỉ liên kết với nguyên tử của nguyên tố khác.(5) Tính chất vật lí và tính chất hóa học của hợp chất hữu cơ phụ thuộc vào thành phần phân tử và cấu tạo hóa học.Số phát biểu đúng là",
+  "options": {
+   "A": "2.",
+   "B": "3.",
+   "C": "4.",
+   "D": "5."
+  },
+  "answer": "C"
+ }
+]

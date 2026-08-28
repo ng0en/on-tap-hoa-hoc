@@ -1,0 +1,1322 @@
+[
+ {
+  "id": "L11_C6_0001",
+  "stem": "Hợp chất chứa nhóm C=O liên kết với nguyên tử carbon hoặc nguyên tử hydrogen được gọi là",
+  "options": {
+   "A": "hợp chất alcohol.",
+   "B": "dẫn xuất halogen.",
+   "C": "các hợp chất phenol.",
+   "D": "hợp chất carbonyl."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C6_0002",
+  "stem": "(SBT – Cánh Diều) Công thức nào sau đây không thể là của aldehyde?",
+  "options": {
+   "A": "C4H8O.",
+   "B": "C3H4O2.",
+   "C": "C2H6O2.",
+   "D": "CH2O."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C6_0003",
+  "stem": "Cho các công thức cấu tạo dưới đây, chất nào không phải aldehyde?",
+  "options": {
+   "A": "H-CH=O.",
+   "B": "O=CH-CH=O.",
+   "C": "CH3-CO-CH3.",
+   "D": "CH3-CH=O."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C6_0004",
+  "stem": "Trong các hợp chất hữu cơ có công thức phân tử sau đây, chất nào không thể là aldehyde?",
+  "options": {
+   "A": "C3H6O.",
+   "B": "C4H6O.",
+   "C": "C4H8O.",
+   "D": "C4H10O."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C6_0005",
+  "stem": "(SBT – CTST) Aldehyde no, đơn chức, mạch hở có công thức phân tử chung là",
+  "options": {
+   "A": "CnH2nO2 (n ≥ 1).",
+   "B": "CnH2nO (n ≥ 1).",
+   "C": "CnH2n – 2O (n ≥ 3).",
+   "D": "CnH2n+2O (n ≥ 1)"
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C6_0006",
+  "stem": "Aldehyde no, đơn chức, mạch hở có công thức phân tử là CnHmO. Mối liên hệ giữa n và m là",
+  "options": {
+   "A": "m = 2n.",
+   "B": "m = 2n + 2.",
+   "C": "n = 2m – 1.",
+   "D": "m = 2n – 2."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C6_0007",
+  "stem": "(SBT – KNTT) Số đồng phân cấu tạo hợp chất carbonyl có công thức phân tử C5H10O là",
+  "options": {
+   "A": "7.",
+   "B": "6.",
+   "C": "4.",
+   "D": "5."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C6_0008",
+  "stem": "Số đồng phân aldehyde có cùng công thức C5H10O, mạch hydrocarbon phân nhánh là",
+  "options": {
+   "A": "2.",
+   "B": "3.",
+   "C": "4.",
+   "D": "5."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C6_0009",
+  "stem": "(Đề TSCĐ - 2014) Tên thay thế của CH3-CH=O là",
+  "options": {
+   "A": "methanol.",
+   "B": "ethanol.",
+   "C": "methanal.",
+   "D": "ethanal."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C6_0010",
+  "stem": "(SBT – KNTT) Hợp chất nào sau đây có tên gọi là butanal?",
+  "options": {
+   "A": "CH3CH2COCH3.",
+   "B": "CH3CH2CHO.",
+   "C": "CH3CH2CH2CHO.",
+   "D": "(CH3)2CHCHO."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C6_0011",
+  "stem": "(SBT – KNTT) Cho hợp chất carbonyl có công thức cấu tạo sau: CH3CH(CH3)COCH3. Tên theo danh pháp thay thế của hợp chất carbonyl đó là",
+  "options": {
+   "A": "2-methylbutan-3-one.",
+   "B": "3-methylbutan-2-one.",
+   "C": "3-methylbutan-2-ol.",
+   "D": "1,1-dimethylpropan-2-one."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C6_0012",
+  "stem": "Hợp chất (CH3)2CHCH2CHO có tên thay thế là",
+  "options": {
+   "A": "3-methylbutanal.",
+   "B": "2-methylbutanal.",
+   "C": "isovaleric aldehyde.",
+   "D": "isovaleraldehyde."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C6_0013",
+  "stem": "(SBT – KNTT) Hợp chất CH3CH=CHCHO có danh pháp thay thế là",
+  "options": {
+   "A": "but-2-enal.",
+   "B": "but-2-en-4-al.",
+   "C": "buten-l-al.",
+   "D": "butenal."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C6_0014",
+  "stem": "Tên thay thế của hai hợp chất carbonyl: C2H5COC2H5; CH3C(CH3)2CH2CHO lần lượt là",
+  "options": {
+   "A": "pentan-3-one; 3,3-dimethylbutanal.",
+   "B": "3,3-dimethylbutanal; pentan-3-one.",
+   "C": "butan-3-one; 3,3-dimethylbutanal.",
+   "D": "pentan-3-one; 3-methylpentanal."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C6_0015",
+  "stem": "(SBT – Cánh Diều) Trong các hợp chất HCHO, CH3CHO, CH3COCH3 và CH3CH2CH2CHO, hợp chất có độ tan trong nước kém nhất là",
+  "options": {
+   "A": "HCHO.",
+   "B": "CH3CHO.",
+   "C": "CH3COCH3.",
+   "D": "CH3CH2CH2CHO."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C6_0016",
+  "stem": "(SBT – KNTT) Cho ba hợp chất hữu cơ có phân tử khối tương đương: (1) C3H8; (2) C2H5OH; (3) CH3CHO. Thứ tự giảm dẫn nhiệt độ sôi là",
+  "options": {
+   "A": "(2) &gt; (3) &gt; (1).",
+   "B": "(1) &gt; (2) &gt; (3).",
+   "C": "(2) &gt; (1) &gt; (3).",
+   "D": "(3) &gt; (2) &gt; (1)."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C6_0017",
+  "stem": "(SBT – KNTT) Formalin có tác dụng diệt khuẩn nên được dùng để bảo quản mẫu sinh vật, tẩy vế, khữ trùng,… Fonmalin là",
+  "options": {
+   "A": "dung dịch rất loãng của aldehyde formie.",
+   "B": "dung dịch aldehyde formic 37 – 40%.",
+   "C": "aldehyde formic nguyên chất.",
+   "D": "tên gọi khác của aldehyde formic."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C6_0018",
+  "stem": "(SBT – Cánh Diều) Trong các hợp chất cho dưới đây, hợp chất nào có nhiệt độ sôi cao nhất?",
+  "options": {
+   "A": "Propan-2-one.",
+   "B": "Butan-2-one.",
+   "C": "Pentan-2-one.",
+   "D": "Hexan-2-one."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C6_0019",
+  "stem": "(SBT – Cánh Diều) Nhận xét nào sau đây là đúng?",
+  "options": {
+   "A": "Formaldehyde tan tốt trong nước là do tạo được liên kết hydrogen với nước.",
+   "B": "Acetone tan tốt trong nước là do acetone phản ứng được với nước.",
+   "C": "Methyl chloride tan trong nước tốt hơn formaldehyde.",
+   "D": "Acetaldehyde tan trong nước tốt hơn ethanol."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C6_0020",
+  "stem": "(SBT – CTST) Formalin (còn gọi là formon) được dùng để ngâm xác động, thực vật, thuộc da, tẩy uế, diệt trùng,... Formalin là",
+  "options": {
+   "A": "dung dịch rất loãng của formaldehyde.",
+   "B": "dung dịch trong nước, chứa khoảng 37% – 40% acetaldehyde.",
+   "C": "dung dịch trong nước, chứa khoảng 37% – 40% formaldehyde",
+   "D": "tên gọi khác của HCH=O."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C6_0021",
+  "stem": "(SBT – Cánh Diều) Trên phổ IR của acetone có tín hiệu đặc trưng cho nhóm carbonyl ở vùng",
+  "options": {
+   "A": "1 740 – 1 670 cm–1.",
+   "B": "1 650 – 1 620 cm–1.",
+   "C": "3 650 – 3 200 cm–1.",
+   "D": "2 250 – 2 150 cm–1."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C6_0022",
+  "stem": "(SBT – CTST) Thực hiện phản ứng khử hợp chất (X) bằng hydrogen có xúc tác thích hợp, thu được 2-methylpropan-1-ol (isobutyl alcohol). Công thức của (X) là",
+  "options": {
+   "A": "CH3CH2CHO.",
+   "B": "CH2=CHCH2CH2OH.",
+   "C": "CH3CH=C(CH3)-CHO.",
+   "D": "CH2=C(CH3)-CHO"
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C6_0023",
+  "stem": "(SBT – KNTT) Thực hiện phản ứng khử hợp chất carbonyl sau:CH3COCH2CH3 + 2[H] <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFYAAAAXCAAAAAC0OefiAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAmK78n0A8AAAHdSURBVDjLY/zPQAvARBNTcRn7vZFT7C0Dw3ydvIcMDAwMDHcyGL3DPM03Mhzy4un5yTBF2nobfnP/4wD2KvH///9PfgzlXma4/v9/P+v7/5PF/////9+8/D9egDMQOGYs2oMuZvD7NcVh6xyT8Z2BgYFhRmiW7RsGBgYGhj9LPVWJNJYFt1SfRkMnAwMD80om11VZDAzF3Jf/zWJgYPiYwMDAcNeBbGNFelIjGRgYUhkYhD8xMDD0ajCcdu9KYeBfwMDAYEF2IDAwJNim/GVgWJVdfwUqYBo6ifJAYGCYoXer+WnyC+6bMAFmVOVTv5eQ4VoGterPDC+YWRh+QfkftwYjS79chFsr9nT3rVGu9c///z81H/9x10gOtD2QwuAbHWbd9me7LUfF9/+NogYr/v9vnNqNofEthGIkv0zYx3j3A0YguCwVJxgIeMGvo45YRBMDfzIwMDCQ79pDNVxP/sy0Rxd2F14GMfbTIWRhCRMY6/5VZHFtRThz528oY9fXQAZWsX8oxj4JKm9jYGD8z3DdF1nYdTqMtaAFWbwmAc40+oQkzsP48x8K+Mx3Wwx3CUYu2M6y/f///9Q29qPUJAoTGFZQ9GMaAwOBzEsG+DaFgYGBkgSGF9CoigQA7/SrdG8DI0IAAAAASUVORK5CYII=\" style=\"height:18px\" alt=\"\">? Sản phẩm thu được là",
+  "options": {
+   "A": "propanol.",
+   "B": "isopropyl alcohol.",
+   "C": "butan-1-ol.",
+   "D": "butan-2-ol."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C6_0024",
+  "stem": "Khử hợp chất hữu cơ X bằng LiAlH4 thu được (CH3)2CHCH2CH2OH. Chất X có tên là",
+  "options": {
+   "A": "3-methylbutanal.",
+   "B": "2-methylbutan-3-al.",
+   "C": "2-methylbutanal.",
+   "D": "3-methylbutan-3-al."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C6_0025",
+  "stem": "(SGK – Cánh Diều) Khử CH3COCH3 bằng LiAlH4 thu được sản phẩm là",
+  "options": {
+   "A": "ethanal.",
+   "B": "acetone.",
+   "C": "propan–1–ol.",
+   "D": "propan–2–ol."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C6_0026",
+  "stem": "Trong các chất sau: (1) CH3CH2CHO, (2) CH3CH(OH)CH3, (3) (CH3)2CHCHO, (4) CH2=CHCH2OH, những chất nào phản ứng với H2 (Ni, to) hoặc NaBH4 sinh ra cùng một sản phẩm?",
+  "options": {
+   "A": "(1) và (4).",
+   "B": "(2) và (4).",
+   "C": "(1) và (2).",
+   "D": "(3) và (4)."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C6_0027",
+  "stem": "Hợp chất X có công thức phân tử C3H6O tác dụng được với dung dịch AgNO3/NH3. Công thức cấu tạo của X là",
+  "options": {
+   "A": "CH3COCH3.",
+   "B": "CH3COCH2CH3.",
+   "C": "CH2=CHCHO.",
+   "D": "CH3CH2CHO."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C6_0028",
+  "stem": "(Đề THPT QG - 2019) Cho 1 mL dung dịch AgNO3 1% vào ống nghiệm sạch, lắc nhẹ, sau đó nhỏ từ từ từng giọt dung dịch NH3 2 M cho đến khi kết tủa sinh ra bị hòa tan hết. Nhỏ tiếp 3 – 5 giọt dung dịch X dun nóng nhẹ hỗn hợp ở khoảng 60 – 70°C trong vài phút, trên thành ống nghiệm xuất hiện lớp bạc sáng. Chất X là",
+  "options": {
+   "A": "acetic acid.",
+   "B": "ethyl alcohol.",
+   "C": "aldehyde formic.",
+   "D": "glixerol."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C6_0029",
+  "stem": "Số đồng phân có cùng công thức phân tử C4H8O, có khả năng tham gia phản ứng tráng bạc là",
+  "options": {
+   "A": "2.",
+   "B": "3.",
+   "C": "4.",
+   "D": "1."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C6_0030",
+  "stem": "Ứng với công thức phân tử C4H8O, có x đồng phân cấu tạo thuộc loại hợp chất carbonyl, trong đó có y chất phản ứng với thuốc thử Tollens tạo ra kim loại Ag. Giá trị của x và y lần lượt là",
+  "options": {
+   "A": "4 và 1.",
+   "B": "2 và 2.",
+   "C": "3 và 2.",
+   "D": "1 và 1."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C6_0031",
+  "stem": "Chất nào sau đây có phản ứng tráng bạc?",
+  "options": {
+   "A": "CH2=CHCHO.",
+   "B": "HC≡CCH3.",
+   "C": "CH3OCH2CH3.",
+   "D": "CH2=CHCH2OH."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C6_0033",
+  "stem": "X là hợp chất no, mạch hở, chỉ chứa nhóm chức aldehyde và có công thức phân tử là C3H4O2. Cho 1 mol X phản ứng với thuốc thử Tollens thì thu được tối đa số mol Ag kim loại là",
+  "options": {
+   "A": "1.",
+   "B": "2.",
+   "C": "3.",
+   "D": "4."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C6_0034",
+  "stem": "(SBT – Cánh Diều) Khi cho ethanal phản ứng với Cu(OH)2 trong môi trường kiềm ở nhiệt độ thích hợp, hiện tượng nào sau đây sẽ xảy ra?",
+  "options": {
+   "A": "Cu(OH)2 bị tan ra, tạo dung dịch màu xanh.",
+   "B": "Có mùi chua của giấm, do phản ứng sinh ra acetic acid.",
+   "C": "Tạo kết tủa đỏ gạch do phản ứng sinh ra Cu2O.",
+   "D": "Sinh ra CuO màu đen."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C6_0035",
+  "stem": "Phản ứng CH3CH=O + HCN <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAmK78n0A8AAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:18px\" alt=\"\"> CH3CH(OH)CN thuộc loại phản ứng nào sau đây?",
+  "options": {
+   "A": "Phản ứng thế.",
+   "B": "Phản ứng cộng.",
+   "C": "Phản ứng tách.",
+   "D": "Phản ứng oxi hoá – khử."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C6_0036",
+  "stem": "(SBT – KNTT) Trong các hợp chất sau, hợp chất nào tham gia phản ứng iodoform?",
+  "options": {
+   "A": "HCHO.",
+   "B": "C2H5CHO.",
+   "C": "CH3COCH3.",
+   "D": "C2H5COC2H5."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C6_0037",
+  "stem": "Trong các hợp chất dưới đây, hợp chất nào phản ứng được với HCN cho sản phẩm là cyanohydrin?",
+  "options": {
+   "A": "CH3CH3.",
+   "B": "C4H9OH.",
+   "C": "C2H5OH.",
+   "D": "CH3CHO."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C6_0038",
+  "stem": "Phản ứng giữa CH3CH=O với NaBH4 và với Cu(OH)2 đun nóng chứng tỏ rằng CH3CH=O",
+  "options": {
+   "A": "có tính oxi hoá.",
+   "B": "có tính khử.",
+   "C": "vừa có tính oxi hoá, vừa có tính khử.",
+   "D": "có tính acid."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C6_0039",
+  "stem": "Cho dung dịch I2 trong KI vào một ống nghiệm, thêm tiếp vào ống nghiệm dung dịch NaOH và dung dịch chất X, lắc nhẹ thấy xuất hiện kết tủa màu vàng. X là chất nào sau đây?",
+  "options": {
+   "A": "C2H5COC2H5.",
+   "B": "CH3CH2CHO.",
+   "C": "CH2=CHCH2OH.",
+   "D": "CH3CHO."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C6_0040",
+  "stem": "Chất nào sau đây vừa phản ứng được với thuốc thử Tollens vừa phản ứng tạo iodoform?",
+  "options": {
+   "A": "Formaldehyde.",
+   "B": "Acetaldehyde.",
+   "C": "Benzaldehyde.",
+   "D": "Acetone."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C6_0041",
+  "stem": "(SBT – Cánh Diều) Phản ứng nào sau đây thể hiện tính oxi hoá của propanal?",
+  "options": {
+   "A": "C2H5CHO + 2[Ag(NH3)2]OH <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAmK78n0A8AAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:18px\" alt=\"\"> C2H5COONH4 + 3NH3 + 2Ag + H2O.",
+   "B": "C2H5CHO + Br2 + H2O <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAmK78n0A8AAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:18px\" alt=\"\"> C2H5COOH + 2HBr.",
+   "C": "C2H5CHO + 2Cu(OH)2 + NaOH <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAmK78n0A8AAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:18px\" alt=\"\"> C2H5COONa + Cu2O + 3H2O.",
+   "D": "C2H5CHO + 2[H] <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFYAAAAXCAAAAAC0OefiAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAmJsGWrLIAAAGtSURBVDjLtZXdK0NxGMe/h4mGKZN5u6HdSTKvJaEmtUhTmtyYf0FKalHIlSSbsQu15OWwO4UQZXEnL2W5YFbajZtlZDkmj4tj67A5bMc+N7/n93063359f+c8hyEkgqSEuP5ku6+VD3sAoM0KAChpAOAbY96cuoxJDpbC+i1xX4qOWcWvq+dERCf5zB0ReRD8bNQOkii/hdBdDgAOc+raf2Z7Wm0CgMMOHRuTrUy8rSkHgLMymcFwo+YlvxGAu0mSLY+jC23prInfZNkB1Ek7Lc/m9QKUIds/IZ7tFADgosbBstOuy4j27GRcttwZn0EPAJ0i4tLuF2MN4WDDb0TQq947Vxy5lzIrFWBz7EnJmC9a9w+NpI3echUG2HoDEQ/6sgEATPwz4YBxPwx8F7XLqt+zFeP1uDmK2qfnpJ3WaZJ732yN3+VW5Qpv++gUynlVocrjEuqlxeFyJ/hZ7D7rkZL7/sXW2zk4ATCEq3ah3DIXquzjQt1kDJeaR4GewXDvX3hSXOf+OMHiZlu2TUT/besvmCEikvCCRaX/xQr8cSbEQMACQNLnIEaCfpEfYq9q5AhiLusAAAAASUVORK5CYII=\" style=\"height:18px\" alt=\"\"> CH3CH2CH2OH."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C6_0042",
+  "stem": "(SBT – KNTT) Để phân biệt ba hợp chất HCHO, CH3CHO, CH3COCH3, một học sinh tiến hành thí nghiệm thu được kết quả như sau:",
+  "options": {
+   "A": "HCHO, CH3CHO, CH3COCH3.",
+   "B": "CH3CH=O, HCHO, CH3COCH3.",
+   "C": "HCHO, CH3COCH3, CH3CHO.",
+   "D": "CH3CH=O, CH3COCH3, HCHO."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C6_0043",
+  "stem": "(SBT – CTST) Cho các phản ứng sau:(a) CH3CH2OH + CuO <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAE0AAAAgCAAAAAByCKroAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAmKCYugbUAAAEqSURBVEjHY/zPQEXARE3DiDZtT2CW5x7Cyv4TBV7zP/1/k+8VIWVEum23lBSDmvheKvn0JR8DA4PgS8pNW1nDwMAg8ZGBgeG9BMWm/W9jYGBgcHn+hOHOS2eCVhMI1xuuDPzyxf//7/LP8d5NMLIIxuljhmriop2EOCUSjJpGI9OYGP5R0TQRtr0PLhNS9AbGIJiGOnglEgko+Sd/m8jUSxTI1fxIRdNei3j+oZ5p/xcx5FPRtP/BDJP////PwsDwPhczkrwjUbglLxDspVC6BkUFP0O+ZDADw///T5gxQRmqzeoIGdzJxPP/f0Zy69N///8hg6WV6icEGMg2DRU81WE+oUJM6iUK+LAeoF6crmeY+596pumWQmiqlEj/gjogDCrFAhRQt7QEANWTdyq5RaZ+AAAAAElFTkSuQmCC\" style=\"height:24px\" alt=\"\">(b) (CH3)2CHOH + CuO <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAE0AAAAgCAAAAAByCKroAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAmKCYugbUAAAEqSURBVEjHY/zPQEXARE3DiDZtT2CW5x7Cyv4TBV7zP/1/k+8VIWVEum23lBSDmvheKvn0JR8DA4PgS8pNW1nDwMAg8ZGBgeG9BMWm/W9jYGBgcHn+hOHOS2eCVhMI1xuuDPzyxf//7/LP8d5NMLIIxuljhmriop2EOCUSjJpGI9OYGP5R0TQRtr0PLhNS9AbGIJiGOnglEgko+Sd/m8jUSxTI1fxIRdNei3j+oZ5p/xcx5FPRtP/BDJP////PwsDwPhczkrwjUbglLxDspVC6BkUFP0O+ZDADw///T5gxQRmqzeoIGdzJxPP/f0Zy69N///8hg6WV6icEGMg2DRU81WE+oUJM6iUK+LAeoF6crmeY+596pumWQmiqlEj/gjogDCrFAhRQt7QEANWTdyq5RaZ+AAAAAElFTkSuQmCC\" style=\"height:24px\" alt=\"\">(c) C6H5CH(CH3)2 <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAF0AAAAZCAAAAAB2031lAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAmK78n0A8AAAJfSURBVEjHtVRbSJNhGH42g5JM+SlJa3UzSFoH1E5E2Gh6FxVC86IVVILBLrKQbixa1AKNQKG6yFznoIykooY3WSFGmWlu6dK8UHYoyG2Zh9qw/+lif/XvEPsV99x83/t+7/vw8Xzv96iIFEKdSnJl7IP7XuLSOACg1tZk+aicngoQsDzntwqSfFBNBrYo6SFJKrq7ACAr5ALQVggIo99nX3dNLwA1AYiq2WcX1QD0nUBAWKC0Z46Sovd9adpl7nIAOwcaM5022GG/qIhe6QN9ORwVlicp9zhIUjH7tZA8etSVpPxX6VeSqhn9Vat/YWUS8buqWuZCRXQe+fMGLwAgLo5PXLkhJTbURVazQ0qoBTECiq8b9ivXfbpoNorT0H2amNg1OWPdkyMQzgGQdiomfa/jmWN99wctgL6i9ELbHkM2ANT2DzblLgIA+E2tJe/W5WsB+E+P3MzLarZ7WwIromnSMxLOu4fMJ60Okix2011MMsa9ztwi80iSd8/RP+o1kDR8TqRPnBMsxdBawGSNzv7HvfRXy5yZb3UAVnYk0ifeCXihRrIs4L4QlCYtyr3apjAGAMhxPDFfjpypFbFP1R3N/Vts1HieInx9TKd/tVvmXkV7UQPcmde/bXPpD9eOegAuC2jZWpKM/aSzB7cxXADAF3RqnEHfkor2gQMR9/KWtQPjQ6Gwe7J3lSnU6j+xprtaqDy/fLhqMR7r4i+feFyPf5IF3kZR2vnqZemfDSPyljdnDx6LpUk87z2hjf8C36FNBdsj24n5siLj6mxzVNfDjFhlUvWbpGFIJTl+A+9PFPP0Jc+sAAAAAElFTkSuQmCC\" style=\"height:24px\" alt=\"\">d) CH≡CH + H2O <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGgAAAARCAAAAAAUWrZ0AAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAmKVEpsSMAAAH5SURBVDjLvZVPSJNxHMafmYEgSgsSHR0bSqAHoVPDIdOD0EVsu0S1MCQUrC6WFtPTxkQYHiJSV4mYf2JFUHiIgtphKIpsby7ZCP/R1sE5pyOU6Z4Or8N377vVJd/n8r6/7+fh+7zfLz94NYQ6KlAp52SCnJ8c/w6yGdbWDDYAQOzhZNc6nO7p3uVjHqxyw10VBIBZx0Qn5BwAVkyrynTK5G0lW70k49HJfsYSnh5y67LEYNrghokkeWeOK1RwG+n8aJe3ZZ7V/W57UX/W+NwilHprAW1iJ5fJ0tJ5CDmPeGbQ1dCtMBcqKuGXCGO98NZUujzwvv1ZAQGkNRLDa21cfKkPjDf65VxX3pTz05UT6a1WPSpTE7eLfKebH303zgNb2hKEbmYMZqsZwLjH7jvT0fArwxNXDv56QRQTCdFNRIVK/25xTexx9WKPNjRSKrjxY7sEePvVhUhcOC/EI7pr+5+/zJ6r0OtFnvReAO7XNQNlY9ezO8405bwMopZe0fdAWnC4DN+4MHVc2BvalPIxV90Hji7l6uUZIMk8Qcu9b+zh7FIHmZQcr/Y9yeZ3U1lcIss7khqiPXA0Y9sNAMDw6NH5kkt8yg2KwqExs6an1QCA+XtI+gEApnSaPxk6lW91/1Mpw5w40UlrUGcGoEJQ8CLUCRKl2m/iD4mXC9nB5G37AAAAAElFTkSuQmCC\" style=\"height:24px\" alt=\"\">Những phản ứng sản phẩm tạo thành aldehyde là",
+  "options": {
+   "A": "(a).",
+   "B": "(c).",
+   "C": "(a) và (d).",
+   "D": "(b) và (c)."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C6_0044",
+  "stem": "(SBT – KNTT) Nhiều vụ ngộ độc rượu do sử dụng rượu có có lẫn methanol. Khi hấp thụ vào cơ thể, bạn đầu methanol được chuyển hoá ở gan tạo thành chất nào sau đây?",
+  "options": {
+   "A": "C2H5OH,",
+   "B": "HCHO.",
+   "C": "CH3CH=O.",
+   "D": "CH3COCH3."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C6_0045",
+  "stem": "Oxi hoá alcohol nào sau đây bằng CuO tạo thành sản phẩm có phản ứng iodoform?",
+  "options": {
+   "A": "CH3OH.",
+   "B": "CH3CH2OH.",
+   "C": "CH3CH2CH2OH.",
+   "D": "(CH3)2CHCH2OH."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C6_0046",
+  "stem": "Trong công nghiệp, quy trình cumene dùng để điều chế phenol và chất nào sau đây?",
+  "options": {
+   "A": "Methanal.",
+   "B": "Ethanal.",
+   "C": "Propanal.",
+   "D": "Propan-2-one."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C6_0047",
+  "stem": "(SBT – KNTT) Nhận xét nào sau đây không đúng?",
+  "options": {
+   "A": "Aldehyde bị khử tạo thành alcohol bậc I.",
+   "B": "Ketone bị khử tạo thành alcohol bậc II.",
+   "C": "Aldehyde phản ứng với thuốc thử Tollens tạo lớp bạc sáng.",
+   "D": "Ketone phản ứng với Cu(OH)2 đun nóng tạo kết tủa màu đỏ gạch."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C6_0048",
+  "stem": "Phát biểu nào sau đây là không đúng?",
+  "options": {
+   "A": "Trong phân tử aldehyde, các nguyên tử liên kết với nhau bằng liên kết .",
+   "B": "Hợp chất R-CHO có thể điều chế được từ R-CH2-OH.",
+   "C": "Hợp chất hữu cơ có nhóm -CHO liên kết với H là aldehyde.",
+   "D": "Aldehyde vừa thể hiện tính khử, vừa thể hiện tính oxi hoá."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C6_0049",
+  "stem": "(SBT – CTST) Cho các phát biểu sau:(a) Aldehyde có nhóm carbonyl trong phân tử còn alcohol thì không.(b) Aldehyde phản ứng với nước bromine còn alcohol thì phản ứng dễ dàng với sodium.(c) Aldehyde có phản ứng với Cu(OH)2 trong môi trường base còn alcohol thì có phản ứng tráng bạc.(d) Aldehyde có phản ứng với hydrogen cyanide còn alcohol thì không.Những phát biểu đúng về sự khác biệt giữa aldehyde và alcohol là",
+  "options": {
+   "A": "(a) và (b)",
+   "B": "(a), (b) và (d).",
+   "C": "(a), (c) và (d).",
+   "D": "(b) và (c)."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C6_0050",
+  "stem": "(SBT – CTST) Cho các phát biểu sau(a) Formaldehyde dùng làm nguyên liệu sản xuất nhựa phenol formaldehyde.(b) Có thể điều chế aldehyde trực tiếp từ bất kì alcohol nào.(c) Formalin hay formon là dung dịch của methanal trong nước.(d) Acetaldehyde được dùng để sản xuất acetic acid trong công nghiệp.Số phát biểu đúng là",
+  "options": {
+   "A": "2.",
+   "B": "3.",
+   "C": "1.",
+   "D": "4."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C6_0051",
+  "stem": "(SBT – CTST) Công thức tổng quát của carboxylic acid no, đơn chức, mạch hở là",
+  "options": {
+   "A": "CnH2nO2 (n ≥ 1).",
+   "B": "CnH2n + 2O2 (n ≥ 1).",
+   "C": "CnH2n – 1COOH (n ≥ 1).",
+   "D": "CnH2nO2 (n ≥ 2)."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C6_0052",
+  "stem": "(SBT – CTST) Vị chua của giấm là do chứa",
+  "options": {
+   "A": "acetic acid.",
+   "B": "salicylic acid.",
+   "C": "oxalic acid.",
+   "D": "citric acid."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C6_0053",
+  "stem": "(SBT – CTST) Benzoic acid được sử dụng như một chất bảo quản thực phẩm (kí hiệu là E-210) cho xúc xích, nước sót cà chua, mù tạt, bơ thực vật,... vì có tác dụng ức chế sự phát triển của nấm mốc, nấm men và một số vi khuẩn. Công thức của benzoic acid là",
+  "options": {
+   "A": "CH3COOH.",
+   "B": "C6H5COOH.",
+   "C": "HOOC-COOH.",
+   "D": "HCOOH."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C6_0054",
+  "stem": "(SBT – KNTT) Sữa chua được lên men từ sữa bột, sữa bò, sữa dê,... Sữa chua tốt cho hệ tiêu hoá. Vị chua trong sữa chua tạo bởi acid nào sau đây?",
+  "options": {
+   "A": "Formic acid",
+   "B": "Acetic acid.",
+   "C": "Lactic acid.",
+   "D": "Benzoic acid."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C6_0055",
+  "stem": "(SBT – CTST) Malic acid là thành phần chính tạo nên vị chua của quả táo, acid này có công thức cấu tạo như sau: HOOCCH(OH)CH2COOH. Tên gọi khác của acid này là",
+  "options": {
+   "A": "2-hydroxybutane-1,4-dioic acid.",
+   "B": "3-hydroxybutano-1,4-dioic acid.",
+   "C": "2,8-dihydroxybutanoic acid.",
+   "D": "2-hydroxypropane-1,2,3-tricarboxylic acid."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C6_0056",
+  "stem": "(SBT – Cánh Diều) Công thức cấu tạo chứa nhóm carboxylic có cùng công thức C5H10O2 là",
+  "options": {
+   "A": "2.",
+   "B": "3.",
+   "C": "4.",
+   "D": "5."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C6_0057",
+  "stem": "(SBT – KNTT) Số đồng phân carboxylic acid có công thức phân tử C4H8O2 là",
+  "options": {
+   "A": "2.",
+   "B": "3.",
+   "C": "4.",
+   "D": "5."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C6_0058",
+  "stem": "Acid X no, có 2 nguyên tử H trong phân tử. Số công thức cấu tạo của X là",
+  "options": {
+   "A": "1.",
+   "B": "2.",
+   "C": "3.",
+   "D": "4."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C6_0059",
+  "stem": "(Đề TNTHPT QG – 2021) Công thức phân tử của acetic acid là",
+  "options": {
+   "A": "C2H6O.",
+   "B": "C2H4O2.",
+   "C": "C3H6O2.",
+   "D": "C3H6O."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C6_0060",
+  "stem": "Cho acid X có CTCT CH3CH(CH3)CH2CH2COOH. Tên của X là",
+  "options": {
+   "A": "2-methylpentanoic acid.",
+   "B": "2-methylbutanoic acid.",
+   "C": "isohexanoic acid.",
+   "D": "4-methylpentanoic acid."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C6_0061",
+  "stem": "(SBT – KNTT) (CH3)2C=CHCOOH có tên gọi theo danh pháp thay thế là",
+  "options": {
+   "A": "1,1-dimethylpropenoic acid.",
+   "B": "3,3-dimethylpropenoic acid.",
+   "C": "2-methylbut-2-enoic acid.",
+   "D": "3-methylbut-2-enoic acid."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C6_0062",
+  "stem": "Công thức nào dưới đây là của 2,4-dimethylpentanoic acid?",
+  "options": {
+   "A": "CH3CH(CH3)CH(CH3)CH2COOH.",
+   "B": "CH3CH(CH3)CH2CH(CH3)COOH.",
+   "C": "CH3C(CH3)2CH2CH(CH3)COOH.",
+   "D": "CH(CH3)2CH2CH2COOH."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C6_0063",
+  "stem": "(SBT – Cánh Diều) Chất có công thức CH3CH(CH3)CH2COOH có tên thay thế là",
+  "options": {
+   "A": "2-methylpropanoic acid.",
+   "B": "2-methylbutanoic acid.",
+   "C": "3-methylbutanoic acid.",
+   "D": "isopentanoic acid."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C6_0064",
+  "stem": "(SBT – KNTT) (CH3)2CHCH2COOH có tên gọi theo danh pháp thay thế là",
+  "options": {
+   "A": "dimethylpropanoic acid",
+   "B": "2-methylbutanoic acid.",
+   "C": "3-methylbutanoic acid.",
+   "D": "pentanoie acid."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C6_0065",
+  "stem": "Hợp chất 2-methylbutanoic acid có công thức cấu tạo là",
+  "options": {
+   "A": "CH3CH2COOCH3.",
+   "B": "CH3CH(CH3)CH2COOH.",
+   "C": "CH3CH2CH(CH3)COOH.",
+   "D": "(CH3)2CHCOOH."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C6_0066",
+  "stem": "Trong các hợp chất cho dưới đây, hợp chất nào có nhiệt độ sôi cao nhất?",
+  "options": {
+   "A": "C2H5COOH.",
+   "B": "C2H5CHO.",
+   "C": "C2H5CH2OH.",
+   "D": "CH3CH2CH3."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C6_0067",
+  "stem": "(SBT – Cánh Diều) Trong các chất dưới đây, chất nào có nhiệt độ sôi cao nhất?",
+  "options": {
+   "A": "Propanol.",
+   "B": "Propionic aldehyde.",
+   "C": "Acetone.",
+   "D": "Propionic acid."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C6_0068",
+  "stem": "(SBT – CTST) Cho các chất sau: (1) C3H8, (2) C2H5OH, (3) CH3CHO, (4) CH3COOH. Thứ tự các chất theo chiều tăng dần nhiệt độ sôi từ trái sang phải là",
+  "options": {
+   "A": "(1), (2), (3), (4).",
+   "B": "(4), (3), (2), (1).",
+   "C": "(1), (2), (4), (3).",
+   "D": "(1), (3), (2), (4)."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C6_0069",
+  "stem": "(Đề TSĐH B - 2007) Cho các chất: propionic acid (X), acetic acid (Y), ethyl alcohol (Z) và dimethyl ether (T). Dãy gồm các chất được sắp xếp theo chiều tăng dần nhiệt độ sôi là",
+  "options": {
+   "A": "T, Z, Y, X.",
+   "B": "Z, T, Y, X.",
+   "C": "T, X, Y, Z.",
+   "D": "Y, T, X, Z."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C6_0070",
+  "stem": "(SBT – KNTT) Có bốn chất lỏng có thể tích bằng nhau là ethanol, acetone, acetaldehyde, acetic acid. Tiến hành chưng cất hỗn hợp này, sau một thời gian, hàm lượng chất nào trong bình chưng cất còn lại lớn nhất?",
+  "options": {
+   "A": "Ethanol.",
+   "B": "Acetone.",
+   "C": "Acetaldehyde.",
+   "D": "Acetic acid."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C6_0071",
+  "stem": "(SBT – KNTT) Cho các chất sau: H2O (1), C2H5OH (2), C6H5OH (3), CH3COOH (4). Độ linh động của nguyên tử hydrogen trong nhóm –OH tăng dần theo thứ tự là",
+  "options": {
+   "A": "(1) &lt; (2) &lt; (3) &lt; (4).",
+   "B": "(1) &lt; (2) &lt; (4) &lt; (3).",
+   "C": "(2) &lt; (1) &lt; (3) &lt; (4).",
+   "D": "(2) &lt; (1) &lt; (4) &lt; (3)."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C6_0072",
+  "stem": "(SBT – KNTT) Khi hoà tan vào nước, acetic acid",
+  "options": {
+   "A": "phân li hoàn toàn.",
+   "B": "phân li một phần.",
+   "C": "không phân li.",
+   "D": "không tan trong nước."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C6_0073",
+  "stem": "(SBT – KNTT) Nhận định nào sau đây không đúng khi nói về tính chất hoá học của acetic acid?",
+  "options": {
+   "A": "Acetic acid là acid yếu, làm đổi màu quỳ tím.",
+   "B": "Acetic acid có đầy đủ các tính chất của một acid thông thường.",
+   "C": "Acetic acid phản ứng được với ethanol tạo ester.",
+   "D": "Acetic acid là acid yếu nên không phản ứng được với đá vôi."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C6_0074",
+  "stem": "Dung dịch acrylic acid (CH2=CH-COOH) không phản ứng được với chất nào sau đây?",
+  "options": {
+   "A": "Na2CO3.",
+   "B": "NaOH.",
+   "C": "Mg(NO3)2.",
+   "D": "Br2."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C6_0075",
+  "stem": "(Đề THPT QG - 2015) Chất nào sau đây không phản ứng được với dung dịch acetic acid?",
+  "options": {
+   "A": "Cu.",
+   "B": "Zn.",
+   "C": "NaOH.",
+   "D": "CaCO3."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C6_0076",
+  "stem": "(Đề THPT QG - 2016) Chất X (có M = 60 và chứa C, H, O). Chất X phản ứng được với Na, NaOH và NaHCO3. Tên gọi của X là",
+  "options": {
+   "A": "formic acid.",
+   "B": "propyl alcohol.",
+   "C": "acetic acid.",
+   "D": "methyl formate."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C6_0077",
+  "stem": "(SBT – KNTT) Dung dịch acetic acid phản ứng được với tất cả các chất trong dãy nào sau đây?",
+  "options": {
+   "A": "Cu, NaOH, NaCl.",
+   "B": "Zn, CuO, NaCl.",
+   "C": "Zn, CuO, HCl.",
+   "D": "Zn, NaOH, CaCO3."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C6_0078",
+  "stem": "Chất nào sau đây vừa có khả năng tham gia phản ứng tráng bạc, vừa có khả năng tác dụng với CaCO3 tạo ra khí CO2?",
+  "options": {
+   "A": "Acetic acid.",
+   "B": "Ethanol.",
+   "C": "Benzaldehyde.",
+   "D": "Formic acid."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C6_0079",
+  "stem": "Để làm tan bớt lớp cặn trong các dụng cụ đun và chứa nước, người dùng dung dịch",
+  "options": {
+   "A": "muối ăn.",
+   "B": "đường.",
+   "C": "rượu.",
+   "D": "giấm ăn."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C6_0080",
+  "stem": "Để làm bớt vị chua của một số loại quả chua như sấu, quất,… khi làm ô mai, người ta ngâm những loại quả này vào nước vôi trong (dung dịch Ca(OH)2). Quá trình ngâm như trên xảy ra loại phản ứng nào sau đây?",
+  "options": {
+   "A": "Phản ứng trung hoà.",
+   "B": "Phản ứng cộng.",
+   "C": "Phản ứng ester hoá.",
+   "D": "Phản ứng thế."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C6_0081",
+  "stem": "(SBT – CTST) Hợp chất hữu cơ (X) có công thức phân tử là C3H4O2. (X) tác dụng được với dung dịch sodium hydroxide và dung dịch bromine. Tên gọi của (X) là",
+  "options": {
+   "A": "methyl acetate.",
+   "B": "acrylic acid.",
+   "C": "propane-1,3-diol.",
+   "D": "acetone."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C6_0082",
+  "stem": "(SBT – Cánh Diều) Formic acid (HCOOH) có trong nọc kiến, nọc ong, sâu róm. Nếu không may bị ong đốt thì nên bôi vào vết ong đốt loại chất nào sau đây là tốt nhất?",
+  "options": {
+   "A": "Kem đánh răng.",
+   "B": "Xà phòng",
+   "C": "Vôi.",
+   "D": "Giấm."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C6_0083",
+  "stem": "Để loại bỏ lớp cặn màu trắng trong ấm đun nước, người ta có thể dùng dung dịch nào sau đây?",
+  "options": {
+   "A": "Giấm ăn.",
+   "B": "Nước.",
+   "C": "Muối ăn.",
+   "D": "Cồn 70°."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C6_0084",
+  "stem": "(SBT – Cánh Diều) Một số carboxylic acid như oxalic acid, tartaric acid,... gây ra vị chua cho quả sấu xanh. Trong quá trình làm sầu ngâm đường, người ta sử dụng dung dịch nào sau đây đề làm giảm vị chua của quả sấu?",
+  "options": {
+   "A": "Nước vôi trong.",
+   "B": "Giấm ăn.",
+   "C": "Phèn chua.",
+   "D": "Muối ăn."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C6_0085",
+  "stem": "(SBT – CTST) Rót 1 – 2 mL dung dịch chất (X) đậm đặc vào ống nghiệm đựng 1 – 2 mL dung dịch NaHCO3. Đưa que diêm đang cháy vào miệng ống nghiệm thì que diêm tắt. Chất (X) có thể là chất nào sau đây?",
+  "options": {
+   "A": "Ethanol.",
+   "B": "Acetaldehyde.",
+   "C": "Acetic acid.",
+   "D": "Phenol."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C6_0086",
+  "stem": "(SBT – Cánh Diều) Đặc điểm nào sau đây là của phản ứng ester hoá?",
+  "options": {
+   "A": "Phản ứng thuận nghịch, cần đun nóng và không cần xúc tác.",
+   "B": "Phản ứng thuận nghịch, cần đun nóng và cần xúc tác.",
+   "C": "Phản ứng hoàn toàn, cần đun nóng, cần xúc tác.",
+   "D": "Phản ứng hoàn toàn, cần đun nóng và không cần xúc tác."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C6_0087",
+  "stem": "Yếu tố nào sau đây không làm tăng hiệu suất phản ứng ester hoá giữa acetic acid và ethanol?",
+  "options": {
+   "A": "Dùng dung dịch H2SO4 đặc làm xúc tác.",
+   "B": "Chưng cất ester tạo ra.",
+   "C": "Tăng nồng độ acetic acid hoặc alcohol.",
+   "D": "Lấy số mol alcohol và acid bằng nhau."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C6_0088",
+  "stem": "Sản phẩm phản ứng ester hoá giữa (CH3)2CHCOOH và C2H5OH gồm nước và ester có công thức là",
+  "options": {
+   "A": "(CH3)2CHCOOC2H5.",
+   "B": "C2H5COOC2H5.",
+   "C": "(CH3)2CHOCOC2H5.",
+   "D": "(CH3)2CHCH2CH3."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C6_0089",
+  "stem": "Hai chất X và Y có cùng công thức phân tử C3H4O2. Cho X tác dụng với CaCO3 thấy có bọt khí thoát ra, còn Y có thể tham gia phản ứng tráng bạc. Công thức của X và Y lần lượt là",
+  "options": {
+   "A": "CH2=CHCOOH, OHC-CH2-CHO.",
+   "B": "CH2=CH-COOH, CH≡C-O-CH2OH.",
+   "C": "HCOO-CH=CH2, OHC-CH2-CHO.",
+   "D": "HCOO-CH=CH2, CH≡C-O-CH2OH."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C6_0090",
+  "stem": "(SBT – Cánh Diều) Cặp dung dịch nào sau đây đều có thể hoà tan Cu(OH)2 ở nhiệt độ thường?",
+  "options": {
+   "A": "HCHO và CH3COOH.",
+   "B": "C3H5(OH)3 và HCHO.",
+   "C": "C3H5(OH)3 và CH3COOH",
+   "D": "C2H4(OH)2 và CH3COCH3."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C6_0091",
+  "stem": "(SBT – Cánh Diều) Có ba ống nghiệm chứa các dung dịch trong suốt: ống (1) chứa ethyl alcohol, ống (2) chứa acetic acid và ống (3) chứa acetaldehyde. Nếu cho Cu(OH)2/OH– lần lượt vào các dung dịch trên và đun nóng thì",
+  "options": {
+   "A": "cả ba ống đều có phản ứng.",
+   "B": "ống (1) và ống (3) có phản ứng, còn ống (2) thì không.",
+   "C": "ống (2) và ống (3) có phản ứng, còn ống (1) thì không.",
+   "D": "ống (1) có phản ứng, còn ống (2) và ống (3) thì không."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C6_0092",
+  "stem": "Thứ tự các thuốc thử để phân biệt 3 dung dịch riêng biệt: acetic acid, acrylic acid, formic acid là",
+  "options": {
+   "A": "quỳ tím, dung dịch Br2 trong CCl4.",
+   "B": "dung dịch Br2, dung dịch Na2CO3.",
+   "C": "dung dịch Na2CO3, quỳ tím.",
+   "D": "dung dịch AgNO3 trong NH3 dư, dung dịch Br2."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C6_0093",
+  "stem": "(SBT – CTST) Có 3 dung dịch: CH3CHO, CH3COOH, HCOOH đựng trong 3 lọ mất nhãn. Hoá chất có thể dùng để phân biệt ba dung dịch trên là",
+  "options": {
+   "A": "quỳ tím, CuO.",
+   "B": "quỳ tím, Na.",
+   "C": "quỳ tím, dung dịch AgNO3 trong NH3 dư.",
+   "D": "dung dịch AgNO3 trong NH3 dư, CuO."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C6_0094",
+  "stem": "(Đề TSCĐ - 2010) Hai chất X và Y có cùng công thức phân tử C2H4O2. Chất X phản ứng được với kim loại Na và tham gia phản ứng tráng bạc. Chất Y phản ứng được với kim loại Na và hoà tan được CaCO3. Công thức của X, Y lần lượt là",
+  "options": {
+   "A": "CH3COOH, HOCH2CHO.",
+   "B": "HCOOCH3, HOCH2CHO.",
+   "C": "HCOOCH3, CH3COOH.",
+   "D": "HOCH2CHO, CH3COOH."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C6_0095",
+  "stem": "Acetic acid được điều chế bằng phương pháp lên men giấm từ dung dịch chất nào sau đây?",
+  "options": {
+   "A": "C2H5OH.",
+   "B": "CH3OH.",
+   "C": "CH3CH=O.",
+   "D": "HCOOH."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C6_0096",
+  "stem": "Chất X và Y đều có công thức phân tử C2H4O2 và đều dễ tan trong nước. Cho vài viên đá vôi vào dung dịch X, thấy sủi bọt khí. Cho chất Y vào ống nghiệm có sẵn thuốc thử Tollens rồi đun nhẹ thì có một lớp kim loại bạc sáng bóng bám vào thành ống nghiệm. Công thức cấu tạo của X và Y lần lượt là",
+  "options": {
+   "A": "CH3COOH và HOCH2CHO.",
+   "B": "HCOOCH3 và CH3COOH.",
+   "C": "CH3COOH và HCOOCH3.",
+   "D": "HOCH2CHO và HCOOCH3."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C6_0097",
+  "stem": "(Đề TSCĐ - 2009) Hai hợp chất hữu cơ X, Y có cùng công thức phân tử C3H6O2. Cả X và Y đều tác dụng với Na; X tác dụng được với NaHCO3 còn Y có khả năng tham gia phản ứng tráng bạc. Công thức cấu tạo của X và Y lần lượt là",
+  "options": {
+   "A": "HCOOC2H5 và HOCH2COCH3.",
+   "B": "C2H5COOH và HCOOC2H5.",
+   "C": "HCOOC2H5 và HOCH2CH2CHO.",
+   "D": "C2H5COOH và CH3CH(OH)CHO."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C6_0098",
+  "stem": "Phản ứng nào sau đây không dùng để điều chế acetic acid?",
+  "options": {
+   "A": "Lên men giấm ethyl alcohol.",
+   "B": "Oxi hoá không hoàn toàn butane.",
+   "C": "Carbonyl hoá methanol.",
+   "D": "Lên men rượu glucose."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C6_0099",
+  "stem": "(SBT – CTST) Phương pháp nào sau đây được dùng để sản xuất giấm ăn?",
+  "options": {
+   "A": "2CH3CHO + O2 <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFMAAAAaCAAAAADujj94AAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAmKCYugbUAAAFxSURBVEjHY/zPQHXARH0jGVjI0bRln8zVqRw4pRnJ8bv8TY5KhXSq+v3rDw4G2Tu45Ykwc/s/JM71ewwM3JzfGR6r4NZA2O/fFZ8gBbp/rgsDw5Y9clencOLW8h8XOKindOa89sRvmQxJi+GCs1k8a/4TArjN/H+F4/Dm6f//n2b4jSTIvZugkf/xhKd2TcKODDKiEG8cFb1kI8dIvGa2Tp52ispmbpdNyE/6xcDG8I6BgWGC5EMGBgYGBrZ3RBiKM6RX6Bz5v4Qp5vFPc62W//+Pi+7///////+5ksnfcGqp+EMo3lHA94BvhBWlFpNkZvMjIhQ9F5hHipnEgflsB/7//8/4n+HcLdQQDkPEGx4phnO3GC6+QZP7n/36iBYDw///Rdyo4AfCXjxS/4u4ubHFecb//2SVnzjAv38fDCUOcZJXzuMATEwV/zdx4kufZICD3OeoHu+26/7//0/d8GQ4ZMfAwEBmHUcoXKlvJAMA7JDNzMLraVIAAAAASUVORK5CYII=\" style=\"height:24px\" alt=\"\"> 2CH3COOH.",
+   "B": "CH3COOCH3 + H2O <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFUAAAAXCAAAAABfDlzhAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAmKsgg4JkAAAHvSURBVDjLtZVfSFNhGMZ/R11U4FBsESUWXRhTb7IsUCaB6IjqQkZ6IYpIN0I3RogWVFiZsLAQcYoIgiLVTdGNWV30B5aipwtXGEQ3mblmGAxhjuHeLmbbgf07ru25Oe/7fN/3u3jO+52jCBlQViagcamT5tIp1u4oLa5tY6C+rc4KOG1tlxs6N5JgJY5sjSLiY3q7fVYVFGkWeZvvEpGuyoAkkt4E5vcp0A3dTWXATdfjtORa9vz6b8xszFYC7D4xk3B3TtyVuVbYCneNb3rtNnvhatAEwP7lFKmnx2Fz8l+nDHeMjjg/KYQmMck86p+sY/fVtdcHsz0AeIr+k7re3N/0gzGguMS/t9oJsKmeBRbrU6carl05M8LSB3CvWOh78hnoOX4RpD+w01wH1SxHu7sPR0GFGW8BVVePGr9PHOLUi568Pb8OT2fDRMNQ1LE/+aGnJNfW+fUYrufh13NR5tRdERHRQ+2dj+Xe9sWgBkqe6qTaF2O5vgqrxTQQZb/PVUVEEbzvtMkcOBkuZwIA6mAepZcwWCN7FtwArI7eAPdKtVF7/pbqPIIiLF3QurWOcFnu1fjGj5G6/VWk/gbFQY38/q57KGn+agctu14aEtzY1PTAM2fQN1k70M/CLxJ6W+nUI1MNkPZcQ8rM3/AvwK0NjNlkT0oAAAAASUVORK5CYII=\" style=\"height:18px\" alt=\"\"> CH3COOH + CH3OH.",
+   "C": "C2H2 + H2O <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAmJ7aRnCQAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:18px\" alt=\"\"> CH3CHO <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFUAAAAXCAAAAABfDlzhAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAmJ7aRnCQAAAHDSURBVDjLtZVLKIRRFMf/nzwmWRCGpoxIiA0bCZGFmjwiYaNMySPJK5RMmVLMjmws5LXxKhvKs9lIMimP8ijkOVMiExJp8B2LGTPfh7n4mvlt7j3/c++/27nndjmCG/Bwhyk8nei5j1nFMXjp2lNYbuszge2ZufjRv9vSz+SMEBGvKn8nOlfMEhHp1F/XLJMzmBXQL+s8gPDa5h+z5lZpddVHyQEg9fhUJA/4VFsq1ectZxWb/6wrAMAUDACQwxgplKuMK+805Fm6OijprJy17b41n+ZK1cY8DtNVeQMAuIFSrMvq9gJY+9iuqtNrAFiLiRDr94cZbdJd0/PbCbjs77HFS8H7AIBObe+EAV73JMkVUxElDTVNY9m2MNb/EMBzx5k3F1e5nhiUNvN1g2bBOrJegQidmviyW2JzEXrAfAV3vDh+ewCGWwLBRtmUZ4a9eb4xfiQrjBbEO/OWhAL8Dp8OvQwcYbFIpG/ZzTR9Qj3kRFA+e+YJAPwEy17eGnvBEcy7Itck38/ZiVGoe6c45o7Mq4nnvZJ5B82mjTCntyWVaZmBiFzs+qCYJCLiXPvDdL9qwegBiRxZr9rFrjbc8xt+AOJzwN57ed02AAAAAElFTkSuQmCC\" style=\"height:18px\" alt=\"\"> CH3OOH.",
+   "D": "C2H5OH + O2 <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFUAAAAUCAAAAADZmi5PAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAmKsgg4JkAAAG/SURBVDjLY/zPQAPARAtDcZq6zisp5lsRV4ax+D6G1JAMC77LFqr7GWboVnKHmwhVVFkJrmC46pXueReH9v9YwXPuR/99+68z//tf6vt/xf9fal3/t3B/+b9l5n/pnf+3s33932Hx32Dp/15/7NpxuPWApCyD4QkGBkYGrXcM4QwT/+czeAisZ1gfxsDAxmDwi4lB+/2LC/YMhiewa2fBLvzycwHDc3E4r3kZGwNz/OIgRgEkJQztLF9VSDKVX2QCAwPDDSivytqb4a5yUtf0YGQlDA0iJMaW/e3jCM6Zpf0Mf9cxKFtPdUVSIq80n9Q0oLgo3SnlzLp/y17vfHy6THxypgMLA0NSKDPD9k9rXs1jmPFqw9s9azdaRa1C0/cebxrACnquEVSyrPX//////xNt6uO7b5IJq/qttZ4kU69qOT8mQtlh3rP///9nYWD4dAg5ZCRMYKz7V5HFtRG8nb+RxN/qoAQsp73PMQUGFgaGpwXIwq5wUw+2IIvXKMKZlZ+QxO9q/UMBP3/ObGdgpHKZ9c+WbRcrrlxANuh/dZKVtJRFBHgmc+P/////qRwCK0SdGRgYqB6uEECbugAAvrYC1mcSoKwAAAAASUVORK5CYII=\" style=\"height:18px\" alt=\"\"> CH3COOH + H2O."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C6_0100",
+  "stem": "(SBT – Cánh Diều) Cho các phản ứng sau ở điều kiện thích hợp:(1) Lên men giấm ethyl alcohol.(2) Oxi hoá không hoàn toàn acetaldehyde.(3) Oxi hoá không hoàn toàn butane.(4) Cho methanol tác dụng với carbon monoxide.Trong những phản ứng trên, có bao nhiêu phản ứng tạo ra acetic acid?",
+  "options": {
+   "A": "1.",
+   "B": "2.",
+   "C": "3",
+   "D": "4."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C6_0102",
+  "stem": "(Đề TSCĐ - 2013) Cho 4,4 gam aldehyde đơn chức X phản ứng hoàn toàn với lượng dư dung dịch AgNO3 trong NH3, đun nóng, thu được 21,6 gam Ag. Công thức của X là",
+  "options": {
+   "A": "C2H3CHO.",
+   "B": "HCHO.",
+   "C": "CH3CHO.",
+   "D": "C2H5CHO."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C6_0103",
+  "stem": "Cho hỗn hợp gồm 0,1 mol HCHO và 0,1 mol HCOOH tác dụng với lượng dư AgNO3 trong dung dịch NH3, đun nóng. Sau khi các phản ứng xảy ra hoàn toàn, khối lượng Ag tạo thành là",
+  "options": {
+   "A": "43,2 gam.",
+   "B": "10,8 gam.",
+   "C": "64,8 gam.",
+   "D": "21,6 gam."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C6_0104",
+  "stem": "Cho hỗn hợp gồm 0,05 mol HCHO và 0,02 mol HCOOH vào lượng dư dung dịch AgNO3 trong NH3, đun nóng. Sau khi các phản ứng xảy ra hoàn toàn, thu được m gam Ag. Giá trị của m là",
+  "options": {
+   "A": "15,12.",
+   "B": "21,60.",
+   "C": "25,92.",
+   "D": "30,24."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C6_0105",
+  "stem": "(Đề TSCĐ - 2009) Cho 0,1 mol hỗn hợp X gồm hai aldehyde no, đơn chức, mạch hở, kế tiếp nhau trong dãy đồng đẳng tác dụng với lượng dư dung dịch AgNO3 trong NH3, đun nóng thu được 32,4 gam Ag. Hai aldehyde trong X là",
+  "options": {
+   "A": "CH3CHO và C2H5CHO.",
+   "B": "HCHO và C2H5CHO.",
+   "C": "HCHO và CH3CHO.",
+   "D": "C2H3CHO và C3H5CHO."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C6_0106",
+  "stem": "(Đề TSCĐ - 2007) Cho 2,9 gam một aldehyde phản ứng hoàn toàn với lượng dư AgNO3 trong dung dịch NH3 thu được 21,6 gam Ag. Công thức cấu tạo thu gọn của aldehyde là",
+  "options": {
+   "A": "HCHO.",
+   "B": "CH2=CH-CHO.",
+   "C": "OHC-CHO.",
+   "D": "CH3CHO."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C6_0107",
+  "stem": "(Đề TSĐH A - 2013) Cho 13,6 gam một chất hữu cơ X (có thành phần nguyên tố C, H, O) tác dụng vừa đủ với dung dịch chứa 0,6 mol AgNO3 trong NH3, đun nóng, thu được 43,2 gamAg. Công thức cấu tạo của X là",
+  "options": {
+   "A": "CH2=C=CH–CHO.",
+   "B": "CH3–C≡C–CHO.",
+   "C": "CH≡C–CH2–CHO.",
+   "D": "CH≡C–[CH2]2–CHO."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C6_0108",
+  "stem": "(Đề TSĐH A - 2013) Khối lượng Ag thu được khi cho 0,1 mol CH3CHO phản ứng hoàn toàn với lượng dư dung dịch AgNO3 trong NH3, đun nóng là",
+  "options": {
+   "A": "21,6 gam.",
+   "B": "43,2 gam.",
+   "C": "16,2 gam.",
+   "D": "10,8 gam."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C6_0109",
+  "stem": "Cho 0,1 mol aldehyde X tác dụng với dung dịch dư AgNO3/NH3 thu được 0,4 mol Ag. Mặt khác cho 0,1 mol X tác dụng hoàn toàn với H2 thì cần 2,479 lít H2 (đkc). Công thức cấu tạo phù hợp với X là",
+  "options": {
+   "A": "HCHO.",
+   "B": "CH3CHO.",
+   "C": "(CHO)2.",
+   "D": "CH2(CHO)2."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C6_0110",
+  "stem": "Cho 0,1 mol aldehyde X tác dụng với lượng dư AgNO3 trong dung dịch NH3, đun nóng thu được 43,2 gam Ag. Hydrogen hoá X thu được Y, biết 0,1 mol Y phản ứng vừa đủ với 4,6 gam Na. Công thức cấu tạo thu gọn của X là",
+  "options": {
+   "A": "HCHO.",
+   "B": "OHC–CHO.",
+   "C": "CH3–CHO.",
+   "D": "CH3CH(OH)CHO."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C6_0111",
+  "stem": "Cho 10,4 gam hỗn hợp X gồm methanal và ethanal tác dụng với một lượng dư dung dịch AgNO3/NH3 thu được 108 gam Ag. Khối lượng methanal trong hỗn hợp là",
+  "options": {
+   "A": "4,4 gam.",
+   "B": "3,0 gam.",
+   "C": "6,0 gam.",
+   "D": "8,8 gam."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C6_0112",
+  "stem": "(Đề TSĐH A - 2010) Cho m gam hỗn hợp ethanal và propanal phản ứng hoàn toàn với lượng dư dung dịch AgNO3 trong NH3, thu được 43,2 gam kết tủa và dung dịch chứa 17,5 gam muối ammonium của hai acid hữu cơ. Giá trị của m là",
+  "options": {
+   "A": "9,5.",
+   "B": "10,9.",
+   "C": "14,3.",
+   "D": "10,2."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C6_0113",
+  "stem": "(Đề TSĐH B - 2011) Hỗn hợp X gồm hai aldehyde đơn chức Y và Z (biết phân tử khối của Y nhỏ hơn của Z). Cho 1,89 gam X tác dụng với một lượng dư dung dịch AgNO3 trong NH3, sau khi các phản ứng kết thúc, thu được 18,36 gam Ag và dung dịch E. Cho toàn bộ E tác dụng với dung dịch HCl (dư), thu được 0,035 mol khí CO2. Tên của Z là",
+  "options": {
+   "A": "acrylic aldehyde.",
+   "B": "butyric aldehyde.",
+   "C": "propionic aldehyde.",
+   "D": "acetic aldehyde."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C6_0117",
+  "stem": "(Đề TSĐH B - 2007) Để trung hoà 6,72 gam một carboxylic acid Y (no, đơn chức), cần dùng 200 gam dung dịch NaOH 2,24%. Công thức của Y là",
+  "options": {
+   "A": "CH3COOH.",
+   "B": "C2H5COOH.",
+   "C": "C3H7COOH.",
+   "D": "HCOOH."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C6_0118",
+  "stem": "(Đề TSĐH A - 2014) Trung hòa 10,4 gam carboxylic acid X bằng dung dịch NaOH, thu được 14,8 gam muối. Công thức của X là",
+  "options": {
+   "A": "C3H7COOH.",
+   "B": "HOOC-CH2-COOH.",
+   "C": "HOOC-COOH.",
+   "D": "C2H5COOH."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C6_0119",
+  "stem": "(Đề TSCĐ - 2013) Hỗn hợp X gồm hai carboxylic acid đơn chức, đồng đẳng kế tiếp. Cho 5,4 gam X phản ứng hoàn toàn với dung dịch NaHCO3 dư, thu được 2,479 lít khí CO2 (đkc). Công thức của hai acid trong X là",
+  "options": {
+   "A": "C3H7COOH và C4H9COOH.",
+   "B": "CH3COOH và C2H5COOH.",
+   "C": "C2H5COOH và C3H7COOH.",
+   "D": "HCOOH và CH3COOH."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C6_0120",
+  "stem": "(Đề TSĐH A - 2010) Hỗn hợp gồm 0,1 mol một carboxylic acid đơn chức và 0,1 mol muối của acid đó với kim loại kiềm có tổng khối lượng là 15,8 gam. Tên của acid trên là",
+  "options": {
+   "A": "propanoic acid.",
+   "B": "ethanoic acid.",
+   "C": "metanoic acid.",
+   "D": "butanoic acid."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C6_0121",
+  "stem": "(Đề TSCĐ - 2010) Carboxylic acid X có công thức đơn giản nhất là C3H5O2. Khi cho 100 mL dung dịch acid X nồng độ 0,1 M phản ứng hết với dung dịch NaHCO3 (dư), thu được V mL khí CO2 (đkc). Giá trị của V là",
+  "options": {
+   "A": "123,95.",
+   "B": "247,9.",
+   "C": "495,8.",
+   "D": "371,85."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C6_0123",
+  "stem": "(Đề TSCĐ - 2010) Cho 16,4 gam hỗn hợp X gồm 2 carboxylic acid là đồng đẳng kế tiếp nhau phản ứng hoàn toàn với 200 mL dung dịch NaOH 1 M và KOH 1 M thu được dung dịch Y. Cô cạn dung dịch Y, thu được 31,1 gam hỗn hợp chất rắn khan. Công thức của 2 acid trong X là",
+  "options": {
+   "A": "C2H4O2 và C3H4O2.",
+   "B": "C2H4O2 và C3H6O2.",
+   "C": "C3H4O2 và C4H6O2.",
+   "D": "C3H6O2 và C4H8O2."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C6_0124",
+  "stem": "(Đề TSCĐ - 2009) Trung hoà 8,2 gam hỗn hợp gồm formic acid và một acid đơn chức X cần 100 mL dung dịch NaOH 1,5 M. Nếu cho 8,2 gam hỗn hợp trên tác dụng với một lượng dư dung dịch AgNO3 trong NH3, đun nóng thì thu được 21,6 gam Ag. Tên gọi của X là",
+  "options": {
+   "A": "propanoic acid.",
+   "B": "metacrylic acid.",
+   "C": "ethanoic acid.",
+   "D": "acrylic acid."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C6_0125",
+  "stem": "Cho 10,32 gam carboxylic acid đơn chức X tác dụng với 100 mL dung dịch KOH 1 M. Cô cạn dung dịch sau phản ứng thu được 11 gam chất rắn khan. Công thức của X là",
+  "options": {
+   "A": "C3H5COOH.",
+   "B": "CH3COOH.",
+   "C": "HCOOH.",
+   "D": "C2H3COOH."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C6_0126",
+  "stem": "Nhỏ từ từ dung dịch Na2CO3 dư vào dung dịch chứa 20,1 gam X gồm hai acid no, đơn chức là đồng đẳng liên tiếp nhau được 3,7185 lít khí CO2 (đkc). CTPT của 2 acid đó là",
+  "options": {
+   "A": "CH3COOH; C2H5COOH.",
+   "B": "CH3COOH; HCOOH.",
+   "C": "C2H5COOH; C3H7COOH.",
+   "D": "C3H7COOH; C4H9COOH."
+  },
+  "answer": "A"
+ }
+]

@@ -1,0 +1,1839 @@
+[
+ {
+  "id": "L12_C2_0001",
+  "stem": "Carbohydrate là những hợp chất hữu cơ tạp chức và có công thức chung là",
+  "options": {
+   "A": "Cn(H2O)m.",
+   "B": "C.nH2O.",
+   "C": "CxHyOz.",
+   "D": "R(OH)x(CHO)y."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C2_0002",
+  "stem": "(Đề TSĐH A - 2009) Carbohydrate nhất thiết phải chứa nhóm chức của",
+  "options": {
+   "A": "ketone.",
+   "B": "aldehyde.",
+   "C": "amine.",
+   "D": "alcohol."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C2_0003",
+  "stem": "Chất nào sau đây không phải là carbohydrate?",
+  "options": {
+   "A": "Triolein.",
+   "B": "Saccharose.",
+   "C": "Tinh bột.",
+   "D": "Cellulose."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C2_0004",
+  "stem": "(Đề TNTHPT – 2022) Chất nào sau đây là đồng phân của glucose?",
+  "options": {
+   "A": "Tinh bột.",
+   "B": "Fructose.",
+   "C": "Cellulose.",
+   "D": "Saccharose."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C2_0005",
+  "stem": "Phát biểu nào sau đây không đúng?",
+  "options": {
+   "A": "Carbohydrate là những hợp chất hữu cơ tạp chức và thường có công thức chung là Cn(H2O)n.",
+   "B": "Carbohydrate được chia thành ba nhóm chủ yếu là: monosaccharide, disaccharide, polysaccharide.",
+   "C": "Monosaccharide là nhóm carbohydrate đơn giản nhất không thể thủy phân được.",
+   "D": "Disaccharide là nhóm carbohydrate mà khi thủy phân mỗi phân tử sinh ra hai phân tử monosaccharide."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C2_0006",
+  "stem": "(Đề MH - 2019) Chất nào sau đây thuộc loại monosaccharide?",
+  "options": {
+   "A": "Saccharose.",
+   "B": "Cellulose.",
+   "C": "Tinh bột.",
+   "D": "Glucose."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C2_0007",
+  "stem": "(Đề TN THPT QG - 2021) Carbohydrate nào sau đây thuộc loại polysaccharide?",
+  "options": {
+   "A": "Saccharose.",
+   "B": "Cellulose.",
+   "C": "Fructose.",
+   "D": "Glucose."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C2_0008",
+  "stem": "(Đề TNTHPT – 2022) Chất nào sau đây thuộc loại disaccharide?",
+  "options": {
+   "A": "Cellulose.",
+   "B": "Saccharose.",
+   "C": "Glucose.",
+   "D": "Fructose."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C2_0009",
+  "stem": "(Đề TN THPT QG - 2020) Số nguyên tử carbon trong phân tử fructose là",
+  "options": {
+   "A": "22.",
+   "B": "6.",
+   "C": "12.",
+   "D": "11."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C2_0010",
+  "stem": "(Đề THPT QG - 2018) Glucose là một loại monosaccharide có nhiều trong quả nho chín. Công thức phân tử của glucose là",
+  "options": {
+   "A": "C2H4O2.",
+   "B": "(C6H10O5)n.",
+   "C": "C12H22O11.",
+   "D": "C6H12O6."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C2_0011",
+  "stem": "(Đề TN THPT QG - 2020) Số nguyên tử oxygen trong phân tử glucose là",
+  "options": {
+   "A": "12.",
+   "B": "6.",
+   "C": "5.",
+   "D": "10."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C2_0012",
+  "stem": "(Đề THPT QG - 2018) Fructose là một loại monosaccharide có nhiều trong mật ong, có vị ngọt sắc. Công thức phân tử của fructose là",
+  "options": {
+   "A": "C6H12O6.",
+   "B": "(C6H10O5)n.",
+   "C": "C2H4O2.",
+   "D": "C12H22O11."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C2_0013",
+  "stem": "Glucose thể hiện đầy đủ tính chất hóa học của",
+  "options": {
+   "A": "alcohol đa chức và aldehyde đơn chức.",
+   "B": "alcohol đa chức và aldehyde đa chức.",
+   "C": "alcohol đơn chức và aldehyde đa chức.",
+   "D": "alcohol đơn chức và aldehyde đa chức."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C2_0014",
+  "stem": "Glucose không có được tính chất nào dưới đây?",
+  "options": {
+   "A": "Tính chất của nhóm aldehyde.",
+   "B": "Tính chất polyalcohol.",
+   "C": "Tham gia phản ứng thủy phân.",
+   "D": "Lên men tạo ethyl alcohol."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C2_0015",
+  "stem": "(Đề THPT QG - 2017) Dung dịch nào sau đây có phản ứng tráng bạc?",
+  "options": {
+   "A": "Methyl acetate.",
+   "B": "Glycine.",
+   "C": "Fructose.",
+   "D": "Saccharose."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C2_0016",
+  "stem": "Dung dịch chất nào sau đây hòa tan Cu(OH)2, thu được dung dịch có màu xanh lam?",
+  "options": {
+   "A": "Fructose.",
+   "B": "Propyl alcohol.",
+   "C": "Anbumin.",
+   "D": "Propan-1,3-diol."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C2_0017",
+  "stem": "(Đề THPT QG - 2015) Chất nào sau đây không thủy phân trong môi trường acid?",
+  "options": {
+   "A": "Cellulose.",
+   "B": "Saccharose.",
+   "C": "Tinh bột.",
+   "D": "Glucose."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C2_0018",
+  "stem": "(Đề TSĐH A - 2007) Để chứng minh trong phân tử của glucose có nhiều nhóm hydroxyl, người ta cho dung dịch glucose phản ứng với",
+  "options": {
+   "A": "Cu(OH)2 ở nhiệt độ thường.",
+   "B": "Cu(OH)2 trong NaOH, đun nóng.",
+   "C": "kim loại Na.",
+   "D": "AgNO3 trong dung dịch NH3, đun nóng."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C2_0019",
+  "stem": "(Đề THPT QG - 2017) Để tráng một lớp bạc lên ruột phích, người ta cho chất X phản ứng với lượng dư dung dịch AgNO3 trong NH3, đun nóng. Chất X là",
+  "options": {
+   "A": "tinh bột.",
+   "B": "ethyl acetate.",
+   "C": "saccharose.",
+   "D": "glucose."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C2_0020",
+  "stem": "Trong điều kiện thích hợp glucose lên men tạo thành khí CO2 và",
+  "options": {
+   "A": "C2H5OH.",
+   "B": "CH3COOH.",
+   "C": "HCOOH.",
+   "D": "CH3CHO."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C2_0021",
+  "stem": "Carbohydrate X không tham gia phản ứng thủy phân trong môi trường acid và X làm mất màu dung dịch bromine. Vậy X là",
+  "options": {
+   "A": "Fructose.",
+   "B": "Tinh bột.",
+   "C": "Glucose.",
+   "D": "Saccharose."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C2_0022",
+  "stem": "Fructose không phản ứng được với chất nào sau đây?",
+  "options": {
+   "A": "Cu(OH)2 ở nhiệt độ thường.",
+   "B": "Nước bromine.",
+   "C": "Cu(OH)2 ở nhiệt độ cao.",
+   "D": "Dung dịch AgNO3/NH3, to."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C2_0023",
+  "stem": "Phản ứng nào sau đây chứng tỏ glucose có dạng mạch vòng?",
+  "options": {
+   "A": "Cu(OH)2.",
+   "B": "Nước bromine.",
+   "C": "CH3OH/HCl.",
+   "D": "Dung dịch AgNO3/NH3, to."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C2_0024",
+  "stem": "Cho sơ đồ chuyển hoá: Glucose <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnAAqAGA4AAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:18px\" alt=\"\"> X <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnAAqAGA4AAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:18px\" alt=\"\"> Y <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnAAqAGA4AAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:18px\" alt=\"\"> CH3COOH. Hai chất X, Y lần lượt là",
+  "options": {
+   "A": "CH3CH2OH và CH2=CH2.",
+   "B": "CH3CHO và CH3CH2OH.",
+   "C": "CH3CH2OH và CH3CHO.",
+   "D": "CH3CH(OH)COOH và CH3CHO."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C2_0025",
+  "stem": "Ứng dụng nào sau đây không phải là ứng dụng của glucose?",
+  "options": {
+   "A": "Tráng gương, tráng phích.",
+   "B": "Nguyên liệu sản xuất chất dẻo PVC.",
+   "C": "Nguyên liệu sản xuất ethyl alcohol.",
+   "D": "Làm thực phẩm dinh dưỡng và thuốc tăng lực."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C2_0026",
+  "stem": "(SGK Hóa học 12 CB) Glucose và fructose",
+  "options": {
+   "A": "đều tạo được dung dịch màu xanh lam khi tác dụng với Cu(OH)2 trong môi trường kiềm.",
+   "B": "đều có nhóm chức –CHO trong phân tử.",
+   "C": "đều tồn tại chủ yếu ở dạng mạch hở.",
+   "D": "là hai dạng thù hình của cùng một chất."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C2_0027",
+  "stem": "(SGK Hóa học 12 NC) Cho các dung dịch: Glucose, glycerol, aldehyde acetic, ethanol. Có thể dùng thuốc thử nào sau đây để phân biệt được cả 4 dung dịch trên?",
+  "options": {
+   "A": "Cu(OH)2 trong môi trường kiềm.",
+   "B": "Dung dịch AgNO3/NH3.",
+   "C": "Na.",
+   "D": "Nước bromine."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C2_0028",
+  "stem": "Phát biểu nào sau đây không đúng khi nói về glucose và fructose?",
+  "options": {
+   "A": "Đều tạo được dung dịch màu xanh lam khi tác dụng với Cu(OH)2 trong môi trường kiềm.",
+   "B": "Đều tạo kết tủa đỏ gạch Cu2O khi tác dụng với Cu(OH)2, đun nóng trong môi trường kiềm.",
+   "C": "Đều làm mất màu nước bromine.",
+   "D": "Đều xảy ra phản ứng tráng bạc khi tác dụng với thuốc thử Tollens."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C2_0029",
+  "stem": "(SGK Hóa học 12 NC) Phát biểu nào sau đây không đúng?",
+  "options": {
+   "A": "Glucose và fructose là đồng phân cấu tạo của nhau.",
+   "B": "Có thể phân biệt glucose và fructose bằng phản ứng tráng bạc.",
+   "C": "Trong dung dịch, glucose tồn tại ở dạng mạch vòng ưu tiên hơn dạng mạch hở.",
+   "D": "Methyl α – glucoside không thể chuyển sang dạng mạch hở."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C2_0030",
+  "stem": "(SGK Hóa học 12 – CTST) Cho các phát biểu sau:1) Glucose và fructose không tham gia phản ứng thủy phân.2) Có thể phân biệt glucose và fructose bằng nước bromine.3) Carbohydrate là những hợp chất hữu cơ tạp chức, thường có công thức chung là Cn(H2O)m.4) Chất béo không phải là carbohydrate.Số phát biểu đúng là",
+  "options": {
+   "A": "1.",
+   "B": "2.",
+   "C": "3.",
+   "D": "4."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C2_0031",
+  "stem": "(Đề TNTHPT – 2023) Số nguyên tử carbon trong phân tử saccharose là",
+  "options": {
+   "A": "6.",
+   "B": "5.",
+   "C": "12.",
+   "D": "10."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C2_0032",
+  "stem": "(Đề TNTHPT – 2023) Số nguyên tử oxygen trong phân tử saccharose là",
+  "options": {
+   "A": "12.",
+   "B": "11.",
+   "C": "6.",
+   "D": "5."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C2_0033",
+  "stem": "Saccharose là một disaccharide tạo bởi hai đơn vị",
+  "options": {
+   "A": "α-glucose và β-fructose nối với nhau bởi liên kết α-1,2-glycoside.",
+   "B": "α-glucose nối với nhau bởi liên kết α-1,4-glycoside.",
+   "C": "β-glucose nối với nhau bởi liên kết β-1,4-glycoside.",
+   "D": "β-galactose và β-glucose và nối với nhau bởi liên kết β-1,4-glycoside."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C2_0034",
+  "stem": "Đường mía là loại đường nào sau đây?",
+  "options": {
+   "A": "Maltose.",
+   "B": "Glucose.",
+   "C": "Fructose.",
+   "D": "Saccharose."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C2_0035",
+  "stem": "Chất thuộc loại disaccharide là",
+  "options": {
+   "A": "glucose.",
+   "B": "saccharose.",
+   "C": "cellulose.",
+   "D": "fructose."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C2_0036",
+  "stem": "Phân tử saccharose được tạo bởi",
+  "options": {
+   "A": "một gốc glucose và một gốc maltose.",
+   "B": "hai gốc fructose.",
+   "C": "một gốc glucose và một gốc fructose.",
+   "D": "hai gốc glucose."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C2_0037",
+  "stem": "Phân tử maltose được tạo bởi",
+  "options": {
+   "A": "một gốc glucose và một gốc maltose.",
+   "B": "hai gốc fructose.",
+   "C": "một gốc glucose và một gốc fructose.",
+   "D": "hai gốc glucose."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C2_0038",
+  "stem": "Carbohydrate nào dưới đây không có nhóm –OH hemiacetal hoặc nhóm –OH hemiketal?",
+  "options": {
+   "A": "Maltose.",
+   "B": "Fructose.",
+   "C": "Saccharose.",
+   "D": "Glucose."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C2_0039",
+  "stem": "(SBT – KNTT) Maltose được tạo ra từ quá trình nào sau đây?",
+  "options": {
+   "A": "Thuỷ phân saccharose.",
+   "B": "Thuỷ phân tinh bột.",
+   "C": "Kết hợp glucose và fructose.",
+   "D": "Lên men ethanol."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C2_0040",
+  "stem": "(SBT – KNTT) Saccharose thường được tìm thấy trong loại thực vật nào sau đây?",
+  "options": {
+   "A": "Cây đậu nành.",
+   "B": "Cây lúa mì.",
+   "C": "Cây mía.",
+   "D": "Cây cà phê."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C2_0041",
+  "stem": "Cho các tính chất sau: (1) có vị ngọt, dễ tan trong nước; (2) có phản ứng tráng bạc; (3) bị thuỷ phân trong môi trường acid; (4) hoà tan Cu(OH)2 thành dung dịch màu xanh lam. Số tính chất đúng với maltose là",
+  "options": {
+   "A": "3.",
+   "B": "2.",
+   "C": "1.",
+   "D": "4."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C2_0042",
+  "stem": "Carbohydrate E có các đặc điểm: (1) là chất rắn kết tinh, có vị ngọt; (2) phân tử có nhiều nhóm –OH alcohol; (3) phân tử có liên kết glycoside nối hai gốc monosaccharide khác nhau; (4) hoà tan Cu(OH)2 tạo dung dịch màu xanh lam. Carbohydrate E là",
+  "options": {
+   "A": "fructose.",
+   "B": "glycerol.",
+   "C": "glucose.",
+   "D": "saccharose."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C2_0043",
+  "stem": "(SBT – KNTT) Saccharose tham gia phản ứng nào sau đây?",
+  "options": {
+   "A": "Phản ứng với thuốc thử Tollens.",
+   "B": "Phản ứng với nước bromine.",
+   "C": "Phản ứng với Cu(OH)2 tạo dung dịch màu xanh lam.",
+   "D": "Phản ứng thuỷ phân trong môi trường kiềm."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C2_0044",
+  "stem": "(SBT – KNTT) Phản ứng đặc trưng của maltose là",
+  "options": {
+   "A": "phản ứng với dung dịch NaOH.",
+   "B": "phản ứng màu với iodine.",
+   "C": "phản ứng thuỷ phân tạo ra glucose.",
+   "D": "phản ứng lên men trực tiếp tạo ra ethanol."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C2_0045",
+  "stem": "(SBT – KNTT) Saccharose và maltose đều tham gia phản ứng nào sau đây?",
+  "options": {
+   "A": "Phản ứng với thuốc thử Tollens.",
+   "B": "Phản ứng thuỷ phân trong môi trường acid.",
+   "C": "Phản ứng với dung dịch nước bromine.",
+   "D": "Phản ứng với Cu(OH)2 tạo kết tủa đỏ gạch."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C2_0046",
+  "stem": "Sự khác nhau về tính chất hóa học của maltose với saccharose thể hiện ở phản ứng nào sau đây?",
+  "options": {
+   "A": "Tác dụng với dung dịch nước bromine.",
+   "B": "Tác dụng với Cu(OH)2 ở nhiệt độ thường.",
+   "C": "Tác dụng với acetic anhydride ((CH3CO)2O).",
+   "D": "Tác dụng với H2O (H+, to)."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C2_0047",
+  "stem": "Chất nào dưới đây không có phản ứng tráng bạc khi cho phản ứng với thuốc thử Tollens?",
+  "options": {
+   "A": "Saccharose.",
+   "B": "Glucose.",
+   "C": "Maltose.",
+   "D": "Fructose."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C2_0048",
+  "stem": "Saccharose tham gia phản ứng hóa học nào sau đây?",
+  "options": {
+   "A": "Phản ứng tráng gương.",
+   "B": "Phản ứng thủy phân.",
+   "C": "Phản ứng xà phòng hóa.",
+   "D": "Phản ứng ester hóa."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C2_0049",
+  "stem": "Khi thuỷ phân saccharose, sản phẩm thu được là",
+  "options": {
+   "A": "glucose và fructose.",
+   "B": "glucose.",
+   "C": "fructose.",
+   "D": "tinh bột."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C2_0050",
+  "stem": "Để phân biệt saccharose và glucose người ta dùng",
+  "options": {
+   "A": "dung dịch H2SO4 loãng.",
+   "B": "dung dịch NaOH.",
+   "C": "dung dịch AgNO3/NH3.",
+   "D": "Na kim loại."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C2_0051",
+  "stem": "Khi nghiên cứu carbohydrate X ta nhận thấy:- X không tráng gương, có một đồng phân;- X thuỷ phân trong nước được hai sản phẩm.Vậy X là",
+  "options": {
+   "A": "fructose.",
+   "B": "saccharose.",
+   "C": "cellulose.",
+   "D": "tinh bột."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C2_0052",
+  "stem": "(SBT – CD) Khi cho dung dịch saccharose vào ống nghiệm chứa Cu(OH)2/NaOH, lắc nhẹ ống nghiệm thì thấy có hiện tượng nào sau đây?",
+  "options": {
+   "A": "Kim loại màu vàng sáng bám trên bề mặt ống nghiệm.",
+   "B": "Kết tủa màu đỏ gạch xuất hiện trong ống nghiệm.",
+   "C": "Dung dịch trở nên đồng nhất và có màu xanh lam.",
+   "D": "Chất lỏng trong ống nghiệm tách thành hai lớp và xuất hiện kết tủa màu xanh nhạt lắng xuống đáy ống nghiệm."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C2_0053",
+  "stem": "Chất X có các đặc điểm sau: phân tử có nhiều nhóm –OH, có vị ngọt, hoà tan Cu(OH)2 ở nhiệt độ thường, phân tử có liên kết glycoside, làm mất màu nước bromine. Chất X là",
+  "options": {
+   "A": "cellulose.",
+   "B": "maltose.",
+   "C": "glucose.",
+   "D": "saccharose."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C2_0054",
+  "stem": "(Đề TSĐH B – 2013) Chất nào dưới đây khi cho vào dung dịch AgNO3 trong NH3 dư, đun nóng, không xảy ra phản ứng tráng bạc?",
+  "options": {
+   "A": "Maltose.",
+   "B": "Fructose.",
+   "C": "Saccharose.",
+   "D": "Glucose."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C2_0055",
+  "stem": "(Đề THPT QG - 2017) Saccharose và glucose đều có phản ứng",
+  "options": {
+   "A": "cộng H2 (Ni, to).",
+   "B": "tráng bạc.",
+   "C": "với Cu(OH)2.",
+   "D": "thủy phân."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C2_0056",
+  "stem": "Dãy các chất nào dưới đây đều phản ứng được với Cu(OH)2 ở điều kiện thường?",
+  "options": {
+   "A": "Ethylene glycol, glycerol và ethyl alcohol.",
+   "B": "Glucose, glycerol và saccharose.",
+   "C": "Glucose, glycerol và methyl acetate.",
+   "D": "Glycerol, glucose và ethyl acetate."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C2_0057",
+  "stem": "Dung dịch chất nào sau đây hòa tan Cu(OH)2, thu được dung dịch có màu xanh lam?",
+  "options": {
+   "A": "Saccharose.",
+   "B": "Ethyl alcohol.",
+   "C": "Propan-1,3-diol.",
+   "D": "Anbumin."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C2_0058",
+  "stem": "(Đề TN THPT QG - 2021) Chất nào sau đây bị thủy phân khi đun nóng trong môi trường acid?",
+  "options": {
+   "A": "Saccharose.",
+   "B": "Glycerol.",
+   "C": "Glucose.",
+   "D": "Fructose."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C2_0059",
+  "stem": "Dung dịch nước của một carbohydrate X có 3 tính chất sau:(a) Hòa tan Cu(OH)2 tạo ra dung dịch có màu xanh lam.(b) Không cho kết tủa bạc khi tác dụng với thuốc thử Tollens.(c) Đun nóng với acid loãng, sản phẩm tạo được kết tủa Cu2O với tác nhân Cu(OH)2.Vậy X có thể là dung dịch của chất nào sau đây?",
+  "options": {
+   "A": "Glucose.",
+   "B": "Saccharose.",
+   "C": "Maltose.",
+   "D": "Cellulose."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C2_0060",
+  "stem": "Cho các đặc điểm sau: (1) có nhiều nhóm –OH trong phân tử; (2) có liên kết glycoside; (3) là chất rắn kết tinh, không màu; (4) có công thức phân tử dạng Cn(H2O)m. Số đặc điểm đúng với cả phân tử glucose và saccharose là",
+  "options": {
+   "A": "1.",
+   "B": "3.",
+   "C": "2.",
+   "D": "4."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C2_0061",
+  "stem": "Khi tồn tại ở dạng mạch vòng, các carbohydrate có vị ngọt và có nhóm –OH hemiacetal hoặc –OH hemiketal trong phân tử được gọi là đường khử; ngược lại khi phân tử các chất này không có nhóm –OH hemiacetal hoặc –OH hemiketal, chúng được gọi là đường không có tính khử. Trong các đường saccharose, maltose, glucose, fructose, đường không có tính khử là",
+  "options": {
+   "A": "saccharose.",
+   "B": "glucose.",
+   "C": "maltose.",
+   "D": "fructose."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C2_0062",
+  "stem": "(SBT – CD) Khi đun nóng dung dịch chứa carbohydrate X và Cu(OH)2 trong môi trường kiềm, X có phản ứng với Cu(OH)2 tạo kết tủa đỏ gạch. X không thể là",
+  "options": {
+   "A": "saccharose.",
+   "B": "glucose.",
+   "C": "fructose.",
+   "D": "maltose."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C2_0063",
+  "stem": "Cho các dung dịch sau: saccharose, glucose, acetaldehyde, maltose, glycerol, ethylene glycol, methanol. Số lượng dung dịch có thể hoà tan Cu(OH)2 là",
+  "options": {
+   "A": "4.",
+   "B": "5.",
+   "C": "6.",
+   "D": "7."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C2_0064",
+  "stem": "Cặp chất nào sau đây có thể phân biệt được bằng thuốc thử Tollens?",
+  "options": {
+   "A": "Glucose và maltose.",
+   "B": "Tinh bột và cellulose.",
+   "C": "Saccharose và maltose.",
+   "D": "Glucose và fructose."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C2_0065",
+  "stem": "(SBT Hóa học 12 NC) Để nhận biết 3 dung dịch: glucose, ethyl alcohol, saccharose đựng riêng biệt trong 3 lọ mất nhãn, ta dùng thuốc thử là",
+  "options": {
+   "A": "Cu(OH)2/OH–.",
+   "B": "Na.",
+   "C": "dung dịch AgNO3/NH3.",
+   "D": "CH3OH/HCl."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C2_0066",
+  "stem": "(SBT Hóa học 12 NC) Một carbohydrate (Z) có các phản ứng diễn ra theo sơ đồ chuyển hóa sau:Z <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGAAAAAQCAAAAADM0SUlAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnAX2HKJgAAAHKSURBVDjLtZRPSFRRFIe/95iFQcODtBoEKVeJMKhIFFpYENi/TdEmiJhatIhQiRZChAsHQiSihAwayHBTBMEUKDGbkcbMsBaWygSF1CKqGXAaCyq6vxZvBpw3MQryvs0959wf53LPOfdawl9sn/MTKIsMmy1fa4+5dmJz89sH4XzuYuJUvKn7W0yPzxZlN34PJhtvf7liAyWaak8+eXjaJWnBtWcHpF1LUm9cO6TRfil5qyB7mXo2tPvPm3FJXk0pZSVKtAMNk5Hc/gzRk+R+ONCaLO523CsYz9toPhgFbg7e9WhWKdFfC2AbzlaYq8UWYGzyI0zVAYFMDYBsCy63bw8tVzmpEx5N5SZ3TgDTlgAsEXSWYGYfwUhkL4Cxx8YuQKoNCMR6eeh0yKupfIPOxeFQZkPLh6FMuqblUz2xa+HvoaNzP9/XpT8vb4RNh3kEr3qY0p5wFw0D+Y+/vJoC44f+1+SVvOvzRp6MSvHXWhuXJiVZFR/adFVTiZ+dOE40W90dXMsLIH/gfj2WmOkplssdBK9fHrhTnKWd1931/GwhcO40L64aY2SMMWbhyEjlEq2Txdas5OcBZ9Kr9mB9zDe6o+4vvv+m/wAKmv8RCrb+NwAAAABJRU5ErkJggg==\" style=\"height:18px\" alt=\"\"> dung dịch xanh lam <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAE0AAAAgCAAAAAByCKroAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnAAqAGA4AAAEqSURBVEjHY/zPQEXARE3DiDZtT2CW5x7Cyv4TBV7zP/1/k+8VIWVEum23lBSDmvheKvn0JR8DA4PgS8pNW1nDwMAg8ZGBgeG9BMWm/W9jYGBgcHn+hOHOS2eCVhMI1xuuDPzyxf//7/LP8d5NMLIIxuljhmriop2EOCUSjJpGI9OYGP5R0TQRtr0PLhNS9AbGIJiGOnglEgko+Sd/m8jUSxTI1fxIRdNei3j+oZ5p/xcx5FPRtP/BDJP////PwsDwPhczkrwjUbglLxDspVC6BkUFP0O+ZDADw///T5gxQRmqzeoIGdzJxPP/f0Zy69N///8hg6WV6icEGMg2DRU81WE+oUJM6iUK+LAeoF6crmeY+596pumWQmiqlEj/gjogDCrFAhRQt7QEANWTdyq5RaZ+AAAAAElFTkSuQmCC\" style=\"height:22px\" alt=\"\"> kết tủa đỏ gạchVậy, Z không thể là",
+  "options": {
+   "A": "glucose.",
+   "B": "saccharose.",
+   "C": "fructose.",
+   "D": "maltose."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C2_0067",
+  "stem": "(Đề THPT QG - 2017) Phát biểu nào sau đây sai?",
+  "options": {
+   "A": "Glucose và saccharose đều là carbohydrate.",
+   "B": "Trong dung dịch, glucose và fructose đều hòa tan được Cu(OH)2.",
+   "C": "Glucose và saccharose đều có phản ứng tráng bạc.",
+   "D": "Glucose và fructose là đồng phân của nhau."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C2_0068",
+  "stem": "Phát biểu nào sau đây đúng?",
+  "options": {
+   "A": "Maltose không có nhóm −OH hemiacetal.",
+   "B": "Một phân tử saccharose gồm hai đơn vị α-glucose.",
+   "C": "Hai đơn vị α-glucose trong maltose liên kết với nhau bằng liên kết α-1,2-glycoside.",
+   "D": "Saccharose và maltose có cùng công thức phân tử."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C2_0069",
+  "stem": "(SBT – CD) Saccharose là một disaccharide. Phát biểu nào sau đây về saccharose là đúng?",
+  "options": {
+   "A": "Saccharose không bị thuỷ phân trong môi trường acid.",
+   "B": "Thuỷ phân saccharose chỉ thu được glucose.",
+   "C": "Thuỷ phân saccharose thu được cả glucose và fructose.",
+   "D": "Thuỷ phân saccharose chỉ thu được fructose."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C2_0070",
+  "stem": "Một disaccharide X không tác dụng với dung dịch AgNO3/NH3. Thuỷ phân X (xúc tác acid) thu được một monosaccharide Y duy nhất. Dung dịch Y vừa làm mất màu dung dịch bromine, vừa tạo kết tủa Ag với thuốc thử Tollens. Phát biểu nào sau đây về X và Y là không đúng?",
+  "options": {
+   "A": "Y thuộc loại hợp chất 2,3,4,5,6-pentahydroxyhexanal.",
+   "B": "Giữa 2 đơn vị monosaccharide có liên kết 1,1-glycoside.",
+   "C": "Trong dung dịch Y có chứa fructose.",
+   "D": "X không phải là maltose."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C2_0071",
+  "stem": "Điểm giống nhau về cấu tạo giữa tinh bột và cellulose là",
+  "options": {
+   "A": "được tạo nên từ nhiều gốc fructose.",
+   "B": "được tạo nên từ nhiều gốc glucose.",
+   "C": "được tạo nên từ nhiều phân tử glucose.",
+   "D": "được tạo nên từ nhiều phân tử saccharose."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C2_0072",
+  "stem": "(SBT – KNTT) Tinh bột chứa hỗn hợp chất nào sau đây?",
+  "options": {
+   "A": "Glucose và fructose.",
+   "B": "Amylose và cellulose.",
+   "C": "Amylose và amylopectin.",
+   "D": "Glucose và galactose."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C2_0073",
+  "stem": "(SBT – KNTT) Amylopectin khác biệt cơ bản với amylose ở điểm nào sau đây?",
+  "options": {
+   "A": "Có cấu tạo mạch phân nhánh.",
+   "B": "Không tan trong nước.",
+   "C": "Chỉ chứa liên kết α-1,4-glycoside.",
+   "D": "Tạo màu xanh tím với iodine."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C2_0074",
+  "stem": "(SBT – KNTT) Phân tử cellulose cấu tạo từ các đơn vị nào sau đây?",
+  "options": {
+   "A": "α-glucose.",
+   "B": "β-glucose.",
+   "C": "Fructose.",
+   "D": "Galactose."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C2_0075",
+  "stem": "Y là một polysaccharide có trong thành phần của tinh bột và có cấu trúc mạch không phân nhánh. Tên gọi của Y là",
+  "options": {
+   "A": "amylopectin.",
+   "B": "glucose.",
+   "C": "saccharose.",
+   "D": "amylose."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C2_0076",
+  "stem": "Carbohydrate chứa đồng thời liên kết α–1,4–glycoside và liên kết α–1,6–glycoside trong phân tử là",
+  "options": {
+   "A": "tinh bột.",
+   "B": "cellulose.",
+   "C": "saccharose.",
+   "D": "fructose."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C2_0077",
+  "stem": "Tinh bột trong gạo nếp chứa khoảng 98% là",
+  "options": {
+   "A": "amylose.",
+   "B": "amylopectin.",
+   "C": "glycerol.",
+   "D": "alanine."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C2_0078",
+  "stem": "(Đề MH – 2024) Chất nào sau đây là nguyên liệu để sản xuất tơ visco?",
+  "options": {
+   "A": "Saccharose.",
+   "B": "Tinh bột.",
+   "C": "Glucose.",
+   "D": "Cellulose."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C2_0079",
+  "stem": "(Đề THPT QG - 2018) Cellulose thuộc loại polysaccharide, là thành phần chính tạo nên màng tế bào thực vật, có nhiều trong gỗ, bông nõn. Công thức của cellulose là",
+  "options": {
+   "A": "(C6H10O5)n.",
+   "B": "C12H22O11.",
+   "C": "C6H12O6.",
+   "D": "C2H4O2."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C2_0080",
+  "stem": "(Đề MH - 2018) Polymer nào sau đây có cấu trúc mạch phân nhánh?",
+  "options": {
+   "A": "Amylose.",
+   "B": "Cellulose.",
+   "C": "Amylopectin.",
+   "D": "Polyethylene."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C2_0081",
+  "stem": "Trong các chất dưới đây, chất nào không được tạo thành chỉ từ các đơn vị glucose?",
+  "options": {
+   "A": "Maltose.",
+   "B": "Saccharose.",
+   "C": "Tinh bột.",
+   "D": "Cellulose."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C2_0082",
+  "stem": "(Đề TSCĐ - 2010) Cặp chất nào sau đây không phải là đồng phân của nhau?",
+  "options": {
+   "A": "Ethyl alcohol và dimethyl ether.",
+   "B": "Saccharose và cellulose.",
+   "C": "Glucose và fructose.",
+   "D": "2-methylpropan-1-ol và butan-2-ol."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C2_0083",
+  "stem": "(SBT – CD) Chất nào dưới đây không tan trong nước nhưng tan được trong dùng dịch Schweizer?",
+  "options": {
+   "A": "Saccharose.",
+   "B": "Cellulose.",
+   "C": "Maltose.",
+   "D": "Fructose."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C2_0084",
+  "stem": "(SBT – KNTT) Cellulose không tan trong nước nhưng tan trong dung dịch nào sau đây?",
+  "options": {
+   "A": "Dung dịch NaOH.",
+   "B": "Dung dịch ethanol.",
+   "C": "Nước Schweizer.",
+   "D": "Nước bromine."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C2_0085",
+  "stem": "(SBT – KNTT) Chất nào sau đây có thể thu được khi thuỷ phân không hoàn toàn tinh bột?",
+  "options": {
+   "A": "Cellulose.",
+   "B": "Dextrin.",
+   "C": "Fructose.",
+   "D": "Saccharose."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C2_0086",
+  "stem": "(SBT – KNTT) Cellulose không có tính chất nào sau đây?",
+  "options": {
+   "A": "Tan trong nước Schweizer.",
+   "B": "Phản ứng tạo màu xanh tím với iodine.",
+   "C": "Phản ứng với nitric acid tạo cellulose nitrate.",
+   "D": "Thuỷ phân hoàn toàn tạo glucose."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C2_0087",
+  "stem": "Cho một số tính chất: có dạng sợi (1); tan trong nước (2); tan trong nước Schweizer (3); phản ứng với nitric acid đặc (xúc tác sulfuric acid đặc) (4); tham gia phản ứng tráng bạc (5); bị thủy phân trong dung dịch acid đun nóng (6). Các tính chất của cellulose là",
+  "options": {
+   "A": "(3), (4), (5) và (6).",
+   "B": "(1), (3), (4) và (6).",
+   "C": "(1), (2), (3) và (4).",
+   "D": "(2), (3), (4) và (5)."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C2_0088",
+  "stem": "Có các phản ứng sau: phản ứng tráng gương (1); phản ứng với I2 (2); phản ứng với Cu(OH)2 tạo dung dịch xanh lam (3); phản ứng thuỷ phân (4); phản ứng ester hóa (5). Tinh bột có phản ứng nào trong các phản ứng trên?",
+  "options": {
+   "A": "(2), (4).",
+   "B": "(1), (2), (4).",
+   "C": "(2), (4), (5).",
+   "D": "(2), (3), (4)."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C2_0089",
+  "stem": "Cặp chất nào sau đây đều có khả năng thủy phân trong môi trường acid, đun nóng?",
+  "options": {
+   "A": "Fructose và tinh bột.",
+   "B": "Saccharose và cellulose.",
+   "C": "Glucose và saccharose.",
+   "D": "Glucose và fructose."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C2_0090",
+  "stem": "(Đề TN THPT QG - 2021) Chất nào sau đây bị thủy phân khi đun nóng trong môi trường acid?",
+  "options": {
+   "A": "Glycerol",
+   "B": "Fructose.",
+   "C": "Glucose.",
+   "D": "Cellulose."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C2_0091",
+  "stem": "(Đề MH lần I - 2017) Polymer thiên nhiên X được sinh ra trong quá trình quang hợp của cây xanh. Ở nhiệt độ thường, X tạo với dung dịch iodine hợp chất có màu xanh tím. Polymer X là",
+  "options": {
+   "A": "tinh bột.",
+   "B": "cellulose.",
+   "C": "saccharose.",
+   "D": "glicogen."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C2_0092",
+  "stem": "(Đề THĐH A - 2008) Tinh bột, cellulose, saccharose đều có khả năng tham gia phản ứng",
+  "options": {
+   "A": "hoà tan Cu(OH)2.",
+   "B": "trùng ngưng.",
+   "C": "tráng gương.",
+   "D": "thủy phân."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C2_0093",
+  "stem": "(Đề TSĐH A - 2013) Dãy các chất đều có khả năng tham gia phản ứng thủy phân trong dung dịch H2SO4 đun nóng là",
+  "options": {
+   "A": "glucose, tinh bột và cellulose.",
+   "B": "saccharose, tinh bột và cellulose.",
+   "C": "glucose, saccharose và fructose.",
+   "D": "fructose, saccharose và tinh bột."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C2_0094",
+  "stem": "Ở nhiệt độ thường, nhỏ vài giọt dung dịch iodine vào hồ tinh bột thấy xuất hiện màu",
+  "options": {
+   "A": "vàng.",
+   "B": "xanh tím.",
+   "C": "hồng.",
+   "D": "nâu đỏ."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C2_0095",
+  "stem": "Quá trình quang hợp của cây xanh sinh ra khí O2 và tạo ra carbohydrate nào dưới đây?",
+  "options": {
+   "A": "Cellulose.",
+   "B": "Saccharose.",
+   "C": "Tinh bột.",
+   "D": "Glucose."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C2_0096",
+  "stem": "(SBT – KNTT) Cellulose phản ứng với nitric acid tạo thành sản phẩm nào sau đây?",
+  "options": {
+   "A": "Glucose.",
+   "B": "Dextrin.",
+   "C": "Maltose.",
+   "D": "Cellulose nitrate."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C2_0097",
+  "stem": "(Đề MH – 2023) Chất X được tạo thành trong cây xanh nhờ quá trình quang hợp. Thủy phân hoàn toàn X (xúc tác acid) thu được chất Y. Chất Y có nhiều trong quả nho chín nên còn được gọi là đường nho. Hai chất X và Y lần lượt là",
+  "options": {
+   "A": "tinh bột và glucose.",
+   "B": "cellulose và saccharose.",
+   "C": "cellulose và fructose.",
+   "D": "tinh bột và saccharose."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C2_0098",
+  "stem": "Ba ống nghiệm không nhãn, chứa riêng ba dung dịch: glucose, hồ tinh bột, glycerol. Để phân biệt 3 dung dịch, người ta dùng thuốc thử",
+  "options": {
+   "A": "dung dịch iodine.",
+   "B": "dung dịch acid HCl.",
+   "C": "dung dịch iodine và thuốc thử Tollens.",
+   "D": "phản ứng với Na."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C2_0099",
+  "stem": "(Đề TSCĐ - 2008) Cho sơ đồ chuyển hóa sau (mỗi mũi tên là một phương trình phản ứng): Tinh bột <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnAuSOeSIAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:18px\" alt=\"\"> X <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnAuSOeSIAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:18px\" alt=\"\"> Y <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnAuSOeSIAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:18px\" alt=\"\"> Z <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnAuSOeSIAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:18px\" alt=\"\"> methyl acetate. Các chất Y, Z trong sơ đồ trên lần lượt là:",
+  "options": {
+   "A": "C2H5OH, CH3COOH.",
+   "B": "CH3COOH, CH3OH.",
+   "C": "CH3COOH, C2H5OH.",
+   "D": "C2H4, CH3COOH."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C2_0100",
+  "stem": "(Đề TSCĐ - 2009) Cho sơ đồ phản ứng:a) X + H2O <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFAAAAAfCAAAAABVdBXIAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnAAqAGA4AAAEsSURBVEjHY/zPQF3ARGXzSDVQ5h6VDfzyjzIDd/owCYTfZ7gfLsDss4fhwpQpv5ZM2UHAxP/4Abvz//////935v7////W6GhW/+iJ+DWQYuD////5bxNQ/3+gY/mwHCEVLKQZqEtQBSOBnMLBLMvAwMDwmPELsXaSFimEwUBHynAwEH+k7A1jEkp88P9BohBz+H68Kn9PJjLrEQ20FlDZwHXsR6lr4H8/sQf/////TyinEA9e6Iof5WdgYGFguLQMXc7KD5nX9wpdvu7rIiwm6u8N3M7OwPifYW08ulR6LzLP+Ca6/MMHwf9QAcSfHCf1COZlYsG/Pz9dGZZTNVJmMjRSNZaf8Uf+p2osJ9zcz8HAQLiAJRb81j4ixkBNAxn+QYsZ6iVsKKB68QUAGus38xrD9j0AAAAASUVORK5CYII=\" style=\"height:22px\" alt=\"\"> Yb) Y + 2[Ag(NH3)2]OH <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnAAqAGA4AAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> ammonium gluconate + 2Ag + 3NH3 + H2Oc) Y <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFUAAAAUCAAAAADZmi5PAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAmO6KQwGsAAAG/SURBVDjLY/zPQAPARAtDcZq6zisp5lsRV4ax+D6G1JAMC77LFqr7GWboVnKHmwhVVFkJrmC46pXueReH9v9YwXPuR/99+68z//tf6vt/xf9fal3/t3B/+b9l5n/pnf+3s33932Hx32Dp/15/7NpxuPWApCyD4QkGBkYGrXcM4QwT/+czeAisZ1gfxsDAxmDwi4lB+/2LC/YMhiewa2fBLvzycwHDc3E4r3kZGwNz/OIgRgEkJQztLF9VSDKVX2QCAwPDDSivytqb4a5yUtf0YGQlDA0iJMaW/e3jCM6Zpf0Mf9cxKFtPdUVSIq80n9Q0oLgo3SnlzLp/y17vfHy6THxypgMLA0NSKDPD9k9rXs1jmPFqw9s9azdaRa1C0/cebxrACnquEVSyrPX//////xNt6uO7b5IJq/qttZ4kU69qOT8mQtlh3rP///9nYWD4dAg5ZCRMYKz7V5HFtRG8nb+RxN/qoAQsp73PMQUGFgaGpwXIwq5wUw+2IIvXKMKZlZ+QxO9q/UMBP3/ObGdgpHKZ9c+WbRcrrlxANuh/dZKVtJRFBHgmc+P/////qRwCK0SdGRgYqB6uEECbugAAvrYC1mcSoKwAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> E + Zd) Z + H2O <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFkAAAAcCAAAAAAv9UysAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAmOtWX8P0AAALUSURBVEjHzZZbSBRhFMf/s+uqD122UJK2Eq1cXbNNdFVS2nzQCjPoYqAu5JUVpKTQB8knn6IgLCS7PSSYVi5tGZGFYYWltOslELJICbW2dilLo7zszOlh1tGc2V0zFjov35z/nO83Z875vm+GIfjIZL4CL478adt/lbOfl/s3bq4cTixjizrCzIHoMRJ7JxRAifz728qMwv6N9vPuX4c8W1P0NKftlVvJ0ESU10JTk0RExmKya+ryaTCg1+1Mr9XQK5iID5vikPQeSKk6MxIAAEhD8ERHFsIT/qHOCkDGBgJyJ1Bo8k9/PqtyXtbrX3VwcHNZZr/gpdzCkGWJ5LGff/r10bHvsjHq8gqmY07GrZCYdpH12sGPFVJqmYMfuV80EjEtEXD7hLcOvjyqkVArXU2EUx+/t0YhEbF/+DIAhtBWImhdQQCAiVhBOZfBj+KgBdKLCm6uioOvNGAIxArS7L5xCoqc4UeJIJFEnMuqftR7qTM9iDeJtN2duiHPu6tbP0VEnsmNzusizTY5OjPPvdYniii3k3uyTUtElBysUgXfF8SMdjWRdfuG8LO8bzYSNdblf5ZGeCZ3EjWXzpGt3fRt7SNy6BoEsnuTWHVfD2/VPmaLIvdMAkC1eacJwMwR7cHxiRxc3ZWGIIshN3WAb3VpjPYemrXaQ2KO+GEF1cS+llvJ0JQcEhq6is/5UjYNKNrVlF9LROvg7EolMhvpShY3rLKG2eiLCCNxPrf1QabkTzdzEkxPAADPcqDWASDXKkx8w8kAPDUw63U1mSFYLcJIVIMAwHW6zZkCUACItgAYXSbHzLwJjMRGlCKn14IdE7zl4wCAHQ/h6AZQ1NoKO1S4GyMDAH0DjViOt9jgEGEkqnHaGOVXyV/u84f/mtjyXCCv+IByCwBly7FCBXISuAYAQF6Pxu9C3Kk0RDUvxDBL+d+I7FJ6D/Ldt3tJOS/KfJfzbyxzzGEoeHUVAAAAAElFTkSuQmCC\" style=\"height:26px\" alt=\"\"> X + GX, Y và Z lần lượt là",
+  "options": {
+   "A": "tinh bột, glucose và ethyl alcohol.",
+   "B": "tinh bột, glucose và khí carbonic.",
+   "C": "cellulose, fructose và khí carbonic.",
+   "D": "cellulose, glucose và khí carbon oxide."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C2_0101",
+  "stem": "(SBT – CD) Trong quá trình sản xuất bia bằng phương pháp lên men sinh học, dưới tác dụng của enzyme sẽ xảy ra quá trình chuyển hoá: X <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnAuSOeSIAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> maltose <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnAuSOeSIAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> Y. X, Y tương ứng là",
+  "options": {
+   "A": "tinh bột và fructose.",
+   "B": "cellulose và fructose.",
+   "C": "cellulose và glucose.",
+   "D": "tinh bột và glucose."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C2_0102",
+  "stem": "Tinh bột không chỉ là chất dinh dưỡng quan trọng trong đời sống mà còn là nguyên liệu chủ yếu để sản xuất bánh, rượu, bia,… Nhận định nào sau đây về tính chất của tinh bột là không đúng?",
+  "options": {
+   "A": "Dung dịch hồ tinh bột tạo với iodine hợp chất màu xanh tím.",
+   "B": "Tinh bột có khả năng tham gia phản ứng tráng bạc.",
+   "C": "Tinh bột bị thuỷ phân trong môi trường acid cho sản phẩm cuối cùng là glucose.",
+   "D": "Thuỷ phân hoàn toàn tinh bột bởi enzyme amylase cho sản phẩm là glucose."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C2_0103",
+  "stem": "(Đề TSĐH B - 2009) Phát biểu nào sau đây là đúng?",
+  "options": {
+   "A": "Saccharose làm mất màu nước bromine.",
+   "B": "Glucose bị khử bởi dung dịch AgNO3 trong NH3.",
+   "C": "Cellulose có cấu trúc mạch phân nhánh.",
+   "D": "Amylopectin có cấu trúc mạch phân nhánh."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C2_0104",
+  "stem": "(Đề MH lần II - 2017) Phát biểu nào sau đây đúng?",
+  "options": {
+   "A": "Dung dịch saccharose phản ứng với Cu(OH)2 tạo dung dịch màu xanh lam.",
+   "B": "Cellulose bị thuỷ phân trong dung dịch kiềm đun nóng.",
+   "C": "Glucose bị thủy phân trong môi trường acid.",
+   "D": "Tinh bột có phản ứng tráng bạc."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C2_0105",
+  "stem": "(Đề TN THPT QG - 2020) Phát biểu nào sau đây đúng?",
+  "options": {
+   "A": "Amylose và amylopectin đều có cấu trúc mạch phân nhánh.",
+   "B": "Trong phân tử glucose có 4 nhóm alcohol (OH).",
+   "C": "Ở điều kiện thường, saccharose là chất rắn kết tinh.",
+   "D": "Saccharose có phản ứng tráng bạc."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C2_0106",
+  "stem": "(Đề THPT QG - 2017) Phát biểu nào sau đây đúng?",
+  "options": {
+   "A": "Phân tử cellulose được cấu tạo từ các gốc fructose.",
+   "B": "Fructose không có phản ứng tráng bạc.",
+   "C": "Amylopectin có cấu trúc mạch phân nhánh.",
+   "D": "Saccharose không tham gia phản ứng thủy phân."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C2_0107",
+  "stem": "(Đề TSĐH A - 2012) Cho các phát biểu sau về carbohydrate:(a) Tất cả các carbohydrate đều có phản ứng thủy phân.(b) Thủy phân hoàn toàn tinh bột thu được glucose.(c) Glucose và fructose đều có phản ứng tráng bạc.(d) Glucose làm mất màu nước bromine.Số phát biểu đúng là",
+  "options": {
+   "A": "1.",
+   "B": "2.",
+   "C": "3.",
+   "D": "4."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C2_0108",
+  "stem": "(Đề TSCĐ - 2011) Có một số nhận xét về carbohydrate như sau:(1) Saccharose, tinh bột và cellulose đều có thể bị thuỷ phân.(2) Glucose, fructose, saccharose đều tác dụng được với Cu(OH)2 và có khả năng tham gia phản ứng tráng bạc.(3) Tinh bột và cellulose là đồng phân cấu tạo của nhau.(4) Phân tử cellulose được cấu tạo bởi nhiều gốc β-glucose.(5) Thuỷ phân tinh bột trong môi trường acid sinh ra fructose.Trong các nhận xét trên, số nhận xét đúng là",
+  "options": {
+   "A": "2.",
+   "B": "4.",
+   "C": "3.",
+   "D": "5."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C2_0109",
+  "stem": "(Đề TSĐH B - 2013) Cho các phát biểu sau:(a) Ở điều kiện thường, glucose và saccharose đều là những chất rắn, dễ tan trong nước.(b) Cellulose trinitrate là nguyên liệu để sản xuất tơ nhân tạo và chế tạo thuốc súng không khói.(c) Amylopectin trong tinh bột chỉ có các liên kết α-1,4-glycoside.(d) Saccharose bị hóa đen trong H2SO4 đặc.(e) Trong công nghiệp dược phẩm, saccharose được dùng để pha chế thuốc.Trong các phát biểu trên, số phát biểu đúng là",
+  "options": {
+   "A": "2.",
+   "B": "3.",
+   "C": "5.",
+   "D": "4."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C2_0110",
+  "stem": "(Đề TSĐH B - 2011) Cho các phát biểu sau về carbohydrate:(a) Glucose và saccharose đều là chất rắn có vị ngọt, dễ tan trong nước.(b) Tinh bột và cellulose đều là polysaccharide.(c) Trong dung dịch, glucose và saccharose đều hoà tan Cu(OH)2, tạo phức màu xanh lam.(d) Khi thuỷ phân hoàn toàn hỗn hợp gồm tinh bột và saccharose trong môi trường acid, chỉ thuđược một loại monosaccharide duy nhất.(e) Khi đun nóng glucose (hoặc fructose) với dung dịch AgNO3 trong NH3 thu được Ag.Số phát biểu đúng là",
+  "options": {
+   "A": "5.",
+   "B": "2.",
+   "C": "4.",
+   "D": "3."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C2_0111",
+  "stem": "(Đề MH – 2022) Cho dung dịch chứa m gam glucose tác dụng với lượng dư AgNO3 trong dung dịch NH3, sau phản ứng hoàn toàn thu được 21,6 gam Ag. Giá trị của m là",
+  "options": {
+   "A": "13,5.",
+   "B": "18,0.",
+   "C": "9,0.",
+   "D": "16,2."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C2_0114",
+  "stem": "(Đề THPT QG - 2019) Đun nóng 100 mL dung dịch glucose a mol/L với lượng dư dung dịch AgNO3 trong NH3. Sau khi phản ứng hoàn toàn thu được 21,6 gam kết tủa. Giá trị của a là",
+  "options": {
+   "A": "0,2.",
+   "B": "0,5.",
+   "C": "0,1.",
+   "D": "1,0."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C2_0115",
+  "stem": "Đun nóng 25 gam dung dịch glucose nồng độ a% với lượng dư dung dịch AgNO3 trong NH3. Sau khi phản ứng xảy ra hoàn toàn thu được 4,32 gam Ag. Giá trị của a là",
+  "options": {
+   "A": "25,92.",
+   "B": "28,80.",
+   "C": "14,40.",
+   "D": "12,96."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C2_0116",
+  "stem": "(Đề MH lần I - 2017) Cho 500 mL dung dịch glucose phản ứng hoàn toàn với lượng dư dung dịch AgNO3 trong NH3, thu được 10,8 gam Ag. Nồng độ của dung dịch glucose đã dùng là",
+  "options": {
+   "A": "0,20 M.",
+   "B": "0,01 M.",
+   "C": "0,02 M.",
+   "D": "0,10 M."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C2_0117",
+  "stem": "Thực hiện phản ứng tráng gương 36 gam dung dịch fructose 10% với lượng dung dịch AgNO3 trong NH3, nếu hiệu suất phản ứng 40% thì khối lượng bạc kim loại thu được là",
+  "options": {
+   "A": "2,16 gam.",
+   "B": "2,592 gam.",
+   "C": "1,728 gam.",
+   "D": "4,32 gam."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C2_0118",
+  "stem": "Đun nóng dung dịch chứa 18 gam hỗn hợp glucose và fuctose với lượng dư dung dịch AgNO3/NH3 đến phản ứng hoàn toàn, thu được m gam Ag. Giá trị của m là",
+  "options": {
+   "A": "5,4 gam.",
+   "B": "21,6 gam.",
+   "C": "10,8 gam.",
+   "D": "43,2 gam."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C2_0119",
+  "stem": "Cho dung dịch chứa m gam hỗn hợp gồm glucose và fructose tác dụng với lượng dung dịch AgNO3/NH3, đun nóng thu được 38,88 gam Ag. Giá trị m là",
+  "options": {
+   "A": "48,6.",
+   "B": "32,4.",
+   "C": "64,8.",
+   "D": "16,2."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C2_0120",
+  "stem": "(Đề TSCĐ - 2014) Cho hỗn hợp gồm 27 gam glucose và 9 gam fructose phản ứng hoàn toàn với lượng dư dung dịch AgNO3 trong NH3, thu được m gam Ag. Giá trị của m là",
+  "options": {
+   "A": "32,4.",
+   "B": "21,6.",
+   "C": "43,2.",
+   "D": "16,2."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C2_0123",
+  "stem": "(Đề THPT QG - 2016) Thủy phân m gam saccharose trong môi trường acid với hiệu suất 90%, thu được sản phẩm chứa 10,8 gam glucose. Giá trị của m là",
+  "options": {
+   "A": "22,8.",
+   "B": "17,1.",
+   "C": "18,5.",
+   "D": "20,5."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C2_0124",
+  "stem": "Thủy phân 68,4 gam saccharose với hiệu suất 75%, thu được m gam glucose. Giá trị m là",
+  "options": {
+   "A": "54.",
+   "B": "27.",
+   "C": "72.",
+   "D": "36."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C2_0128",
+  "stem": "Thủy phân m gam saccharose trong môi trường acid với hiệu suất 80% thu được dung dịch X. Trung hòa X bằng NaOH thu được dung dịch Y. Y hòa tan tối đa 17,64 gam Cu(OH)2. Giá trị của m gần nhất với",
+  "options": {
+   "A": "49.",
+   "B": "77.",
+   "C": "68.",
+   "D": "61."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C2_0129",
+  "stem": "Thủy phân 34,2 gam saccharose trong môi trường acid với hiệu suất phản ứng là 80%, thu được hỗn hợp X. Cho dung dịch NaOH vào hỗn hợp X thu được hỗn hợp Y. Biết hỗn hợp Y hòa tan vừa hết m gam Cu(OH)2; ở nhiệt độ thường. Giá trị của m là",
+  "options": {
+   "A": "15,68.",
+   "B": "8,82.",
+   "C": "7,84.",
+   "D": "17,64."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C2_0130",
+  "stem": "(Đề TNTHPT – 2023) Từ m kg mùn cưa chứa 50% cellulose (còn lại là tạp chất trơ) sản xuất được 80 kg glucose với hiệu suất toàn bộ quá trình là 80%. Giá trị của m là",
+  "options": {
+   "A": "180.",
+   "B": "162.",
+   "C": "360.",
+   "D": "720."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C2_0131",
+  "stem": "(Đề TNTHPT – 2023) Từ 405 kg tinh bột (chứa 20% tạp chất trơ) sản xuất được m kg glucose với hiệu suất toàn bộ quá trình là 80%. Giá trị của m là",
+  "options": {
+   "A": "360.",
+   "B": "288.",
+   "C": "72.",
+   "D": "216."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C2_0132",
+  "stem": "Đem thủy phân 1 kg khoai chứa 20% tinh bột trong môi trường acid. Nếu hiệu suất phản ứng là 75% thì lượng glucose thu được là",
+  "options": {
+   "A": "166,67 gam.",
+   "B": "145,70 gam.",
+   "C": "210,00 gam.",
+   "D": "123,45 gam."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C2_0133",
+  "stem": "Cho 32,4 gam cellulose đem thủy phân trong môi trường acid thu được 27 gam glucose. Hiệu suất của quá trình thủy phân là",
+  "options": {
+   "A": "50%.",
+   "B": "75%.",
+   "C": "80%.",
+   "D": "40%."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C2_0134",
+  "stem": "Thủy phân hoàn toàn 405 gam tinh bột trong môi trường acid thu được m gam glucose. Biết hiệu suất của quá trình thủy phân là 75%. Giá trị của m là",
+  "options": {
+   "A": "675,0.",
+   "B": "450,0.",
+   "C": "337,5.",
+   "D": "600,0."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C2_0136",
+  "stem": "(Đề TSCĐ - 2010) Thuỷ phân hoàn toàn 3,42 gam saccharose trong môi trường acid, thu được dung dịch X. Cho toàn bộ dung dịch X phản ứng hết với lượng dư dung dịch AgNO3 trong NH3, đun nóng, thu được m gam Ag. Giá trị của m là",
+  "options": {
+   "A": "21,60.",
+   "B": "2,16.",
+   "C": "4,32.",
+   "D": "43,20."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C2_0137",
+  "stem": "Thủy phân 51,3 gam saccharose với hiệu suất 75%, thu được hỗn hợp X. Cho toàn bộ X vào lượng dư dung dịch AgNO3 trong NH3, đun nóng, sau khi các phản ứng xảy ra hoàn toàn, thu được m gam Ag. Giá trị của m là",
+  "options": {
+   "A": "81.",
+   "B": "10,8.",
+   "C": "64,8.",
+   "D": "48,6."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C2_0138",
+  "stem": "Thủy phân 6,84 gam saccharose sau một thời gian thu được hỗn hợp X. Cho toàn bộ X vào lượng dư dung dịch AgNO3 trong NH3, đun nóng, sau khi phản ứng xảy ra hoàn toàn, thu được 5,184 gam Ag. Hiệu suất của phản ứng thủy phân saccharose là",
+  "options": {
+   "A": "85%.",
+   "B": "80%.",
+   "C": "75%.",
+   "D": "60%."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C2_0139",
+  "stem": "Thủy phân m gam saccharose với hiệu suất 75%, thu được hỗn hợp X. Cho toàn bộ X vào lượng dư dung dịch AgNO3 trong NH3, đun nóng, sau khi các phản ứng xảy ra hoàn toàn, thu được 3,24 gam Ag. Giá trị của m là",
+  "options": {
+   "A": "6,84.",
+   "B": "1,71.",
+   "C": "3,42.",
+   "D": "5,13."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C2_0140",
+  "stem": "(Đề MH - 2021) Thủy phân 1,71 gam saccharose với hiệu suất 75%, thu được hỗn hợp X. Cho toàn bộ X vào lượng dư dung dịch AgNO3 trong NH3, đun nóng, sau khi các phản ứng xảy ra hoàn toàn, thu được m gam Ag. Giá trị của m là",
+  "options": {
+   "A": "0,81.",
+   "B": "1,08.",
+   "C": "1,62.",
+   "D": "2,16."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C2_0141",
+  "stem": "Thủy phân hoàn toàn 62,5 gam dung dịch saccharose 17,1% trong môi trường acid ta thu được dung dịch X. Cho lượng dư dung dịch AgNO3 trong NH3 vào dung dịch X và đun nhẹ, khối lượng Ag thu được là",
+  "options": {
+   "A": "6,25 gam.",
+   "B": "13,5 gam.",
+   "C": "6,75 gam.",
+   "D": "8 gam."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C2_0142",
+  "stem": "Thực hiện phản ứng thủy phân 3,42 gam saccharose trong dung dịch sulfuric acid loãng, đun nóng. Sau một thời gian, trung hòa acid dư rồi cho hỗn hợp sau phản ứng tác dụng hoàn toàn với dung dịch AgNO3 trong NH3 dư, đun nóng thu được 3,24 gam Ag. Hiệu suất phản ứng thủy phân là",
+  "options": {
+   "A": "87,50%.",
+   "B": "69,27%.",
+   "C": "62,50%.",
+   "D": "75,00%."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C2_0143",
+  "stem": "Cho dung dịch X chứa 34,2 gam saccharose và 18 gam glucose vào lượng dư dung dịch AgNO3 trong NH3, đun nóng để phản ứng xảy ra hoàn toàn, thu được m gam Ag. Giá trị của m là",
+  "options": {
+   "A": "21,6.",
+   "B": "64,8.",
+   "C": "54.",
+   "D": "43,2."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C2_0144",
+  "stem": "Thủy phân hoàn toàn 34,2 gam saccharose. Lấy toàn bộ sản phẩm X của phản ứng thủy phân cho tác dụng với lượng dư AgNO3/NH3 thu được a gam kết tủa. Còn nếu cho toàn bộ sản phẩm X tác dụng với dung dịch nước bromine dư thì có b gam Br2 phản ứng. Giá trị a, b lần lượt là",
+  "options": {
+   "A": "21,6 và 16.",
+   "B": "43,2 và 32.",
+   "C": "21,6 và 32.",
+   "D": "43,2 và 16."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C2_0145",
+  "stem": "Hỗn hợp X gồm glucose và saccharose. Thủy phân hoàn toàn 7,02 gam X trong môi trường acid, thu được dung dịch Y. Trung hòa acid trong dung dịch Y, sau đó cho thêm lượng dư AgNO3 trong dung dịch NH3, đun nóng, thu được 8,64 gam Ag. Thành phần phần trăm theo khối lượng của glucose trong X là",
+  "options": {
+   "A": "51,28%.",
+   "B": "81,19%.",
+   "C": "48,70%.",
+   "D": "18,81%."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C2_0146",
+  "stem": "Dung dịch X chứa glucose và saccharose có cùng nồng độ mol. Lấy 200 mL dung dịch X tác dụng với lượng dư dung dịch AgNO3 trong NH3, đun nóng thu được 34,56 gam Ag. Nếu đun nóng 100 mL dung dịch X với dung dịch H2SO4 loãng dư, đến khi phản ứng xảy ra hoàn toàn, lấy toàn bộ sản phẩm hữu cơ sinh ra cho tác dụng với lượng dư dung dịch AgNO3 trong NH3 thu được lượng kết tủa Ag là",
+  "options": {
+   "A": "51,84.",
+   "B": "69,12.",
+   "C": "34,56.",
+   "D": "38,88."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C2_0147",
+  "stem": "(Đề TN THPT QG – 2021) Thủy phân hoàn toàn m gam tinh bột thành glucose. Cho toàn bộ glucose tham gia phản ứng tráng bạc (hiệu suất 100%), thu được 30,24 gam Ag. Giá trị của m là",
+  "options": {
+   "A": "45,36.",
+   "B": "50,40.",
+   "C": "22,68.",
+   "D": "25,20."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C2_0148",
+  "stem": "(Đề TN THPT QG – 2021) Thủy phân hoàn toàn m gam tinh bột thành glucose. Cho toàn bộ glucose tham gia phản ứng tráng bạc (hiệu suất 100%), thu được 38,88 gam Ag. Giá trị của m là",
+  "options": {
+   "A": "29,16.",
+   "B": "64,80.",
+   "C": "32,40.",
+   "D": "58,32."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C2_0149",
+  "stem": "Thủy phân 10,8 gam cellulose trong môi trường acid. Cho tác dụng với AgNO3 dư trong NH3 đun nóng, sau phản ứng hoàn toàn thu được 11,88 gam Ag. Hiệu suất của phản ứng thủy phân là",
+  "options": {
+   "A": "81,0%.",
+   "B": "78,5%.",
+   "C": "84,5%.",
+   "D": "82,5%."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C2_0150",
+  "stem": "Thủy phân m gam tinh bột trong môi trường acid (giả sử sự thủy phân chỉ tạo glucose). Sau phản ứng, đem trung hòa acid bằng kiềm rồi thực hiện phản ứng tráng bạc thu được m gam Ag. Hiệu suất của phản ứng thủy phân tinh bột là",
+  "options": {
+   "A": "66,67%.",
+   "B": "80%.",
+   "C": "75%.",
+   "D": "50%."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C2_0151",
+  "stem": "(Đề MH – 2024) Lên men 180 gam glucose, thu được m gam ethyl alcohol. Biết hiệu suất của phản ứng lên men là 70%. Giá trị của m là",
+  "options": {
+   "A": "82,8.",
+   "B": "92,0.",
+   "C": "64,4.",
+   "D": "46,0."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C2_0152",
+  "stem": "Người ta điều chế C2H5OH từ cellulose với hiệu suất chung của cả quá trình là 60% thì khối lượng C2H5OH thu được từ 32,4 gam cellulose là",
+  "options": {
+   "A": "30,67 gam.",
+   "B": "18,4 gam.",
+   "C": "12,04 gam.",
+   "D": "11,04 gam."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C2_0153",
+  "stem": "(Đề TSCĐ - 2013) Tiến hành sản xuất ethyl alcohol từ cellulose với hiệu suất của toàn bộ quá trình là 70%. Để sản xuất 2 tấn ethyl alcohol, khối lượng cellulose cần dùng là",
+  "options": {
+   "A": "5,031 tấn.",
+   "B": "10,062 tấn.",
+   "C": "3,521 tấn.",
+   "D": "2,515 tấn."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C2_0154",
+  "stem": "Trong một nhà máy rượu, người ta sử dụng nguyên liệu là mùn cưa chứa 50% cellulose để sản xuất ethyl alcohol, với hiệu suất của toàn bộ quá trình là 80%. Để sản xuất 1,0 tấn ethyl alcohol thì lượng mùn cưa cần dùng là",
+  "options": {
+   "A": "1,76 tấn.",
+   "B": "2,20 tấn.",
+   "C": "3,52 tấn.",
+   "D": "4,40 tấn."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C2_0155",
+  "stem": "Để điều chế ethyl alcohol, người ta thủy phân cellulose có trong mùn cưa thành glucose rồi lên men glucose thành ethyl alcohol. Biết hiệu suất toàn quá trình là 72%. Lượng mùn cưa (chứa 50% cellulose) cần dùng để sản xuất 920 kg C2H5OH là",
+  "options": {
+   "A": "4500 kg.",
+   "B": "2250 kg.",
+   "C": "1620 kg.",
+   "D": "3240 kg."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C2_0156",
+  "stem": "Ethanol có thể được sản xuất từ cellulose hoặc tinh bột. Loại ethanol này được dùng để sản xuất xăng E5 (chứa 5% ethanol về thể tích). Lượng ethanol thu được từ 1 tấn mùn cưa (chứa 50% cellulose, phần còn lại là chất trơ) có thể dùng để pha chế bao nhiêu lít xăng E5? Biết hiệu suất quá trình sản xuất ehtanol từ cellulose là 60% và ethanol có khối lượng riêng là 0,8 gam.L–1.",
+  "options": {
+   "A": "4260 lít.",
+   "B": "212,963 lít.",
+   "C": "224 lít.",
+   "D": "3407 lít."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C2_0157",
+  "stem": "(SGK Hóa học 12 – KNTT) Cồn sinh học được dùng làm nhiên liệu sạch, được sản xuất thông qua quá trình lên men các chất hữu cơ như tinh bột, cellulose. Tính khối lượng ethanol thu được từ 1 tấn mùn cưa chứa 45% cellulose về khối lượng. Biết hiệu suất cả quá trình đạt 70%.",
+  "options": {
+   "A": "0,1789 tấn.",
+   "B": "0,077 tấn.",
+   "C": "0,22 tấn.",
+   "D": "0,004 tấn."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C2_0158",
+  "stem": "Từ 2 tấn khoai chứa 20% tinh bột, bằng phương pháp lên men người ta điều chế được 200 lít ethyl alcohol tinh khiết có d = 0,8 g/mL. Tính hiệu suất của quá trình điều chế ethyl alcohol.",
+  "options": {
+   "A": "25%.",
+   "B": "70,43%.",
+   "C": "80,5%.",
+   "D": "75%."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C2_0159",
+  "stem": "(Đề TSĐH A - 2010) Từ 180 gam glucose, bằng phương pháp lên men rượu, thu được a gam ethyl alcohol (hiệu suất 80%). Oxi hoá 0,1a gam ethyl alcohol bằng phương pháp lên men giấm, thu được hỗn hợp X. Để trung hoà hỗn hợp X cần 720 mL dung dịch NaOH 0,2 M. Hiệu suất quá trình lên men giấm là",
+  "options": {
+   "A": "90%.",
+   "B": "10%.",
+   "C": "80%.",
+   "D": "20%."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C2_0160",
+  "stem": "(Chuyên KHTN Hà Nội - 2018) Từ 16,2 kg gạo có chứa 81% tinh bột có thể sản xuất được V lít ethyl alcohol 230, biết hiệu suất của cả quá trình lên men đạt 75%, khối lượng riêng của ethyl alcohol nguyên chất là 0,8 g/mL. Giá trị của V là",
+  "options": {
+   "A": "30,375 lít.",
+   "B": "37,5 lít.",
+   "C": "40,5 lít.",
+   "D": "24,3 lít."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C2_0161",
+  "stem": "(Đề TSĐH B - 2008) Khối lượng của tinh bột cần dùng trong quá trình lên men để tạo thành 5 lít rượu (alcohol) ethylic 460 là (biết hiệu suất của cả quá trình là 72% và khối lượng riêng của rượu ethylic nguyên chất là 0,8 g/mL)",
+  "options": {
+   "A": "5,4 kg.",
+   "B": "5,0 kg.",
+   "C": "6,0 kg.",
+   "D": "4,5 kg."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C2_0162",
+  "stem": "Từ một loại bột gỗ chứa 60% cellulose được dùng làm nguyên liệu sản xuất ethyl alcohol. Nếu dùng 1 tấn bột gỗ trên có thể điều chế được bao nhiêu lít alcohol 700? Biết hiệu suất của quá trình điều chế là 70%, khối lượng riêng của alcohol nguyên chất là 0,8 g/mL.",
+  "options": {
+   "A": "450 lít.",
+   "B": "420 lít.",
+   "C": "426 lít.",
+   "D": "456 lít."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C2_0163",
+  "stem": "Ethyl alcohol được điều chế bằng cách lên men tinh bột. Để điều chế 10 lít ethyl alcohol 460 cần m kg gạo (chứa 75% tinh bột, còn lại là tạp chất trơ). Biết hiệu suất của cả quá trình là 80% và khối lượng riêng của ethyl alcohol nguyên chất là 0,8 g/mL. Giá trị của m là",
+  "options": {
+   "A": "3,600.",
+   "B": "6,912.",
+   "C": "10,800.",
+   "D": "8,100."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C2_0164",
+  "stem": "(SBT Hóa học 12 – CB) Rượu 400 là loại rượu trong đó ethyl alcohol chiếm 40% về thể tích. Người ta dùng một loại nguyên liệu chứa 50% glucose để lên men thành ethyl alcohol với hiệu suất 80%. Để thu được 2,3 lít rượu 400 cần dùng bao nhiêu kg nguyên liệu nói trên? Biết rằng khối lượng riêng của ethyl alcohol là 0,8 g.mL–1.",
+  "options": {
+   "A": "7,2 kg.",
+   "B": "3,6 kg.",
+   "C": "1,8 kg.",
+   "D": "1,44 kg."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C2_0165",
+  "stem": "(SBT Hóa học 12 – CB) Từ một loại nguyên liệu chứa 80% tinh bột, người ta sản xuất ethyl alcohol bằng phương pháp lên men. Sự hao hụt trong toàn quá trình là 20%. Từ ethyl alcohol người ta pha thành cồn 900. Tính thể tích cồn thu được từ 1 tấn nguyên liệu, biết rằng khối lượng riêng của ethyl alcohol là 0,8 g.mL–1.",
+  "options": {
+   "A": "504,8 lít.",
+   "B": "126,2 lít.",
+   "C": "31,55 lít.",
+   "D": "8,9 lít."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C2_0166",
+  "stem": "(Đề TSĐH B - 2008) Thể tích dung dịch HNO3 67,5% (khối lượng riêng là 1,5 g/mL) cần dùng để tác dụng với cellulose tạo thành 89,1 kg cellulose trinitrate là (biết lượng HNO3 bị hao hụt là 20%)",
+  "options": {
+   "A": "55 lít.",
+   "B": "81 lít.",
+   "C": "49 lít.",
+   "D": "70 lít."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C2_0167",
+  "stem": "(Đề TSĐH A - 2011) Cellulose trinitrate được điều chế từ phản ứng giữa nitric acid với cellulose (hiệu suất phản ứng 60% tính theo cellulose). Nếu dùng 2 tấn cellulose thì khối lượng cellulose trinitrate điều chế được là",
+  "options": {
+   "A": "3,67 tấn.",
+   "B": "2,20 tấn.",
+   "C": "2,97 tấn.",
+   "D": "1,10 tấn."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C2_0168",
+  "stem": "Từ 32,4 tấn mùn cưa (chứa 50% cellulose) người ta sản xuất được m tấn thuốc súng không khói (cellulose trinitrate) với hiệu suất phản ứng tính theo cellulose là 90%. Giá trị của m là",
+  "options": {
+   "A": "26,73.",
+   "B": "29,70.",
+   "C": "33,00.",
+   "D": "25,46."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C2_0169",
+  "stem": "(Đề TSCĐ - 2008) Từ 16,20 tấn cellulose người ta sản xuất được m tấn cellulose trinitrate (biết hiệu suất phản ứng tính theo cellulose là 90%). Giá trị của m là",
+  "options": {
+   "A": "26,73.",
+   "B": "33,00.",
+   "C": "25,46.",
+   "D": "29,70."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C2_0170",
+  "stem": "(Đề TSĐH B - 2007) Cellulose trinitrate được điều chế từ cellulose và nitric acid đặc có xúc tác sulfuric acid đặc, nóng. Để có 29,7 kg cellulose trinitrate, cần dung dịch chứa m kg nitric acid (hiệu suất phản ứng đạt 90%). Giá trị của m là",
+  "options": {
+   "A": "30.",
+   "B": "10.",
+   "C": "21.",
+   "D": "42."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C2_0171",
+  "stem": "(Đề TSĐH B - 2012) Để điều chế 53,46 kg cellulose trinitrate (hiệu suất 60%) cần dùng ít nhất V lít nitric acid 94,5% (D = 1,5 g/mL) phản ứng với cellulose dư. Giá trị của V là",
+  "options": {
+   "A": "60.",
+   "B": "24.",
+   "C": "36.",
+   "D": "40."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C2_0172",
+  "stem": "Cellulose trinitrate được điều chế từ cellulose và nitric acid đặc có xúc tác sulfuric acid đặc, nóng. Để có 44,55 kg cellulose trinitrate, cần dùng dung dịch chứa m kg nitric acid (hiệu suất phản ứng đạt 90%). Giá trị của m là",
+  "options": {
+   "A": "25,515 kg.",
+   "B": "28,350 kg.",
+   "C": "31,500 kg.",
+   "D": "21,234 kg."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C2_0173",
+  "stem": "Đun nóng 121,5 gam cellulose với dung dịch HNO3 đặc trong H2SO4 đặc (dùng dư), phản ứng hoàn toàn thu được x gam cellulose trinitrate. Giá trị của x là",
+  "options": {
+   "A": "222,75.",
+   "B": "186,75.",
+   "C": "176,25.",
+   "D": "129,75."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C2_0174",
+  "stem": "Thể tích dung dịch HNO3 65% (khối lượng riêng là 1,5 g/mL) cần dùng để tác dụng với cellulose tạo thành 89,5 kg cellulose trinitrate là (biết lượng HNO3 bị hao hụt là 25%)?",
+  "options": {
+   "A": "58,41 lít.",
+   "B": "88,77 lít.",
+   "C": "51 lít.",
+   "D": "77,88 lít."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C2_0175",
+  "stem": "Cho 5 lít dung dịch HNO3 68% (D = 1,4 g/mL) phản ứng với cellulose (dư) thu được m kg thuốc súng không khói (cellulose trinitrate), biết hiệu suất phản ứng đạt 90%. Giá trị m gần nhất là",
+  "options": {
+   "A": "8,5.",
+   "B": "7,5.",
+   "C": "6,8.",
+   "D": "9,5."
+  },
+  "answer": "C"
+ }
+]

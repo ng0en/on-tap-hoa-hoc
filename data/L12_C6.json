@@ -1,0 +1,2642 @@
+[
+ {
+  "id": "L12_C6_0001",
+  "stem": "(SBT – CTST) Ở trạng thái cơ bản, cấu hình electron của nguyên tử Mg (Z = 12) là",
+  "options": {
+   "A": "1s22s22p63s1.",
+   "B": "1s22s22p63s2.",
+   "C": "1s22s22p53s2.",
+   "D": "1s22s22p73s1."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C6_0002",
+  "stem": "(SBT – CTST) Ở trạng thái cơ bản, cấu hình electron lớp ngoài cùng của nguyên tử X là 3s1. Số hiệu nguyên tử của nguyên tố X là",
+  "options": {
+   "A": "11.",
+   "B": "12.",
+   "C": "13.",
+   "D": "14."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C6_0003",
+  "stem": "Cho biết số thứ tự của Mg trong bảng tuần hoàn là 12. Vị trí của Mg trong bảng tuần hoàn là",
+  "options": {
+   "A": "chu kì 3, nhóm IIIA.",
+   "B": "chu kì 3, nhóm IIB.",
+   "C": "chu kì 3, nhóm IIA.",
+   "D": "chu kì 2, nhóm IIA."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C6_0004",
+  "stem": "Cho biết số thứ tự của Al trong bảng tuần hoàn là 13. Số electron ở lớp ngoài cùng của Al là",
+  "options": {
+   "A": "1.",
+   "B": "2.",
+   "C": "3.",
+   "D": "4."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C6_0005",
+  "stem": "Cấu hình electron của ion R2+ là 1s22s22p63s23p63d6. Trong bảng tuần hoàn các nguyên tố hóa học, nguyên tố R thuộc",
+  "options": {
+   "A": "chu kì 4, nhóm VIIIA.",
+   "B": "chu kì 4, nhóm VIIIB.",
+   "C": "chu kì 4, nhóm VIB.",
+   "D": "chu kì 4, nhóm IIA."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C6_0006",
+  "stem": "Cấu hình electron của ion R+ là 1s22s22p63s23p6. Trong bảng tuần hoàn các nguyên tố hóa học, nguyên tố R thuộc",
+  "options": {
+   "A": "nhóm IIA, chu kì 4.",
+   "B": "nhóm IA, chu kì 4.",
+   "C": "nhóm IIIA, chu kì 2.",
+   "D": "nhóm IIA, chu kì 6."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C6_0007",
+  "stem": "(OTTN) Ở trạng thái cơ bản, cấu hình electron lớp ngoài cùng của nguyên tử Al (Z = 13) là",
+  "options": {
+   "A": "3s1.",
+   "B": "3s2.",
+   "C": "3s23p1.",
+   "D": "3p1."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C6_0008",
+  "stem": "Ở trạng thái cơ bản, nguyên tử của nguyên tố nào sau đây có số electron lớp ngoài cùng ít nhất?",
+  "options": {
+   "A": "C (Z = 6).",
+   "B": "Li (Z = 3).",
+   "C": "O (Z = 8).",
+   "D": "F (Z = 9)."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C6_0009",
+  "stem": "Ở trạng thái cơ bản, nguyên tử của nguyên tố nào sau đây có 3 electron ở lớp ngoài cùng?",
+  "options": {
+   "A": "11Na.",
+   "B": "13Al.",
+   "C": "20Ca.",
+   "D": "26Fe."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C6_0010",
+  "stem": "(SBT – KNTT) Trong bảng tuần hoàn, các nguyên tố",
+  "options": {
+   "A": "khối s, d, f thường là phi kim.",
+   "B": "khối s, d, f thường là kim loại.",
+   "C": "khối s, p thường là kim loại.",
+   "D": "khối s, p thường là phi kim."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C6_0011",
+  "stem": "(HTHH 12) Cấu hình electron lớp ngoài cùng của nguyên tử Na ở trạng thái cơ bản là 3s1. Vị trí (chu kì, nhóm) của nguyên tố Na trong bảng tuần hoàn là",
+  "options": {
+   "A": "chu kì 3, nhóm IIIA.",
+   "B": "chu kì 3, nhóm IA.",
+   "C": "chu kì 1, nhóm IA.",
+   "D": "chu kì 2, nhóm IIА."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C6_0012",
+  "stem": "Nguyên tố X ở chu kì 3, nhóm IIA của bảng tuần hoàn. Cấu hình electron của nguyên tử nguyên tố X là",
+  "options": {
+   "A": "1s22s22p6.",
+   "B": "1s22s22p63s23p1.",
+   "C": "1s22s22p63s3.",
+   "D": "1s22s22p63s2."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C6_0013",
+  "stem": "(HTHH 12) Nguyên tử các nguyên tố kim loại thường có bao nhiêu electron ở lớp ngoài cùng?",
+  "options": {
+   "A": "4 electron.",
+   "B": "8 electron.",
+   "C": "5 đến 7 electron.",
+   "D": "1 đến 3 electron."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C6_0014",
+  "stem": "(HTHH 12) Nguyên tố K (Z = 19) là nguyên tố thuộc khối nào trong bảng tuần hoàn?",
+  "options": {
+   "A": "Khối d.",
+   "B": "Khối p.",
+   "C": "Khối s.",
+   "D": "Khối f."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C6_0015",
+  "stem": "(HTHH 12) Nguyên tố nào sau đây thuộc khối d trong bảng tuần hoàn?",
+  "options": {
+   "A": "Na (Z = 11).",
+   "B": "Al (Z = 13).",
+   "C": "Ca (Z = 20).",
+   "D": "Mn (Z = 25)."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C6_0016",
+  "stem": "(HTHH 12) Trong một chu kì, nguyên tử nguyên tố nhóm nào có bán kính lớn nhất?",
+  "options": {
+   "A": "Nhóm IIA.",
+   "B": "Nhóm IA.",
+   "C": "Nhóm VIIA.",
+   "D": "Nhóm VA."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C6_0017",
+  "stem": "Cho cấu hình electron nguyên tử của các nguyên tố sau: X (1s22s22p63s1); Y (1s22s22p63s2) và Z (1s22s22p63s23p1). Dãy các nguyên tố xếp theo chiều tăng dần tính kim loại từ trái sang phải là",
+  "options": {
+   "A": "Z, Y, X.",
+   "B": "X, Y, Z.",
+   "C": "Y, Z, X.",
+   "D": "Z, X, Y."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C6_0018",
+  "stem": "(SBT – KNTT) Trong định nghĩa về liên kết kim loại: “Liên kết kim loại là liên kết hình thành do lực hút tĩnh điện giữa các electron...(1)... với các ion...(2)... kim loại ở các nút mạng. Các từ cần điền vào vị trí (1), (2) lần lượt là",
+  "options": {
+   "A": "ngoài cùng, dương.",
+   "B": "tự do, dương.",
+   "C": "hoá trị, lưỡng cực.",
+   "D": "hoá trị, âm."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C6_0019",
+  "stem": "(OTTN) Liên kết trong mạng tinh thể kim loại là loại liên kết nào sau đây?",
+  "options": {
+   "A": "Ion.",
+   "B": "Cộng hoá trị.",
+   "C": "van der Waals.",
+   "D": "Kim loại."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C6_0020",
+  "stem": "(HTHH 12) Trong tinh thể kim loại Ca (Z = 20), cation kim loại ở nút mạng có điện tích là",
+  "options": {
+   "A": "+2.",
+   "B": "+1.",
+   "C": "+3.",
+   "D": "+4."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C6_0021",
+  "stem": "(HTHH 12) Trong tinh thể kim loại Na (Z = 11), mỗi nguyên tử kim loại đóng góp bao nhiêu electron để tham gia liên kết kim loại?",
+  "options": {
+   "A": "1 electron.",
+   "B": "2 electron.",
+   "C": "3 electron.",
+   "D": "4 electron."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C6_0022",
+  "stem": "(HTHH 12) Các kim loại nhóm IA (Li, Na, K, Rb) đều có cùng kiểu cấu trúc tinh thể. Trong số các kim loại trên, tinh thể kim loại nào có liên kết kim loại mạnh nhất?",
+  "options": {
+   "A": "Rb.",
+   "B": "Na.",
+   "C": "Li.",
+   "D": "K."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C6_0023",
+  "stem": "(OTTN) Thành phần nào sau đây không có trong mạng tinh thể kim loại?",
+  "options": {
+   "A": "Ion kim loại.",
+   "B": "Nguyên tử kim loại.",
+   "C": "Electron.",
+   "D": "Anion gốc acid."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C6_0024",
+  "stem": "(OTTN) Trong mạng tinh thể kim loại chứa các cation kim loại được sắp xếp theo một trật tự nhất định cùng với các electron chuyển động",
+  "options": {
+   "A": "theo một quỹ đạo xác định.",
+   "B": "xung quanh một vị trí xác định.",
+   "C": "tự do trong toàn bộ mạng tinh thể.",
+   "D": "trong một khu vực không gian nhất định."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C6_0025",
+  "stem": "So với nguyên tử phi kim cùng chu kì, nguyên tử kim loại",
+  "options": {
+   "A": "thường có bán kính nguyên tử nhỏ hơn.",
+   "B": "thường có năng lượng ion hoá nhỏ hơn.",
+   "C": "thường dễ nhận electron trong các phản ứng hoá học.",
+   "D": "thường có số electron ở các phân lớp ngoài cùng nhiều hơn."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C6_0026",
+  "stem": "(SBT – KNTT) Phát biểu nào sau đây về đặc điểm của nguyên tử kim loại đúng? Trong cùng một chu kì, so với các nguyên tử nguyên tố phi kim thì",
+  "options": {
+   "A": "nguyên tử kim loại có điện tích hạt nhân nhỏ hơn và bán kính lớn hơn nên dễ nhường electron hoá trị hơn.",
+   "B": "nguyên tử kim loại có điện tích hạt nhân lớn hơn và bán kính lớn hơn nên dễ nhường electron hoá trị hơn.",
+   "C": "nguyên tử kim loại có điện tích hạt nhân nhỏ hơn và bán kính nhỏ hơn nên dễ nhường electron hoá trị hơn.",
+   "D": "nguyên tử kim loại có điện tích hạt nhân nhỏ hơn và bán kính lớn hơn nên khó nhường electron hoá trị hơn."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C6_0027",
+  "stem": "(SBT – Cánh Diều) Phát biểu nào sau đây về liên kết kim loại là đúng?",
+  "options": {
+   "A": "Liên kết kim loại là liên kết được hình thành từ lực hút tĩnh điện giữa các cation kim loại và các electron hoá trị tự do. Vì vậy, liên kết kim loại cũng chính là liên kết ion.",
+   "B": "Liên kết kim loại được hình thành do giữa các nguyên tử kim loại có sự dùng chung các electron hoá trị tự do. Vì vậy, liên kết kim loại cũng chính là liên kết cộng hoá trị.",
+   "C": "Liên kết kim loại là liên kết được hình thành từ lực hút tĩnh điện giữa các cation kim loại và các electron hoá trị tự do trong tinh thể kim loại.",
+   "D": "Liên kết kim loại là liên kết được hình thành do sự xen phủ các orbital chứa electron hoá trị tự do của các nguyên tử kim loại."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C6_0028",
+  "stem": "(SBT – KNTT) Phát biểu nào sau đây đúng?Trong tinh thể kim loại:",
+  "options": {
+   "A": "các ion dương kim loại nằm ở các nút mạng tinh thể và các electron hoá trị chuyển động tự do xung quanh.",
+   "B": "các electron hoá trị ở các nút mạng và các ion dương kim loại chuyển động tự do.",
+   "C": "các electron hoá trị và các ion dương kim loại đều chuyển động tự do trong toàn bộ mạng tinh thể.",
+   "D": "các electron hoá trị nằm ở giữa các nguyên tử kim loại cạnh nhau."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C6_0029",
+  "stem": "(SBT – KNTT) Phát biểu nào sau đây đúng?Trong tinh thể kim loại, liên kết kim loại được hình thành do",
+  "options": {
+   "A": "sự góp chung electron của các nguyên tử kim loại cạnh nhau.",
+   "B": "lực hút tĩnh điện giữa các electron hoá trị ở các nút mạng với các ion dương kim loại chuyển động tự do.",
+   "C": "lực hút tĩnh điện giữa các electron hoá trị tự do với các ion dương kim loại chuyển động tự do trong toàn bộ mạng tinh thể.",
+   "D": "lực hút tĩnh điện giữa các electron hoá trị tự do với các ion dương kim loại ở các nút mạng."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C6_0030",
+  "stem": "(SBT – KNTT) Cho các phát biểu sau đây về vị trí và cấu tạo của kim loại:(1) Hầu hết các kim loại chỉ có từ 1 electron đến 3 electron lớp ngoài cùng.(2) Tất các các nguyên tố phân nhóm B (phân nhóm phụ) đều là kim loại.(3) Ở trạng thái rắn, đơn chất kim loại có cấu tạo tinh thể.(4) Các kim loại đều có bán kính nhỏ hơn các phi kim thuộc cùng một chu kì.(5) Liên kết kim loại là liên kết được hình thành giữa các nguyên tử và ion dương kim loại trong mạng tinh thể do sự tham gia của các electron tự do. Những phát biểu đúng là",
+  "options": {
+   "A": "(1), (2), (3), (5).",
+   "B": "(1), (2), (3), (4), (5).",
+   "C": "(1), (2), (3).",
+   "D": "(1), (3), (5)."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C6_0031",
+  "stem": "(SBT – CTST) Các tính chất vật lí chung của kim loại gây nên chủ yếu bởi",
+  "options": {
+   "A": "các electron tự do trong mạng tinh thể.",
+   "B": "các ion kim loại.",
+   "C": "các electron hoá trị.",
+   "D": "các kim loại đều là chất rắn."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C6_0032",
+  "stem": "(SBT – CTST) Kim loại có những tính chất vật lí chung nào sau đây?",
+  "options": {
+   "A": "Tính dẻo, tính dẫn điện, nhiệt độ nóng chảy cao.",
+   "B": "Tính dẫn điện, tính dẫn nhiệt, có khối lượng riêng lớn và có ánh kim.",
+   "C": "Tính dẻo, tính dẫn điện, tính dẫn nhiệt và ánh kim.",
+   "D": "Tính dẻo, có ánh kim, rất cứng."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C6_0033",
+  "stem": "Tính chất nào sau đây không phải là tính chất vật lí chung của kim loại?",
+  "options": {
+   "A": "Ánh kim.",
+   "B": "Tính dẻo.",
+   "C": "Tính cứng.",
+   "D": "Tính dẫn điện."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C6_0034",
+  "stem": "(SBT – CTST) Kim loại X được sử dụng trong nhiệt kế, áp kế và một số thiết bị khác. Ở điều kiện thường, X là chất lỏng. Kim loại X là",
+  "options": {
+   "A": "W.",
+   "B": "Cr.",
+   "C": "Hg.",
+   "D": "Pb."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C6_0035",
+  "stem": "(SBT – CTST) Người ta có thể sử dụng kim loại làm trang sức nhờ vào tính chất nào của chúng?",
+  "options": {
+   "A": "Tính dẻo.",
+   "B": "Ánh kim.",
+   "C": "Tính dẫn điện.",
+   "D": "Tính dẫn nhiệt."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C6_0036",
+  "stem": "Chromium được sử dụng để cắt thuỷ tinh có thể được giải thích dựa vào tính chất vật lí nào?",
+  "options": {
+   "A": "Tính cứng.",
+   "B": "Tính dẫn điện.",
+   "C": "Tính dẻo.",
+   "D": "Tính dẫn nhiệt."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C6_0037",
+  "stem": "(SBT – KNTT) Những tính chất vật lí chung của kim loại (dẫn điện, dẫn nhiệt, dẻo, ánh kim) gây nên chủ yếu bởi",
+  "options": {
+   "A": "các electron tự do trong tinh thể kim loại.",
+   "B": "kiểu cấu tạo mạng tinh thể của kim loại.",
+   "C": "khối lượng riêng của kim loại.",
+   "D": "tính chất của kim loại."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C6_0038",
+  "stem": "(SBT – KNTT) Kim loại có khả năng dẫn điện vì",
+  "options": {
+   "A": "chúng có cấu tạo tinh thể.",
+   "B": "trong tinh thể kim loại, các electron liên kết yếu với hạt nhân, chuyển động tự do trong toàn bộ mạng tinh thể.",
+   "C": "trong mạng tinh thể kim loại, các anion chuyển động tự do.",
+   "D": "trong mạng tinh thể kim loại có các cation kim loại."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C6_0039",
+  "stem": "",
+  "options": {
+   "A": "Cr.",
+   "B": "Al.",
+   "C": "Mg.",
+   "D": "Na."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C6_0040",
+  "stem": "(OTTN) Kim loại có nhiệt độ nóng chảy cao nhất là",
+  "options": {
+   "A": "Na.",
+   "B": "Pb.",
+   "C": "Hg.",
+   "D": "W."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C6_0041",
+  "stem": "(OTTN) Kim loại có khối lượng riêng nhỏ nhất là",
+  "options": {
+   "A": "Na.",
+   "B": "Li.",
+   "C": "Fe.",
+   "D": "Al."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C6_0042",
+  "stem": "(OTTN) Kim loại nào sau đây có nhiệt độ nóng chảy thấp nhất?",
+  "options": {
+   "A": "Na.",
+   "B": "Hg.",
+   "C": "Al.",
+   "D": "Fe."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C6_0043",
+  "stem": "(Đề TN THPT QG – 2021) Kim loại dẫn điện tốt nhất là",
+  "options": {
+   "A": "Au.",
+   "B": "Ag.",
+   "C": "Al.",
+   "D": "Cu."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C6_0044",
+  "stem": "Trong số các kim loại sau, cặp kim loại nào có nhiệt độ nóng chảy cao nhất và thấp nhất?",
+  "options": {
+   "A": "W, Hg.",
+   "B": "Au, W.",
+   "C": "Fe, Hg.",
+   "D": "Cu, Hg."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C6_0045",
+  "stem": "(Đề MH lần II - 2017) Kim loại có khối lượng riêng nhỏ nhất là",
+  "options": {
+   "A": "Hg.",
+   "B": "Cs.",
+   "C": "Al.",
+   "D": "Li."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C6_0046",
+  "stem": "(SBT – KNTT) Kim loại dẫn điện tốt, thường dùng làm lõi dây điện là",
+  "options": {
+   "A": "bạc.",
+   "B": "vàng.",
+   "C": "đồng.",
+   "D": "sắt."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C6_0047",
+  "stem": "(OTTN) Trong nhiều thiết bị có bộ phận tản nhiệt làm bằng nhôm. Vai trò tản nhiệt của nhôm được gây ra bởi tính chất vật lí nào sau đây?",
+  "options": {
+   "A": "Tính dẫn nhiệt.",
+   "B": "Tính dẻo.",
+   "C": "Tính dẫn điện.",
+   "D": "Ánh kim."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C6_0048",
+  "stem": "(OTTN) Có thể dát mỏng, kéo sợi kim loại Au là do kim loại Au có",
+  "options": {
+   "A": "tính dẻo cao.",
+   "B": "tính dẫn điện tốt.",
+   "C": "độ cứng cao.",
+   "D": "nhiệt độ nóng chảy cao."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C6_0049",
+  "stem": "(SBT – Cánh Diều) Nhóm những kim loại có độ dẫn điện tốt nhất là",
+  "options": {
+   "A": "Ag, Cu, Au.",
+   "B": "Cu, Al, Hg.",
+   "C": "Li, Na, K.",
+   "D": "Fe, Cu, Zn."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C6_0050",
+  "stem": "(OTTN) Kim loại tungsten (W) được dùng làm dây tóc bóng đèn sợi đốt. Ứng dụng này dựa trên tính chất nào của kim loại W?",
+  "options": {
+   "A": "Nhiệt độ nóng chảy cao.",
+   "B": "Tính dẻo cao.",
+   "C": "Khả năng dẫn điện tốt.",
+   "D": "Độ cứng cao."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C6_0051",
+  "stem": "(OTTN) Các kim loại Cu, Al thường được sử dụng sản xuất dây dẫn điện. Ứng dụng này dựa trên tính chất nào sau đây của chúng?",
+  "options": {
+   "A": "Có nhiệt độ nóng chảy cao.",
+   "B": "Tính dẫn nhiệt.",
+   "C": "Tính dẫn điện.",
+   "D": "Có ánh kim."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C6_0052",
+  "stem": "(OTTN) Các electron tự do trong mạng tinh thể kim loại đã phản xạ hầu hết các tia sáng nhìn thấy được. Điều này tạo nên tính chất vật lí nào sau đây của kim loại?",
+  "options": {
+   "A": "Tính dẫn điện.",
+   "B": "Ánh kim.",
+   "C": "Tính dẻo.",
+   "D": "Tính dẫn nhiệt."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C6_0053",
+  "stem": "(OTTN) Cầu chì là một phần tử hay thiết bị bảo vệ mạch điện bằng cách làm đứt mạch điện. Cầu chì được sử dụng nhằm phòng tránh các hiện tượng quá tải trên đường dây. Dây cầu chì thường được làm kim loại chì (Pb), thiếc trắng (Sn) hoặc cadmium (Cd). Ứng dụng này dựa trên tính chất nào của các kim loại trên?",
+  "options": {
+   "A": "Có tính dẻo cao.",
+   "B": "Có nhiệt độ nóng chảy tương đối thấp.",
+   "C": "Có độ dẫn điện cao.",
+   "D": "Có độ cứng tương đối thấp."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C6_0054",
+  "stem": "(OTTN) Các tính chất vật lí chung của kim loại như tính dẫn điện, tính dẫn nhiệt, tính dẻo và ánh kim đều có sự tham gia của thành phần nào sau đây?",
+  "options": {
+   "A": "Các ion dương.",
+   "B": "Các ion âm",
+   "C": "Hạt nhân nguyên tử.",
+   "D": "Các electron tự do."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C6_0055",
+  "stem": "(SBT – KNTT) Phát biểu nào sau đây không đúng?Tính dẻo của kim loại là do",
+  "options": {
+   "A": "kim loại ở trạng thái rắn có cấu trúc tinh thể.",
+   "B": "sự trượt của các lớp nguyên tử trong mạng tinh thể kim loại.",
+   "C": "các electron tự do luôn chuyển động và giữ các nguyên tử kim loại liên kết với nhau.",
+   "D": "kim loại ở trạng thái rắn không có cấu trúc tinh thể."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C6_0056",
+  "stem": "(OTTN) Phát biểu nào sau đây sai?",
+  "options": {
+   "A": "Các nguyên tử có 1 hoặc 2 hoặc 3 electron ở lớp ngoài cùng đều là kim loại.",
+   "B": "Trong cùng chu kì, bán kính nguyên từ kim loại lớn hơn bán kính nguyên tử phi kim.",
+   "C": "Ở điều kiện thường, tính dẫn điện của Ag &gt; Cu &gt; Au &gt; Al &gt; Fe.",
+   "D": "Khi nhiệt độ tăng thì khả năng dẫn điện của kim loại giảm."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C6_0057",
+  "stem": "Dãy so sánh tính chất vật lí của dãy kim loại nào sau đây không đúng?",
+  "options": {
+   "A": "Nhiệt độ nóng cháy của Hg &lt; Al &lt; W.",
+   "B": "Khả năng dẫn điện và nhiệt của Ag &gt; Cu &gt; Au.",
+   "C": "Tính cứng của Fe &gt; Cr &gt; Cs.",
+   "D": "Khối lượng riêng của Li &lt; Fe &lt; Os."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C6_0058",
+  "stem": "(Đề TSĐH B - 2012) Phát biểu nào sau đây là sai?",
+  "options": {
+   "A": "Nguyên tử kim loại thường có 1, 2 hoặc 3 electron ở lớp ngoài cùng.",
+   "B": "Các nhóm A bao gồm các nguyên tố s và nguyên tố p.",
+   "C": "Trong một chu kì, bán kính nguyên tử kim loại nhỏ hơn bán kính nguyên tử phi kim.",
+   "D": "Các kim loại thường có ánh kim do các electron tự do phản xạ ánh sáng nhìn thấy được."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C6_0059",
+  "stem": "Khi nói về kim loại, phát biểu nào sau đây sai?",
+  "options": {
+   "A": "Kim loại dẫn điện tốt nhất là Cu.",
+   "B": "Kim loại có nhiệt độ nóng chảy cao nhất là W.",
+   "C": "Kim loại có khối lượng riêng nhỏ nhất là Li.",
+   "D": "Kim loại có độ cứng nhất là Cr."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C6_0060",
+  "stem": "(SBT – CTST) Tính chất hoá học đặc trưng của kim loại là",
+  "options": {
+   "A": "tính oxi hoá và tính khử.",
+   "B": "tính base.",
+   "C": "tính oxi hoá.",
+   "D": "tính khử."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C6_0061",
+  "stem": "(SBT – CTST) Kim loại nào sau đây tan hoàn toàn trong nước?",
+  "options": {
+   "A": "Cu.",
+   "B": "Ag.",
+   "C": "K.",
+   "D": "Au."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C6_0062",
+  "stem": "(OTTN) Đốt một sợi dây kim loại X trong bình khí chlorine (Cl2) thấy tạo ra khói màu nâu đỏ. X là kim loại nào sau đây?",
+  "options": {
+   "A": "Mg.",
+   "B": "Al.",
+   "C": "Fe.",
+   "D": "Cu."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C6_0063",
+  "stem": "(OTTN) Thuỷ ngân (Hg) là chất lỏng ở điều kiện thường, dễ bay hơi và hơi thuỷ ngân rất độc. Khi nhiệt kế thuỷ ngân bị vỡ, để tránh thuỷ ngân phân tán ra môi trường xung quanh, người ta gom thuỷ ngân lại rồi trộn với chất nào sau đây (ở dạng bột)?",
+  "options": {
+   "A": "Carbon (C).",
+   "B": "Magnesium (Mg).",
+   "C": "Iron (Fe).",
+   "D": "Sulfur (S)."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C6_0064",
+  "stem": "(SBT – KNTT) Kim loại nào sau đây không phản ứng với dung dịch HCl loãng?",
+  "options": {
+   "A": "Đồng.",
+   "B": "Calcium.",
+   "C": "Magnesium.",
+   "D": "Kẽm."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C6_0065",
+  "stem": "(SBT – CTST) Kim loại nào sau đây khi tác dụng với HCl và tác dụng với Cl2 (được nung nóng) tạo thành cùng một loại sản phẩm muối chloride?",
+  "options": {
+   "A": "Fe.",
+   "B": "Ag.",
+   "C": "Zn.",
+   "D": "Cu."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C6_0066",
+  "stem": "(SBT – CTST) Phương trình hoá học nào sau đây không đúng?",
+  "options": {
+   "A": "2Na + 2H2O <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnGvfi4XQAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:20px\" alt=\"\"> 2NaOH + H2.",
+   "B": "Ca + 2HCl <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnGvfi4XQAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:20px\" alt=\"\"> CaCl2 + H2.",
+   "C": "Fe + CuSO4 <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnGvfi4XQAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:20px\" alt=\"\"> FeSO4 + Cu.",
+   "D": "Cu + H2SO4 <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnGvfi4XQAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:20px\" alt=\"\"> CuSO4 + H2."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C6_0067",
+  "stem": "(OTTN) Phương trình hoá học nào sau đây sai?",
+  "options": {
+   "A": "Cu + Fe2(SO4)3 <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnHvCPJW0AAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:20px\" alt=\"\"> 2FeSO4 + CuSO4.",
+   "B": "2Fe + 6HCl <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnHvCPJW0AAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:20px\" alt=\"\"> 2FeCl3 + 3H2.",
+   "C": "4Al + 3O2 <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnHvCPJW0AAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:20px\" alt=\"\"> 2Al2O3.",
+   "D": "2Fe + 6H2SO4 (đặc nóng) <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnHvCPJW0AAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:20px\" alt=\"\"> Fe2(SO4)3 + 3SO2 + 6H2O."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C6_0068",
+  "stem": "(OTTN) Đồ vật làm bằng bạc (silver) khi sử dụng lâu ngày trong không khí thường bị hoá đen ở bề mặt là do xảy ra phản ứng nào sau đây?",
+  "options": {
+   "A": "4Ag + O2 <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnHvCPJW0AAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:20px\" alt=\"\"> 2Ag2O.",
+   "B": "2Ag + H2S <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnHvCPJW0AAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:20px\" alt=\"\"> Ag2S + H2.",
+   "C": "4Ag + 2H2S + O2 <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnHvCPJW0AAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:20px\" alt=\"\"> 2Ag2S + 2H2O.",
+   "D": "2Ag + 2H2O <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnHvCPJW0AAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:20px\" alt=\"\"> 2AgOH + H2."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C6_0069",
+  "stem": "(OTTN) Trong nước nguyên chất khi phản ứng xảy ra sẽ có quá trình sau:2H2O + 2e <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnHvCPJW0AAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:20px\" alt=\"\"> H2 + 2OH–; \t\t\t\t<img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJwAAAAYCAAAAAAq8stfAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnGBnsgFgAAAOxSURBVEjH7Zd/TJR1HMffD7s2zyVIzIRBlhSiUBFaq0WOI5w5Rsimln+4cjMaMZxrWDSCa/2miVKjLdE7daRNhvljTi7sD7OzckWCPdEPTg8aeIgQB5ccnPfj3R/P89w9XEZP+bD6o/dfn89779vz2uf7efZ8TyD+u4r5twH+Ai5YteBmkyknKwvoMjeZZ/RxDY8WFvSpek/qIaD4/oKHKicAABdKhcw6AKefWFgPgCRXZ5HkGrKsk0VXOHM6fJeXby8NRYyn0EI+FuLY7Vtk54G0EEm+YiWpOtanAQAzuoPvrTWi5Nzn4X7fEgCoFBC7olW2yhynAAQPr4dq5zw/PQ6UtTRlz9OHI3hV1njEC51dBCQknVF6x/EKAMgDAEH2nrylEUBr3mwABiXY7lwMZL6h25DshXJhGA17g765ABKUpfNv2aMg4btVcmHc+P7QPOx+B2E45yoMbNaNCwBguhqpW71A9p3AJAwAbpqQ7aryxIBcft1zTAmX1u99sX98SQQu9ROc/V5fOLWevQQ0lANG+AFcM0ruyUCBEvj1uSNJSp2Wv+sF6zNSHXlb9ZXfLWuUHBkaGpogGZy1m+T8N6VEsQSQSw6v+EL9SqNtmY8kqYK7WKcn3OkEWfNVZt5W8gpOSY2zo6OjHdscdK0U1b8MpCyoZDTcgZ36zy9KRxd6+VZ2yL94jTJftLA/Y6fNZrN5w6lXhYtSYQCC1d+6TaDP+e6N7tZkdVLFtIHVvxTE+Y8KhhSbyuz4oRQAeu5QjJJvUhHZubCc5r2bOVxc4v3q1pMkSbG62bKd5EeXu9IttKR3qcIHrds+IGstzeYfWZPT25tTE3J7tE3QlaspNhXOM8aVg3z9QzJdMh4cJV86RtaT+X3sy1eCRxrJfvI+flxFjuTQvoncZNd6uo71oqbc1FvJnFj61V+IsfE4YNlnGEmYEgt2XujpnExG772wLwXixzx/7/iN1rs15QxR/a4aAbAH8BsAIIYAQjE4XgSgJd4th3z7u73+rYlsqJUTAhz74NAMl6wxFwV3MGM5gOUbUCtNMm50LtpNcMcDWJfSf0JKza47dLkcgfrnk5D75VqMxM9B2kac0fhI7ZoK17ZjUePLt/X6rvV5uzIPzPq5yrL9Hk9i4WAi4HKLKaLbdWn404pk4GEfYBbPY39RtyVWtEIcGMaA+IjedNPs42TZ9dzabq17f8Oa5prua3rtOu65jDTdj+/PNA3cBlfzH822Hedn8IYQJeH/f1//UL8DdnKx1tFiOtYAAAAASUVORK5CYII=\" style=\"height:26px\" alt=\"\">.Cho <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHYAAAAWCAAAAAAwODeXAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnIDHuOMYAAALMSURBVEjH5VZtSFNRGH7uWGCmjmF+hJlU0BSnbUWNyXAFo6Skhh9phlCt0mYqZIIS2JcU2I+IIKNmST+mUuCPwoSVBsGkKBya0idakG2V5RcGut23H/fOu82ky0XwR+fPfZ/nPOc8933fwz2XISzFkC2JK2RAdz6j3papi78PnLdXD0rc6IImy7j/Mw9cDMMwDPMYmDhZDACYqVUqa0eB4aqI6kkARNSLdiJquUffzPTKStJG3gSxuRoe9BY5HI4O1Qy17lMV8Fy17BMRUXcxEZFQZL0KBICRmK01EozZNcKB6OMmk8ltWQZTW7JfUEo2ALhZCgByP/tcB8Rq7C7rvx18v/mAWSGQ2zmGA4mJANvoAKIFwbqdTXVyjH7ICLK9agdwBkUiEnuWzQfyseCJvvRVAmg3KELqseehGc2HuNcjwKXVxmLoraTadkwD2vVcPKlq3iHM6NvWAIA5rJUn2LWpHdjSFQlAOFIWaScpAcA1LvTlXwmYcBRyz70Fc1S9bPjpMS6cK7JNfIbeKX9vFej3ARFcMiXGsgDRpYZ5646cuzV0im9PQO2vi7R15vh764bST85adhcEaF6wm+eti8uxJWu5MOAr9TpEVbOQbeYPfrgFjjXHKDo7O794U/K4ZKv+stDqOegPibpykWo0GtI3BDXte+XGSo/4Hk9yu90hUzgR0WAKS0REN8pXJ1XcnlMZpvkAC240a52VcsZGjGJUwbYNMQPUeNbHAScRkd09dmDT9PjRJyJd3xf2i5EF30D6OovXoOM5PQB44hTqwzVR6Rkij9vyJrUYWcjFp8mqB9DSeoLHP6MBWAe6gI93y/pF7JcQLurtQu/b049eAt4oFw8fZANgmiomwFJYn8iMJdjKbTUYcu4K4+EvJQAklV9GfVbaIv6IBNv2OJFWgZVvmqe+AgA88cD4YA9KtkJzceDd4tky/9W/1B9KCKNhHHke1gAAAABJRU5ErkJggg==\" style=\"height:24px\" alt=\"\">; <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHoAAAAWCAAAAAAqBNcZAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnGBnsgFgAAAMDSURBVEjH5ZZbSJRpGMd/M80sJRlFTRmEQQeVLTtIIZmlHTY7r52Q7ABhRI2VkUhFZAeCqBsLdls7Ue2FRQW7hRJ0MLqIGiiHCjLJ0LLT5loXSTPO1Py7mE+/mQ7wjQRd9L96nj//9/2/z/M+fN9rEz8K9h/mjB2uLbINz56YnnAOdlWUPOj8Xv41Mye524xkb+q07N/rwvHCtQAEtvTqtaUFGou7l7wDJHn5R9Kps3qdqztudRrrlyg0fYORLH4tLUmWJB1yFBpkif2JJF1bJklmw8clI8DWmXr//hfwHVmGbeUhX5jKd8HsupdA7dX0dt1qHQU4vNpoeBiegan0HVVx2m3JK9BqwA9ARSVQ40uCVF9NWDEbCNq7Q9vGPzqWDco59gFa6jOirA8AbM/f96sl670JBhaZ3FN6Qm+azLs/sS4eNhW7TI37RSWcWAGAA4Bd5TTE1OFt28z4zBuaWstJ9OMAJ0bDebbw8bRSqOw6NWLdrMTDuZyujrAuzWVlTNaROPiQt13qmTyXIAToZtADbnEs+VbcwfORWvuq0ieNafHhpGPCY4LvrYFWSVJOgaQbPJJquREhS9y8nw4bSdIr59b8mnAY8UmxNmBhlA0xsNzk0uLq4H630eGsCuBjKN/r9XpH5XnbRf3mH30+2jyOUfWEqLqqqgqlTRabkFMgSRvyFMop0j1XmaQpki46PZKk8YWm9DrHjQipegHDsrIyRyR9tl9Bc9HIov+s9d8vSb5VM6au8evZwJmS8jLmzMi+pC+slfnetP4Gztco6A7GOgSSVLHdkswRdYUNR0bKUwbA7pbeQ+KXOoCm2/Oqbw59/2ajxTm4XPmXNWHUQbJeSrWfn67c15ypr/DfQn3Imi7qp9nanAApgVmNF9ZGsL6unlQgpTlDxecsFDPY4m8gyjoEwC/9SYog65P4aANwxdmGWux57NY9+rwAD7aol8ul3xh3V+DhOz9oosfs5J9pXEkfu2NMQ9DZzgWcuHbvSWl7nD5g5/8J39Ha9lO+zT4BEJQ1cWdN2T8AAAAASUVORK5CYII=\" style=\"height:24px\" alt=\"\">; <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAH0AAAAXCAAAAAADhB/FAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnH4eIFfsAAAMsSURBVEjH5VZrSFNhGH6OzugidFs3MKWL3WdXqcRyM2toWkpZuMQQKUKhURBWCF4gwgiEIKkoIqppzAtlNSrKIiosLNA0UsNIm81Za2RqTvf0Y2duM4kzFvij59f3Pu973ud73/Oe7zsCMYrwG01x+AHVycIy5ca1M8uAAt2RRt/yJa6JW5fdKxqFii3K7e8BtO7cqlreAQAtB4SlpwE82TWnCADJN6gkWaJnZyJrM+kT1HZaQ7SikdJJ7llIfpt9izzW7CDDQ+0kmXuJpEv9Yx1NiazN8k39EcmMUNGoIlkCI3PWkLSL5GU8JDmg+Ely6L3XhCgwfYWuNFNyk/u7RfS5kSoAEEQjHoDNLxA3VW7k7innAdxVjYdb51O8LrNggoj4YY7wg651b7SWlKWnR4WfcVKHx3SSCY0c6vxKtXqBL/3u1uv1eqto1MiNTr5trVzzlT9wvIe1/qUi2SQUsi2aLvVKMsMX9WYAqHesu1Y9dXddlLfYUEwyItlJxcyz5+k81b1Hr0VENwfNZrN5wCEe88wzLPgog3JIblM5mQrcW/2LpNvUAdLnzYGi+SLS4CeXy+X+ANChKYoYirgDAIN2RNcCsIQ46W1B+2LGOJau2jcMq+1a2Qky27t+tC85ZzAYDD1104pIbiJpCKhhXWA9O8Y+HorKFz7Q2flHO7A0Kioy7I+568s0a5drTd6oVzlKam0PiSO5OyIhVnmf5L2Nyaorriij8yuB+7PfNUqSSSnfHeIXumjLtJHUffkQlkv2zToleRu6XClRHrfMRIXwFk32JRMBvEOq8QZkqTIAphlzE0ptKA1bD2CgRcJMPLh9WMroyDzNrOLiiqQ2XP3yKXixHgDWA/g2FQjcXJlsDAKyF10/KSHt3GuChKjhN+z26ma5P3Bnb4rFRVbFA8gqrooH8Co92iIh7TxJ4sPVZZpUDYC0s3VaF2mZDGCR/30FAOXlKZskJZYEj85bG1/sF4TXJuvzhqbeQ07WNBNorW/JmvT544vIlw0BwXH/Tn7EWczrH4ztGcnRn88etXdHwN8gG3FLAeWIHTeix1redfDflS78x3+VvwHdIckumfrm1wAAAABJRU5ErkJggg==\" style=\"height:26px\" alt=\"\">; <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHQAAAAWCAAAAAA0zeeqAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnH4eIFfsAAALdSURBVEjH5VZ7SFNhHD235iOzh2Vi9ECzIrKaIYFZhGk6qCxQUSyooBY1xMIekgwNeoBUFPVPIj3UFGNRlLXSaRGUShFZkq5akoxCl7pak5m5nf5w1z0SvInUH52/fvd8537nO7/vux9XIP4+xv0DT4wD7HlzA+PiVsnlwJv80vzRzvQwUi+Wtn2JiiVa4OTq1JUnAACGPULkaQCP08PPAiDJzXKSTCVVTdxk4mjQqUpBq/iwMYesLmal/xeaJpQPcisWOEiy4BJJN9M7pKqJyaMz/db/csi01rebpIN5YSQjcgfJK6gjObC0l+TQnlr0yYBKU7p8xkh9tFud6HUjJ/u46tvyaQAErO9sRfOn9YNkxrQiANq1AXBrb12x1FCPJjoxxYN2JU2IPZQYlW0lT/lFywrF8RxfE5ncwqH2TlIolkk2dcc9jUZj8DaNTjSxa/4ePgz5wOapdU72nVBIYzxdpnKyYVSmswBc8DZdlU4ybwaTtpHcohC16yIcRytIkjJxI2JipH4bA1ZnIUxBsx0I9BaEfwQQ3MMPUQBmPRNpVYquqh4AIHNp224dkGRan+IsZB0IGk4Qv/+nD8xzhFALAPNMkd40W5npC8DjRmp0W3LL/YMGHOsdbkqs6XKi47eh5pBzADKDL2NAuwNpuj5YtOni4HilcTfEpHb1C3Mc+KPtnOvtxQ4GHb3XsTVWas/flrZAvWhDgG4/4F+T/cCWcARZ3zdMN2XtHdIon89zVsMfkD4+PT9w+KvjTw9WRYEUlfeF3xr6DXb1tVpd49rxaRMFwHgLsC+qBqp3jZxXdzdHUl+8FlF0pogsK3MRF21kzY1M0rhz5AgGaa3xSkrZ9kpPxuYPtKcaLZISRAiSZF6mT75UWd+7E4aFgO311bDrUk+UFMg8H1/lwq/kuBtRowSq1CFJGcoxNPVM+ry+C7KSBr3eLjL9Pmi/2Y0eQ/mbz+axMhX+m3+kX4U8cf36fgu7AAAAAElFTkSuQmCC\" style=\"height:24px\" alt=\"\">. Hãy cho biết kim loại nào sau đây không phản ứng được với nước ở điều kiện chuẩn.",
+  "options": {
+   "A": "Cu.",
+   "B": "Na.",
+   "C": "Mg.",
+   "D": "Al."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C6_0070",
+  "stem": "(OTTN) Lấy một đinh sắt đã được làm sạch bề mặt rồi ngâm vào dung dịch CuSO4 một thời gian. Hiện tượng nào sau đây không xuất hiện trong thí nghiệm trên?",
+  "options": {
+   "A": "Có chất rắn màu đỏ bám lên đinh sắt.",
+   "B": "Màu xanh của dung dịch nhạt dần.",
+   "C": "Có bọt khí thoát ra mạnh trên bề mặt đinh sắt.",
+   "D": "Đinh sắt bị ăn mòn một phần."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C6_0071",
+  "stem": "Kim loại nào sau đây phản ứng được với dung dịch FeSO4 và dung dịch HNO3 đặc, nguội?",
+  "options": {
+   "A": "Mg.",
+   "B": "Al.",
+   "C": "Cr.",
+   "D": "Cu."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C6_0072",
+  "stem": "(Đề TN THPT QG – 2021) Kim loại phản ứng với dung dịch HCl loãng sinh ra khí H2 là",
+  "options": {
+   "A": "Hg.",
+   "B": "Cu.",
+   "C": "Fe.",
+   "D": "Ag."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C6_0073",
+  "stem": "(Đề THPT QG - 2019) Kim loại nào sau đây không tan được trong H2SO4 loãng?",
+  "options": {
+   "A": "Cu.",
+   "B": "Al.",
+   "C": "Mg.",
+   "D": "Fe."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C6_0074",
+  "stem": "Kim loại nào sau đây tác dụng với dung dịch H2SO4 loãng, thu được khí H2?",
+  "options": {
+   "A": "Au.",
+   "B": "Cu.",
+   "C": "Mg.",
+   "D": "Ag."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C6_0075",
+  "stem": "(Đề THPT QG - 2015) Ở điều kiện thường, kim loại nào sau đây không phản ứng với nước?",
+  "options": {
+   "A": "K.",
+   "B": "Na.",
+   "C": "Ba.",
+   "D": "Be."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C6_0076",
+  "stem": "(Đề MH – 2021) Kim loại nào sau đây tác dụng với nước thu được dung dịch kiềm?",
+  "options": {
+   "A": "Al.",
+   "B": "K.",
+   "C": "Ag.",
+   "D": "Fe."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C6_0077",
+  "stem": "Nhóm những kim loại nào sau đây không phản ứng với dung dịch sulfuric acid đặc, nguội?",
+  "options": {
+   "A": "Fe, Al, Ag.",
+   "B": "Fe, Au, Cr.",
+   "C": "Fe, Al, Zn.",
+   "D": "Al, Cr, Zn."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C6_0078",
+  "stem": "(SBT – CTST) Dãy gồm các kim loại đều phản ứng với nước ở nhiệt độ thường tạo thành dung dịch có môi trường kiềm là",
+  "options": {
+   "A": "Na, Fe, K.",
+   "B": "Na, Cr, K.",
+   "C": "Na, Ba, K.",
+   "D": "Mg, Na, Ca."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C6_0079",
+  "stem": "(SBT – CTST) Thí nghiệm nào sau đây không sinh ra đơn chất?",
+  "options": {
+   "A": "Cho CaCO3 vào lượng dư dung dịch HCl.",
+   "B": "Cho kim loại Cu vào dung dịch AgNO3.",
+   "C": "Cho kim loại Zn vào dung dịch CuSO4.",
+   "D": "Cho kim loại Mg vào dung dịch HCl."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C6_0080",
+  "stem": "(SBT – CTST) Cho dãy các kim loại: Al, Cu, Fe, Ag. Số kim loại trong dãy phản ứng được với dung dịch H2SO4 loãng là",
+  "options": {
+   "A": "1.",
+   "B": "2.",
+   "C": "3.",
+   "D": "4."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C6_0081",
+  "stem": "(SBT – CTST) Cho kim loại Fe lần lượt phản ứng với các dung dịch: FeCl3, Cu(NO3)2, AgNO3, MgCl2. Số trường hợp xảy ra phản ứng hoá học là",
+  "options": {
+   "A": "1.",
+   "B": "2.",
+   "C": "3.",
+   "D": "4."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C6_0082",
+  "stem": "(SBT – KNTT) Dãy kim loại nào sau đây có phản ứng với dung dịch sulfuric acid đặc, nóng tạo thành khí sulfur dioxide?",
+  "options": {
+   "A": "Na, K, Au.",
+   "B": "Al, Fe, Cu.",
+   "C": "Ag, Au, Pt.",
+   "D": "Cu, Ag, Au."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C6_0083",
+  "stem": "(SBT – KNTT) Dãy kim loại nào sau đây không đẩy đồng ra khỏi dung dịch copper(II) sulfate?",
+  "options": {
+   "A": "Na, K, Ag.",
+   "B": "Al, Fe, Mg.",
+   "C": "Al, Zn, Pb.",
+   "D": "Mg, Zn, Fe."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C6_0084",
+  "stem": "(OTTN) Dây kim loại nào sau đây đều không tan trong dung dịch HNO3 đặc, nguội hoặc dung dịch H2SO4 đặc, nguội?",
+  "options": {
+   "A": "Cu, Mg, Fe.",
+   "B": "Au, Cu, Ag.",
+   "C": "Al, Mg, Fe.",
+   "D": "Fe, Cr, Al."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C6_0085",
+  "stem": "(OTTN) Ở nhiệt độ thường, dãy gồm các kim loại nào sau đây đều tan hoàn toàn trong nước dư?",
+  "options": {
+   "A": "Na, K, Ba.",
+   "B": "Mg, Al, Fe.",
+   "C": "Cu, Na, Ag.",
+   "D": "Au, K, Al."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C6_0086",
+  "stem": "(SBT – CTST) X là kim loại phản ứng được với dung dịch H2SO4 loãng, Y là kim loại tác dụng được với dung dịch Fe(NO3)3. Hai kim loại X, Y lần lượt có thể là",
+  "options": {
+   "A": "Ag, Mg.",
+   "B": "Cu, Fe.",
+   "C": "Fe, Cu.",
+   "D": "Mg, Ag."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C6_0087",
+  "stem": "(SBT – KNTT) Kẽm khử được các cation kim loại trong dãy muối nào sau đây?",
+  "options": {
+   "A": "Cu(NO3)2, Pb(NO3)2, Ni(NO3)2.",
+   "B": "AlCl3, MgCl2, Pb(NO3)2.",
+   "C": "AlCl3, Ni(NO3)2, Pb(NO3)2.",
+   "D": "MgCl2, NaCl, Cu(NO3)2."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C6_0088",
+  "stem": "(SBT – KNTT) Cho bột Fe vào dung dịch gồm AgNO3 và Cu(NO3)2. Sau khi các phản ứng xảy ra hoàn toàn, thu được dung dịch X gồm hai muối và chất rắn Y gồm hai kim loại. Hai muối trong X và hai kim loại trong Y lần lượt là:",
+  "options": {
+   "A": "Cu(NO3)2; Fe(NO3)2 và Cu; Fe.",
+   "B": "Cu(NO3)2; Fe(NO3)2 và Ag; Cu.",
+   "C": "Fe(NO3)2; Fe(NO3)3 và Cu; Ag.",
+   "D": "Cu(NO3)2; AgNO3 và Cu; Ag."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C6_0089",
+  "stem": "(SBT – KNTT) Cho 0,02 mol Na vào 1 000 mL dung dịch chứa CuSO4 0,05 M và H2SO4 0,005 M. Hiện tượng của thí nghiệm trên là",
+  "options": {
+   "A": "có khí bay lên và có kết tủa màu xanh lam.",
+   "B": "chỉ có khí bay lên.",
+   "C": "chỉ có kết tủa màu xanh lam.",
+   "D": "có khí bay lên và có kết tủa sau đó kết tủa tan."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C6_0090",
+  "stem": "Trong vỏ Trái Đất, những kim loại nào sau đây tồn tại chủ yếu dưới dạng đơn chất?",
+  "options": {
+   "A": "Ag, Au.",
+   "B": "Zn, Fe.",
+   "C": "Mg, Al.",
+   "D": "Na, Ba."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C6_0091",
+  "stem": "(SBT – KNTT) Chất nào dưới đây là thành phần chính của quặng hematite?",
+  "options": {
+   "A": "Iron(II) oxide.",
+   "B": "Iron(III) oxide.",
+   "C": "Iron.",
+   "D": "Iron(II) sulfide."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C6_0092",
+  "stem": "(SBT – KNTT) Kim loại nào sau đây thường có ở dạng đơn chất trong tự nhiên?",
+  "options": {
+   "A": "Đồng.",
+   "B": "Kẽm.",
+   "C": "Vàng.",
+   "D": "Sắt."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C6_0093",
+  "stem": "(OTTN) Trong vỏ Trái Đất, kim loại nào sau đây có thể tồn tại ở dạng đơn chất?",
+  "options": {
+   "A": "Na, Mg.",
+   "B": "Al, Fe.",
+   "C": "Cu, Zn.",
+   "D": "Ag, Au."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C6_0094",
+  "stem": "Hai nguyên tố kim loại phổ biến nhất trong vỏ Trái Đất là",
+  "options": {
+   "A": "Mg, Ca.",
+   "B": "Na, Ca.",
+   "C": "Au, Ag.",
+   "D": "Al, Fe."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C6_0095",
+  "stem": "(OTTN) Ion kim loại nào sau đây có nhiều nhất trong nước biển?",
+  "options": {
+   "A": "Mg2+.",
+   "B": "K+.",
+   "C": "Na+.",
+   "D": "Ca2+."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C6_0096",
+  "stem": "(SBT – KNTT) Au, Ag có thể tồn tại được ở dạng đơn chất trong tự nhiên vì chúng là kim loại",
+  "options": {
+   "A": "hoạt động hoá học mạnh.",
+   "B": "hoạt động hoá học trung bình.",
+   "C": "có khối lượng riêng lớn.",
+   "D": "rất kém hoạt động hoá học."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C6_0097",
+  "stem": "(SBT – Cánh Diều) Trong tự nhiên, nguyên tố kim loại có thể được tìm thấy ở đâu?(1) Nước ngầm.(2) Nước biển.(3) Đất đá.(4) Cây xanh có hoa.",
+  "options": {
+   "A": "(1), (2) và (3).",
+   "B": "(2) và (3).",
+   "C": "(1) và (3).",
+   "D": "(1), (2), (3) và (4)."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C6_0098",
+  "stem": "(OTTN) Nhôm (Al) là nguyên tố phổ biến thứ ba (sau oxyen và silicon) và là kim loại phổ biến nhất trong vỏ Trái Đất. Nhôm chiếm khoảng 17% khối lớp rắn của Trái Đất. Trong tự nhiên, quặng chính chứa nhôm là bauxite và quặng này là nguyên liệu chính để sản xuất nhôm trong công nghiệp. Thành phần chính của quặng bauxite là",
+  "options": {
+   "A": "Na3AlF6.",
+   "B": "Al2O3.2H2O.",
+   "C": "KAl(SO4)2.12H2O.",
+   "D": "K2O.Al2O3.6SiO2."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C6_0099",
+  "stem": "(OTTN) Sắt (Fe) là nguyên tố kim loại phổ quặng chứa các khoáng vật như: magnetite pyrite (FeS2). Trong các khoáng vật trên, biến trong vỏ Trái Đất, nó tồn tại ở dạng (Fe3O4), hematite (Fe2O3), siderite (FeCO3), khoáng vật có hàm lượng Fe cao nhất là",
+  "options": {
+   "A": "magnetite (Fe3O4).",
+   "B": "pyrite (FeS2).",
+   "C": "siderite (FeCO3).",
+   "D": "hematite (Fe2O3)."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C6_0100",
+  "stem": "(SBT – KNTT) Hợp kim là",
+  "options": {
+   "A": "một kim loại tinh khiết.",
+   "B": "hỗn hợp các kim loại có thành phần tuỳ ý.",
+   "C": "hỗn hợp của kim loại nền với kim loại khác hoặc phi kim, có thành phần xác định.",
+   "D": "hỗn hợp hai phi kim."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C6_0101",
+  "stem": "(OTTN) Hợp kim là vật liệu kim loại chứa một kim loại cơ bản với",
+  "options": {
+   "A": "một số kim loại khác hoặc phi kim.",
+   "B": "một số oxide của kim loại đó.",
+   "C": "một số oxide kim loại khác hoặc phi kim.",
+   "D": "một số phi kim và oxide của phi kim đó."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C6_0102",
+  "stem": "(SBT – KNTT) Chọn phát biểu đúng nhất trong số các phát biểu sau.",
+  "options": {
+   "A": "Hợp kim là hỗn hợp các kim loại.",
+   "B": "Hợp kim là hỗn hợp các phi kim.",
+   "C": "Hợp kim là hỗn hợp của một kim loại cơ bản và phi kim hoặc kim loại khác.",
+   "D": "Hợp kim là kim loại nguyên chất được chế tạo thành các vật dụng hoặc chi tiết máy có cấu trúc khác nhau."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C6_0103",
+  "stem": "(SBT – KNTT) Nguyên nhân chủ yếu làm cho hợp kim cứng hơn các kim loại thành phần là do",
+  "options": {
+   "A": "hợp kim chứa các nguyên tử của các nguyên tố khác nhau làm cho các lớp tinh thể kim loại trong hợp kim khó trượt lên nhau.",
+   "B": "hợp kim chứa các kim loại pha trộn cứng hơn kim loại cơ bản.",
+   "C": "trong hợp kim, các nguyên tố khác nhau tạo nên hợp chất hoá học.",
+   "D": "hợp kim được chế tạo ở nhiệt độ cao làm cho hợp kim cứng hơn kim loại nguyên chất."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C6_0104",
+  "stem": "(OTTN) Phát biểu nào sau đây sai?",
+  "options": {
+   "A": "Tính chất vật lí của hợp kim khác nhiều so với của đơn chất thành phần.",
+   "B": "Tính chất hoá học của hợp kim tương tự tính chất của đơn chất thành phần.",
+   "C": "Tính chất cơ học của hợp kim phụ thuộc vào thành phần đơn chất của hợp kim.",
+   "D": "Tính chất cơ học của hợp kim không phụ thuộc vào hàm lượng các đơn chất."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C6_0105",
+  "stem": "(SBT – KNTT) Đồng đỏ hay đồng thiếc là một hợp kim của",
+  "options": {
+   "A": "đồng và nickel.",
+   "B": "đồng và thiếc.",
+   "C": "đồng và sắt.",
+   "D": "đồng và aluminium."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C6_0106",
+  "stem": "(SBT – KNTT) Đồng thau là một hợp kim của",
+  "options": {
+   "A": "Đồng và thiếc.",
+   "B": "Đồng và nickel.",
+   "C": "Đồng và aluminium.",
+   "D": "Đồng và kẽm."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C6_0107",
+  "stem": "(SBT – KNTT) Chất hay hỗn hợp chất nào sau đây không phải là hợp kim?",
+  "options": {
+   "A": "Thép.",
+   "B": "Đồng.",
+   "C": "Đồng thau.",
+   "D": "Đồng thiếc."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C6_0108",
+  "stem": "(SBT – KNTT) Thêm chromium vào thép thì tính chất nào sau đây được tăng cường?",
+  "options": {
+   "A": "Chống ăn mòn.",
+   "B": "Tính dẫn điện.",
+   "C": "Tính chất từ.",
+   "D": "Tính dễ kéo sợi."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C6_0109",
+  "stem": "(SBT – KNTT) Duralumin là hợp kim của nhôm có thành phần chính là",
+  "options": {
+   "A": "nhôm và đồng.",
+   "B": "nhôm và sắt.",
+   "C": "nhôm và carbon.",
+   "D": "nhôm và thuỷ ngân."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C6_0110",
+  "stem": "(SBT – KNTT) Gang là vật liệu kim loại có thành phần chính là",
+  "options": {
+   "A": "nhôm và magnesium.",
+   "B": "sắt và carbon.",
+   "C": "đồng và kẽm.",
+   "D": "đồng và thiếc."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C6_0111",
+  "stem": "(SBT – KNTT) Duralumin là vật liệu kim loại chứa nguyên tố kim loại cơ bản nào sau đây?",
+  "options": {
+   "A": "Nhôm.",
+   "B": "Kẽm.",
+   "C": "Sắt.",
+   "D": "Nickel."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C6_0112",
+  "stem": "(SBT – KNTT) Hợp kim nào sau đây được sử dụng để làm cấu trúc thân vỏ máy bay?",
+  "options": {
+   "A": "Duralumin.",
+   "B": "Đồng thau (Brass).",
+   "C": "Đồng thiếc (Bronze).",
+   "D": "Manganin."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C6_0113",
+  "stem": "(SBT – Cánh Diều) “Thép 304” là một loại thép không gỉ được dùng phổ biến trong đời sống. Các kim loại chủ yếu tạo nên loại thép này bao gồm",
+  "options": {
+   "A": "Fe, C, Cr.",
+   "B": "Fe, Cr, Ni.",
+   "C": "Fe, Cu, Cr.",
+   "D": "Fe, C, Cr, Ni."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C6_0114",
+  "stem": "(SBT – Cánh Diều) Dural là một loại hợp kim quan trọng của nhôm, có đặc điểm là nhẹ, cứng, bền cơ học phù hợp với các ứng dụng nào sau đây?(1) Chế tạo cánh máy bay.(2) Áo giáp, khiên bảo vệ.(3) Làm ống dẫn dầu, mỏ neo.",
+  "options": {
+   "A": "(1), (2).",
+   "B": "(1).",
+   "C": "(1), (2), (3).",
+   "D": "(1), (3)."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C6_0115",
+  "stem": "(SBT – KNTT) Thép là hợp kim của sắt và carbon, có thể chứa chromium và nickel. Tính chất của thép phụ thuộc vào hàm lượng các nguyên tố pha tạp. Loại thép nào sau đây được sử dụng để làm dụng cụ y tế?",
+  "options": {
+   "A": "Thép có hàm lượng carbon cao.",
+   "B": "Thép có hàm lượng carbon thấp.",
+   "C": "Thép không gỉ.",
+   "D": "Thép silicon."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C6_0116",
+  "stem": "(SBT – KNTT) Đồng thau là hợp kim chứa khoảng 70% đồng và 30% kẽm. Ứng dụng nào sau đây không phải là ứng dụng của đồng thau?",
+  "options": {
+   "A": "Làm thiết bị dẫn điện.",
+   "B": "Làm dụng cụ nấu ăn.",
+   "C": "Làm thân vỏ máy bay.",
+   "D": "Làm nhạc cụ."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C6_0117",
+  "stem": "(SBT – KNTT) Khi chế tạo thép từ gang, có thể làm giảm tỉ lệ phần trăm carbon trong gang bằng cách nào sau đây?",
+  "options": {
+   "A": "Sử dụng oxygen để đốt cháy carbon trong gang nóng chảy.",
+   "B": "Lọc carbon ra khỏi gang.",
+   "C": "Hoà tan carbon trong dung dịch sulfuric acid.",
+   "D": "Cạo carbon ra khỏi bề mặt kim loại."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C6_0118",
+  "stem": "(SBT 12 – CB) Một loại đồng thau có chứa 59,63% Cu và 40,37% Zn. Hợp kim này có cấu tạo tinh thể của hợp chất hoá học giữa đồng và kẽm. Công thức hoá học của hợp chất là",
+  "options": {
+   "A": "Cu3Zn2.",
+   "B": "Cu2Zn3.",
+   "C": "Cu2Zn.",
+   "D": "CuZn2."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C6_0119",
+  "stem": "(SBT 12 – CB) Trong hợp kim Al Mg, cứ có 9 mol Al thì có 1 mol Mg. Thành phần phần trăm khối lượng của hợp kim là",
+  "options": {
+   "A": "80% Al và 20% Mg.",
+   "B": "91% Al và 9% Mg.",
+   "C": "81% Al và 19% Mg.",
+   "D": "83% Al và 17% Mg."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C6_0120",
+  "stem": "Sự phá huỷ kim loại hay hợp kim do kim loại tác dụng trực tiếp với các chất oxi hoá trong môi trường được gọi là",
+  "options": {
+   "A": "sự khử kim loại.",
+   "B": "sự tác dụng của kim loại với nước.",
+   "C": "sự ăn mòn hoá học.",
+   "D": "sự ăn mòn điện hoá học."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C6_0121",
+  "stem": "Sự ăn mòn kim loại không phải là",
+  "options": {
+   "A": "sự khử kim loại.",
+   "B": "sự oxi hoá kim loại.",
+   "C": "sự phá huỷ kim loại hoặc hợp kim do tác dụng của các chất trong môi trường.",
+   "D": "sự biến đơn chất kim loại thành hợp chất."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C6_0122",
+  "stem": "Phản ứng hoá học nào xảy ra trong sự ăn mòn kim loại?",
+  "options": {
+   "A": "Phản ứng trao đổi.",
+   "B": "Phản ứng oxi hoá – khử.",
+   "C": "Phản ứng thủy phân.",
+   "D": "Phản ứng acid – base."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C6_0123",
+  "stem": "(SBT – KNTT) Trong hiện tượng ăn mòn kim loại xảy ra quá trình nào sau đây?",
+  "options": {
+   "A": "Quá trình oxi hoá kim loại.",
+   "B": "Quá trình khử kim loại.",
+   "C": "Quá trình điện phân.",
+   "D": "Sự mài mòn kim loại."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C6_0124",
+  "stem": "(SBT – KNTT) Hiện tượng nào sau đây không phải là hiện tượng ăn mòn kim loại?",
+  "options": {
+   "A": "Ống thép bị gỉ sắt màu nâu đỏ.",
+   "B": "Vòng bạc bị xỉn màu.",
+   "C": "Công trình bằng đá bị ăn mòn bởi mưa acid.",
+   "D": "Chuông đồng bị gỉ đồng màu xanh."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C6_0125",
+  "stem": "(SBT – KNTT) Phát biểu về hiện tượng ăn mòn kim loại nào sau đây đúng?",
+  "options": {
+   "A": "Khi kim loại bị ăn mòn, các đặc tính hữu ích của kim loại như tính dẻo, dễ dát mỏng, dễ kéo sợi và tính dẫn điện bị suy giảm.",
+   "B": "Khi kim loại bị ăn mòn, các đặc tính hữu ích của kim loại như tính dẻo, dễ dát mỏng, dễ kéo sợi và tính dẫn điện không bị ảnh hưởng.",
+   "C": "Khi kim loại bị ăn mòn, các đặc tính hữu ích của kim loại như tính dẻo, dễ dát mỏng, dễ kéo sợi và tính dẫn điện được tăng cường.",
+   "D": "Khi kim loại bị ăn mòn, các kim loại không phản ứng với dung dịch acid."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C6_0126",
+  "stem": "(SBT – KNTT) Đinh sắt bị ăn mòn khi gắn với kim loại nào sau đây?",
+  "options": {
+   "A": "Magnesium.",
+   "B": "Nhôm.",
+   "C": "Kẽm.",
+   "D": "Đồng."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C6_0127",
+  "stem": "(SBT – KNTT) Ngâm các mẫu sau vào dung dịch acid rồi để ngoài không khí, mẫu nào không xảy ra ăn mòn điện hoá?",
+  "options": {
+   "A": "Miếng gang.",
+   "B": "Lá đồng.",
+   "C": "Miếng tôn.",
+   "D": "Đinh sắt."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C6_0128",
+  "stem": "Nhúng thanh kim loại Zn vào dung dịch chất nào sau đây thì xảy ra hiện tượng ăn mòn điện hoá?",
+  "options": {
+   "A": "KCl.",
+   "B": "HCl.",
+   "C": "CuSO4.",
+   "D": "MgCl2."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C6_0129",
+  "stem": "Nhúng một thanh Zn vào dung dịch gồm muối X thì có xảy ra sự ăn mòn điện hoá của Zn. Muối nào sau đây phù hợp với X?",
+  "options": {
+   "A": "CuSO4.",
+   "B": "Na2SO4.",
+   "C": "Al2(SO4)3.",
+   "D": "MgSO4."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C6_0130",
+  "stem": "Quấn sợi dây kim loại X quanh một đinh sắt rồi nhúng vào ống nghiệm đựng dung dịch HCl loãng. Biết rằng thí nghiệm xảy ra sự ăn mòn điện hoá của đinh sắt. Kim loại X là",
+  "options": {
+   "A": "Mg.",
+   "B": "Al.",
+   "C": "Cu.",
+   "D": "Zn."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C6_0131",
+  "stem": "(SBT – KNTT) Trường hợp nào sau đây kim loại bị ăn mòn điện hoá học?",
+  "options": {
+   "A": "Đốt dây sắt trong khí oxygen khô.",
+   "B": "Thép carbon để trong không khí ẩm.",
+   "C": "Kim loại kẽm trong dung dịch HCl.",
+   "D": "Kim loại sắt trong dung dịch HNO3 loãng."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C6_0132",
+  "stem": "(SBT – KNTT) Điều kiện nào sau đây là điều kiện cần thiết để xảy ra hiện tượng gỉ sắt?",
+  "options": {
+   "A": "Môi trường có oxygen và nước.",
+   "B": "Môi trường có oxygen và nhiệt độ cao.",
+   "C": "Môi trường có nước và nhiệt độ cao.",
+   "D": "Môi trường có oxygen, nước và nhiệt độ cao."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C6_0133",
+  "stem": "(SBT – KNTT) Cho các trường hợp sau: (1) Bọc đinh sắt bằng dây đồng; (2) Bọc đinh sắt bằng dây kẽm; (3) Nhúng đinh sắt vào dung dịch acid. Trường hợp đinh sắt bị rỉ nhanh hơn là",
+  "options": {
+   "A": "(1) và (2).",
+   "B": "(1) và (3).",
+   "C": "(2) và (3).",
+   "D": "(1), (2) và (3)."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C6_0134",
+  "stem": "(SBT – KNTT) Cho các cặp kim loại nguyên chất tiếp xúc trực tiếp với nhau: Fe và Pb; Fe và Zn; Fe và Sn; Fe và Ni. Khi nhúng các cặp kim loại trên vào dung dịch acid, số cặp kim loại trong đó Fe bị phá huỷ trước là",
+  "options": {
+   "A": "1.",
+   "B": "3.",
+   "C": "2.",
+   "D": "4."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C6_0135",
+  "stem": "(SBT – CTST) Để các hợp kim: Fe – Cu; Fe – C; Zn – Fe; Mg – Fe lâu ngày trong không khí ẩm. Số hợp kim mà trong đó Fe bị ăn mòn điện hoá là",
+  "options": {
+   "A": "1.",
+   "B": "2.",
+   "C": "3.",
+   "D": "4."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C6_0136",
+  "stem": "Cho 4 dung dịch riêng biệt: (1) HCl, (2) CuCl2, (3) FeCl3, (4) hỗn hợp HCl, CuCl2. Nhúng một thanh sắt nguyên chất vào mỗi dung dịch nếu trên. Số trường hợp xuất hiện ăn mòn điện hoá là",
+  "options": {
+   "A": "0.",
+   "B": "1.",
+   "C": "2.",
+   "D": "3."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C6_0137",
+  "stem": "(SBT – KNTT) Lần lượt nối thanh Zn với mỗi kim loại sau đây và cho vào dung dịch HCl. Quá trình ăn mòn thanh Zn xảy ra nhanh nhất khi nối với",
+  "options": {
+   "A": "Mg.",
+   "B": "Pb.",
+   "C": "Ag.",
+   "D": "Cu."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C6_0138",
+  "stem": "(SBT – KNTT) Cho một thanh Fe tiếp xúc với một thanh Cu, sau đó nhúng vào dung dịch HCl, hiện tượng sẽ quan sát được là",
+  "options": {
+   "A": "thanh Fe tan và bọt khí chỉ thoát ra từ thanh Cu.",
+   "B": "cả 2 thanh tan đồng thời và khí thoát ra từ 2 thanh.",
+   "C": "thanh Fe tan trước và bọt khí thoát ra trên thanh Fe.",
+   "D": "thanh Fe tan và bọt khí thoát ra từ cả thanh Fe và thanh Cu."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C6_0139",
+  "stem": "Cho lá Al vào dung dịch HCl, có khí thoát ra. Thêm vài giọt dung dịch CuSO4 vào thì",
+  "options": {
+   "A": "tốc độ thoát khí tăng.",
+   "B": "tốc độ thoát khí không đổi.",
+   "C": "phản ứng ngừng lại.",
+   "D": "tốc độ thoát khí giảm."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C6_0140",
+  "stem": "(Đề TSĐH A - 2008) Biết rằng ion Pb2+ trong dung dịch oxi hóa được Sn. Khi nhúng hai thanh kim loại Pb và Sn được nối với nhau bằng dây dẫn điện vào một dung dịch chất điện li thì",
+  "options": {
+   "A": "cả Pb và Sn đều bị ăn mòn điện hoá.",
+   "B": "cả Pb và Sn đều không bị ăn mòn điện hoá.",
+   "C": "chỉ có Pb bị ăn mòn điện hoá.",
+   "D": "chỉ có Sn bị ăn mòn điện hoá."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C6_0141",
+  "stem": "(SBT – KNTT) Khi một vật bằng sắt tây (sắt tráng thiếc) bị xây sát sâu tới lớp sắt bên trong để lâu trong không khí ẩm sẽ xảy ra quá trình nào sau đây?",
+  "options": {
+   "A": "Sn bị ăn mòn điện hoá.",
+   "B": "Fe bị ăn mòn điện hoá.",
+   "C": "Fe bị ăn mòn hoá học.",
+   "D": "Sn bị ăn mòn hoá học."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C6_0142",
+  "stem": "Nếu vật làm bằng hợp kim Fe – Zn bị ăn mòn điện hoá thì trong quá trình ăn mòn",
+  "options": {
+   "A": "zinc (Zn) đóng vài trò cathode và bị oxi hóa.",
+   "B": "iron (Fe) đóng vài trò anode và bị oxi hoá.",
+   "C": "iron (Fe) đóng vài trò cathode và ion H+ bị oxi hóa.",
+   "D": "zinc (Zn) đóng vài trò anode và bị oxi hoá."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C6_0143",
+  "stem": "Một vật làm bằng hợp kim Zn – Fe đặt trong không khí ẩm sẽ bị ăn mòn điện hoá. Các quá trình xảy ra tại điện cực là",
+  "options": {
+   "A": "Anode: Fe <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnG4Dl0eIAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> Fe2+ + 2e và cathode: O2 + 2H2O + 4e <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnG4Dl0eIAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> 4OH–.",
+   "B": "Anode: Zn <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnG4Dl0eIAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> Zn2+ + 2e và cathode: Fe + 2e <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnG4Dl0eIAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> Fe2+.",
+   "C": "Anode: Fe <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnG4Dl0eIAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> Fe2+ + 2e và cathode: 2H+ + 2e <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnG4Dl0eIAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> H2.",
+   "D": "Anode: Zn <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnG4Dl0eIAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> Zn2+ + 2e và cathode: O2 + 2H2O + 4e <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnG4Dl0eIAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> 4OH–."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C6_0144",
+  "stem": "(OTTN) Trường hợp nào sau đây không xảy ra sự ăn mòn kim loại?",
+  "options": {
+   "A": "Tàu đánh cá làm bằng thép bị hoen gỉ sau thời gian đi biển về.",
+   "B": "Trống đồng bị chuyển màu xanh khi để lâu ngày trong không khí ẩm.",
+   "C": "Vòng tay làm bằng bạc kim loại bị hoá đen khi sử dụng lâu ngày.",
+   "D": "Nấu chảy vàng để đúc khuôn khi chế tác vàng trang sức."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C6_0145",
+  "stem": "(Đề THPT QG - 2019) Thí nghiệm nào sau đây chỉ xảy ra ăn mòn hóa học?",
+  "options": {
+   "A": "Nhúng thanh Zn vào dung dịch CuSO4.",
+   "B": "Nhúng thanh Fe vào dung dịch CuSO4 và H2SO4 loãng.",
+   "C": "Nhúng thanh Cu vào dung dịch AgNO3.",
+   "D": "Nhúng thanh Cu vào dung dịch Fe2(SO4)3."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C6_0146",
+  "stem": "(OTTN) Trường hợp nào sau đây kim loại bị phá huỷ chủ yếu do ăn mòn hoá học?",
+  "options": {
+   "A": "Thiết bị làm bằng thép trong lò đốt lâu ngày bị phá huỷ.",
+   "B": "Thép xây dựng bị gỉ khi để lâu ngày trong không khí ẩm.",
+   "C": "Ống nước làm bằng gang bị gì khi chôn dưới đất lâu ngày.",
+   "D": "Vỏ tàu biển làm bằng thép bị gỉ sau một thời gian sử dụng."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C6_0147",
+  "stem": "(OTTN) Trường hợp nào sau đây kim loại bị phá huỷ chủ yếu do ăn mòn điện hoá học?",
+  "options": {
+   "A": "Thiết bị làm bằng sắt trong lò đốt lâu ngày bị phá huỷ.",
+   "B": "Thước nhôm để trong không khí bị phủ bởi lớp Al2O3 ở bề mặt.",
+   "C": "Cánh cửa làm bằng thép nhanh bị gì khi để ngoài trời mưa.",
+   "D": "Đốt dây sắt trong bình khí chlorine."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C6_0148",
+  "stem": "(Đề THPT QG - 2019) Thí nghiệm nào sau đây chỉ xảy ra ăn mòn hóa học?",
+  "options": {
+   "A": "Nhúng thanh Zn vào dung dịch hỗn hợp gồm H2SO4 và CuSO4.",
+   "B": "Nhúng thanh Zn vào dung dịch H2SO4 loãng.",
+   "C": "Để đinh iron (Fe) (làm bằng thép carbon) trong không khí ẩm.",
+   "D": "Nhúng thanh iron (Fe) (làm bằng thép carbon) vào dung dịch H2SO4 loãng."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C6_0149",
+  "stem": "(SBT – CTST) Thí nghiệm nào sau đây không xảy ra ăn mòn điện hoá?",
+  "options": {
+   "A": "Đốt cháy dây sắt trong không khí khô.",
+   "B": "Cho hợp kim Fe – Cu vào dung dịch CuSO4.",
+   "C": "Đặt mẫu gang lâu ngày trong không khí ẩm.",
+   "D": "Cho kim loại Fe vào dung dịch AgNO3."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C6_0150",
+  "stem": "(SBT – KNTT) Để bảo vệ khung xe đạp khỏi bị ăn mòn có thể dùng cách nào sau đây?",
+  "options": {
+   "A": "Ngâm trong dung dịch acid.",
+   "B": "Bọc dây đồng quanh khung xe.",
+   "C": "Phủ kín bề mặt bằng lớp sơn.",
+   "D": "Để trong không khí ẩm."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C6_0151",
+  "stem": "Trong thực tế, không sử dụng cách nào sau đây để bảo vệ kim loại sắt khỏi bị ăn mòn?",
+  "options": {
+   "A": "Gắn đồng với kim loại sắt.",
+   "B": "Tráng kẽm lên bề mặt sắt.",
+   "C": "Phủ một lớp sơn lên bề mặt sắt.",
+   "D": "Tráng thiếc lên bề mặt sắt."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C6_0152",
+  "stem": "(OTTN) Trường hợp nào sau đây đã sử dụng phương pháp điện hoá để chống ăn mòn kim loại?",
+  "options": {
+   "A": "Mạ vàng lên quai đồng hồ.",
+   "B": "Bôi dầu mỡ lên xích xe đạp.",
+   "C": "Gắn tấm kẽm lên mặt ngoài vỏ tàu biển.",
+   "D": "Sơn kín bề mặt khung cửa thép."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C6_0153",
+  "stem": "(SBT – KNTT) Để bảo vệ vỏ tàu biển làm bằng thép người ta thường gắn vào vỏ tàu (phần ngâm dưới nước) những tấm kim loại nào sau đây?",
+  "options": {
+   "A": "Sn.",
+   "B": "Pb.",
+   "C": "Zn.",
+   "D": "Cu."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C6_0154",
+  "stem": "Phương pháp nào sau đây không dùng để bảo vệ vật làm sắt thép khỏi bị ăn mòn?",
+  "options": {
+   "A": "Gắn thêm kẽm.",
+   "B": "Gắn thêm magnesium.",
+   "C": "Gắn thêm chì.",
+   "D": "Phủ sơn hoặc dầu mỡ."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C6_0155",
+  "stem": "",
+  "options": {
+   "A": "2.",
+   "B": "3.",
+   "C": "4.",
+   "D": "1."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C6_0156",
+  "stem": "(SBT – CTST) Thực hiện các thí nghiệm sau:(1) Ngâm lá đồng trong dung dịch AgNO3.(2) Ngâm lá kẽm trong dung dịch HCl loãng.(4) Ngâm lá sắt được cuộn dây đồng trong dung dịch HCl.(5) Đặt một vật làm bằng gang ngoài không khí ẩm trong nhiều ngày.(6) Ngâm một miếng đồng vào dung dịch Fe2(SO4)3.Số thí nghiệm xảy ra ăn mòn điện hoá là",
+  "options": {
+   "A": "1.",
+   "B": "2.",
+   "C": "3.",
+   "D": "4."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C6_0157",
+  "stem": "(SBT – CTST) Thực hiện các thí nghiệm sau:(1) Nhúng sợi dây bạc trong dung dịch HNO3.(2) Đốt dây nhôm trong không khí.(3) Lấy sợi dây đồng quấn quanh đinh sắt rồi nhúng vào dung dịch HCl.(4) Nhúng thanh kẽm trong dung dịch CuSO4.Số trường hợp xuất hiện ăn mòn điện hoá là",
+  "options": {
+   "A": "2.",
+   "B": "3.",
+   "C": "4.",
+   "D": "5."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C6_0158",
+  "stem": "(SBT – CTST) Thực hiện các thí nghiệm sau:(1) Cho khí CO đi qua ống đựng Fe2O3 nung nóng.(2) Ngâm một đinh sắt nguyên chất vào dung dịch H2SO4 loãng có nhỏ thêm vài giọt dung dịch CuSO4.(3) Nhỏ từng giọt dung dịch Fe(NO3)2 vào dung dịch AgNO3.(4) Đặt một thanh thép trong không khí ẩm.(5) Ngâm một lá kẽm nguyên chất vào dung dịch CuSO4.(6) Quấn hai sợi dây điện làm bằng nhôm và đồng rồi để trong không khí ẩm.Số trường hợp xảy ra ăn mòn điện hoá là",
+  "options": {
+   "A": "3.",
+   "B": "4.",
+   "C": "5.",
+   "D": "6."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C6_0159",
+  "stem": "Đốt cháy hoàn toàn m gam Al trong khí O2 lấy dư, thu được 10,2 gam Al2O3. Giá trị của m là",
+  "options": {
+   "A": "5,4.",
+   "B": "3,6.",
+   "C": "2,7.",
+   "D": "4,8."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C6_0160",
+  "stem": "Đốt cháy hoàn toàn m gam Fe trong khí Cl2 dư, thu được 6,5 gam FeCl3. Giá trị của m là",
+  "options": {
+   "A": "2,24.",
+   "B": "2,80.",
+   "C": "1,12.",
+   "D": "0,56."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C6_0161",
+  "stem": "Cho m gam Al phản ứng hoàn toàn với khí Cl2 dư, thu được 26,7 gam muối. Giá trị của m là",
+  "options": {
+   "A": "2,7.",
+   "B": "7,4.",
+   "C": "3,0.",
+   "D": "5,4."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C6_0162",
+  "stem": "Đốt cháy hoàn toàn 9,6 gam một kim loại M (có hóa trị n) trong bình chứa khí chlorine nguyên chất. Sau khi phản ứng kết thúc, để nguội thì thu được 20,25 gam muối chloride. Kim loại M là",
+  "options": {
+   "A": "Fe.",
+   "B": "Al.",
+   "C": "Cu.",
+   "D": "Zn."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C6_0163",
+  "stem": "Đốt cháy hoàn toàn a gam kim loại M (hóa trị II) cần dùng 1,2395 lít O2 (đkc) thu được 6,1975 gam hợp chất MO. Kim loại M là",
+  "options": {
+   "A": "Fe.",
+   "B": "Zn.",
+   "C": "Cu.",
+   "D": "Ca."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C6_0164",
+  "stem": "Đốt cháy hoàn toàn 12,8 gam một kim loại hóa trị II trong oxygen dư đến khối lượng không đổi thu được 16 gam chất rắn X. Kim loại đó là",
+  "options": {
+   "A": "Fe.",
+   "B": "Zn.",
+   "C": "Cu.",
+   "D": "Ca."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C6_0165",
+  "stem": "(Đề THPT QG - 2017) Đốt cháy hoàn toàn m gam hỗn hợp Mg và Al cần vừa đủ 0,125 mol khí O2, thu được 9,1 gam hỗn hợp hai oxide. Giá trị của m là",
+  "options": {
+   "A": "5,1.",
+   "B": "7,1.",
+   "C": "6,7.",
+   "D": "3,9."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C6_0166",
+  "stem": "(Đề TSCĐ - 2011) Đốt cháy hoàn toàn 17,4 gam hỗn hợp Mg và Al trong khí oxygen (dư) thu được 30,2 gam hỗn hợp oxide. Thể tích khí oxygen (đkc) đã tham gia phản ứng là",
+  "options": {
+   "A": "4,958 lít.",
+   "B": "9,916 lít.",
+   "C": "19,832 lít.",
+   "D": "12,395 lít."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C6_0167",
+  "stem": "(Đề TSCĐ - 2014) Đốt cháy 11,9 gam hỗn hợp gồm Zn, Al trong khí Cl2 dư. Sau khi các phản ứng xảy ra hoàn toàn, thu được 40,3 gam hỗn hợp muối. Thể tích khí Cl2 (đkc) đã phản ứng là",
+  "options": {
+   "A": "19,832 lít.",
+   "B": "7,437 lít.",
+   "C": "9,916 lít.",
+   "D": "12,395 lít."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C6_0168",
+  "stem": "Đốt cháy hoàn toàn m gam hỗn hợp X gồm Zn, Mg cần 4,958 lít khí Cl2 (đkc). Sau khi các phản ứng xảy ra hoàn toàn, thu được 23,1 gam hỗn hợp muối. Giá trị m là",
+  "options": {
+   "A": "8,9 gam.",
+   "B": "6,5 gam.",
+   "C": "2,4 gam.",
+   "D": "16 gam."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C6_0169",
+  "stem": "(Đề TSCĐ - 2009) Đốt cháy hoàn toàn 7,2 gam kim loại M (có hoá trị hai không đổi trong hợp chất) trong hỗn hợp khí Cl2 và O2. Sau phản ứng thu được 23,0 gam chất rắn và thể tích hỗn hợp khí đã phản ứng là 6,1975 lít (ở đkc). Kim loại M là",
+  "options": {
+   "A": "Mg.",
+   "B": "Be.",
+   "C": "Cu.",
+   "D": "Ca."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C6_0170",
+  "stem": "Cho 8,6765 lít hỗn hợp khí X (đkc) gồm Cl2 và O2 phản ứng vừa đủ với 11,1 gam hỗn hợp Y gồm Mg và Al, thu được 30,1 gam hỗn hợp Z. Phần trăm khối lượng của Al trong Y là",
+  "options": {
+   "A": "76,19758%.",
+   "B": "24,32%.",
+   "C": "51,35%.",
+   "D": "48,65%."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C6_0171",
+  "stem": "Cho 17,353 lít hỗn hợp khí X (đkc) gồm Cl2 và O2 phản ứng vừa đủ với 22,2 gam hỗn hợp Y gồm Mg và Al, thu được 60,2 gam hỗn hợp Z. Phần trăm khối lượng của Al trong Y là",
+  "options": {
+   "A": "76,19758%.",
+   "B": "24,32%.",
+   "C": "51,35%.",
+   "D": "48,65%."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C6_0172",
+  "stem": "Nung m gam Al trong 7,437 lít O2. Chất rắn thu được sau phản ứng cho hoà tan hết vào dung dịch HCl thấy bay ra 7,437 lít H2 (các thể tích khí đo ở đkc). Giá trị của m là",
+  "options": {
+   "A": "8,1.",
+   "B": "16,2.",
+   "C": "18,4.",
+   "D": "24,3."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C6_0173",
+  "stem": "Cho m gam hỗn hợp 3 kim loại Fe, Al, Cu vào một bình kín chứa 0,9 mol O2. Nung nóng bình một thời gian cho đến khi trong bình số mol O2 chỉ còn 0,865 mol và chất rắn trong bình có khối lượng 2,12 gam. Giá trị của m là",
+  "options": {
+   "A": "1.",
+   "B": "1,5.",
+   "C": "1,8.",
+   "D": "2,2."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C6_0174",
+  "stem": "Nung 26 gam Zn trong 3,7185 lít O2 (đkc). Chất rắn thu được sau phản ứng cho hoà tan hết vào dung dịch HCl thấy bay ra V lít H2 (đkc). Giá trị của V là",
+  "options": {
+   "A": "2,479.",
+   "B": "3,7185.",
+   "C": "12,395.",
+   "D": "4,958."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C6_0175",
+  "stem": "Cho 16,2 gam kim loại M có hóa trị n không đổi tác dụng hoàn toàn với 0,15 mol O2. Chất rắn thu được sau phản ứng đem hòa tan vào dung dịch HCl dư thấy thoát ra 14,874 lít khí H2 (đkc). Kim loại M là",
+  "options": {
+   "A": "Fe.",
+   "B": "Al.",
+   "C": "Ca.",
+   "D": "Mg."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C6_0176",
+  "stem": "Đốt cháy a gam kim loại M (có hóa trị không đổi) trong 3,2 gam oxygen thu được hỗn hợp chất rắn X. Cho X vào dung dịch HCl dư thu được 0,1 mol một khí. Nếu cho a gam M vào dung dịch H2SO4 đặc nóng, dư, thu được V lít SO2 (ở đkc, là sản phẩm khử duy nhất). Giá trị của V là",
+  "options": {
+   "A": "4,958.",
+   "B": "7,437.",
+   "C": "9,916.",
+   "D": "3,7185."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C6_0177",
+  "stem": "Cho 7,5 gam hỗn hợp X gồm Mg và Al tác dụng với 3,7185 lít hỗn hợp Y gồm O2 và Cl2, thu được 16,2 gam hỗn hợp rắn Z. Cho Z vào dung dịch HCl dư, thu được 3,7185 lít khí H2. Biết các phản ứng xảy ra hoàn toàn, các thể tích khí đo ở đkc. Phần trăm khối lượng của Al trong X bằng bao nhiêu?",
+  "options": {
+   "A": "64,0.",
+   "B": "18,4.",
+   "C": "36,0.",
+   "D": "81,6."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C6_0178",
+  "stem": "(Đề TN THPT QG – 2021) Hòa tan hoàn toàn 5,10 gam Al2O3 trong lượng dư dung dịch HCl, thu được dung dịch chứa m gam muối. Giá trị của m là",
+  "options": {
+   "A": "26,70.",
+   "B": "21,36.",
+   "C": "13,35.",
+   "D": "16,02."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C6_0179",
+  "stem": "(Đề THPT QG - 2017) Hòa tan hoàn toàn 3,2 gam một oxide kim loại cần vừ đủ 40 mL dung dịch HCl 2 M. Công thức của oxide là",
+  "options": {
+   "A": "MgO.",
+   "B": "Fe2O3.",
+   "C": "CuO.",
+   "D": "Fe3O4."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C6_0180",
+  "stem": "(Đề TSĐH A - 2007) Hoà tan hoàn toàn 2,81 gam hỗn hợp gồm Fe2O3, MgO, ZnO trong 500 mL acid H2SO4 0,1 M (vừa đủ). Sau phản ứng, hỗn hợp muối sulfate khan thu được khi cô cạn dung dịch có khối lượng là",
+  "options": {
+   "A": "6,81 gam.",
+   "B": "4,81 gam.",
+   "C": "3,81 gam.",
+   "D": "5,81 gam."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C6_0181",
+  "stem": "Cho 25,5 gam hỗn hợp X gồm CuO và Al2O3 tan hoàn toàn trong dung dịch H2SO4 loãng, thu được dung dịch chứa 57,9 gam muối. Phần trăm khối lượng của Al2O3 trong X là",
+  "options": {
+   "A": "60%.",
+   "B": "40%.",
+   "C": "80%.",
+   "D": "20%."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C6_0182",
+  "stem": "(Đề TSĐH A - 2008) Cho 2,13 gam hỗn hợp X gồm ba kim loại Mg, Cu và Al ở dạng bột tác dụng hoàn toàn với oxygen thu được hỗn hợp Y gồm các oxide có khối lượng 3,33 gam. Thể tích dung dịch HCl 2 M vừa đủ để phản ứng hết với Y là",
+  "options": {
+   "A": "57 mL.",
+   "B": "50 mL.",
+   "C": "75 mL.",
+   "D": "90 mL."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C6_0183",
+  "stem": "(Đề MH - 2020) Nung 6 gam hỗn hợp Al và Fe trong không khí, thu được 8,4 gam hỗn hợp X chỉ chứa các oxide. Hòa tan hoàn toàn X cần vừa đủ V mol dung dịch HCl 1 M. Giá trị của V là",
+  "options": {
+   "A": "300.",
+   "B": "200.",
+   "C": "150.",
+   "D": "400."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C6_0184",
+  "stem": "(Đề TSCĐ - 2009) Nung nóng 16,8 gam hỗn hợp gồm Au, Ag, Cu, Fe, Zn với một lượng dư khí O2, đến khi các phản ứng xảy ra hoàn toàn, thu được 23,2 gam chất rắn X. Thể tích dung dịch HCl 2 M vừa đủ để phản ứng với chất rắn X là",
+  "options": {
+   "A": "600 mL.",
+   "B": "400 mL.",
+   "C": "800 mL.",
+   "D": "200 mL."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C6_0185",
+  "stem": "(Đề THPT QG - 2016) Đốt cháy 2,15 gam hỗn hợp gồm Zn, Al và Mg trong khí oxygen dư, thu được 3,43 gam hỗn hợp X. Toàn bộ X phản ứng vừa đủ với V mL dung dịch HCl 0,5 M. Biết các phản ứng xảy ra hoàn toàn. Giá trị của V là",
+  "options": {
+   "A": "160.",
+   "B": "320.",
+   "C": "240.",
+   "D": "480."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C6_0186",
+  "stem": "(Đề TN THPT - 2020) Nung nóng m gam hỗn hợp X gồm Mg, Al và Cu trong O2 dư thu được 16,2 gam hỗn hợp Y gồm các oxide. Hòa tan hết Y bằng lượng vừa đủ dung dịch gồm HCl 1 M và H2SO4 0,5 M, thu được dung dịch chứa 43,2 gam hỗn hợp muối trung hòa. Biết các phản ứng xảy ra hoàn toàn. Giá trị của m là",
+  "options": {
+   "A": "9,8.",
+   "B": "9,4.",
+   "C": "13,0.",
+   "D": "10,3."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C6_0187",
+  "stem": "(Đề TN THPT - 2020) Nung nóng m gam hỗn hợp X gồm Mg, Al và Cu trong O2 dư, thu được 15,8 gam hỗn hợp Y gồm các oxide. Hòa tan hết Y bằng lượng vừa đủ dung dịch gồm HCl 1 M và H2SO4 0,5 M, thu được dung dịch chứa 42,8 gam hỗn hợp muối trung hòa. Biết các phản ứng xảy ra hoàn toàn. Giá trịcủa m là",
+  "options": {
+   "A": "10,3.",
+   "B": "8,3.",
+   "C": "12,6.",
+   "D": "9,4."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C6_0188",
+  "stem": "(Đề TN THPT - 2020) Hòa tan hết m gam hỗn hợp X gồm MgO, CuO và Fe2O3 bằng dung dịch HCl, thu được dung dịch Y. Cho toàn bộ Y tác dụng với dung dịch NaOH dư, thu được (m + 3,78) gam kết tủa. Biết trong X, nguyên tố oxygen chiếm 28% khối lượng. Giá trị của m là",
+  "options": {
+   "A": "12,0.",
+   "B": "12,8.",
+   "C": "8,0.",
+   "D": "19,2."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C6_0189",
+  "stem": "(Đề TN THPT - 2020) Hòa tan hết m gam hỗn hợp X gồm MgO, CuO và Fe2O3 bằng dung dịch HCl, thu được dung dịch Y. Cho toàn bộ Y tác dụng với dung dịch NaOH dư, thu được (m + 5,4) gam kết tủa. Biết trong X, nguyên tố oxygen chiếm 25% khối lượng. Giá trị của m là",
+  "options": {
+   "A": "9,6.",
+   "B": "12,8.",
+   "C": "24,0.",
+   "D": "19,2."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C6_0190",
+  "stem": "Hòa tan m gam hỗn hợp X gồm MgO, CuO, Fe2O3 bằng dung dịch HCl thu được dung dịch Y. Cho toàn bộ Y tác dụng với dung dịch NaOH dư thì thu được (m + 8,1) gam kết tủa. Biết trong X, nguyên tố oxygen chiếm 25,714% về khối lượng. Giá trị của m là",
+  "options": {
+   "A": "31,5.",
+   "B": "12,0.",
+   "C": "28,0.",
+   "D": "29,6."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C6_0191",
+  "stem": "(Đề TSĐH A - 2008) Để hoà tan hoàn toàn 2,32 gam hỗn hợp gồm FeO, Fe3O4 và Fe2O3 (trong đó số mol FeO bằng số mol Fe2O3), cần dùng vừa đủ V lít dung dịch HCl 1 M. Giá trị của V là",
+  "options": {
+   "A": "0,23.",
+   "B": "0,18.",
+   "C": "0,08.",
+   "D": "0,16."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C6_0192",
+  "stem": "Đốt hỗn hợp gồm 0,4 mol Fe và 0,2 mol Cu trong bình đựng khí O2, sau một thời gian thu được m gam chất rắn. Đem chất rắn này tác dụng với dung dịch HCl dư, sau khi phản ứng hoàn toàn có 3,7185 lít khí (đkc) và 6,4 gam kim loại không tan. Giá trị m là",
+  "options": {
+   "A": "38,4.",
+   "B": "40,8.",
+   "C": "41,6.",
+   "D": "44,8."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C6_0193",
+  "stem": "Cho 7,437 gam Fe tác dụng với oxygen chỉ thu được 9,28 gam hỗn hợp X chỉ chứa 3 oxide. Hòa tan X cần vừa đủ V mL dung dịch H2SO4 1 M (loãng). Giá trị của V là",
+  "options": {
+   "A": "120.",
+   "B": "160.",
+   "C": "320.",
+   "D": "80."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C6_0194",
+  "stem": "Để hòa tan hoàn toàn 4,64 gam hỗn hợp gồm FeO, Fe2O3 và Fe3O4 (trong đó số mol FeO bằng số mol Fe2O3), cần vừa đủ V mL dung dịch H2SO4 1 M. Giá trị của V là",
+  "options": {
+   "A": "160.",
+   "B": "120.",
+   "C": "80.",
+   "D": "240."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C6_0195",
+  "stem": "(Đề TSĐH B - 2008) Cho 9,12 gam hỗn hợp gồm FeO, Fe2O3, Fe3O4 tác dụng với dung dịch HCl (dư). Sau khi các phản ứng xảy ra hoàn toàn, được dung dịch Y; cô cạn Y thu được 7,62 gam FeCl2 và m gam FeCl3. Giá trị của m là",
+  "options": {
+   "A": "9,75.",
+   "B": "8,75.",
+   "C": "7,80.",
+   "D": "6,50."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C6_0196",
+  "stem": "Cho m gam hỗn hợp X gồm FeO, Fe2O3, Fe3O4 vào một lượng vừa đủ dung dịch HCl 2 M, thu được dung dịch Y có tỉ lệ số mol Fe2+ và Fe3+ là 1: 2. Chia Y thành hai phần bằng nhau. Cô cạn phần một thu được m1 gam muối khan. Sục khí chlorine (dư) vào phần hai, cô cạn dung dịch sau phản ứng thu được m2 gam muối khan. Biết m2 – m1 = 0,71. Thể tích dung dịch HCl đã dùng là",
+  "options": {
+   "A": "160 mL.",
+   "B": "320 mL.",
+   "C": "80 mL.",
+   "D": "240 mL."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C6_0197",
+  "stem": "Hòa tan m gam Fe bằng dung dịch H2SO4 loãng (dư) thu được 2,479 lít khí H2. Giá trị của m là",
+  "options": {
+   "A": "2,80.",
+   "B": "1,2395.",
+   "C": "6,19750.",
+   "D": "2,479."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C6_0198",
+  "stem": "(Đề THPT QG - 2015) Cho 0,5 gam một kim loại hoá trị II phản ứng hết với dung dịch HCl dư, thu được 0,0125 mol khí H2. Kim loại đó là",
+  "options": {
+   "A": "Ba.",
+   "B": "Mg.",
+   "C": "Ca.",
+   "D": "Sr."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C6_0199",
+  "stem": "(Đề MH lần II - 2017) Hòa tan hoàn toàn 5,85 gam bột kim loại M vào dung dịch HCl, thu được 0,325 mol khí H2. Kim loại M là",
+  "options": {
+   "A": "Mg.",
+   "B": "Al.",
+   "C": "Zn.",
+   "D": "Fe."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C6_0200",
+  "stem": "(Đề TN THPT QG – 2021) Hòa tan hết m gam Al trong dung dịch HCl dư, thu được 0,21 mol khí H2. Giá trị của m là",
+  "options": {
+   "A": "4,86.",
+   "B": "6,19757.",
+   "C": "3,24.",
+   "D": "3,78."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C6_0201",
+  "stem": "Hoà tan hoàn toàn m gam hỗn hợp Mg và MgO vào dung dịch HCl dư thu được 2,479 lít H2 (đkc) và 19,0 gam muối. Giá trị của m là",
+  "options": {
+   "A": "6,4.",
+   "B": "4,8.",
+   "C": "8,0.",
+   "D": "6,1975."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C6_0202",
+  "stem": "Cho 15 gam hỗn hợp bột kim loại Fe và Cu vào dung dịch HCl dư, sau khi phản ứng xảy ra hoàn toàn thu được 4,958 lít khí H2 và m gam chất rắn không tan. Giá trị của m là",
+  "options": {
+   "A": "6,4.",
+   "B": "3,8.",
+   "C": "3,2.",
+   "D": "4,0."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C6_0203",
+  "stem": "(Đề TSĐH A - 2012) Hòa tan hoàn toàn 2,43 gam hỗn hợp gồm Mg và Zn vào một lượng vừa đủ dung dịch H2SO4 loãng, sau phản ứng thu được 1,2395 lít H2 (đkc) và dung dịch X. Khối lượng muối trong dung dịch X là",
+  "options": {
+   "A": "4,83 gam.",
+   "B": "5,83 gam.",
+   "C": "7,33 gam.",
+   "D": "7,23 gam."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C6_0204",
+  "stem": "(Đề TSĐH A - 2007) Cho m gam hỗn hợp Mg, Al vào 250 mL dung dịch X chứa hỗn hợp acid HCl 1 M và acid H2SO4 0,5 M, thu được 0,2375 mol khí H2 và dung dịch Y (coi thể tích dung dịch không đổi). Dung dịch Y có pH là",
+  "options": {
+   "A": "1.",
+   "B": "6.",
+   "C": "7.",
+   "D": "2."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C6_0205",
+  "stem": "Hòa tan hoàn toàn 3,22 gam hỗn hợp X gồm Fe, Mg và Zn bằng một lượng vừa đủ dung dịch H2SO4 loãng, thu được 14,874 lít H2 (ở đkc) và dung dịch chứa m gam muối. Giá trị của m là",
+  "options": {
+   "A": "9,52.",
+   "B": "10,27.",
+   "C": "8,98.",
+   "D": "7,25."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C6_0206",
+  "stem": "(Đề TSCĐ - 2008) Cho 13,5 gam hỗn hợp các kim loại Al, Cr, Fe tác dụng với lượng dư dung dịch H2SO4 loãng nóng (trong điều kiện không có không khí), thu được dung dịch X và 8,6765 lít khí H2 (ở đkc). Cô cạn dung dịch X (trong điều kiện không có không khí) được m gam muối khan. Giá trị của m là",
+  "options": {
+   "A": "48,8.",
+   "B": "47,1.",
+   "C": "45,5.",
+   "D": "42,6."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C6_0207",
+  "stem": "Cho 3,68 gam hỗn hợp gồm Al và Zn tác dụng với một lượng vừa đủ dung dịch H2SO4 10%, thu được 2,479 lít khí H2 (ở đkc). Khối lượng dung dịch thu được sau phản ứng là",
+  "options": {
+   "A": "101,48 gam.",
+   "B": "101,68 gam.",
+   "C": "97,80 gam.",
+   "D": "88,20 gam."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C6_0208",
+  "stem": "Cho 7,36 gam hỗn hợp gồm Al và Zn tác dụng với một lượng vừa đủ dung dịch H2SO4 20% thu được 4,958 lít khí H2 (ở đkc). Khối lượng dung dịch thu được sau phản ứng là",
+  "options": {
+   "A": "105,36.",
+   "B": "104,96.",
+   "C": "105,16.",
+   "D": "97,80."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C6_0209",
+  "stem": "(Đề THPT QG - 2017) Cho 1,5 gam hỗn hợp X gồm Al và Mg phản ứng hết với dung dịch HCl dư, thu được 0,075 mol khí H2. Khối lượng của Mg trong X là",
+  "options": {
+   "A": "0,60 gam.",
+   "B": "0,90 gam.",
+   "C": "0,42 gam.",
+   "D": "0,48 gam."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C6_0210",
+  "stem": "(Đề MH lần I - 2017) Hòa tan hoàn toàn 13,8 gam hỗn hợp X gồm Al, Fe vào dung dịch H2SO4 loãng, thu được 0,45 mol khí H2. Phần trăm về khối lượng của Al trong X là",
+  "options": {
+   "A": "58,70%.",
+   "B": "20,24%.",
+   "C": "39,13%.",
+   "D": "76,91%."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C6_0211",
+  "stem": "(Đề THPT QG - 2017) Cho 11,9 gam hỗn hợp Zn và Al phản ứng vừa đủ với dung dịch H2SO4 loãng, thu được m gam muối trung hòa và 9,916 lít khí H2 (đkc). Giá trị của m là",
+  "options": {
+   "A": "42,6.",
+   "B": "70,8.",
+   "C": "50,3.",
+   "D": "51,1."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C6_0212",
+  "stem": "Hòa tan hoàn toàn m gam hỗn hợp gồm Mg và Zn vào một lượng vừa đủ dung dịch H2SO4 loãng, sau phản ứng thu được 1,2395 lít H2 (đkc) và dung dịch X chứa 7,23 gam muối. Giá trị của m là",
+  "options": {
+   "A": "2,43 gam.",
+   "B": "3,83 gam.",
+   "C": "3,33 gam.",
+   "D": "2,23 gam."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C6_0213",
+  "stem": "(Đề TSĐH B - 2010) Hòa tan hoàn toàn 2,45 gam hỗn hợp X gồm hai kim loại kiềm thổ vào 200 mL dung dịch HCl 1,25 M, thu được dung dịch Y chứa các chất tan có nồng độ mol bằng nhau. Hai kim loại trong X là",
+  "options": {
+   "A": "Mg và Ca.",
+   "B": "Be và Mg.",
+   "C": "Mg và Sr.",
+   "D": "Be và Ca."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C6_0214",
+  "stem": "(Đề TSCĐ - 2008) X là kim loại thuộc phân nhóm chính nhóm II (hay nhóm IIA). Cho 1,7 gam hỗn hợp gồm kim loại X và Zn tác dụng với lượng dư dung dịch HCl, sinh ra 0,672 lít khí H2 (ở đkc). Mặt khác, khi cho 1,9 gam X tác dụng với lượng dư dung dịch H2SO4 loãng, thì thể tích khí hydrogen sinh ra chưa đến 1,2395 lít (ở đkc). Kim loại X là",
+  "options": {
+   "A": "Ba.",
+   "B": "Sr.",
+   "C": "Mg.",
+   "D": "Ca."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C6_0215",
+  "stem": "Cho 12 gam hỗn hợp hai kim loại Cu, Fe tan hoàn toàn trong H2SO4 đặc, nóng, dư thu được 6,1975 lít SO2 (ở đkc, là sản phẩm khử duy nhất). Phần trăm khối lượng của Cu trong hỗn hợp là",
+  "options": {
+   "A": "53,33%.",
+   "B": "33,33%.",
+   "C": "43,33%.",
+   "D": "50,00%."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C6_0216",
+  "stem": "Hỗn hợp X gồm Fe và C có tỉ lệ mol tương ứng là 1: 2. Cho 8 gam hỗn hợp X tác dụng với dung dịch H2SO4 đặc, nóng dư thì thu được V lít khí SO2 và CO2 (ở đkc). Giá trị của V là",
+  "options": {
+   "A": "16,8 lít.",
+   "B": "19,832 lít.",
+   "C": "7,437 lít.",
+   "D": "20,16 lít."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C6_0217",
+  "stem": "Hòa tan a mol Fe trong dung dịch H2SO4 thu được dung dịch X và 12,32 lít SO2 (đkc, là sản phẩm khử duy nhất). Cô cạn dung dịch X thu được 75,2 gam muối khan. Giá trị của a là",
+  "options": {
+   "A": "0,4.",
+   "B": "0,6.",
+   "C": "0,3.",
+   "D": "0,5."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C6_0218",
+  "stem": "Cho hỗn hợp A gồm x mol Fe và 0,2x mol Cu tan hoàn toàn trong dung dịch chứa y mol H2SO4 (tỉ lệ x: y = 1: 3), thu được một sản phẩm khử duy nhất SO2 và dung dịch B. Số mol khí SO2 thoát ra là",
+  "options": {
+   "A": "x.",
+   "B": "l,7x.",
+   "C": "0,5y.",
+   "D": "y."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C6_0219",
+  "stem": "Hòa tan hoàn toàn 16,3 gam hỗn hợp X gồm Mg, Al và Zn trong dung dịch H2SO4 đặc nóng thu được 0,55 mol SO2 (là sản phẩm khử duy nhất). Mặt khác, đốt cháy hoàn toàn lượng kim loại trên thu được m gam oxide. Giá trị của m là",
+  "options": {
+   "A": "22,9 gam.",
+   "B": "25,1 gam.",
+   "C": "55,2 gam.",
+   "D": "51,8 gam."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C6_0220",
+  "stem": "Hòa tan hoàn toàn m gam bột Fe bằng dung dịch H2SO4 (đặc, nóng) thu được dung dịch X và 14,874 lít khí SO2 (sản phẩm khử duy nhất ở đkc). Cô cạn X, thu được 8,56 gam muối khan. Giá trị của m là",
+  "options": {
+   "A": "2,8 gam.",
+   "B": "1,2395 gam.",
+   "C": "2,479 gam.",
+   "D": "1,4 gam."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C6_0221",
+  "stem": "Nung nóng 16,8 gam bột sắt ngoài không khí, sau một thời gian thu được m gam hỗn hợp X gồm các oxide sắt và sắt dư. Hòa tan hết hỗn hợp X bằng H2SO4 đặc, nóng, dư thu được 6,1975 lít SO2 (đkc, là sản phẩm khử duy nhất). Giá trị của m là",
+  "options": {
+   "A": "40 gam.",
+   "B": "20 gam.",
+   "C": "25 gam.",
+   "D": "32 gam."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C6_0222",
+  "stem": "Cho 4,5 gam một kim loại R tan hoàn toàn trong H2SO4 đặc nóng, dư thu được 2,479 lít hỗn hợp hai khí SO2 và H2S (đkc) có tỉ khối so với H2 là 24,5 và dung dịch X. Kim loại R và khối lượng muối tạo thành trong dung dịch sau phản ứng là",
+  "options": {
+   "A": "Al; 28,5 gam.",
+   "B": "Al; 34,2 gam.",
+   "C": "Fe; 28,5 gam.",
+   "D": "Cu; 32,0 gam."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C6_0223",
+  "stem": "Hòa tan hết hỗn hợp X chứa Cu và Fe trong dung dịch H2SO4 đặc, nóng. Sau phản ứng thu được khí và dung dịch Y chứa m gam muối (trong đó S chiếm 24,7972% về khối lượng). Mặt khác, cho dung dịch NaOH dư vào Y thấy có 40,2 gam kết tủa xuất hiện. Giá trị của m là",
+  "options": {
+   "A": "74,2.",
+   "B": "68,8.",
+   "C": "71,2.",
+   "D": "66,8."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C6_0224",
+  "stem": "Cho Fe tác dụng hết với dung dịch H2SO4 đặc nóng thu được khí SO2 (sản phẩm khử duy nhất) và dung dịch X chứa 8,28 gam muối. Cho Ba(OH)2 dư vào X thì thu được 18,54 gam kết tủa. Số mol H2SO4 đã phản ứng là",
+  "options": {
+   "A": "0,15.",
+   "B": "0,12.",
+   "C": "0,20.",
+   "D": "0,30."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C6_0225",
+  "stem": "Khử hoàn toàn 32 gam CuO bằng khí CO dư, thu được m gam kim loại. Giá trị của m là",
+  "options": {
+   "A": "26,1975.",
+   "B": "19,2.",
+   "C": "6,4.",
+   "D": "12,8."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C6_0226",
+  "stem": "(Đề MH - 2020) Cho khí H2 dư qua ống đựng m gam Fe2O3 nung nóng. Sau khi các phản ứng xảy ra hoàn toàn, thu được 5,6 gam Fe. Giá trị của m là",
+  "options": {
+   "A": "8,0.",
+   "B": "4,0.",
+   "C": "16,0.",
+   "D": "6,0."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C6_0227",
+  "stem": "(Đề THPT QG - 2017) Cho 2,479 lít khí CO (đkc) phản ứng vừa đủ với 10 gam hỗn hợp X gồm CuO và MgO. Phần trăm khối lượng của MgO trong X là",
+  "options": {
+   "A": "20%.",
+   "B": "40%.",
+   "C": "60%.",
+   "D": "80%."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C6_0228",
+  "stem": "(Đề THTP QG - 2018) Dẫn khí CO dư qua ống sứ đựng 11,6 gam bột Fe3O4 nung nóng, thu được hỗn hợp khí X. Cho toàn bộ X vào nước vôi trong dư, thu được m gam kết tủa. Biết các phản ứng xảy ra hoàn toàn. Giá trị của m là",
+  "options": {
+   "A": "20,0.",
+   "B": "5,0.",
+   "C": "6,6.",
+   "D": "15,0."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C6_0229",
+  "stem": "(Đề THPT QG - 2018) Dẫn khí CO dư qua ống sứ đựng 8 gam bột CuO nung nóng, thu được hỗn hợp khí X. Cho toàn bộ X vào nước vôi trong dư, thu được m gam kết tủa. Biết các phản ứng xảy ra hoàn toàn. Giá trị của m là",
+  "options": {
+   "A": "8.",
+   "B": "12.",
+   "C": "10.",
+   "D": "5."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C6_0230",
+  "stem": "Cho luồng khí CO (dư) đi qua 9,1 gam hỗn hợp gồm CuO và Al2O3 nung nóng đến khi phản ứng hoàn toàn, thu được 8,3 gam chất rắn. Khối lượng CuO có trong hỗn hợp ban đầu là",
+  "options": {
+   "A": "0,8 gam.",
+   "B": "8,3 gam.",
+   "C": "2,0 gam.",
+   "D": "4,0 gam."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C6_0231",
+  "stem": "(Đề TSĐH A - 2008) Cho V lít hỗn hợp khí (ở đkc) gồm CO và H2 phản ứng với một lượng dư hỗn hợp rắn gồm CuO và Fe3O4 nung nóng. Sau khi các phản ứng xảy ra hoàn toàn, khối lượng hỗn hợp rắn giảm 0,32 gam. Giá trị của V là",
+  "options": {
+   "A": "0,4958.",
+   "B": "0,112.",
+   "C": "0,2479.",
+   "D": "0,560."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C6_0232",
+  "stem": "Nung nóng một ống sứ chứa 36,1 gam hỗn hợp gồm MgO, CuO, ZnO và Fe2O3 rồi dẫn hỗn hợp khí X gồm CO và H2 dư đi qua đến khi phản ứng xảy ra hoàn toàn, thu được 28,1 gam chất rắn. Tổng thể khí X (đkc) đã tham gia phản ứng khử là",
+  "options": {
+   "A": "6,1975 lít.",
+   "B": "12,395 lít.",
+   "C": "24,79 lít.",
+   "D": "8,4 lít."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C6_0233",
+  "stem": "Chia 47,2 gam hỗn hợp gồm CuO, Fe2O3 và Fe3O4 thành 2 phần bằng nhau. Phần 1 khử hoàn toàn bằng CO dư ở nhiệt độ cao thu được 17,2 gam 2 kim loại. Phần 2 cho tác dụng vừa đủ với dung dịch H2SO4 loãng, thu được m gam muối. Giá trị của m là",
+  "options": {
+   "A": "124 gam.",
+   "B": "49,2 gam.",
+   "C": "56,1975 gam.",
+   "D": "62 gam."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C6_0234",
+  "stem": "Cho m gam hỗn hợp X gồm CuO, Fe2O3, FeO tác dụng vừa đủ với 100 mL dung dịch chứa H2SO4 1 M và HCl 1 M. Để khử hoàn toàn m gam hỗn hợp X (nung nóng) cần tối thiểu V lít khí CO (đkc). Giá trị của V là",
+  "options": {
+   "A": "3,7185.",
+   "B": "4,958.",
+   "C": "1,2395.",
+   "D": "7,437."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C6_0235",
+  "stem": "(Đề THPT QG - 2017) Cho 7,437 lít khí CO (đkc) phản ứng với CuO nung nóng, thu được hỗn hợp khí có tỉ khối so với H2 bằng 18. Khối lượng CuO đã phản ứng là",
+  "options": {
+   "A": "24 gam.",
+   "B": "8 gam.",
+   "C": "16 gam.",
+   "D": "12 gam."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C6_0236",
+  "stem": "(Đề THPT QG - 2017) Khử hoàn toàn 6,4 gam hỗn hợp CuO và Fe2O3 bằng khí H2, thu được m gam hỗn hợp kim loại và 1,98 gam H2O. Giá trị của m là",
+  "options": {
+   "A": "2,88.",
+   "B": "6,08.",
+   "C": "4,64.",
+   "D": "4,42."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C6_0237",
+  "stem": "Dẫn từ từ V lít khí CO (ở đkc) đi qua một ống sứ đựng lượng dư hỗn hợp rắn gồm CuO, Fe2O3 (ở nhiệt độ cao). Sau khi các phản ứng xảy ra hoàn toàn, thu được khí X. Dẫn toàn bộ khí X ở trên vào lượng dư dung dịch Ca(OH)2 thì tạo thành 4 gam kết tủa. Giá trị của V là",
+  "options": {
+   "A": "0,4958.",
+   "B": "0,2479.",
+   "C": "0,9916.",
+   "D": "1,23950."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C6_0238",
+  "stem": "(Đề THTP QG - 2016) Cho luồng khí CO dư đi qua ống sứ đựng 5,36 gam hỗn hợp FeO và Fe2O3 (nung nóng), thu được m gam chất rắn và hỗn hợp khí X. Cho X vào dung dịch Ca(OH)2 dư, thu được 9 gam kết tủa. Biết các phản ứng xảy ra hoàn toàn. Giá trị của m là",
+  "options": {
+   "A": "3,88.",
+   "B": "3,75.",
+   "C": "2,48.",
+   "D": "3,92."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C6_0239",
+  "stem": "(Đề TSCĐ - 2009) Khử hoàn toàn một oxide sắt X ở nhiệt độ cao cần vừa đủ V lít khí CO (ở đkc), sau phản ứng thu được 0,84 gam Fe và 0,02 mol khí CO2. Công thức của X và giá trị V lần lượt là",
+  "options": {
+   "A": "Fe3O4 và 0,4958.",
+   "B": "Fe2O3 và 0,4958.",
+   "C": "Fe3O4 và 0,2479.",
+   "D": "FeO và 0,2479."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C6_0240",
+  "stem": "(Đề TSĐH B - 2010) Khử hoàn toàn m gam oxide MxOy cần vừa đủ 19,832 lít khí CO (đkc), thu được a gam kim loại M. Hoà tan hết a gam M bằng dung dịch H2SO4 đặc nóng (dư), thu được 22,311 lít khí SO2 (sản phẩm khử duy nhất, ở đkc). Oxide MxOy là",
+  "options": {
+   "A": "Cr2O3.",
+   "B": "FeO.",
+   "C": "Fe3O4.",
+   "D": "CrO."
+  },
+  "answer": "C"
+ }
+]

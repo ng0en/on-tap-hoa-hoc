@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Ôn tập Hóa học THPT</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="app">
+
+  <!-- MÀN HÌNH 1: CHỌN CHƯƠNG -->
+  <section id="screen-setup" class="screen">
+    <header class="topbar">
+      <h1>🧪 Ôn tập Hóa học THPT</h1>
+    </header>
+
+    <div class="card">
+      <label class="field">
+        <span>Họ và tên</span>
+        <input id="inp-name" type="text" placeholder="Nhập tên của em..." autocomplete="name">
+      </label>
+
+      <label class="field">
+        <span>Lớp</span>
+        <select id="sel-grade"></select>
+      </label>
+
+      <label class="field">
+        <span>Chương</span>
+        <select id="sel-chapter"></select>
+      </label>
+
+      <div id="stats-box" class="stats-box hidden">
+        <div class="stats-title">Tiến độ của em ở chương này</div>
+        <div id="stats-content"></div>
+      </div>
+
+      <div class="field">
+        <span>Số câu muốn làm</span>
+        <div id="count-options" class="chip-row"></div>
+      </div>
+
+      <div class="field">
+        <span>Chế độ chấm điểm</span>
+        <div class="chip-row">
+          <label class="chip-radio">
+            <input type="radio" name="mode" value="hien_ngay" checked>
+            <span>Hiện đúng/sai ngay sau mỗi câu</span>
+          </label>
+          <label class="chip-radio">
+            <input type="radio" name="mode" value="hien_sau">
+            <span>Hiện kết quả sau khi nộp bài</span>
+          </label>
+        </div>
+      </div>
+
+      <button id="btn-start" class="btn-primary" disabled>Bắt đầu làm bài</button>
+      <div id="setup-msg" class="msg"></div>
+    </div>
+  </section>
+
+  <!-- MÀN HÌNH 2: LÀM BÀI -->
+  <section id="screen-quiz" class="screen hidden">
+    <header class="topbar">
+      <button id="btn-quit" class="btn-back">&larr; Thoát</button>
+      <div id="quiz-progress" class="progress-text"></div>
+    </header>
+    <div class="progress-bar-wrap"><div id="progress-bar" class="progress-bar"></div></div>
+
+    <div class="card" id="question-card">
+      <div id="q-stem" class="q-stem"></div>
+      <div id="q-options" class="q-options"></div>
+      <div id="q-feedback" class="q-feedback hidden"></div>
+    </div>
+
+    <button id="btn-next" class="btn-primary" disabled>Câu tiếp theo</button>
+  </section>
+
+  <!-- MÀN HÌNH 3: KẾT QUẢ -->
+  <section id="screen-result" class="screen hidden">
+    <header class="topbar">
+      <h1>Kết quả</h1>
+    </header>
+    <div class="card">
+      <div id="result-score" class="result-score"></div>
+      <div id="result-grid" class="result-grid"></div>
+      <div id="result-stats" class="stats-box"></div>
+      <button id="btn-restart" class="btn-primary">Làm lại / Chọn chương khác</button>
+    </div>
+  </section>
+
+</div>
+<script src="config.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

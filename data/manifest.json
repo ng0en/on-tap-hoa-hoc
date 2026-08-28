@@ -1,0 +1,127 @@
+{
+ "grades": [
+  {
+   "id": "L10",
+   "name": "Lớp 10",
+   "chapters": [
+    {
+     "id": "L10_C1",
+     "name": "Chương 1. Cấu tạo nguyên tử",
+     "count": 128
+    },
+    {
+     "id": "L10_C2",
+     "name": "Chương 2. Bảng tuần hoàn các nguyên tố hóa học",
+     "count": 136
+    },
+    {
+     "id": "L10_C3",
+     "name": "Chương 3. Liên kết hóa học",
+     "count": 118
+    },
+    {
+     "id": "L10_C4",
+     "name": "Chương 4. Phản ứng oxi hóa - khử",
+     "count": 68
+    },
+    {
+     "id": "L10_C5",
+     "name": "Chương 5. Năng lượng hóa học",
+     "count": 48
+    },
+    {
+     "id": "L10_C6",
+     "name": "Chương 6. Tốc độ phản ứng hóa học",
+     "count": 42
+    },
+    {
+     "id": "L10_C7",
+     "name": "Chương 7. Nhóm Halogen",
+     "count": 131
+    }
+   ]
+  },
+  {
+   "id": "L11",
+   "name": "Lớp 11",
+   "chapters": [
+    {
+     "id": "L11_C1",
+     "name": "Chương 1. Cân bằng hóa học",
+     "count": 223
+    },
+    {
+     "id": "L11_C2",
+     "name": "Chương 2. Nitrogen và Sulfur",
+     "count": 321
+    },
+    {
+     "id": "L11_C3",
+     "name": "Chương 3. Đại cương hóa học hữu cơ",
+     "count": 141
+    },
+    {
+     "id": "L11_C4",
+     "name": "Chương 4. Hydrocarbon",
+     "count": 125
+    },
+    {
+     "id": "L11_C5",
+     "name": "Chương 5. Alcohol - Phenol",
+     "count": 120
+    },
+    {
+     "id": "L11_C6",
+     "name": "Chương 6. Hợp chất Carbonyl - Carboxylic acid",
+     "count": 120
+    }
+   ]
+  },
+  {
+   "id": "L12",
+   "name": "Lớp 12",
+   "chapters": [
+    {
+     "id": "L12_C1",
+     "name": "Chương 1. Ester - Lipid",
+     "count": 227
+    },
+    {
+     "id": "L12_C2",
+     "name": "Chương 2. Carbohydrate",
+     "count": 167
+    },
+    {
+     "id": "L12_C3",
+     "name": "Chương 3. Hợp chất chứa Nitrogen",
+     "count": 239
+    },
+    {
+     "id": "L12_C4",
+     "name": "Chương 4. Polymer",
+     "count": 155
+    },
+    {
+     "id": "L12_C5",
+     "name": "Chương 5. Pin điện và điện phân",
+     "count": 193
+    },
+    {
+     "id": "L12_C6",
+     "name": "Chương 6. Đại cương về kim loại",
+     "count": 240
+    },
+    {
+     "id": "L12_C7",
+     "name": "Chương 7. Nguyên tố nhóm IA và IIA",
+     "count": 255
+    },
+    {
+     "id": "L12_C8",
+     "name": "Chương 8. Kim loại chuyển tiếp và phức chất",
+     "count": 135
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1300 @@
+[
+ {
+  "id": "L10_C3_0001",
+  "stem": "Liên kết hóa học là",
+  "options": {
+   "A": "sự kết hợp của các hạt cơ bản hình thành nguyên tử bền vững.",
+   "B": "sự kết hợp giữa các nguyên tử tạo thành phân tử hay tinh thể bền vững hơn.",
+   "C": "sự kết hợp giữa các phân tử hình thành các chất bền vững.",
+   "D": "sự kết hợp của chất tạo thành vật thể bền vững."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L10_C3_0002",
+  "stem": "Theo quy tắc octet, khi hình thành liên kết hóa học, các nguyên tử có xu hướng nhường, nhận hoặc góp chung electron để đạt tới cấu hình electron bền vững giống như",
+  "options": {
+   "A": "kim loại kiềm gần kề.",
+   "B": "kim loại kiềm thổ gần kề.",
+   "C": "nguyên tử halogen gần kề.",
+   "D": "nguyên tử khí hiếm gần kề."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L10_C3_0003",
+  "stem": "Vì sao các nguyên tử lại liên kết với nhau thành phân tử?",
+  "options": {
+   "A": "Để mỗi nguyên tử trong phân tử đạt được cơ cấu electron ổn định, bền vững.",
+   "B": "Để mỗi nguyên tử trong phân tử đều đạt 8 electron ở lớp ngoài cùng.",
+   "C": "Để tổng số electron ngoài cùng của các nguyên tử trong phân tử là 8.",
+   "D": "Để lớp ngoài cùng của mỗi nguyên tử trong phân tử có nhiều electron độc thân nhất."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L10_C3_0004",
+  "stem": "Nguyên tử của nguyên tố nào sau đây có xu hướng đạt cấu hình electron bền vững của khí hiếm argon khi tham gia hình thành liên kết hóa học?",
+  "options": {
+   "A": "Fluorine.",
+   "B": "Oxygen.",
+   "C": "Hydrogen.",
+   "D": "Chlorine."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L10_C3_0005",
+  "stem": "Để đạt quy tắc octet, nguyên tử của nguyên tố potassium (Z = 19) phải",
+  "options": {
+   "A": "nhường đi 2 electron.",
+   "B": "nhường đi 1 electron.",
+   "C": "nhận thêm 2 electron.",
+   "D": "nhận thêm 1 electron."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L10_C3_0006",
+  "stem": "Nguyên tử nitrogen và nguyên tử aluminium có xu hướng nhận hay nhường lần lượt bao nhiêu electron để đạt được cấu hình electron bền vững?",
+  "options": {
+   "A": "Nhận 3 electron, nhường 3 electron.",
+   "B": "Nhận 5 electron, nhường 5 electron.",
+   "C": "Nhường 3 electron, nhận 3 electron.",
+   "D": "Nhường 5 electron, nhận 5 electron."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L10_C3_0007",
+  "stem": "Nguyên tử nguyên tố nào sau đây có xu hướng nhận thêm 1 electron khi hình thành liên kết hóa học?",
+  "options": {
+   "A": "Boron.",
+   "B": "Potassium.",
+   "C": "Helium.",
+   "D": "Fluorine."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L10_C3_0008",
+  "stem": "Khi nguyên tử chlorine nhận thêm 1 electron thì ion tạo thành có cấu hình electron của nguyên tử nào?",
+  "options": {
+   "A": "Helium.",
+   "B": "Neon.",
+   "C": "Argon.",
+   "D": "Krypton."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L10_C3_0009",
+  "stem": "Nguyên tử nào sau đây có khuynh hướng đạt cấu hình electron bền của khí hiếm neon khi tham gai hình thành liên kết hóa học?",
+  "options": {
+   "A": "Chlorine.",
+   "B": "Sulfur.",
+   "C": "Oxygen.",
+   "D": "Hydrogen."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L10_C3_0010",
+  "stem": "Sodium hydride (NaH) là một hợp chất được sử dụng như một chất lưu trữ hydrogen trong các phương tiện chạy bằng pin nhiên liệu do khả năng giải phóng hydrogen của nó. Trong sodium hydride, nguyên tử sodium có cấu hình electron bền của khí hiếm",
+  "options": {
+   "A": "helium.",
+   "B": "argon.",
+   "C": "krypton.",
+   "D": "neon."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L10_C3_0011",
+  "stem": "Khi tham gia hình thành liên kết hóa học, các nguyên tử lithium và chlorine có khuynh hướng đạt cấu hình electron bền của lần lượt các khí hiếm nào dưới đây?",
+  "options": {
+   "A": "Helium và argon.",
+   "B": "Helium và neon.",
+   "C": "Neon và argon.",
+   "D": "Argon và helium."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L10_C3_0012",
+  "stem": "Trong phân tử HBr, nguyên tử hydrogen và bromine đã lần lượt đạt cấu hình electron bền của các khí hiếm nào dưới đây?",
+  "options": {
+   "A": "Neon và argon.",
+   "B": "Helium và xenon.",
+   "C": "Helium và radon.",
+   "D": "Helium và krypton."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L10_C3_0013",
+  "stem": "Trog các hợp chất, nguyên tử magnesium đã đạt được cấu hình bền của khí hiếm gần nhất bằng cách",
+  "options": {
+   "A": "cho đi 2 electron.",
+   "B": "nhận vào 1 electron.",
+   "C": "cho đi 3 electron.",
+   "D": "nhận vào 2 electron."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L10_C3_0014",
+  "stem": "Khi hình thành liên kết hóa học, nguyên tử sau đây có xu hướng nhường 1 electron để đạt cấu hình electron bền vững theo quy tắc octet?",
+  "options": {
+   "A": "Mg (Z = 12).",
+   "B": "F (Z = 9).",
+   "C": "Na (Z = 11).",
+   "D": "Ne (Z = 10)."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L10_C3_0015",
+  "stem": "(SBT – CD) Nguyên tử oxygen (Z = 8) có xu hướng nhường hay nhận bao nhiêu electron để đạt lớp vỏ thoả mãn quy tắc octet?",
+  "options": {
+   "A": "Nhường 6 electron.",
+   "B": "Nhận 2 electron.",
+   "C": "Nhường 8 electron.",
+   "D": "Nhận 6 electron."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L10_C3_0016",
+  "stem": "(SBT – CD) Nguyên tử lithium (Z = 3) có xu hướng nhường hay nhận bao nhiêu electron để lớp vỏ thoả mãn quy tắc octet?",
+  "options": {
+   "A": "Nhường 1 electron.",
+   "B": "Nhận 7 electron.",
+   "C": "Nhường 11 electron.",
+   "D": "Nhận 1 electron."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L10_C3_0017",
+  "stem": "(SBT – CD) Nguyên tử nào sau đây không có xu hướng nhường hoặc nhận electron để đạt được lớp vỏ thoả mãn quy tắc octet?",
+  "options": {
+   "A": "Nitrogen.",
+   "B": "Oxygen.",
+   "C": "Sodium.",
+   "D": "Hydrogen."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L10_C3_0018",
+  "stem": "(SBT – CD) Nguyên tử nào trong các nguyên tử sau đây không có xu hướng nhường electron để đạt lớp vỏ thoả mãn quy tắc octet?",
+  "options": {
+   "A": "Calcium.",
+   "B": "Magnesium.",
+   "C": "Potassium.",
+   "D": "Chlorine."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L10_C3_0019",
+  "stem": "Ion nào sau đây có cấu hình electron của khí hiếm helium?",
+  "options": {
+   "A": "Mg2+.",
+   "B": "O2–.",
+   "C": "Na+.",
+   "D": "Li+."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L10_C3_0020",
+  "stem": "Trong sự hình thành phân tử lithium fluoride (LiF), ion lithium và ion fluoride đã lần lượt đạt được cấu hình electron bền của khí hiếm nào?",
+  "options": {
+   "A": "Helium và neon.",
+   "B": "Helium và argon.",
+   "C": "Neon và argon.",
+   "D": "Cùng là neon."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L10_C3_0021",
+  "stem": "Trong phân tử iodine (I2), mỗi nguyên tử iodine đã góp một electron để tạo cặp electron chung. Nhờ đó, mỗi nguyên tử iodine đã đạt cấu hình electron bền vững của khí hiếm nào dưới đây?",
+  "options": {
+   "A": "Xe.",
+   "B": "Ne.",
+   "C": "Ar.",
+   "D": "Kr."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L10_C3_0022",
+  "stem": "Nguyên tử của nguyên tố nào sau đây tạo ra ion có cấu hình electron giống với neon (Ne) theo quy tắc octet?",
+  "options": {
+   "A": "Sodium (Na).",
+   "B": "Magnesium (Mg).",
+   "C": "Chlorine (Cl).",
+   "D": "Calcium (Ca)."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L10_C3_0023",
+  "stem": "Quy tắc octet không đúng với trường hợp phân tử chất nào sau đây?",
+  "options": {
+   "A": "H2S.",
+   "B": "PCl5.",
+   "C": "SiO2.",
+   "D": "Br2."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L10_C3_0024",
+  "stem": "Nguyên tử trong phân tử nào sau đây ngoại lệ với quy tắc octet?",
+  "options": {
+   "A": "H2O.",
+   "B": "NH3.",
+   "C": "HCl.",
+   "D": "BF3."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L10_C3_0026",
+  "stem": "Phân tử nào sau đây có các nguyên tử đều đã đạt cấu hình electron bão hòa theo quy tắc octet?",
+  "options": {
+   "A": "BeH2.",
+   "B": "AlCl3.",
+   "C": "PCl5.",
+   "D": "SiF4."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L10_C3_0027",
+  "stem": "Quy tắc octet không đúng với trường hợp phân tử chất nào sau đây?",
+  "options": {
+   "A": "H2O.",
+   "B": "NO2.",
+   "C": "CO2.",
+   "D": "Cl2."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L10_C3_0028",
+  "stem": "Phân tử nào sau đây tuân theo quy tắc octet?",
+  "options": {
+   "A": "CH4.",
+   "B": "BF3.",
+   "C": "NO.",
+   "D": "BeCl2."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L10_C3_0029",
+  "stem": "Phân tử nào sau đây không tuân theo quy tắc octet?",
+  "options": {
+   "A": "NH3.",
+   "B": "SF6.",
+   "C": "CO2.",
+   "D": "H2O."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L10_C3_0030",
+  "stem": "Phân tử nào sau đây có tất cả các nguyên tử đều tuân theo quy tắc octet?",
+  "options": {
+   "A": "CO2.",
+   "B": "BF3.",
+   "C": "SF4.",
+   "D": "NO."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L10_C3_0031",
+  "stem": "Dãy gồm các ion X+, Y– và nguyên tử Z đều có cấu hình electron 1s22s22p6 là",
+  "options": {
+   "A": "Na+, Cl–, Ar.",
+   "B": "Li+, F–, Ne.",
+   "C": "Na+, F–, Ne.",
+   "D": "K+, Cl–, Ar."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L10_C3_0032",
+  "stem": "Ion Mg2+ có cấu hình electron giống cấu hình electron của khí hiếm nào?",
+  "options": {
+   "A": "Helium.",
+   "B": "Neon.",
+   "C": "Argon.",
+   "D": "Krypton."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L10_C3_0033",
+  "stem": "Potassium iodide (KI) được sử dụng như một loại thuốc long đờm, giúp làm lỏng và phá vỡ chất nhầy trong đường thở, thường dùng cho các bệnh nhân hen suyễn, viêm phế quản mãn tính. Trong trường hợp bị nhiễm phóng xạ, KI còn giúp ngăn tuyến giáp hấp thụ iodide phóng xạ, bảo vệ và làm giảm nguy cơ ung thu tuyến giáp. Trong phân tử KI, các nguyên tử K và I đều đã đạt được cơ cấu bền của khí hiếm gần nhất. Đó lần lượt là những khí hiếm nào?",
+  "options": {
+   "A": "Neon và argon.",
+   "B": "Argon và xenon.",
+   "C": "Helium và radon.",
+   "D": "Argon và krypton."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L10_C3_0034",
+  "stem": "Ion X2+ có cấu hình electron ở trạng thái cơ bản 1s22s22p6. Nguyên tố X là",
+  "options": {
+   "A": "O (Z = 8).",
+   "B": "Mg (Z = 12).",
+   "C": "Na (Z = 11).",
+   "D": "Ne (Z = 10)."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L10_C3_0035",
+  "stem": "(Đề TSCĐ – 2014) Cation R+ có cấu hình electron 1s22s22p63s23p6. Vị trí của nguyên tố R trong bảng tuần hoàn các nguyên tố hóa học là",
+  "options": {
+   "A": "chu kì 4, nhóm IA.",
+   "B": "chu kì 3, nhóm VIIA.",
+   "C": "chu kì 3, nhóm VIIIA.",
+   "D": "chu kì 4, nhóm IIA."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L10_C3_0036",
+  "stem": "(Đề TSĐH A – 2011) Cấu hình electron của ion Cu2+ và Cr3+ lần lượt là",
+  "options": {
+   "A": "[Ar]3d9 và [Ar]3d14s2.",
+   "B": "[Ar]3d9 và [Ar]3d3.",
+   "C": "[Ar]3d74s2 và [Ar]3d14s2.",
+   "D": "[Ar]3d74s2 và [Ar]3d3."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L10_C3_0037",
+  "stem": "Cho bảng sau:X, Z và Z lần lượt là",
+  "options": {
+   "A": "Ca2+, F–, KO.",
+   "B": "Ca2+, F–, K2O.",
+   "C": "Ca+, F–, KO.",
+   "D": "Ca2+, F2–, K2O."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L10_C3_0038",
+  "stem": "Điều nào dưới đây đúng khi nói về ion S2–?",
+  "options": {
+   "A": "Có chứa 18 proton.",
+   "B": "Có chứa 18 electron.",
+   "C": "Trung hòa về điện.",
+   "D": "Được tạo thành khi S nhận vào 2 proton."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L10_C3_0039",
+  "stem": "Biểu diễn sự tạo thành ion nào sau đây là đúng?",
+  "options": {
+   "A": "<img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIIAAAAQCAAAAAD/xvhpAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAlGCva4toAAAJQSURBVEjH7VVfSFNxFP52STGQHopJk9BgVJPIWSE2HRUyKB/6I7Lcy3RCbhYUyxlkhlRWT5FPDUnnGkUuiIoikoiKKAzBtLXqocCKLHGlM/DPoO3rYXfX3ZvYwoe9dF5+53zn3vP77nfO73dVRLpNSDeBdFNwvYtT8JSqKgDcrSo4t9DjPxuti9jssUWVOwEEncuPhhLY5NDI2yAAku3l8JDsc1BpoS7J9e9bV81F2KAhy0qS+jko4CqytZICAFh3No7Myz18X3JN13WLE33tySv35MiG82WuU4lZuBRziHqVWg2t81ZYIa4Py83GJyntOfJaHjdtdoQBABMlloq9MwBgz4fYCC/d8LHPQd55yQA+SlK9r0qSck81yS9ZQ7ymnkpF+mhlKLkRtXyVUUfqyTE3o+rLUkY8EQ3bnN8AYNdGaDAax7w63Y4HOp1cf3+uHsbQm1RUEE6YIzKgsNnbCwDqAxByRiV4SXxReQobmgEMXsiMQryt6urw4dgNRd1PYQui62ek+GBAdOw1AIBO33MR2M7Yix6b7OWWm/YggLGzP7K/UkkB2jZXHjBraq/57lvo0yJ5flnsVuTr6+f8Wz218mRmt8EFwKa5imdJaiUcZ8lFYHjc+Bd1Vw9HU2kCAEz7fCoFVHykKwIMlMlAiYLQnQHkCP1InmP1fmXdyqkzMUynRGG2Y+kf2Ok1BFb24/NkEkh2btnaRZJtDrJlmd6TvXt8nvnuOLQq/3A32btJU2yP/fPN9MisPf6L5NMC8naOtslUNJBIqf7/KQH8Bqt3xmYOKHLAAAAAAElFTkSuQmCC\" style=\"height:19px\" alt=\"\">.",
+   "B": "<img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIsAAAAUCAAAAACYQpG1AAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAlGVzd0kwAAAH6SURBVEjHzZZfSFNhGMZ/5zSCwIgIhEGyLjRORiUEXYyiVkGDuljFQLrRTDJNUAqkCKS7rmwXmUJEdBMRXXQRwa6si1VgIbkSJCoxFkH2TxIrjT1dbIuzs7XtTGF7rr73PQ+/74H343yfIapGZqUD/DfL0MbWZaW743kAPg/E1mnGbG/tGlnKzqFE7dfdF1eVzPvnz0jSdF37vKSHbdLRFpWvA0nN+npyeCe399ldl3L8GSHpUMOiJCmyxCwjkk40FONty/FnZMLMg7AHgF7XU4n9sFcBAKN0XtrPu4PhXYOACeNqLPeE+DqSjk486I4XD6JQ8O7t3mdgwiw15Wap8/dlN0anzhXiTViWNWlZ1qjdP/YyxHrfI/DAauYLbrgzsxjeAkBX/HG6sSc5N36q3mb90nnPW4i3eRKaXjj805xZwVoTPNBkTKS+LKzMC4g56iHbuqctK0rzFX9xntP/m+trADChNnRnEYBuF9NJaUynbdXHYxE/Lnhp/wbekMnCsNHxC3j1NtUauHX2aYlZaiK24sP+I4loNPrTyXPovNO/w9c/x58FQJK+9weaw/sCVzVY33hNCT3pLOf3cj+1xZSTV9T/Oujdevi9ZOS7p2/quOtxLYPy3dPfnrdUIkrqbszWpxuXK/OSyDOjvV5j04UqyVIxVdO77i8iLOuRNR4OAwAAAABJRU5ErkJggg==\" style=\"height:23px\" alt=\"\">.",
+   "C": "<img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIUAAAAVCAAAAABN13KjAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAlGsXUg/YAAAKLSURBVEjHzVZtSFNhFH6mIhkyiVUoixaGcsvIUKyUJKbDpA+YUMygkIykECmDIgolkdiPCLMk+kAqJLE/BX1dDBILyhC1Ui5qofMrQciVaYIt79OPu8272eQyyPn8Ouc8nHOee97De18dsQQQFmoBAICIEPa+EtuxPz3kKvKN8XUqFX32PoNr0lakC5xhHVnt3HkxKuiOz8oM4b8rdwCsrY+O/L72fAJgRG+amyb5IeayTI4mH6Q/7F5rl8wJ00kGjaoXZHX0MFkgDJK8oW8l6SyeZVHqWRIk0zNIki145J+b7LWaSB5NCF5F+wQ5jAdsxEvlq5LJMfuMmw0Dhlv2AgC2r6oPPFEzAOiA/j0HMmu0HYKodlL0SoGHUVkAgH2fJOR3FV6CZy8kxCt2vLRw2c5c0HqsZGTdtjRoQFNMhl9+pBmSKRwAsB5SUpOXCQOm4F66qEl1jiQIQo8gCK2eQKvjHDq6rFhjatY0i/JSh2+g5kwspjy9oG4WAegxrdi/9OqcpB5gy8c5f/zE4zgM4nQ4VsxddXfuu420KgBA26n3s0rALMv9FffUBa8vrwD0Tncv+DQjR1FJkpQNtsDbyW+WtyTr8UPzQg6kjqvd2sMukkXLXCTJanSrOJA0byVJvsGTwCpGc7pI8h3aNKs40qv2rpbKJPkaz0mSWSlqEiS7V9pl8uumQ2R/+d0SFdvgMUY23hRFUZz+Y9o9SdcMtUBSO3aLKIpiJ1mcMEDymr7dXwWHjmfb8rJuy+TPCeaM/aPiU+X4HPycG7c5b0jzPLxIBQAUkKyzWG2Wwi8+rM7/z87sVwtc5P8J81TcSjQvuoh5KhqMmYsvwl9FY1kiLmwItYoQYWm8+P4CS4IdtcDvwx8AAAAASUVORK5CYII=\" style=\"height:23px\" alt=\"\">.",
+   "D": "<img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIIAAAARCAAAAAA0mivMAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAlGsXUg/YAAAJQSURBVEjH7VVdSJNhGD37IQoqoVpQQYyMHCUmC/uxdZFgCzWj5mIXRa1sholUUEkQjOgqSsJ+IKGCmq4yWY1+dASpJMbSmFgUKKigIZW4LdfUuZ0u9jm/bIafEt70XJ3zvM/De97zfN/7yojZDvlsC/hHEgruH/kxXQkfjsm6Zrb7zTWHgIIDiS7gSbkkCa/nHAeA5KJp752p7AOAwhQAWnhXhD0dnZ6hOIVf0rdkpZX+KcFx5lFoRqfvTV1gj5FwWb9m2NbwzuaNpb7fHkP+DU0v7p21i3pJkiPmbpmTJNvQyWnFlRazliRpOMhwkE2FZNU10Xq7YQx9fUsyyTK+FHXBlbFys03SqV9O4G6t6f0nAYcuPHxqANKz43aqNgEIJQCvMoy6upgLh30sm+eT4kL15d9oewlHl54TXIgX4y6QZO3iDvbM9bBSFRBcCA4txL6Raiku7HU7xdRuhCKvcrJr7q5Go3dpNBqBWlPybyXiwfL10H37CCgB4FnbTiDBZp7Q2XxCAMo6gQ+2RhPbI+xtzlaMlzobgYGuN9viSzCb0VHyOEat1r6cxtJurwnhdUFhEMZ+klflPRIGEdK5Raz1JMnRJZapDoJ35AFLquhz9PkXAdgdqZQwiBvFaeI55AJQZFWNTKGzYRBAGBF1ZziakANw7AAAdbKUfyLTKGYuHQDkDjyftF6VP4Za6oHhipz5ewIXI/gJAOSlVXoHydNq7K84iqLPku+ENpOq2E/W5yHp/PXVa8v/Xl27Ub9r6ykvWaNdlmaJkLL/jzWAX/8FR4dZRg5SAAAAAElFTkSuQmCC\" style=\"height:19px\" alt=\"\">."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L10_C3_0040",
+  "stem": "Số electron và số proton trong ion NH4+ là",
+  "options": {
+   "A": "11 electron và 11 proton.",
+   "B": "10 electron và 11 proton.",
+   "C": "11 electron và 10 proton.",
+   "D": "11 electron và 12 proton."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L10_C3_0041",
+  "stem": "Cặp nguyên tử nào sau đây không tạo ra hợp chất dạng <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFQAAAAoCAAAAABF4IKnAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAlGsXUg/YAAAMCSURBVEjHtZdbSBRRHMa/WRNMU1vtolRq0oMUSdlD2YMUhpRCPmhF4iXzJS1csBv0kCD44AWXwKwEsV7cQrCCNCWowGItyDKkDClMuxC2q6ZLa+3O18PMrCuuMzu2fi/zP4fv/P7zP2c454xABF6GZWAGAtqxO2nXloLRwELfZr9/1TeQ5tABnfmj5YjKFrCm9HOnDmh4hZajfBuAGPwIaPkAgJ+IDzz0uTHdq0WyVknQQrJWAABcIslei8WCDIvF8p0sU0x1JElnGAAglJK+hTaSnB4bGxuzkSDJqd5NwLo3TpKkoyfY2GMjSWYrmR+SHO8MBRIHf8sYcbQEpUNuqeHKKCLJOgDIkaFkN4Aa2Z2Je/LAD1arFblWq3WSJFkD4DYV2aPjHHLoLixykeRjk8lkavVAeRIIGaKUrpxewmlP+DcZiJ1SWmfQrvTnnRU5b4z8nNwIpLpJvghOmV0Eyj4DYJLjwaB0OXJm15E+oewC0EBObg4fnmeIPO/VKAOCXkvhgRXv5M5DqWaz2Wy+7wPKE8DKYR5BGxfXVCywRyTJDlQondHSYmb5gk5sANKuooRqagfQTNKZGDO1uGsOygcAhK0OVSizgKhxshq36BeUhQC61JkcCQOK+XXVXtFP6EQEsE/UoNYDwrN8Qz/9hLYBQKMG1LUDiBNOqXq8oMPhSceAsE8a1JcGIMrmJ9SZEjJgj/VjAnKBi+qOua3vXH9DsvEG8LRJY5eLBEI0LAr9LnJIMl97AkqASnWHAh0xJkyQpD0G2C/+J1Qu33V82rIaAIzXgSfX5CoWHr5+SmJfQK2SJm9uAiqrRY5vj59ZWvndwkFPybb1ngm4MkiyCXeWUr79UaGhbEZ59dkC4MnlYRG+Dl9gov8L8HHgl0b5VVJQJWVJkPsjlLTN8NopnRHKuHg/Vn9xFRlnND16odLhq0+Cxv3UnRl7U/cXpQEVi4WWIN1Q9WuPq2Btq36mOnQ2d2e9oJ+pXn7m5FEASDysl6q2igsP38Cs/pK0LH8n/wCYckJGtfx2WwAAAABJRU5ErkJggg==\" style=\"height:23px\" alt=\"\"> hoặc <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFQAAAAoCAAAAABF4IKnAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAlGCva4toAAAL+SURBVEjHtZdZSFRhFMd/M9oqarZHRQYG0kaYFPXQTpuFkEQk7b1kRRJtEEFQVKTQUNhCCz0ETVS0UWJF+RA2IxRptCpEZRRRo7YMWeP47+HOvTOBjnfgdp7Ouefc3/ed//3ud7/rEs6b+z8w40OvTMwen7X8vbPQp/kvH/trpwQdhfbOd9G36N0tI/rz0xHoplHAQD4b0f7Ur05AAfjKMEfbB6AqY2aiUCSVmAOckVTiAmCnIvaxZ5mkJq/XW8BJr/eudMGcyEKjYhYAyQ+lHw0NDQ0BCUn69mAo9K9pkSQFb3fJuB0wma2zV0rSE3MOEyUF/WMh+U6zWRM4weRHLZJKAQoiUKkCOGi4bfO5ZpYrvGJlqyQFfT7fWip8vmeSJJ8b1llFmp5UI0m6X1xcXHzWgmoNdH8lSSplk1UdKtzSZgW7+WL5ReCuNoPLbNA/ZkKbh8CksKTqLjm/zWRLfmlMaSy0eRDktBr+r8y+je1DVQ4ckpqHp9ZbyXmTPB6Px3PdiA6kB6L3XQSOGO5eTqkDqFZBj3ot5nw02cd4OHlqx/Ig/ZMkfUjJDXcIbRoMU46yVvbsbQoUSlKhy68OoboJuEYGbUJVCtyTqlitOFCtAMrtMhUaB9m/w7npn+NCm9JgWpttarUb9p3msOJCzwOU2YZqI/ToNzoUF1qfmr0EUt7Yhn4bDFS2k4hCW3K61zYOSkiAMmMviAPdyDHpRkICnIOpcaFXKZCkZYkI0Bn0bUZmkyQ1DoTpdgXoCBrZcFuX/vD2Asg4AZXHE97q4fXMEblZcx5YO7+k7ZSYwxTaFyB2ppULfim0vOujaPsVrrlWy4EBtgWIhfrPSHpBkQkN3OmfdOO7mf24FdhVF+4UGXy+A8b4Y9/SRhZFoHsMHfYY1zMjGqV1xpxjqtnzuXWtjs3R9p2ys1RJksvJo2TbhOGXwOGj5L7Q6dgl5Yidyol8GR2EHp1hHi+SHev9wOPybhHXsQdV4tnmBrqud1LTAoOd4viSMu2//J38BdBIEmQd2WsoAAAAAElFTkSuQmCC\" style=\"height:23px\" alt=\"\">?",
+  "options": {
+   "A": "Na và O.",
+   "B": "K và S.",
+   "C": "Ca và O.",
+   "D": "Ca và Cl."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L10_C3_0042",
+  "stem": "(SBT – CD) ZnO là một hợp chất ion được sử dụng nhiều trong kem chống nắng. Bán kính của nguyên tử O như thế nào so với bán kính của anion O2– trong tinh thể ZnO?",
+  "options": {
+   "A": "Bằng nhau.",
+   "B": "Bán kính của O lớn hơn của O2–.",
+   "C": "Bán kính của O nhỏ hơn của O2–.",
+   "D": "Không dự đoán được."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L10_C3_0043",
+  "stem": "Bán kính của nguyên tử Al như thế nào so với bán kính của cation Al3+ trong tinh thể AlCl3?",
+  "options": {
+   "A": "Bằng nhau.",
+   "B": "Bán kính của Al lớn hơn của Al3+.",
+   "C": "Bán kính của Al nhỏ hơn của Al3+.",
+   "D": "Không dự đoán được."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L10_C3_0044",
+  "stem": "Liên kết ion được tạo thành giữa hai nguyên tử bằng",
+  "options": {
+   "A": "một hay nhiều cặp electron dùng chung.",
+   "B": "một hay nhiều cặp electron dùng chung chỉ do một nguyên tử đóng góp.",
+   "C": "lực hút tĩnh điện giữa các ion mang điện tích trái dấu.",
+   "D": "một hay nhiều cặp electron dùng chung và các cặp electron này lệch về nguyên tử có độ âm điện lớn hơn."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L10_C3_0045",
+  "stem": "Liên kết ion là loại liên kết hóa học được hình thành nhờ lực hút tĩnh điện giữa các phần tử",
+  "options": {
+   "A": "cation và anion.",
+   "B": "anion.",
+   "C": "cation và electron tự do.",
+   "D": "electron và hạt nhân nguyên tử."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L10_C3_0046",
+  "stem": "Phát biểu nào sau đây là đúng?",
+  "options": {
+   "A": "Liên kết ion chỉ có trong đơn chất.",
+   "B": "Liên kết ion chỉ có trong hợp chất.",
+   "C": "Liên kết ion có trong cả đơn chất và hợp chất.",
+   "D": "Liên kết ion được hình thành từ những nguyên tử phi kim."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L10_C3_0047",
+  "stem": "Liên kết hóa học trong NaCl được hình thành là do",
+  "options": {
+   "A": "hai hạt nhân nguyên tử hút electron rất mạnh.",
+   "B": "mỗi nguyên tử Na và Cl góp chung 1 electron.",
+   "C": "mỗi nguyên tử đó nhường hoặc thu electron để trở thành các ion trái dấu hút nhau.",
+   "D": "<img class=\"formula\" src=\"data:image/png;base64,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\" style=\"height:21px\" alt=\"\">."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L10_C3_0048",
+  "stem": "Liên kết ion khác với liên kết cộng hóa trị ở điểm nào sau đây?",
+  "options": {
+   "A": "Tính bão hòa lớp electron ở vỏ nguyên tử.",
+   "B": "Tuân theo quy tắc octet.",
+   "C": "Tạo ra hợp chất bền vững hơn.",
+   "D": "Tính không định hướng."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L10_C3_0049",
+  "stem": "(Đề TSCĐ – 2014) Chất nào sau đây là hợp chất ion?",
+  "options": {
+   "A": "SO2.",
+   "B": "CO2.",
+   "C": "K2O.",
+   "D": "HCl."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L10_C3_0050",
+  "stem": "Cho các phân tử sau: HCl, NaCl, CaCl2 và AlCl3. Phân tử có liên kết mang nhiều tính chất ion nhất là",
+  "options": {
+   "A": "HCl.",
+   "B": "NaCl.",
+   "C": "CaCl2.",
+   "D": "AlCl3."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L10_C3_0051",
+  "stem": "Dãy gồm các phân tử đều có liên kết ion là",
+  "options": {
+   "A": "Cl2, Br2, I2, HCl.",
+   "B": "HCl, H2S, NaCl, N2O.",
+   "C": "Na2O, KCl, BaCl2, Al2O3.",
+   "D": "MgO, H2SO4, H3PO4, HCl."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L10_C3_0052",
+  "stem": "(Đề TSĐH B – 2013) Cho giá trị độ âm điện của các nguyên tố: F (3,98); O (3,44); C (2,55); H (2,20); Na (0,93). Hợp chất nào sau đây là hợp chất ion?",
+  "options": {
+   "A": "NaF.",
+   "B": "CO2.",
+   "C": "CH4.",
+   "D": "H2O."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L10_C3_0053",
+  "stem": "Cặp nguyên tố nào sau đây có khả năng tạo thành liên kết ion trong hợp chất của chúng?",
+  "options": {
+   "A": "Nitrogen và oxygen.",
+   "B": "Carbon và hydrogen.",
+   "C": "Sulfur và oxygen.",
+   "D": "Calcium và oxygen."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L10_C3_0054",
+  "stem": "X, Y, Z là những nguyên tố có số hiệu nguyên tử lần lượt là 8, 19, 16. Các cặp nguyên tố có thể tạo thành liên kết ion và cộng hóa trị phân cực lần lượt là",
+  "options": {
+   "A": "(X, Y); (X, Z) và (Y, Z).",
+   "B": "(X, Z); (Y, Z) và (X, Y).",
+   "C": "(X, Y); (Y, Z) và (X, Z).",
+   "D": "(Z, Y); (Y, X) và (X, Z)."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L10_C3_0056",
+  "stem": "Tính chất nào dưới đây đúng khi nói về hợp chất ion?",
+  "options": {
+   "A": "Hợp chất ion có nhiệt độ nóng chảy thấp.",
+   "B": "Hợp chất ion tan tốt trong dung môi không phân cực.",
+   "C": "Hợp chất ion có cấu trúc tinh thể.",
+   "D": "Hợp chất ion dẫn điện ở trạng thái rắn."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L10_C3_0057",
+  "stem": "Hợp chất A có các tính chất sau: Ở thể rắn trong điều kiện thường, dễ tan trong nước tạo thành dung dịch dẫn điện được. Hợp chất A là",
+  "options": {
+   "A": "sodium chloride.",
+   "B": "glucose.",
+   "C": "sucrose.",
+   "D": "fructose."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L10_C3_0058",
+  "stem": "Tính chất nào sau đây không phải là của magnesium oxide (MgO)?",
+  "options": {
+   "A": "Có nhiệt độ nóng chảy cao hơn so với NaCl.",
+   "B": "Chất khí ở điều kiện thường.",
+   "C": "Có cấu trúc tinh thể.",
+   "D": "Phân tử tạo bởi lực hút tĩnh điện giữa ion Mg2+ và O2–."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L10_C3_0059",
+  "stem": "Tính chất nào sau đây là tính chất của hợp chất ion?",
+  "options": {
+   "A": "Hợp chất ion có nhiệt độ nóng chảy thấp.",
+   "B": "Hợp chất ion có nhiệt độ nóng chảy cao.",
+   "C": "Hợp chất ion dễ hóa lỏng.",
+   "D": "Hợp chất ion có nhiệt độ sôi không xác định."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L10_C3_0060",
+  "stem": "Hợp chất tạo nên bởi ion Al3+ và O2– là hợp chất(a) cộng hóa trị.(b) ion.(c) có công thức Al2O3.(d) có công thức Al3O2.Số nhận định đúng là",
+  "options": {
+   "A": "1.",
+   "B": "2.",
+   "C": "3.",
+   "D": "4."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L10_C3_0061",
+  "stem": "Liên kết cộng hóa trị là liên kết được hình thành giữa hai nguyên tử bằng",
+  "options": {
+   "A": "một electron chung.",
+   "B": "sự cho – nhận electron.",
+   "C": "một cặp electron góp chung.",
+   "D": "một hay nhiều cặp electron dùng chung."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L10_C3_0062",
+  "stem": "(SBT – CD) Liên kết cộng hoá trị thường được hình thành giữa",
+  "options": {
+   "A": "các nguyên tử nguyên tố kim loại với nhau.",
+   "B": "các nguyên tử nguyên tố phi kim với nhau.",
+   "C": "các nguyên tử nguyên tố kim loại với các nguyên tử nguyên tố phi kim.",
+   "D": "các nguyên tử khí hiếm với nhau."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L10_C3_0063",
+  "stem": "(SBT – CD) Trong nguyên tử C, những electron có khả năng tham gia hình thành liên kết cộng hoá trị thuộc phân lớp nào sau đây?",
+  "options": {
+   "A": "1s.",
+   "B": "2s.",
+   "C": "2s, 2p.",
+   "D": "1s, 2s, 2p."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L10_C3_0064",
+  "stem": "Trong phân tử amomonia (NH3), số cặp electron chung giữa nguyên tử nitrogen và các nguyên tử hydrogen là",
+  "options": {
+   "A": "2.",
+   "B": "1.",
+   "C": "3.",
+   "D": "4."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L10_C3_0065",
+  "stem": "Hợp chất nào sau đây có liên kết cộng hóa trị phân cực?",
+  "options": {
+   "A": "H2.",
+   "B": "CHCl3.",
+   "C": "CH4.",
+   "D": "N2."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L10_C3_0066",
+  "stem": "Chất nào sau đây không có liên liên kết cộng hóa trị phân cực?",
+  "options": {
+   "A": "O2.",
+   "B": "NH3.",
+   "C": "HCl.",
+   "D": "H2O."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L10_C3_0067",
+  "stem": "Chất vừa có liên kết cộng hóa trị phân cực, vừa có liên kết cộng hóa trị không cực là",
+  "options": {
+   "A": "HCl.",
+   "B": "H2O.",
+   "C": "NH3.",
+   "D": "C2F6."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L10_C3_0068",
+  "stem": "Liên kết nào dưới đây là liên kết cộng hóa trị không phân cực?",
+  "options": {
+   "A": "Na–O.",
+   "B": "O–H.",
+   "C": "Na–C.",
+   "D": "C–H."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L10_C3_0069",
+  "stem": "Lực kéo electron về phía nguyên tử nitrogen mạnh nhất ở liên kết nào dưới đây?",
+  "options": {
+   "A": "N–H.",
+   "B": "N–F.",
+   "C": "N–Cl.",
+   "D": "N–Br."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L10_C3_0070",
+  "stem": "Liên kết nào trong các liên kết sau là phân cực nhất?",
+  "options": {
+   "A": "C–H.",
+   "B": "C–F.",
+   "C": "C–Cl.",
+   "D": "C–Br."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L10_C3_0071",
+  "stem": "Hợp chất nào sau chứa cả liên kết cộng hóa trị và liên kết ion?",
+  "options": {
+   "A": "CH3OH.",
+   "B": "CH4.",
+   "C": "Na2O.",
+   "D": "KOH."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L10_C3_0072",
+  "stem": "Dãy nào sau đây gồm các chất chỉ có liên kết cộng hóa trị?",
+  "options": {
+   "A": "BaCl2, NaCl, NO2.",
+   "B": "SO2, CO2, Na2O.",
+   "C": "SO3, H2S, H2O.",
+   "D": "CaCl2, F2O, HCl."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L10_C3_0073",
+  "stem": "Cho hai nguyên tố X (Z = 20) và Y (Z = 17). Công thức hợp chất tạo thành từ hai nguyên tố X, Y và liên kết trong phân tử là",
+  "options": {
+   "A": "XY; liên kết cộng hóa trị.",
+   "B": "X2Y3; liên kết cộng hóa trị.",
+   "C": "X2Y; liên kết ion.",
+   "D": "XY2; liên kết ion."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L10_C3_0074",
+  "stem": "Liên kết σ là liên kết hình thành do",
+  "options": {
+   "A": "sự xen phủ bên của hai orbital.",
+   "B": "cặp electron dùng chung.",
+   "C": "lực hút tĩnh điện giữa hai ion trái dấu.",
+   "D": "sự xen phủ trục của hai orbital."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L10_C3_0075",
+  "stem": "Liên kết π là liên kết hình thành do",
+  "options": {
+   "A": "sự xen phủ bên của hai orbital.",
+   "B": "cặp electron dùng chung.",
+   "C": "lực hút tĩnh điện giữa hai ion trái dấu.",
+   "D": "sự xen phủ trục của hai orbital."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L10_C3_0076",
+  "stem": "Liên kết trong phân tử nào sau đây được hình thành nhờ sự xen phủ orbital p – p?",
+  "options": {
+   "A": "H2.",
+   "B": "Cl2.",
+   "C": "NH3.",
+   "D": "HCl."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L10_C3_0077",
+  "stem": "Liên kết trong phân tử nào sau đây được hình thành nhờ sự xen phủ orbital s – s?",
+  "options": {
+   "A": "H2.",
+   "B": "Cl2.",
+   "C": "NH3.",
+   "D": "HCl."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L10_C3_0078",
+  "stem": "Liên kết trong phân tử nào sau đây được hình thành nhờ sự xen phủ orbital s – p?",
+  "options": {
+   "A": "H2.",
+   "B": "Cl2.",
+   "C": "NH3.",
+   "D": "O2."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L10_C3_0079",
+  "stem": "Các liên kết trong phân tử oxygen gồm",
+  "options": {
+   "A": "2 liên kết π.",
+   "B": "2 liên kết σ.",
+   "C": "1 liên kết π, 1 liên kết σ.",
+   "D": "1 liên kết σ."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L10_C3_0080",
+  "stem": "Số liên kết σ và π có trong phân tử C2H4 lần lượt là",
+  "options": {
+   "A": "4 và 0.",
+   "B": "2 và 0.",
+   "C": "1 và 1.",
+   "D": "5 và 1."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L10_C3_0081",
+  "stem": "Số liên kết σ và liên kết π trong phân tử acetylene (C2H2) lần lượt là",
+  "options": {
+   "A": "3 và 2.",
+   "B": "3 và 1.",
+   "C": "2 và 1.",
+   "D": "1 và 1."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L10_C3_0082",
+  "stem": "(SBT – CD) Khi tham gia hình thành liên kết trong các phân tử HF, F2; orbital tham gia xen phủ tạo liên kết của nguyên tử F thuộc về phân lớp nào, có hình dạng gì?",
+  "options": {
+   "A": "Phân lớp 2s, hình cầu.",
+   "B": "Phân lớp 2s, hình số tám nổi.",
+   "C": "Phân lớp 2p, hình số tám nổi.",
+   "D": "Phân lớp 2p, hình cánh hoa."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L10_C3_0083",
+  "stem": "(SBT – CD) Liên kết trong phân tử nào dưới đây không được hình thành do sự xen phủ giữa các orbital cùng loại (ví dụ cùng là orbital s, hoặc cùng là orbital p)?",
+  "options": {
+   "A": "Cl2.",
+   "B": "H2.",
+   "C": "NH3.",
+   "D": "Br2."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L10_C3_0084",
+  "stem": "Các liên kết trong phân tử nitrogen được tạo thành do sự xen phủ của",
+  "options": {
+   "A": "các orbital s với nhau.",
+   "B": "2 orbital s và 1 orbital p với nhau.",
+   "C": "1 orbital s và 2 orbital p với nhau.",
+   "D": "3 orbital p giống nhau về hình dạng và kích thước, chỉ khác nhau về sự định hướng trong không gian."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L10_C3_0085",
+  "stem": "Năng lượng liên kết của các hydrogen halide được liệt kê trong bảng sauThứ tự chiều tăng dần độ bền liên kết trong các phân tử là",
+  "options": {
+   "A": "HI &lt; HBr &lt; HCl &lt; HF.",
+   "B": "HF &lt; HCl &lt; HBr &lt; HI.",
+   "C": "HI &lt; HBr &lt; HF &lt; HCl.",
+   "D": "HF &lt; HCl &lt; HI &lt; HBr."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L10_C3_0086",
+  "stem": "Năng lượng liên kết của các phân tử được liệt kê trong bảng sauHãy chọn phương án đúng khi so sánh độ bền liên kết giữa Cl2, Br2 và I2.",
+  "options": {
+   "A": "I2 &gt; Br2 &gt; Cl2.",
+   "B": "Br2 &gt; Cl2 &gt; I2.",
+   "C": "Cl2 &gt; I2 &gt; Br2.",
+   "D": "Cl2 &gt; Br2 &gt; I2."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L10_C3_0087",
+  "stem": "Đặt độ dài liên kết N–N, N=N và N≡N lần lượt là I1, I2 và I3. Thứ tự tăng dần độ dài các liên kết là",
+  "options": {
+   "A": "I1, I2, I3.",
+   "B": "I1, I3, I2.",
+   "C": "I2, I1, I3.",
+   "D": "I3, I2, I1."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L10_C3_0088",
+  "stem": "Phát biểu nào sau đây đúng với độ bền của một liên kết?",
+  "options": {
+   "A": "Khi nhiều liên kết được hình thành giữa hai nguyên tử, độ bền của liên kết sẽ giảm.",
+   "B": "Độ bền của liên kết tăng khi độ dài của liên kết tăng.",
+   "C": "Độ bền của liên kết tăng khi độ dài của liên kết giảm.",
+   "D": "Độ bền của liên kết không phụ thuộc vào độ dài liên kết."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L10_C3_0089",
+  "stem": "Cho hai chất hữu cơ X và Y có công thức cấu tạo sau: CH2=CH–CH=CH2 (X) và CH3–C≡C–CH3 (Y). Nhận xét nào sau đây là đúng?",
+  "options": {
+   "A": "X và Y có số liên kết σ và số liên kết π bằng nhau.",
+   "B": "X có số liên kết σ và số liên kết π nhiều hơn Y.",
+   "C": "X có số liên kết σ nhiều hơn, nhưng số liên kết π ít hơn Y.",
+   "D": "X có số liên kết σ ít hơn, nhưng số liên kết π nhiều hơn Y."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L10_C3_0090",
+  "stem": "Cho các phát biểu sau:(a) Liên kết đôi được tạo nên từ 2 liên kết σ.(b) Liên kết ba được tạo nên từ 2 liên kết σ và 1 liên kết π.(c) Liên kết đôi được tạo nên từ 1 liên kết σ và 1 liên kết π.(d) Liên kết ba được tạo nên từ 1 liên kết σ và 2 liên kết π.Số phát biểu đúng là",
+  "options": {
+   "A": "1.",
+   "B": "2.",
+   "C": "3.",
+   "D": "4."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L10_C3_0091",
+  "stem": "Hợp chất nào dưới đây tạo được liên kết hydrogen liên phân tử?",
+  "options": {
+   "A": "CH4.",
+   "B": "H2O.",
+   "C": "PH3.",
+   "D": "H2S."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L10_C3_0092",
+  "stem": "Sự phân bố electron không đồng đều trong một nguyên tử hay một phân tử hình thành nên",
+  "options": {
+   "A": "một ion dương.",
+   "B": "một ion âm.",
+   "C": "một lưỡng cực vĩnh viễn.",
+   "D": "một lưỡng cực tạm thời."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L10_C3_0093",
+  "stem": "Khí hiếm nào dưới đây có nhiệt độ sôi thấp nhất?",
+  "options": {
+   "A": "Ne.",
+   "B": "Xe.",
+   "C": "Ar.",
+   "D": "Kr."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L10_C3_0094",
+  "stem": "Liên kết hydrogen xuất hiện giữa những phân tử cùng loại nào sau đây?",
+  "options": {
+   "A": "CH4.",
+   "B": "NH3.",
+   "C": "CH3–O–CH3.",
+   "D": "PH3."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L10_C3_0095",
+  "stem": "Liên kết hydrogen là loại liên kết hóa học được hình thành giữa các nguyên tử nào sau đây?",
+  "options": {
+   "A": "Phi kim và hydrogen trong hai phân tử khác nhau.",
+   "B": "Phi kim và hydrogen trong cùng một phân tử.",
+   "C": "Phi kim có độ âm điện lớn và nguyên tử hydrogen.",
+   "D": "F, O, N,… có độ âm điện lớn, đồng thời có cặp electron hóa trị chưa liên kết và nguyên tử hydrogen linh động."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L10_C3_0096",
+  "stem": "Tương tác van der Waals được hình thành do",
+  "options": {
+   "A": "tương tác tĩnh điện lưỡng cực – lưỡng cực giữa các nguyên tử.",
+   "B": "tương tác tĩnh điện lưỡng cực – lưỡng cực giữa các phân tử.",
+   "C": "tương tác tĩnh điện lưỡng cực – lưỡng cực giữa các nguyên tử hay phân tử.",
+   "D": "lực hút tĩnh điện giữa các phân tử phân cực."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L10_C3_0097",
+  "stem": "Chất nào sau đây có thể tạo liên kết hydrogen?",
+  "options": {
+   "A": "PF3.",
+   "B": "CH4.",
+   "C": "CH3OH.",
+   "D": "H2S."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L10_C3_0098",
+  "stem": "Chất nào sau đây không thể tạo được liên kết hydrogen?",
+  "options": {
+   "A": "H2O.",
+   "B": "CH4.",
+   "C": "CH3OH.",
+   "D": "NH3."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L10_C3_0099",
+  "stem": "Tương tác van der Waals tồn tại giữa những",
+  "options": {
+   "A": "ion.",
+   "B": "hạt proton.",
+   "C": "hạt neutron.",
+   "D": "phân tử."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L10_C3_0100",
+  "stem": "Cho các chất sau: F2, Cl2, Br2, I2. Chất có nhiệt độ nóng chảy thấp nhất là",
+  "options": {
+   "A": "F2.",
+   "B": "Cl2.",
+   "C": "Br2.",
+   "D": "I2."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L10_C3_0101",
+  "stem": "Sơ đồ nào sau đây thể hiện đúng liên kết hydrogen giữa 2 phân tử hydrogen fluoride (HF)?",
+  "options": {
+   "A": "<img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIIAAAARCAAAAAA0mivMAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAlGsXUg/YAAAHFSURBVEjH7VVPKINhHH7eEdFqjRJNKeNAkz8TolDcyEUsuchhKbKaJCXjYoqaknAQJxeKg5Y4OFKT/5Go5UBqySaGsJ8D07fP970+o1w89R1+z+/3e3re5/3qZYS/huqvDQARfSFlwOGNi+Vv/M4IJvy3CZIpqPYvtQA6juR330d4UKCCl8XU4DQwWcCat3DYwrIdeDI5++HbOT88EK+s1TFDeWlh4vyTydkvIalMxW2JSi4vK05rg0FbE3gniciBayIi2IjsrkDezV5HTlMvibGNBSKanbO7Ank3k8YKcV+ZCmksRHTRuj5ErcubRuMpUaTIJWP656zhthaDTH75vlXG9M9mM+8ivlRJKnEzZNwbNwFAZKF9ylupBcwpcurpiHkb4eFLFTTcWVcfqiQvgoNtLBANumX7ylRIYyHamBYybylUR0qbdfqBXH2w6hnBiYlzeDkV1xmQXBSs5nfg6Qzpc/3rAIwKU7CFk0IjgFphCmsSKchh/wVQC4n6eHwfEyNAtJDITRRWfAuffrvMMBxArRYRGo2w+tkbMaC7+vjChgqYmUP3Lo6tWBrnDLrsGLM9yveVqXis/pWu01CO/T/WAF4BSYbCpLOLAksAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\">.",
+   "B": "<img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIIAAAARCAAAAAA0mivMAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAlGVzd0kwAAAHjSURBVEjHY/zPMNCAaaAdwMDA3IDC/df/QYgLvw4ilDDM+PZFjGglaKHAdPmFIAMDQ/F13HqJUMLwd4MSIb8jlDAxMMw0Y0w6x3Atg1G/n+F3+LZGho8Xnl67gq5lfyijjoOducQaHEr2BjG6rGb4WiwuXvyVQUfQ7x9Wi+/ns8k42Fup5CAr+f//fz/D+/////9nqP//v/30P6NPl4oNEur+o4PzDOv///+/bDUuJRD5//b2//8f7/6fveOMsfGd/5iAP//////PspGUsKC5kpFR+Y9uT06GDo7wM/m4m5ASBob7jAya343P4I4FSWskJWhOyJv7wUWQgSFNHpdmVQZOQkoYGPyKdv/wxpsSIr8iKUGNCDzgPMP6//877uOXh0QEPsCf////ifnIIpBQ8GHB7tht3xgYDJVhvJoJDLfD8XitZgIDA8MFAwzx0w8ZGGQsYLw1Fxhel6LI4w0FaQYGhsnIvqwnJxSiGRgYgpFDYT+WUMAFLv9lYOBBFggTZiAdzJjAwMCOLGAogczD7wRBdAEtMlzAwMODJsDPj8yjrI44ILAPjskGTAwMC1YzVF5kuFnEsGU6HoWn2xmm1v/ELX+wk2HWRoZvNTdv1nzDrep10bdd5XdQxRhHK2sGBgYAMkzG/hy3GTsAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\">.",
+   "C": "<img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIQAAAARCAAAAAA5hFuLAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAlF7tl/0sAAAFrSURBVEjHY/zPMPCAaaAdwMDAwMDcgML91/9BiAu/DhooQQsJpssvBAk4G6qk+DpBJUSYsmEW1BEzzRiTzjFcy2DU72f4Hb6tEbuu/aGMOg525hJrfodva2T4eOHptSso8uSY8vfCnfsXfjAwMPz//7+f4f3/////M9T//99++p/Rp5nGzv8xwXmG9f///1+2uv30P6NPl4oNEupQ5ckw5Wuxr3Px8///WVBdep+RUflPWhruYDT5uJuRUfmPbk9Ohg5ORcSawtuz5kUOAwMDmiPy5n5wwRudqgycECVp8rgVEW+K1U8GBozowAPOM6z//7/jPk55CkyBhIQPC3YXb/vGwGCoDOPVTGC4HY7Hf+SbgtcP0gwMDJOR/VBPTkgQNIWFAR+4/JeBgQdZIEyYgXRA0BT8jsBIXVpkuIGwKZTVHW3Sb+GYAsDEwLBgNUPlRYabRQxbpuNReLqdYWr9T9zylJjCOFqVQwEAmpDKL0S3/5wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\">.",
+   "D": "<img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIQAAAARCAAAAAA5hFuLAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAlGCva4toAAAF+SURBVEjHY/zPMPCAaaAdwMDAwMDcgML91/9BiAu/DhooQQsJpssvBBkYGIqv49YOVYIPEK9kwyyoI2aaMSadY7iWwajfz/A7fFsjw8cLT69dQde1P5RRx8HOXGLN7/BtjVhMxTAFK0A15e+FO/cv/GBgYPj//38/w/v/////Z6j//7/99D+jT5eKDRLq/qOD8wzr////v2x1++l/Rp9mGjujy6ObgkUJuilfi32di5///8+C6tL7jIzKf3R7cjJ0cASjycfdjIzKf9LS8IX1fUJKoKbw9qx5kcPAwIDmiLy5H1wEGRjS5HFpV2XghCjBB/IIKYGbYvWTgQEjOvCA8wzr///vuI9TngJTICHhw4Ldxdu+MTAYKsN4NRMYbofj8R/5puD1gzQDA8NkZD/UkxMSBE1hYcAHLv9lYOBBFggTZiAdEDQFvyMwUpcWGW4gbApldUeb9Fs4pgAwMTAsWM1QeZHhZhHDlul4FJ5uZ5ha/xO3PCWmMI5W5VAAAHfVyi9L5BOXAAAAAElFTkSuQmCC\" style=\"height:19px\" alt=\"\">."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L10_C3_0102",
+  "stem": "Cho các khí hiếm sau: He, Ne, Ar, Kr, Xe. Khí hiếm có nhiệt độ nóng chảy thấp nhất và cao nhất là",
+  "options": {
+   "A": "Xe và He.",
+   "B": "Ar và Ne.",
+   "C": "He và Xe.",
+   "D": "He và Kr."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L10_C3_0103",
+  "stem": "Cho các chất sau: C2H6, H2O, NH3, PF3, C2H5OH. Số chất tạo được liên kết hydrogen là",
+  "options": {
+   "A": "2.",
+   "B": "3.",
+   "C": "4.",
+   "D": "5."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L10_C3_0104",
+  "stem": "Tương tác van der Waals xuất hiện là do sự hình thành các lưỡng cực tạm thời cũng như các lưỡng cực cảm ứng. Các lưỡng cực tạm thời xuất hiện là do sự chuyển động của",
+  "options": {
+   "A": "các nguyên tử trong phân tử.",
+   "B": "các electron trong phân tử.",
+   "C": "các proton trong hạt nhân.",
+   "D": "các neutron và proton trong hạt nhân."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L10_C3_0105",
+  "stem": "Cho các chất sau: F2, Cl2, Br2, I2. Chất có nhiệt độ nóng chảy cao nhất là",
+  "options": {
+   "A": "F2.",
+   "B": "Cl2.",
+   "C": "Br2.",
+   "D": "I2."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L10_C3_0106",
+  "stem": "Trong các khí hiếm sau, khí hiếm có nhiệt độ sôi cao nhất là",
+  "options": {
+   "A": "Ne.",
+   "B": "Xe.",
+   "C": "Ar.",
+   "D": "Kr."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L10_C3_0107",
+  "stem": "Hợp chất nào sau đây tạo được liên kết hydrogen liên phân tử?",
+  "options": {
+   "A": "H2S.",
+   "B": "PH3.",
+   "C": "HI.",
+   "D": "CH3OH."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L10_C3_0108",
+  "stem": "Vì sao HF có nhiệt độ sôi cao hơn hẳn so với HCl, HBr và HI?",
+  "options": {
+   "A": "HF có phân tử khối lớn nhất.",
+   "B": "HF có liên kết hydrogen.",
+   "C": "HF có tương tác van der Waals lớn nhất.",
+   "D": "HF là hợp chất phân cực nhất."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L10_C3_0109",
+  "stem": "Trong phân tử, các electron chuyển động không ngừng, khi các electron tập trung về một phía sẽ hình thành nên",
+  "options": {
+   "A": "cation.",
+   "B": "anion.",
+   "C": "một lưỡng cực tạm thời.",
+   "D": "một lưỡng cực vĩnh viễn."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L10_C3_0110",
+  "stem": "(SBT – CD) Giữa các nguyên tử He có thể có loại liên kết nào?",
+  "options": {
+   "A": "Liên kết cộng hoá trị.",
+   "B": "Liên kết hydrogen.",
+   "C": "Tương tác van der Waals.",
+   "D": "Không có bất kì liên kết nào."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L10_C3_0111",
+  "stem": "(SBT – CD) Chất nào trong số các chất sau tồn tại ở thể lỏng trong điều kiện thường?",
+  "options": {
+   "A": "CH3OH.",
+   "B": "CF4.",
+   "C": "SiH4",
+   "D": "CO2."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L10_C3_0112",
+  "stem": "Dựa vào liên kết giữa các phân tử, hãy cho biết halogen nào sau đây có nhiệt độ sôi cao nhất.",
+  "options": {
+   "A": "F2.",
+   "B": "Cl2.",
+   "C": "Br2.",
+   "D": "I2."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L10_C3_0113",
+  "stem": "(Đề MH – 2025) Chất nào sau đây không tạo được liên kết hydrogen giữa các phân tử?",
+  "options": {
+   "A": "NH3.",
+   "B": "H2O.",
+   "C": "HF.",
+   "D": "CH4."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L10_C3_0114",
+  "stem": "Giữa các nguyên từ khí hiếm Ne, có thể hình thành loại liên kết hay tương tác hoá học nào?",
+  "options": {
+   "A": "Liên kết ion.",
+   "B": "Liên kết hydrogen.",
+   "C": "Liên kết cộng hoá trị.",
+   "D": "Tương tác van der Waals."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L10_C3_0115",
+  "stem": "(SBT – CD) Ethanol tan vô hạn trong nước do",
+  "options": {
+   "A": "cả nước và ethanol đều là phân tử phân cực.",
+   "B": "nước và ethanol có thể tạo liên kết hydrogen với nhau.",
+   "C": "ethanol có thể tạo liên kết hydrogen với các phân tử ethanol khác.",
+   "D": "ethanol và nước có tương tác van der Waals mạnh."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L10_C3_0116",
+  "stem": "Ethanol (C2H5OH) và dimethylether (CH3–O–CH3) có cùng công thức phân tử là C2H6O. Phát biểu nào sau đây là đúng?",
+  "options": {
+   "A": "Ethanol có nhiệt độ sôi cao hơn dimethylether.",
+   "B": "Dimethylether có nhiệt độ sôi cao hơn ethanol.",
+   "C": "Hai chất có nhiệt độ sôi bằng nhau.",
+   "D": "Hai chất có nhiệt độ sôi không xác định."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L10_C3_0117",
+  "stem": "(SBT – CD) Thứ tự nào sau đây thể hiện độ mạnh giảm dần của các loại liên kết?",
+  "options": {
+   "A": "Liên kết ion &gt; liên kết cộng hoá trị &gt; liên kết hydrogen &gt; tương tác van der Waals.",
+   "B": "Liên kết ion &gt; liên kết cộng hoá trị &gt; tương tác van der Waals &gt; liên kết hydrogen.",
+   "C": "Liên kết cộng hoá trị &gt; liên kết ion &gt; liên kết hydrogen &gt; tương tác van der Waals.",
+   "D": "Tương tác van der Waals &gt; liên kết hydrogen &gt; liên kết cộng hoá trị &gt; liên kết ion."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L10_C3_0118",
+  "stem": "Cho các phát biểu sau(a) Liên kết hydrogen yếu hơn liên kết ion và liên kết cộng hóa trị.(b) Liên kết hydrogen mạnh hơn liên kết ion và liên kết cộng hóa trị.(c) Tương tác van der Waals yếu hơn liên kết hydrogen.(d) Tương tác van der Waals mạnh hơn liên kết hydrogen.Phát biểu đúng là",
+  "options": {
+   "A": "(a) và (c).",
+   "B": "(a) và (d).",
+   "C": "(b) và (c).",
+   "D": "(b) và (d)."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L10_C3_0119",
+  "stem": "Mặc dù chlorine có độ âm điện là 3,16 xếp xỉ với nitrogen là 3,04 nhưng giữa các phân tử HCl không tạo được liên kết hydrogen với nhau, trong khi giữa các phân tử NH3 tạo được liên kết hydrogen với nhau, nguyên nhân là do",
+  "options": {
+   "A": "độ âm điện của chlorine nhỏ hơn nitrogen.",
+   "B": "phân tử NH3 chứa nhiều nguyên tử hydrogen nhỏ hơn phân tử HCl.",
+   "C": "tổng số nguyên tử trong phân tử NH3 nhiều hơn so với phân tử HCl.",
+   "D": "kích thước nguyên tử chlorine lớn hơn nguyên tử nitrogen nên mật độ điện tích âm trên chlorine không đủ lớn để hình thành liên kết hydrogen."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L10_C3_0120",
+  "stem": "(SBT – CD) Nếu giữa phân tử chất tan và dung môi có thể tạo thành liên kết hydrogen hoặc có tương tác van der Waals càng mạnh với nhau thì càng tan tốt vào nhau. Lí do nào sau đây là phù hợp để giải thích dầu hoả (thành phần chính là hydrocarbon) không tan trong nước?",
+  "options": {
+   "A": "Cả nước và dầu đều là các phân tử có cực.",
+   "B": "Nước là phân tử phân cực và dầu là không ít phân cực.",
+   "C": "Nước là phân tử không phân cực và dầu là phân cực.",
+   "D": "Cả nước và dầu đều không phân cực."
+  },
+  "answer": "B"
+ }
+]

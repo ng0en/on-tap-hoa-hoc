@@ -1,0 +1,3533 @@
+[
+ {
+  "id": "L11_C2_0001",
+  "stem": "(SBT – CTST) Ở trạng thái tự nhiên, nitrogen",
+  "options": {
+   "A": "tồn tại ở dạng đơn chất và hợp chất.",
+   "B": "chỉ tồn tại ở dạng đơn chất.",
+   "C": "chỉ tồn tại ở dạng hợp chất.",
+   "D": "tự do chiếm khoảng 20% thể tích không khí."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C2_0002",
+  "stem": "(SBT – KNTT) Khí nào phổ biến nhất trong khí quyển Trái Đất?",
+  "options": {
+   "A": "Oxygen.",
+   "B": "Nitrogen.",
+   "C": "Ozone.",
+   "D": "Argon."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C2_0003",
+  "stem": "(SBT – KNTT) Công thức hóa học của diêm tiêu Chile là",
+  "options": {
+   "A": "Ca(NO3)2.",
+   "B": "NH4NO3.",
+   "C": "NH4Cl.",
+   "D": "NaNO3."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C2_0004",
+  "stem": "(SBT – KNTT) Trong tự nhiên, nguyên tố nitrogen tồn tại trong hợp chất hữu cơ nào sau đây?",
+  "options": {
+   "A": "Tinh bột.",
+   "B": "Cellulose.",
+   "C": "Protein.",
+   "D": "Glucose."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C2_0005",
+  "stem": "(SBT – KNTT) Trong tự nhiên, nguyên tố nitrogen tồn tại chủ yếu ở dạng đồng vị nào sau đây?",
+  "options": {
+   "A": "14N.",
+   "B": "13N.",
+   "C": "15N.",
+   "D": "12N."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C2_0006",
+  "stem": "(SBT – KNTT) Áp suất riêng phần của khí nitrogen trong khí quyển là",
+  "options": {
+   "A": "0,21 bar.",
+   "B": "0,01 bar.",
+   "C": "0,78 bar.",
+   "D": "0,28 bar."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C2_0007",
+  "stem": "(SBT – KNTT) Trong tự nhiên, nguyên tố nitrogen có hai đồng vị bền là 14N (99,63%) và 15N (0,37%). Nguyên tử khối trung bình của nitrogen là",
+  "options": {
+   "A": "14,000.",
+   "B": "14,004.",
+   "C": "14,0037.",
+   "D": "14,063."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C2_0008",
+  "stem": "(SGK – Cánh Diều) Trong khí quyển, nguyên tố nitrogen tồn tại chủ yếu dưới dạng",
+  "options": {
+   "A": "N2.",
+   "B": "NO3–.",
+   "C": "NO2–.",
+   "D": "NH4+."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C2_0009",
+  "stem": "(SBT – CTST) Cấu hình electron nguyên tử của nitrogen là",
+  "options": {
+   "A": "1s22s22p1.",
+   "B": "1s22s22p5.",
+   "C": "1s22s22p4.",
+   "D": "1s22s22p3."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C2_0010",
+  "stem": "(SBT – KNTT) Số oxi hoá thấp nhất của nitrogen là",
+  "options": {
+   "A": "–3.",
+   "B": "0.",
+   "C": "+1.",
+   "D": "+4."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C2_0011",
+  "stem": "(SBT – KNTT) Vị trí (chu kì, nhóm) của nguyên tố nitrogen trong bảng tuần hoàn là",
+  "options": {
+   "A": "chu kì 2, nhóm VA.",
+   "B": "chu kì 3, nhóm VA.",
+   "C": "chu kì 2, nhóm VIA.",
+   "D": "chu kì 3, nhóm IVA."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C2_0012",
+  "stem": "(SBT – KNTT) Số oxi hoá thấp nhất và cao nhất của nguyên tử nitrogen lần lượt là",
+  "options": {
+   "A": "0 và +5.",
+   "B": "–3 và 0.",
+   "C": "–3 và +5.",
+   "D": "–2 và +4."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C2_0013",
+  "stem": "(SBT – KNTT) Số liên kết σ và số liên kết π trong phân tử nitrogen lần lượt là",
+  "options": {
+   "A": "2 và 1.",
+   "B": "0 và 3.",
+   "C": "3 và 0.",
+   "D": "1 và 2."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C2_0014",
+  "stem": "(SBT – KNTT) Bậc liên kết và năng lượng liên kết trong phân tử nitrogen tương ứng là",
+  "options": {
+   "A": "2 và 418 kJ/mol.",
+   "B": "1 và 167 kJ/mol.",
+   "C": "1 và 386 kJ/mol.",
+   "D": "3 và 945 kJ/mol."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C2_0015",
+  "stem": "(SGK – KNTT) Phân tử nitrogen có cấu tạo là",
+  "options": {
+   "A": "N=N.",
+   "B": "N≡N.",
+   "C": "N–N.",
+   "D": "N→N."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C2_0017",
+  "stem": "Căn cứ vào tính chất vật lí nào sau đây để tách N2 ra khỏi không khí?",
+  "options": {
+   "A": "N2 rất ít tan trong nước.",
+   "B": "N2 nhẹ hơn không khí.",
+   "C": "N2 là chất không màu, không mùi.",
+   "D": "Nhiệt độ hóa lỏng của N2 và O2 là khác nhau."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C2_0018",
+  "stem": "(SBT – KNTT) Trong khí quyển Trái Đất, phần trăm thể tích khí nitrogen chiếm là",
+  "options": {
+   "A": "21%.",
+   "B": "1%.",
+   "C": "78%.",
+   "D": "28%."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C2_0019",
+  "stem": "Oxide của nitrogen hiện nay có nhiều loại nhưng thường gặp nhất là NO và NO2. Chất khí này được hình thành giữa khí nitrogen và oxygen trong không khí kết hợp với nhau ở điều kiện nhiệt độ cao. Do vậy nó chỉ thường thấy ở các khu công nghiệp và đô thị lớn. Tên gọi của NO và NO2 lần lượt là",
+  "options": {
+   "A": "nitrogen oxide và nitrogen dioxide.",
+   "B": "nitrogen monoxide và nitrogen dioxide.",
+   "C": "dinitrogen oxide và nitrogen dioxide.",
+   "D": "nitrogen monoxide và dinitrogen oxide."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C2_0020",
+  "stem": "Trong phòng thí nghiệm, người ta thu khí nitrogen bằng phương pháp dời nước vì",
+  "options": {
+   "A": "N2 nhẹ hơn không khí.",
+   "B": "N2 ít tan trong nước.",
+   "C": "N2 không duy trì sự sống, sự cháy.",
+   "D": "N2 hoá lỏng, hóa rắn ở nhiệt độ rất thấp."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C2_0021",
+  "stem": "(SBT – CTST) Tính chất nào sau đây của nitrogen không đúng?",
+  "options": {
+   "A": "Ở điều kiện thường, nitrogen là chất khí.",
+   "B": "Nitrogen tan rất ít trong nước.",
+   "C": "Nitrogen không duy trì sự cháy và sự hô hấp.",
+   "D": "Nitrogen nặng hơn không khí."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C2_0022",
+  "stem": "(SGK – CTST) Khí nitrogen tan rất ít trong nước (ở điều kiện thường, 1 lít nước hòa tan được 0,015 lít khí nitrogen). Trong phòng thí nghiệm, người ta có thể thu khí nitrogen bằng cách",
+  "options": {
+   "A": "đẩy nước.",
+   "B": "đẩy không khí.",
+   "C": "đẩy nước và không khí.",
+   "D": "chưng cất."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C2_0023",
+  "stem": "Nitrogen tương đối trơ về mặt hóa học ở nhiệt độ thường là do",
+  "options": {
+   "A": "phân tử N2 có liên kết cộng hoá trị không phân cực.",
+   "B": "phân tử N2 có liên kết ion.",
+   "C": "phân tử N2 có liên kết ba với năng lượng liên kết lớn.",
+   "D": "nitrogen có độ âm điện lớn."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C2_0024",
+  "stem": "(SBT – CTST) Điều nào sau đây đúng về tính chất hóa học của N2?",
+  "options": {
+   "A": "N2 chỉ có tính khử.",
+   "B": "N2 chỉ có tính oxi hoá.",
+   "C": "N2 vừa có tính khử, vừa có tính oxi hoá.",
+   "D": "N2 có tính acid."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C2_0025",
+  "stem": "Trong phản ứng tổng hợp ammonia từ nitrogen và hydrogen, nitrogen đóng vai trò là",
+  "options": {
+   "A": "chất khử.",
+   "B": "chất oxi hoá",
+   "C": "acid.",
+   "D": "base."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C2_0026",
+  "stem": "(SBT – KNTT) Trong những cơn mưa dông kèm sấm sét, nitrogen kết hợp trực tiếp với oxygen tạo thành sản phẩm là",
+  "options": {
+   "A": "NO.",
+   "B": "N2O.",
+   "C": "NH3.",
+   "D": "NO2."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C2_0027",
+  "stem": "(SBT – KNTT) Trong phản ứng hoá hợp với oxygen, nitrogen đóng vai trò là",
+  "options": {
+   "A": "chất oxi hóa.",
+   "B": "base.",
+   "C": "chất khử.",
+   "D": "acid."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C2_0028",
+  "stem": "(SBT – KNTT) Nitrogen thể hiện tính khử trong phản ứng nào sau đây?",
+  "options": {
+   "A": "N2 + O2 <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFIAAAAsCAAAAADTb7D2AAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAmF5BIrIgAAAJbSURBVEjH5ZZLSFRRGMd/M01BLWZMyEQcbZqQHgQ1CDW7GbwFERI9FkO7kDbiImzhRBEhZiaRm+ixkB6bcNVGDHRkBglcVdQEZoWckXyMhoMJGTHObTGjzL23670jJwj6r+79vv/3O/c87jnHoSJbTunEkpCx080nYjZ8qm3Ne6bUcfecpa+ErxyqqqJu57DMjqfdwPa0JGTfNaByEchUykGqnQDKzFe+pBts2K318Rie2suqOniq5eSQtd2h8ux6gR7p0rYWWCg8vAhc7SiKmxbk5YLvFd0A9H7T5Sbb9wOsKFlt3LRgDUl5CIDYrD4ZOAqQNRSZFtifntL0LyOTpSGd5KwsTw7dLglZvmVYJNd1vG3KRVeZtpCb28eCPes6DkdhlemyNVBtbVaOm+otorTZQX46DgQ3wa6ENtE8QIpegFoiXdCpdhWYVshf04Mryt0dvH6gCfdMxTx7lxaCMHpwX3IgC1Axl2dadtwZyhKs1v9CT9/BexgFksmiFRS9WC59qefsTo9Bj5ba6yJXxHO41NjwONO6lvBsGHmEh3uUO7MKlB1QElsVzVBJ7vj/jHTB1Hw/AJ8z/drcBm9gLoi/aSy8DGlz7hnBtCpWDEXLAn5kxLIp0mHa3hkAnzE+4gNedlNthuwLT8D5P1Re8MOH+p+GeEsLcK4+eq/fDFkTD0/wqsOHJDmBmsRuJsNCJhJvwk8qJIuZX5feuJ/UDUnIwrbhTYRq78tFUj1Stk0ykipJQBv7pSoAMN6nM0KMJWBciEV9yfpaO1X8usTZIkaT/soqW39hc/sNNIJ22xTaB/0AAAAASUVORK5CYII=\" style=\"height:24px\" alt=\"\"> 2NO.",
+   "B": "N2 + 3H2 <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFgAAAAfCAAAAABGo1U8AAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAmCWpHkesAAALNSURBVEjH1ZZdSFNxGMZ/WwvNkX1hUgnVTUJGRhlBG9uKPkBRELsRIuxLpVUmGIlGKkSR0E1EXZQiXQnhRTcy3NSwpZmB1JIQEdFWseaNa9DWVm8X246n0q1ku+i5Oud53/9z/v/3fc57jkZIDbQp0kUXP3xlw7uzBUtTlnh4USETR2VJiF+KqWw2TSe9xn2w1cOHLfEF+v65FJOFInL5dtWruCeeLFwkoBGCXoC0LOVZ3iAQaBksb8iIEG4Acs4OFLnWtush6IWRmv1tp/ZWn39W3pCBzweQmanasEZwXNoB4nmqcMYcwFX20ha9D288CPR6bdedFBvqiaz4PPS8p57ODhtwdXA9eMzNKmEdcKwZwodUZCdwVXW/vRMwAmAZILZiy3GXknHNAg7nXzZvQfyYN74usFDjZCCRsDawEDtsiV09Xv2g0v9nVo3lfgLh3MkqxcJ5rQB8vFWbVcW5IoCuDv22FWc+FKiyADi83HovVuMF4PP5dEMoXb446g1+c89mX0oDKk8C7NtTrulhE+8BCLlxv3OPZpFT3FVmFeuiwq2DnrddSpvD03WlOVN1n94MWQBnMxDefWCyjl5vpPAO59u1E9CWO3MO8kfOYwURe5OIhMzz3jaINPY39kcCIhIyfhWDGELVmS0iIh6xN0nIHDKLGKIJv+8rTyTBdItgWTqA7v46E8D6P+PFGYGS1pLx8fobDQCsSTg2/w6anWu+nHh0JH2u4mFFjEvZoE/lFyT4zQ/h737lYMkSPu25CbAyRul3JUl4s4flWjTZijBGpp/MqabSqBGX0aVa1e6QMYu673e/28dqS39RFvGbyJ/9bUw39osoPo56O8pGrWtWWBERe1PILCHzPCFa0HebXh+cTUphVdAC+m7Tm9pUCKPvtt5JtnCkA/q7ydZd9JW+sArmylSEEZj51Skw75R227AGVNbR/Hc/hT8B4Q/tc/EpOh4AAAAASUVORK5CYII=\" style=\"height:24px\" alt=\"\"> 2NH3.",
+   "C": "3Ca + N2 <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAE0AAAAgCAAAAAByCKroAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAmEXkrCb0AAAEqSURBVEjHY/zPQEXARE3DiDZtT2CW5x7Cyv4TBV7zP/1/k+8VIWVEum23lBSDmvheKvn0JR8DA4PgS8pNW1nDwMAg8ZGBgeG9BMWm/W9jYGBgcHn+hOHOS2eCVhMI1xuuDPzyxf//7/LP8d5NMLIIxuljhmriop2EOCUSjJpGI9OYGP5R0TQRtr0PLhNS9AbGIJiGOnglEgko+Sd/m8jUSxTI1fxIRdNei3j+oZ5p/xcx5FPRtP/BDJP////PwsDwPhczkrwjUbglLxDspVC6BkUFP0O+ZDADw///T5gxQRmqzeoIGdzJxPP/f0Zy69N///8hg6WV6icEGMg2DRU81WE+oUJM6iUK+LAeoF6crmeY+596pumWQmiqlEj/gjogDCrFAhRQt7QEANWTdyq5RaZ+AAAAAElFTkSuQmCC\" style=\"height:22px\" alt=\"\"> Ca3N2.",
+   "D": "3Mg + N2 <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAE0AAAAgCAAAAAByCKroAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAmEXkrCb0AAAEqSURBVEjHY/zPQEXARE3DiDZtT2CW5x7Cyv4TBV7zP/1/k+8VIWVEum23lBSDmvheKvn0JR8DA4PgS8pNW1nDwMAg8ZGBgeG9BMWm/W9jYGBgcHn+hOHOS2eCVhMI1xuuDPzyxf//7/LP8d5NMLIIxuljhmriop2EOCUSjJpGI9OYGP5R0TQRtr0PLhNS9AbGIJiGOnglEgko+Sd/m8jUSxTI1fxIRdNei3j+oZ5p/xcx5FPRtP/BDJP////PwsDwPhczkrwjUbglLxDspVC6BkUFP0O+ZDADw///T5gxQRmqzeoIGdzJxPP/f0Zy69N///8hg6WV6icEGMg2DRU81WE+oUJM6iUK+LAeoF6crmeY+596pumWQmiqlEj/gjogDCrFAhRQt7QEANWTdyq5RaZ+AAAAAElFTkSuQmCC\" style=\"height:22px\" alt=\"\"> Mg3N2."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C2_0029",
+  "stem": "Oxide được điều chế trực tiếp từ phản ứng của nitrogen với oxygen là",
+  "options": {
+   "A": "NO2.",
+   "B": "NO.",
+   "C": "N2O.",
+   "D": "N2O5."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C2_0030",
+  "stem": "Nitrogen thể hiện tính khử trong phản ứng với chất nào sau đây?",
+  "options": {
+   "A": "H2.",
+   "B": "O2.",
+   "C": "Mg.",
+   "D": "Al."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C2_0031",
+  "stem": "Nitrogen thể hiện tính oxi hóa khi tác dụng với chất nào sau đây?",
+  "options": {
+   "A": "Mg, H2.",
+   "B": "Mg, O2.",
+   "C": "H2, O2.",
+   "D": "Ca, O2."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C2_0032",
+  "stem": "Nitrogen phản ứng được với dãy các nguyên tố nào sau đây để tạo ra các hợp chất khí?",
+  "options": {
+   "A": "Li, Na, K.",
+   "B": "H2, O2.",
+   "C": "H2, Ca, Na.",
+   "D": "O2, Ba, C."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C2_0033",
+  "stem": "Trong tự nhiên, phản ứng giữa nitrogen và oxygen xảy ra trong những cơn mưa dông sấm sét, khởi đầu cho quá trình chuyển hóa từ nitrogen thành nitric acid. Nitric acid tan trong nước mưa và phân li ra ion nitrate (NO3–) là một dạng phân đạm mà cây trong hấp thụ được để sinh trưởng và phát triển. Quá trình chuyển hóa từ nitrogen thành nitric acid qua mấy giai đoạn?",
+  "options": {
+   "A": "1.",
+   "B": "2.",
+   "C": "3.",
+   "D": "4."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C2_0034",
+  "stem": "(SBT – CTST) Nitrogen trong không khí có vai trò nào sau đây?",
+  "options": {
+   "A": "Cung cấp đạm tự nhiên cho cây trồng.",
+   "B": "Hình thành sấm sét.",
+   "C": "Tham gia quá trình quang hợp của cây.",
+   "D": "Tham gia hình thành mây."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C2_0035",
+  "stem": "Trong nghiên cứu, khí nitrogen thường được dùng để tạo bầu khí quyển trơ dựa trên cơ sở nào?",
+  "options": {
+   "A": "Nitrogen có tinh oxi hoá mạnh.",
+   "B": "Nitrogen rất bền với nhiệt.",
+   "C": "Nitrogen khó hoá lỏng.",
+   "D": "Nitrogen không có cực."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C2_0036",
+  "stem": "(SBT – KNTT) Cho sơ đồ chuyển hoá nitrogen trong khí quyển thành phân đạm:N2 <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFIAAAAZCAAAAACH2CboAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAmFudPnB4AAAGiSURBVEjHtZW9L0NRGMafq1XV23vFf0C7WixYRUy+JjZbY5BoGIiIhBiIRLCIjwSDRDowSMRAE0JpGuIj0ehm89FBfPVLuY+hHdrktr16r99y7nnf9zzJeZ9zzxEIoykxXBFmjXVHc3EpYu5v0lJLTaxKhyTPKhc11BaQPJ4lSb7YRkiSU2WPhSUL9PJ0AQCwG20FALQlto2yJwgHAMCJoD57fLcIvC/B7MInygEAVuFDn+TeGiKxcVhdkBGVASBKWbfjU06S5CZOSJI3WGSofbhrWYfjacl3eZAkOWEN8+6CH5awbkl6JC9JX8UKSfLbcp9njZD/H08mbakP/0zcHikZaAQAXPWcq9TuN8haeqnKV2dILbze8qNl42rE+oKq8WTNUJGSr+6HHBm/aa04yWmrKIpbqqnRUi9JgfA3Z7fZ/pQxaTvMTk66U241I/6TGa8CgNizdO2AGXDMZ68qzZz0dmQn61ODYx7YSShpqJi6FUVRLj1N1YBg4EMRqy33idpvdS2MvR2IRZ7LHISkAMmCV/Bf2FipA2BsL9P8w6P7C3l/VGThgAnFAAAAAElFTkSuQmCC\" style=\"height:19px\" alt=\"\"> NO <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFIAAAAZCAAAAACH2CboAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAmFudPnB4AAAGiSURBVEjHtZW9L0NRGMafq1XV23vFf0C7WixYRUy+JjZbY5BoGIiIhBiIRLCIjwSDRDowSMRAE0JpGuIj0ehm89FBfPVLuY+hHdrktr16r99y7nnf9zzJeZ9zzxEIoykxXBFmjXVHc3EpYu5v0lJLTaxKhyTPKhc11BaQPJ4lSb7YRkiSU2WPhSUL9PJ0AQCwG20FALQlto2yJwgHAMCJoD57fLcIvC/B7MInygEAVuFDn+TeGiKxcVhdkBGVASBKWbfjU06S5CZOSJI3WGSofbhrWYfjacl3eZAkOWEN8+6CH5awbkl6JC9JX8UKSfLbcp9njZD/H08mbakP/0zcHikZaAQAXPWcq9TuN8haeqnKV2dILbze8qNl42rE+oKq8WTNUJGSr+6HHBm/aa04yWmrKIpbqqnRUi9JgfA3Z7fZ/pQxaTvMTk66U241I/6TGa8CgNizdO2AGXDMZ68qzZz0dmQn61ODYx7YSShpqJi6FUVRLj1N1YBg4EMRqy33idpvdS2MvR2IRZ7LHISkAMmCV/Bf2FipA2BsL9P8w6P7C3l/VGThgAnFAAAAAElFTkSuQmCC\" style=\"height:19px\" alt=\"\"> NO2 <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFcAAAATCAAAAADAas7KAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAmFudPnB4AAAHrSURBVDjLtZRPSFRRGMV/T2ZSpD8480h5zCAJoQiBmAT9UWgCiVxYCwsq04wIiRYRLQSRCGwRLQQRQVCaqE1JhS4KmmoKM1yUUyqITE5pTcQ0bcJQm3lfixnHxq7xBOds7uXcc8/ifOdeTcgIsjJji+0/Z97xosWPrc40bvjUkdbYlRd9FQB8vlZiD1bVqi6LCmeeiMiAR0QGq1Pkh/0iInsfidyrSTDxipci5q4hhYM6h/kYcOcwUOMPL5Hmr5WyqelK0Gq9FnM4PTrzelPLsbAT0BxfDABGzi1+Kst7DncDjCeFYSeA85VF347fzXWejbgigBl1v3s6X3aIcl+o+XEWcPQg/TfhhjHc4YoARNwKD1UOW/TszXoOjfcFHh4ocF84fwvsep5NdyyL6o/bg9tLn0H8QYPlPrRtBaqjl7YtzN7GQWgHgKsHGPnm3xMbmn1bns+PQq2/PWALtu1OuztdtHofVqDlp4J806cWnw2IiFjx7ZpRkFO9q6hDJV9FRBPmlp+yPfvfSuUMdhqF7UvlS04lF4/BxZ3pwmSmXV5/LppQHE0d1XUn1sl9f7XjZHLTNJDijPekCRMO+aZpmnEzvnD9Mtr6/ztXfb4N1ua2JowVRyzObW04MSGJua0zvutAJvIFMvev/wGrlxyNpfcogwAAAABJRU5ErkJggg==\" style=\"height:19px\" alt=\"\"> HNO3 <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAmCvNOwFEAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> NO3–Số phản ứng thuộc loại oxi hoá – khử trong sơ đồ là",
+  "options": {
+   "A": "3.",
+   "B": "1.",
+   "C": "4.",
+   "D": "2."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C2_0037",
+  "stem": "(SBT – KNTT) Trong tự nhiên, phản ứng giữa nitrogen và oxygen (trong cơn mưa dông kèm sấm sét) là khởi đầu cho quá trình tạo và cung cấp loại phân bón nào cho cây?",
+  "options": {
+   "A": "Phân kali.",
+   "B": "Phân đạm ammonium.",
+   "C": "Phân lân.",
+   "D": "Phân đạm nitrate."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C2_0038",
+  "stem": "(SGK – Cánh Diều) Khi rút xăng, dầu ra khỏi các bồn chứa, người ta thường bơm khí nitrogen để thay thế hoàn toàn toàn hoặc một phần không khí làm giảm nồng độ oxygen để giảm nguy cơ cháy nổ. Tính chất nào sau đây của nitrogen được sử dụng trong trường hợp trên?",
+  "options": {
+   "A": "Nitrogen chiếm 78% thể tích không khí.",
+   "B": "Nitrogen trơ về mặt hóa học ở nhiệt độ thường.",
+   "C": "Nitrogen tác dụng được với oxygen ở nhiệt độ thường.",
+   "D": "Nitrogen có tính oxi hóa mạnh ở điều kiện thường."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C2_0039",
+  "stem": "Ứng dụng nào sau đây không phải của nitrogen?",
+  "options": {
+   "A": "Tổng hợp ammonia.",
+   "B": "Bảo quản máu.",
+   "C": "Diệt khuẩn, khử trùng.",
+   "D": "Bảo quản thực phẩm."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C2_0040",
+  "stem": "Cho các phát biểu sau:(a) Trong không khí, nitrogen chiếm khoảng 78% về khối lượng.(b) Phân tử N2 có chứa liên kết ba bền vững nên N2 trơ về mặt hóa học ngay cả khi đun nóng.(c) Nitrogen lỏng thường được sử dụng để bảo quản mẫu vật phẩm trong y học.(d) Phần lớn nitrogen được sử dụng để tổng hợp ammonia từ đó sản xuất nitric acid, phân bón,… Số phát biểu đúng là",
+  "options": {
+   "A": "2.",
+   "B": "3.",
+   "C": "4.",
+   "D": "1."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C2_0041",
+  "stem": "(SGK – KNTT) Phân tử ammonia có dạng hình học nào sau đây?",
+  "options": {
+   "A": "Chóp tam giác.",
+   "B": "Chữ T.",
+   "C": "Chóp tứ giác.",
+   "D": "Tam giác đều."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C2_0042",
+  "stem": "(SBT – CTST) Liên kết trong phân tử NH3 là",
+  "options": {
+   "A": "liên kết cộng hoá trị phân cực.",
+   "B": "liên kết ion.",
+   "C": "liên kết cộng hoá trị không phân cực.",
+   "D": "liên kết hydrogen."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C2_0043",
+  "stem": "Trong phân tử ammonia, nguyên tử nitrogen có số oxi hóa là",
+  "options": {
+   "A": "+3.",
+   "B": "–3.",
+   "C": "+4.",
+   "D": "+5."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C2_0044",
+  "stem": "(SBT – CTST) Trong các phát biểu sau, phát biểu nào không đúng?",
+  "options": {
+   "A": "Ở điều kiện thường, NH3 là chất khí không màu.",
+   "B": "Khí NH3 nặng hơn không khí.",
+   "C": "Khí NH3 dễ hoá lỏng, tan nhiều trong nước.",
+   "D": "Phân tử NH3 chứa các liên kết cộng hoá trị phân cực."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C2_0045",
+  "stem": "(SBT – KNTT) Nhận định nào sau đây về phân tử ammonia không đúng?",
+  "options": {
+   "A": "Phân cực mạnh.",
+   "B": "Có một cặp electron không liên kết.",
+   "C": "Có độ bền nhiệt rất cao.",
+   "D": "Có khả năng nhận proton."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C2_0046",
+  "stem": "Ammonia tan vô hạn trong nước chủ yếu là do",
+  "options": {
+   "A": "tạo được liên kết hydrogen với nước.",
+   "B": "phản ứng được với nước để tạo ra cation NH4+ và anion OH–.",
+   "C": "có khối lượng riêng xấp xỉ khối lượng riêng của nước.",
+   "D": "là phân tử có liên kết cộng hoá trị phân cực."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C2_0047",
+  "stem": "(SBT – KNTT) Ở trạng thái lỏng nguyên chất, phân tử chất nào sau đây tạo được liên kết hydrogen với nhau?",
+  "options": {
+   "A": "Nitrogen.",
+   "B": "Ammonia.",
+   "C": "Oxygen.",
+   "D": "Hydrogen."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C2_0048",
+  "stem": "Ammonia tan nhiều trong nước là do",
+  "options": {
+   "A": "phân tử có liên kết cộng hoá trị không cực.",
+   "B": "tạo liên kết hydrogen với nước.",
+   "C": "phân tử có liên kết ion.",
+   "D": "NH3 là một chất khí, mùi khai."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C2_0051",
+  "stem": "(SBT – CTST) Điều nào sau đây đúng về tính chất hóa học của NH3?",
+  "options": {
+   "A": "NH3 có tính khử và tính base yếu.",
+   "B": "NH3 chỉ có tính oxi hoá.",
+   "C": "NH3 vừa có tính khử, vừa có tính oxi hoá.",
+   "D": "NH3 có tính acid."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C2_0052",
+  "stem": "(SBT – KNTT) Cho vài giọt dung dịch phenolphthalein vào dung dịch NH3, phenolphthalein chuyển sang màu nào sau đây?",
+  "options": {
+   "A": "Hồng.",
+   "B": "Xanh.",
+   "C": "Không màu.",
+   "D": "Vàng."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C2_0053",
+  "stem": "(SBT – KNTT) Xét cân bằng hóa học: NH3 + H2O <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFEAAAAnCAAAAABSn/s2AAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAmDW0qVfIAAAGkSURBVEjH5Za7S8NQFIe/hNTHpLSTk10UFBz0b6ibCD6GgghKN0EsKjiKujgImmxuFRdB8FFFUHRzLC5q3AURpFpECVSh16FNtSmJabyD4plyz+/y5ZzDOfdeRSDZVNlANKDnqbQIXzhlD8mLeJvoBiCTqpI9JFcTQkQOhBBCiN2IcJqH5Gby6/hrifp0+VOTAjSSiFWZMRYOYS0pk6jux0BPSiTSmI6BPgX4q+PEEVYuCnDS/umtGKfGdP8pBrpP4kPXSGZ9GazEGwCTLwBmWxiAR3MMIKwIDGHga2aGZopSjsui0/3n19JnphCsHxctgPl4BwBX2wufUksw4gQAywN9AOwdzlaov3au/z1Rg+f8WRaAi3zKoTYEI96/rtmrcYcaqQ1mExUv3WyGbOj8piZiW32+tKjrdahNx3MAbNUQrQaqNbYJg1shtz3D0ZUaslYBNTUKO/H3AEVzIcpFFvuxhCzIIxaRnVLa3T7N1BStS1KyLp+P6obyE05V1nzT6EFi9LK7cwBeK71mMwBV4+TjRThU3nz59Zq0nY4bVPkDL/sPpbURJM/1G94AAAAASUVORK5CYII=\" style=\"height:22px\" alt=\"\"> NH4+ + OH–. Cân bằng sẽ chuyển dịch theo chiều thuận khi cho thêm vài giọt dung dịch nào sau đây?",
+  "options": {
+   "A": "NH4Cl.",
+   "B": "NaOH.",
+   "C": "HCl.",
+   "D": "NaCl."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C2_0054",
+  "stem": "(SBT – KNTT) Xét cân bằng hóa học: NH3 + H2O <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFEAAAAnCAAAAABSn/s2AAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAmEA4sOSsAAAGkSURBVEjH5Za7S8NQFIe/hNTHpLSTk10UFBz0b6ibCD6GgghKN0EsKjiKujgImmxuFRdB8FFFUHRzLC5q3AURpFpECVSh16FNtSmJabyD4plyz+/y5ZzDOfdeRSDZVNlANKDnqbQIXzhlD8mLeJvoBiCTqpI9JFcTQkQOhBBCiN2IcJqH5Gby6/hrifp0+VOTAjSSiFWZMRYOYS0pk6jux0BPSiTSmI6BPgX4q+PEEVYuCnDS/umtGKfGdP8pBrpP4kPXSGZ9GazEGwCTLwBmWxiAR3MMIKwIDGHga2aGZopSjsui0/3n19JnphCsHxctgPl4BwBX2wufUksw4gQAywN9AOwdzlaov3au/z1Rg+f8WRaAi3zKoTYEI96/rtmrcYcaqQ1mExUv3WyGbOj8piZiW32+tKjrdahNx3MAbNUQrQaqNbYJg1shtz3D0ZUaslYBNTUKO/H3AEVzIcpFFvuxhCzIIxaRnVLa3T7N1BStS1KyLp+P6obyE05V1nzT6EFi9LK7cwBeK71mMwBV4+TjRThU3nz59Zq0nY4bVPkDL/sPpbURJM/1G94AAAAASUVORK5CYII=\" style=\"height:22px\" alt=\"\"> NH4+ + OH–. Hằng số cân bằng (KC) của phản ứng được biểu diễn bằng biểu thức nào sau đây?",
+  "options": {
+   "A": "<img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIIAAAArCAAAAACRew8HAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAmCB1AoX0AAAPRSURBVFjDzVhrTBRXFP4WBIMYVn9oVQq2mlhighiRGGICW4SoVKJIJSi+alQQTUBsNQGKxkqsibI1pWh4aCQaXCQiKonBB2NTtTRrXGNQMRgltT5SDVWXjU22fP0xC+7u7OzOjLul35+5c+45Z745995zz706YrgRNNwElFM4E7J851P57lerAKCtMOFj8X1m7JZTPjz27V45ug4AQGVo0ZNkXSIWkDy7NKbiYUFITAVZOQP5XbzfkXrrT5JsjBTV44wkOVD7eUZWytoH5KVMzGuitXj8+GLre6ef1ZKkOgo0pqCe5I08kvpCktwJkvsLpm37RUphTUwvyeqI38hbaCHJ5GTSHB/f40xhhMqBWxVaPD9SIt328sV+qW77sfZoAJtaN1icxfFmbXNhCDUDeR6kETs8CE1hKQCAjNtd3jyqphC1r61BKg1N8KDaNTkYADAVXimoHQgg31SUJraaLQAey2taw8RnGN4CKPsBgGWmH6IAXf3f+WLrS0EQhLXymhE28dmPCAB7BEEQPDDQkpqmfnf2hCLF2F47AKAHsd7UtGTHojk/KdLLfdcOAGidFeNvCkFHQtxF/yT+NdRe4JgqSNpc1AvgR3Otd3dAR45u4WngxNjMC74+Xmc6Wg9g+rdA79e2y5XAofPY2g0cc9rtqBtsVZWvz8xJs9ychav7UNMKW1l3d5lN4pWDmat8u4LsKIM7bV/0UZodfcEtO37/xug1AP0rpm2cJNNnby+uBoC2i9cGRfUPk5Z5j2hf1YMnLlEwFkhJ2t86YPXxNz/n5kVvp1Y4KBzSv5b2dYQ7oPftxzEQ2ilkLQrO0eziQyEuyk/P7TpZo25l+g/idJyLko7CRPccZrc6Gjr97+sC9P1Sw9A2FXQ8Ltsc7tp9fekgz+dRFwMdBQATG9I3NQCPauPY6VieSS8D911nkFeWIe0wyW+w3MLkZ+S9/3Y66lzPEdY5XRp/RTvctqkBtfY+ins4F+vyA+GCpD/IX1VEsUVP2kuisZekMSHV5LFaF/cCObhTeFTS3JyvkgK5OGXkXZJ7G12qdYUU3GvHTyqALPXjeSD9q2vB/pkLWjGmurNSq62/jrVLssu7h5kCqkavcyynMoPBYLAot1R/jpDBuIO5B8XWniUADMMQBazIKO3RZOjHK47DoUc02fltIIBJB9a7CpqevItco8DwA/cYMTtGrbxCkqmNFHKw8Az7SydMKO03c2C2huyohYI83qRryI6q4a2472xc7Vysy0AXwEs/2yikH/3Ip5ofp6MEpnDblHG+1QIZBYX4H1x9/gugQbskT/7uFgAAAABJRU5ErkJggg==\" style=\"height:40px\" alt=\"\">.",
+   "B": "<img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIIAAAArCAAAAACRew8HAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAmDvQjBEgAAARiSURBVFjD7VhrUFRlGH4WgwZxlvqRjpGkUYjNICZDDlMDhjHeMyAZTE25GJcuXDRKQmlKGJ2YxSYS4lLCaIQyGQYzDWSsTRYUjDS0UxBGO12wSSR12bIhnn6cvZ/L7p4g//T8Od95v+e859n3fOf9nj0a4kbD50YL8FzC+75bSn6Rnx7bDgDtuVF3COfLwp8+6Sbj+Mvb5tQBAOgZTgWSZF001pA8nRhWeiHHN6yU1C1FloHfdj18/jeSbAoS6BEVJDlV+9DGpLidQ+RHCVh1gqaCuXMLTPaki2tJ0jsJrIhDPcnPM0kG5pJkCUiW54Tu/lQsYUeYkeQR7RfkeZwiydhYsjcycthRwk1ePrjtfgWrg0TR3Zd+LRdzOxo6ggFkt+7qdwxH9qpbCzbUTGVKRLXPSwSb/eMAABu/Mihl9FrCgkPtjeKoX5QE1XDnLABACBQlePsggKzmvHhh1NIP4Ad5pslfOPrjGoDiwwD6l01DFaCpv54ljB7T6/X6nfJMrVk4TkAL4IBer9dLKFDTmkJeOX3cI2K4cRIAMIxwJZqa7pi34g2PeFv/7AAAtC4Pm24JPm/5uob+jv7dNl5jWSqIeSrPCOD13lrldEBXimbte8DxWxM+dHfzuua36wHcuw8w7jGf0QFVbcgfBBocdjtqrKPK/RkJKfH9fctx9hBqWmEuHhwsNouy0tq59hd60B1lMNC+fpzi7ugOLt3x4NUKxQJMPB765O0yc5MdBUcAoL3znDVUfyFms3JFxyuHfnKqQkWOWOTkNQtMbn7NJ1szgwupFhYJVYFXxHNdARYEus9jeRDqJSRtmJWiOsW/hfBSLvrgpXdrvHszpw/CcnwARV250a49bNJkGWgCf0ybofu/uNK2Tfkci0juDXCe/izRqvPigs6ZrgKA+Y3rshuBkdoI9lhez5hLM3dfR5Afb0Z8NcnnsKWfsaPkN//tctQ4/48wrTCo/Cnq4bJNTckz8+alHVTONbD3Ec2wh1y7hReZ+JifyW7JeuVuIr/P9/U5R155ISj9y+oopPbRkImlOhtnFN/ZuFLG3e7qad0hxCZ+pKilJUtWArkkLPQPkqtHyQqMkyRK7BwnCY7G3QIHV2+X4OodF5YCSQoF9Kt6cN+rap+6tKv32rJEP6PrVitB2tV775rKFqZdVylB2tV7b+Jn164qsSz3De6udjHuzq5evQTE7Sq3rJa2WwBoFKgHHgWw0naqvSwcBVdvhRr7Wj4/9S8Vl8m5ejUStNUGvSoJ0q5e1VeW9dtcPg+d0JU1WMdlQWMSl+x5J2NMxtV7txZGXjPmP7sIONwJHD2JvVkRg2+ibV52SDLv3+FKPluNGs0mc9kgiotm5wcZzySj8ljGnJvHgvvudiJ6vKEJHU8OV9eJu6Mz0odcAnLdUQHd6YsL5eZ6mp4ABpq+luf2LrnH8dRu4b2oghImyLUXFRk9R2WnVPQFCTQHmO+6TYlwOfW+zsRE6TnN/58+AfwDb/jqSRpaLMYAAAAASUVORK5CYII=\" style=\"height:40px\" alt=\"\">.",
+   "C": "<img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIIAAAArCAAAAACRew8HAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAmDW0qVfIAAAP/SURBVFjDzVh/bFNVFP463JIF00qiJHOAOgxWTe3CQrAxWbfpAk6mGXNmcxCJohvVuNnBjDDBoDMQkfoDx7JfhMnQ6SKO2USL2qdBpqa6GtPoSAEXYPiDZeDKIqbr5x+vHW1f29fXtczvn3fuueee+7177j33vKciZhtps00gfgofp1dtG43ePbYWAKx1yxaI7VzdMx/KeBzfvubaDgAA48MhDUl2GLCS5OHV2uYTpnRtM7n7LtS6+Kv9vqG/SPK9bNFcbyFJX3thaXnRuuPk52W49wN6zPPnmz1XnN7WTpLKKNBShE6SgzUkNXUkuQ0kd5mWNByVUnhMO0KyRf09OYRDJGk0ko68PHcwhWsUBm5thnlFtkTbcP6PXVJb237bIgAb+p90BqvzHInthWm0+WoiaNXPR1D2ZhYBAEp/csXyqJjCwp3Wbqk2Y1kEU9dNcwAAixGTgtJAALW99cWi1OcE8Ft0S0+m+MzEBICmNwA4c5OwClB1Xq4VpYcFQRDWRbdUT4rPS1ADeEUQBCECg0RS0+KXD/fEZagb8QIA3NDFMkskO9Yvfycuu+p/bACA/qXaZFNI60oPV00ZLkzLK/1bBflP148AeNvRHtsdYK9U3f8R0DOv7FO5yTt693UCuONFYGTj5Be7gb2f4LlhYH/QbUdVQNqzdX1ZZbHzh6X4aifa+jHZNDzcNCnxykDm2toYR3aMgp+tD4xTmh3lEJYdd/xtibkAlx5d8tSNUfq8NnMLAFiPfBNQdZ7Ir4i9ouN7jp8JWQWLSUrSO+GHR+Ztvq6uWdTIROGnsFdzUdpnn+uHRt6PPxCJUyhfNacyYRczhXgobxl46f02ZSczeRC34z3YbK8zhOcwr8cvqDSnH0/R/FsKpq+ptAP6RxxzQ7uPrQ7w/H3hkVSvAoCs7pIN3cCpdj2/8x/P/POpmzcY5JcVKG4luQlVThrPkb9c3e2oCv2O8Cx3JfgqSQiECJ9iB7lTRmPMPGi1HTt3RiYQIcg/S36rZBn1Fno3LbiubowDJSgZCKjdTxSUP1jY6iOvXBxREE7h1Oa+vlqFFMiH9CRphz2gHdK85iNH9VVxUAivHW9uBspnHl/TnRsBZLUaKspkbVPzTXl6cBUA4O4bDsobp4aCCzmikBPHAVNexEeEuwDAhemmB4H6/exVo3CrAEAoDDTVCNTvavmxqQmEDm4AAE/q5I1TQyGrcAAAcHSsehYovN7TMAi0nNxBYNS0plR+RDL2wtT2oYkXGud91oo3L6+ozM551wDtj68WX//vxWfXxzN+pvectFzf1xWmUJgdlSO8XB93vBXSH1TZR4Yq2T/9/uwyZygbkXQKRVmq27fMLgXl+B/8+vwPJSRelNH9VzUAAAAASUVORK5CYII=\" style=\"height:40px\" alt=\"\">.",
+   "D": "<img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAF4AAAAwCAAAAAC9R5KYAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAmFAlB/TIAAAMpSURBVFjD3ZhfSFNhGMaf49QwpVQE/ySRVjoMqaBlkBZmECWmYuFKh2iGa2wOk0otCjNYZaHWxD9FmeFNhRdihQTeDHEWEaXgwYukstJKs6wVpr1d7Dg9eja349lNz82+7/3e78fZc77znpfDENwpD7fSpcZPW8TjWSY22wgY4xnvXgA39/gqX+ZHMopqoFrBrC0A8EIDADBmxzIsAICcVz9MRETUHSHbNk1EHzcQkcEaNKGS6M9gW8bgKFnn/UREosyJ0ZnrheKftZd7tPeW7n1FeOkHgXBoe1VSu3rpeL9r33WCC4Fx/LnIk5Oe0tomFI88xp97isPD2KndxQ2zfAD8Ek4Te+5Xl787ww1bWJZlW6TFQ7/x+rPFs0TjPRugWzxLfFGIK3jjTjwMIQLB2ivz8ZooZrsR6E/ySutxBms83p01AGBlFYDCOyirA+rKcKsIwEjzvGRb2bAkNDtZcxyovLaSBGvO1MEDKvFGcepM8Bb2nvIUhYtv16iMjpYnuxI5/1TWwmx7aosCzgltmPg5M/IMgnyxF6f5SdfQlGInoNXyvT+PR4Je6m1bo517J9yo5E0ZAi6WqoZN/r1BQn930ubicjE3w+r9sseXho8ILXv7zUgUnfM+R6Z72FavdpxKW8ZdY9/eYbu1TFNscWL0goyzjTOj9SbmudirBxDamHHY7AWg4X3wl98GLnp0/8y6jyhzZp9aysVJIrqfS0QdLvQPDgUi9TpsPUFEE5EeaX2U0i4VmsPztblHSvyCgrzqkwMnlSv26llel1YTx0TkAx3JTKDyLZdlKc0ID5n1nqfWQ0TUZOdiMpOI5nVp3aggIiJZ8tzEimDr74JOIX38dNjYSI7D4xCTWl2vce1g2pTrxK6KB6VpYc7gJe7SpMHb7dIkwsPoq/3BDWvkcrlcPi0pfk6XpmdZlmVlkuL/wy7tm/Kq8rVEeIEuTVZSvLtpqXhel1Z3CncLgc7Mvz15Q36bMLqGn+xSAbTWHPv6WpI65rjmLEn+hj5V+9yAi/in+6LUcrurA0GBAaOA5cKAmYswUn6yeNUS1p8dPzciKX6h3PxF5B/XA2ELOUINzwAAAABJRU5ErkJggg==\" style=\"height:40px\" alt=\"\">."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C2_0055",
+  "stem": "(Đề THPT QG - 2018) Cho vài giọt quỳ tím vào dung dịch NH3 thì dung dịch chuyển thành",
+  "options": {
+   "A": "màu đỏ.",
+   "B": "màu vàng.",
+   "C": "màu xanh.",
+   "D": "màu hồng."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C2_0056",
+  "stem": "(SBT – CTST) Trong dung dịch, ammonia thể hiện tính base yếu do",
+  "options": {
+   "A": "phân tử ammonia chứa liên kết cộng hoá trị phân cực và liên kết hydrogen.",
+   "B": "phân tử ammonia chứa liên kết cộng hoá trị phân cực và liên kết ion.",
+   "C": "phần lớn các phân tử ammonia kết hợp với nước tạo ra các ion NH4+ và OH–.",
+   "D": "một phần nhỏ các phân tử NH3 kết hợp với ion H+ của nước tạo NH4+ và OH–."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C2_0057",
+  "stem": "Nguyên nhân gây nên tính base của ammonia là gì?",
+  "options": {
+   "A": "Ammonia làm quỳ tím hoá xanh.",
+   "B": "Ammonia phản ứng được với các acid.",
+   "C": "Nguyên tử nitrogen trong phân tử ammonia còn cặp electron hoá trị riêng và có khả năng nhận ion H+ trong các phản ứng.",
+   "D": "Các liên kết trong phân tử ammonia đều phân cực."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C2_0058",
+  "stem": "Dung dịch NH3 phản ứng được với dung dịch nào sau đây?",
+  "options": {
+   "A": "NaOH.",
+   "B": "KCl.",
+   "C": "HCl.",
+   "D": "KOH."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C2_0059",
+  "stem": "Cho vài giọt quỳ tím vào dung dịch NH3 thì dung dịch chuyển thành",
+  "options": {
+   "A": "màu hồng.",
+   "B": "màu vàng.",
+   "C": "màu đỏ.",
+   "D": "màu xanh."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C2_0060",
+  "stem": "Trong công nghiệp, phản ứng giữa ammonia với acid được dùng để sản xuất phân bón. Ví dụ, để sản xuất đạm sulfate người ta cho ammonia tác dụng với sulfuric acid theo phương trình hóa học sau: 2NH3 + H2SO4 <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAmFX5GzaQAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:18px\" alt=\"\"> (NH4)2SO4. Trong phản ứng trên, vai trò của NH3 là",
+  "options": {
+   "A": "chất oxi hóa.",
+   "B": "chất khử.",
+   "C": "base.",
+   "D": "acid."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C2_0061",
+  "stem": "(SBT – KNTT) Trong phản ứng giữa khí ammonia và khí hydrogen chloride tạo thành ammonium chloride ở dạng khói trắng, ammonia đóng vai trò là",
+  "options": {
+   "A": "acid.",
+   "B": "base.",
+   "C": "chất oxi hoá.",
+   "D": "chất khử."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C2_0062",
+  "stem": "(SBT – KNTT) Khi tác dụng với nước và hydrochloric acid, ammonia đóng vai trò là",
+  "options": {
+   "A": "acid.",
+   "B": "base.",
+   "C": "chất oxi hoá",
+   "D": "chất khử."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C2_0063",
+  "stem": "(SBT – KNTT) Cho dung dịch NH3 vào dung dịch chất nào sau đây thu được kết tủa trắng?",
+  "options": {
+   "A": "HCl.",
+   "B": "H2SO4.",
+   "C": "H3PO4.",
+   "D": "AlCl3."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C2_0064",
+  "stem": "(SBT – CTST) Tã lót trẻ em sau khi được giặt sạch vẫn còn mùi khai do vẫn lưu lại một lượng ammonia. Để khử hoàn toàn mùi của ammonia thì người ta cho vào nước xả cuối cùng một ít hoá chất có sẵn trong nhà. Hoá chất thích hợp được sử dụng là",
+  "options": {
+   "A": "phèn chua.",
+   "B": "giấm ăn.",
+   "C": "muối ăn.",
+   "D": "nước gừng tươi."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C2_0065",
+  "stem": "Để nhận biết dung dịch NH3 đặc, người ta chuẩn bị hai đầu đũa thủy tinh quấn bong. Đũa 1 nhúng vào dung dịch HCl đặc, đũa 2 nhúng vào dung dịch NH3 đặc, sau đó đưa lại gần nhau. Hiện tượng xảy ra là",
+  "options": {
+   "A": "xuất hiện “khói” trắng.",
+   "B": "xuất hiện “khói” tím.",
+   "C": "không có hiện tượng.",
+   "D": "xuất hiện “khói” vàng."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C2_0066",
+  "stem": "Nhỏ từ từ dung dịch NH3 cho đến dư vào ống nghiệm đựng dung dịch Al2(SO4)3. Hiện tượng quan sát được là",
+  "options": {
+   "A": "có kết tủa keo trắng xuất hiện, sau đó kết tủa lại tan tạo dung dịch trong suốt.",
+   "B": "có kết tủa keo màu trắng xuất hiện.",
+   "C": "có kết tủa màu xanh nhạt xuất hiện, sau đó kết tủa lại tan dần.",
+   "D": "không có hiện tượng gì."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C2_0067",
+  "stem": "Phương trình hóa học của phản ứng nào sau đây chứng tỏ ammonia là một chất khử?",
+  "options": {
+   "A": "NH3 + HCl <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAmFudPnB4AAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:18px\" alt=\"\"> NH4Cl.",
+   "B": "NH3 + H2O <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFEAAAAnCAAAAABSn/s2AAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAmFudPnB4AAAGdSURBVEjH7ZaxS0JRFIe/ZyZIiym0GWLQVETFW6OpoSlQAnV0iZYGh7bmhv6BNqElKmgoGh4FEjYU0iLUFFjRYpEOalSvTkOaZvl6yh0K+k3vnh/3u/c+7jn3aIJiOVQDcQJj99WB97TZtrCsiFfxUQAyyS+2hdVSIuLbERER2fZJsyysVlL/H38t0TxSTDSjk1u1b6cSYmKTCGGVe1zwY0Y2VRKDKT9mdMP2qef3qBQCAMbgp2hVxiDB1OS1GWPWJjE/HMusLkMl/gTAbRkgNzADwMNizgWOZKhoRpnFVs6EEu9WgayIiIRart11oDpnXs46uz3uHoBHzQWAVNz1bbk6I64BEA6sAFDsPRlqdH9tXv8TlROdcFGIuwFqydsgb2fE59d8bXTZ5JY488Bdd/q8LaJXs+grFgFYx9cOse94qoi2MvGN2z0C9eywTUQ3poqytDfRxjQLOQB0w0N5+lAhUSmyeh91w0N57kUhEd3w9O92qSB+1Ed9vzeo5NT1ijuuhGezht+kASjZiYKNjrD+9mV/jIpof6CzfwOHOhkX6M0lfwAAAABJRU5ErkJggg==\" style=\"height:24px\" alt=\"\"> NH4+ + OH–.",
+   "C": "2NH3 + H2SO4 <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAmFudPnB4AAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:18px\" alt=\"\"> (NH4)2SO4.",
+   "D": "4NH3 + 5O2 <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFMAAAAbCAAAAAAl0uzdAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAmC4RJ8McAAAGJSURBVEjHY/zPQHXARH0jCZq5zVDP+Q6phv7HCTbO////ucjN/zPNkATNGRiYlXLf/984H7dGPGYm2///v879//8/bJ+QzDTdvL6Szed/sj1ujSwEfMGILiLmwxDwv+MJeX5PZ2BgYMgXuf5/hjmy373///+/jsGPgYGBoZpkd7Z+eLCCQcA14pfEEnSphww1nA9WMAjg0InbTGEeDgUGBm9vNOG/X/6e6tQx4uFQwKmTQHhigh28DAxGC5nxKSHZTKtOFjkp/EpINlPQhqASPPmI7QcDeZJ4zNS8tOHMMzhPpwuPJBrAnR0+RwojkuBPpmZE+kSXhIGKP4TyJgo4wv6MsKLUYpLMbEsnQtFzgXmkmEkcmM924P///4z/Gc7dQg3hMES84ZFiOHeL4eIbNLn/2a+PaDEw/P9fxI0KfiDsxSP1v4ibG1ucZ/z/z0jF+ujfvw+GEoc4Sc9HeAATU8X/TZx40yfp4CD3OarHu+26////Uzc8GQ7ZMTAwMDBQ1UxYuFLfSAYAypkKBO7a0eAAAAAASUVORK5CYII=\" style=\"height:24px\" alt=\"\"> 4NO + 6H2O."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C2_0068",
+  "stem": "Dãy các chất đều phản ứng với NH3 trong điều kiện thích hợp là:",
+  "options": {
+   "A": "HCl, O2, H2SO4, FeCl3.",
+   "B": "H2SO4, Ba(OH)2, FeO, NaOH.",
+   "C": "HCl, HNO3, AlCl3, CaO.",
+   "D": "KOH, HNO3, CuO, CuCl2."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C2_0069",
+  "stem": "(SBT – KNTT) Trong phương pháp Ostwald, ammonia bị oxi hoá bởi oxygen không khí tạo thành sản phẩm chính là",
+  "options": {
+   "A": "NO.",
+   "B": "N2.",
+   "C": "N2O.",
+   "D": "NO2."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C2_0070",
+  "stem": "Trong khí thải của quy trình sản xuất thuốc trừ sâu, phân bón hóa học có lẫn khí NH3. Khí này rất độc đi với sức khoẻ của con người và gây ô nhiễm môi trường. Con người hít phải khí này với lượng lớn sẽ gây ngộ độc: ho, đau ngực (nặng), đau thắt ngực, khó thở, thở nhanh, thở khò khò; chảy nước mắt và bỏng mắt, mù mắt, đau họng nặng, đau miệng; mạch nhanh, yếu, sốc; lẫn lộn, đi lại khó khăn, chóng mặt, thiếu sự phối hợp, bồn chồn, ngẩn ngơ). Để xử lí NH3 lẫn trong khí thải, người ta có thể dẫn khí thải qua một bể lọc chứa hoá chất nào sau đây?",
+  "options": {
+   "A": "Dung dịch Ca(OH)2.",
+   "B": "Dung dịch HCl.",
+   "C": "Dung dịch NaOH.",
+   "D": "Nước."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C2_0071",
+  "stem": "Chất nào sau đây được sử dụng là chất làm lạnh trong các hệ thống làm lạnh công nghiệp?",
+  "options": {
+   "A": "N2.",
+   "B": "NH3.",
+   "C": "SO2.",
+   "D": "S."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C2_0072",
+  "stem": "Cho phản ứng tổng hợp ammoniac: N2(g) + 3H2(g) <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFEAAAAnCAAAAABSn/s2AAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAmDvQjBEgAAAGkSURBVEjH5Za7S8NQFIe/hNTHpLSTk10UFBz0b6ibCD6GgghKN0EsKjiKujgImmxuFRdB8FFFUHRzLC5q3AURpFpECVSh16FNtSmJabyD4plyz+/y5ZzDOfdeRSDZVNlANKDnqbQIXzhlD8mLeJvoBiCTqpI9JFcTQkQOhBBCiN2IcJqH5Gby6/hrifp0+VOTAjSSiFWZMRYOYS0pk6jux0BPSiTSmI6BPgX4q+PEEVYuCnDS/umtGKfGdP8pBrpP4kPXSGZ9GazEGwCTLwBmWxiAR3MMIKwIDGHga2aGZopSjsui0/3n19JnphCsHxctgPl4BwBX2wufUksw4gQAywN9AOwdzlaov3au/z1Rg+f8WRaAi3zKoTYEI96/rtmrcYcaqQ1mExUv3WyGbOj8piZiW32+tKjrdahNx3MAbNUQrQaqNbYJg1shtz3D0ZUaslYBNTUKO/H3AEVzIcpFFvuxhCzIIxaRnVLa3T7N1BStS1KyLp+P6obyE05V1nzT6EFi9LK7cwBeK71mMwBV4+TjRThU3nz59Zq0nY4bVPkDL/sPpbURJM/1G94AAAAASUVORK5CYII=\" style=\"height:24px\" alt=\"\"> 2NH3(g). Khi giảm nồng độ NH3 (các yếu tố khác giữ nguyên) thì phản ứng sẽ chuyển dịch theo chiều",
+  "options": {
+   "A": "thuận.",
+   "B": "nghịch.",
+   "C": "không thay đổi.",
+   "D": "không xác định."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C2_0074",
+  "stem": "Trong công nghiệp, ammonia được tổng hợp theo quá trình Haber: nitrogen và hydrogen phản ứng với nhau ở nhiệt độ trên 400 °C, áp suất 200 bar với xúc tác bột sắt. Yếu tố nào sau đây làm cân bằng tổng hợp ammonia trong quá trình Haber dịch chuyển theo chiều nghịch?",
+  "options": {
+   "A": "Nhiệt độ cao.",
+   "B": "Áp suất cao.",
+   "C": "Xúc tác bột sắt.",
+   "D": "Không có yếu tố nào trong ba yếu tố trên."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C2_0075",
+  "stem": "Trong quá trình Haber sản xuất ammonia, chất này được tách ra khỏi hỗn hợp phản ứng nhờ quá trình",
+  "options": {
+   "A": "hoá hơi.",
+   "B": "kết tinh.",
+   "C": "ngưng tụ.",
+   "D": "chưng cất."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C2_0076",
+  "stem": "Chất nào sau đây có thể làm khô khí NH3 có lẫn hơi nước?",
+  "options": {
+   "A": "P2O5.",
+   "B": "H2SO4 đặc.",
+   "C": "HCl đặc.",
+   "D": "NaOH rắn."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C2_0077",
+  "stem": "Trong các phản ứng hóa học dưới đây, ở phản ứng nào ammonia không thể hiện tính khử?",
+  "options": {
+   "A": "2NH3 + 3CuO <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAE0AAAAgCAAAAAByCKroAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAmDBotZWQAAAEqSURBVEjHY/zPQEXARE3DiDZtT2CW5x7Cyv4TBV7zP/1/k+8VIWVEum23lBSDmvheKvn0JR8DA4PgS8pNW1nDwMAg8ZGBgeG9BMWm/W9jYGBgcHn+hOHOS2eCVhMI1xuuDPzyxf//7/LP8d5NMLIIxuljhmriop2EOCUSjJpGI9OYGP5R0TQRtr0PLhNS9AbGIJiGOnglEgko+Sd/m8jUSxTI1fxIRdNei3j+oZ5p/xcx5FPRtP/BDJP////PwsDwPhczkrwjUbglLxDspVC6BkUFP0O+ZDADw///T5gxQRmqzeoIGdzJxPP/f0Zy69N///8hg6WV6icEGMg2DRU81WE+oUJM6iUK+LAeoF6crmeY+596pumWQmiqlEj/gjogDCrFAhRQt7QEANWTdyq5RaZ+AAAAAElFTkSuQmCC\" style=\"height:22px\" alt=\"\"> N2 + 3H2O + 3Cu.",
+   "B": "NH3 + HCl <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAmDBotZWQAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> NH4Cl.",
+   "C": "8NH3 + 3Cl2 <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAE0AAAAgCAAAAAByCKroAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAmDBotZWQAAAEqSURBVEjHY/zPQEXARE3DiDZtT2CW5x7Cyv4TBV7zP/1/k+8VIWVEum23lBSDmvheKvn0JR8DA4PgS8pNW1nDwMAg8ZGBgeG9BMWm/W9jYGBgcHn+hOHOS2eCVhMI1xuuDPzyxf//7/LP8d5NMLIIxuljhmriop2EOCUSjJpGI9OYGP5R0TQRtr0PLhNS9AbGIJiGOnglEgko+Sd/m8jUSxTI1fxIRdNei3j+oZ5p/xcx5FPRtP/BDJP////PwsDwPhczkrwjUbglLxDspVC6BkUFP0O+ZDADw///T5gxQRmqzeoIGdzJxPP/f0Zy69N///8hg6WV6icEGMg2DRU81WE+oUJM6iUK+LAeoF6crmeY+596pumWQmiqlEj/gjogDCrFAhRQt7QEANWTdyq5RaZ+AAAAAElFTkSuQmCC\" style=\"height:22px\" alt=\"\"> N2 + 6NH4Cl.",
+   "D": "4NH3 + 3O2 <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAE0AAAAgCAAAAAByCKroAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAmDBotZWQAAAEqSURBVEjHY/zPQEXARE3DiDZtT2CW5x7Cyv4TBV7zP/1/k+8VIWVEum23lBSDmvheKvn0JR8DA4PgS8pNW1nDwMAg8ZGBgeG9BMWm/W9jYGBgcHn+hOHOS2eCVhMI1xuuDPzyxf//7/LP8d5NMLIIxuljhmriop2EOCUSjJpGI9OYGP5R0TQRtr0PLhNS9AbGIJiGOnglEgko+Sd/m8jUSxTI1fxIRdNei3j+oZ5p/xcx5FPRtP/BDJP////PwsDwPhczkrwjUbglLxDspVC6BkUFP0O+ZDADw///T5gxQRmqzeoIGdzJxPP/f0Zy69N///8hg6WV6icEGMg2DRU81WE+oUJM6iUK+LAeoF6crmeY+596pumWQmiqlEj/gjogDCrFAhRQt7QEANWTdyq5RaZ+AAAAAElFTkSuQmCC\" style=\"height:22px\" alt=\"\"> 2N2 + 6H2O."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C2_0078",
+  "stem": "Phương trình hóa học nào sau đây sai?",
+  "options": {
+   "A": "NH3 + HNO3 <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAmDBotZWQAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> NH4NO3.",
+   "B": "4NH3 + 5O2 <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAE0AAAAgCAAAAAByCKroAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAmDBotZWQAAAEqSURBVEjHY/zPQEXARE3DiDZtT2CW5x7Cyv4TBV7zP/1/k+8VIWVEum23lBSDmvheKvn0JR8DA4PgS8pNW1nDwMAg8ZGBgeG9BMWm/W9jYGBgcHn+hOHOS2eCVhMI1xuuDPzyxf//7/LP8d5NMLIIxuljhmriop2EOCUSjJpGI9OYGP5R0TQRtr0PLhNS9AbGIJiGOnglEgko+Sd/m8jUSxTI1fxIRdNei3j+oZ5p/xcx5FPRtP/BDJP////PwsDwPhczkrwjUbglLxDspVC6BkUFP0O+ZDADw///T5gxQRmqzeoIGdzJxPP/f0Zy69N///8hg6WV6icEGMg2DRU81WE+oUJM6iUK+LAeoF6crmeY+596pumWQmiqlEj/gjogDCrFAhRQt7QEANWTdyq5RaZ+AAAAAElFTkSuQmCC\" style=\"height:22px\" alt=\"\"> 4NO + 6H2O.",
+   "C": "2NH3 + 3CuO <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAE0AAAAgCAAAAAByCKroAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAmDBotZWQAAAEqSURBVEjHY/zPQEXARE3DiDZtT2CW5x7Cyv4TBV7zP/1/k+8VIWVEum23lBSDmvheKvn0JR8DA4PgS8pNW1nDwMAg8ZGBgeG9BMWm/W9jYGBgcHn+hOHOS2eCVhMI1xuuDPzyxf//7/LP8d5NMLIIxuljhmriop2EOCUSjJpGI9OYGP5R0TQRtr0PLhNS9AbGIJiGOnglEgko+Sd/m8jUSxTI1fxIRdNei3j+oZ5p/xcx5FPRtP/BDJP////PwsDwPhczkrwjUbglLxDspVC6BkUFP0O+ZDADw///T5gxQRmqzeoIGdzJxPP/f0Zy69N///8hg6WV6icEGMg2DRU81WE+oUJM6iUK+LAeoF6crmeY+596pumWQmiqlEj/gjogDCrFAhRQt7QEANWTdyq5RaZ+AAAAAElFTkSuQmCC\" style=\"height:22px\" alt=\"\"> N2 + 3Cu + 3H2O.",
+   "D": "3NH3 + AlCl3 + 3H2O <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAmDBotZWQAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> Al(OH)3↓ + 3NH4Cl."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C2_0079",
+  "stem": "Cho phản ứng sau: NH3 + O2 <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAE0AAAAgCAAAAAByCKroAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAmDBotZWQAAAEqSURBVEjHY/zPQEXARE3DiDZtT2CW5x7Cyv4TBV7zP/1/k+8VIWVEum23lBSDmvheKvn0JR8DA4PgS8pNW1nDwMAg8ZGBgeG9BMWm/W9jYGBgcHn+hOHOS2eCVhMI1xuuDPzyxf//7/LP8d5NMLIIxuljhmriop2EOCUSjJpGI9OYGP5R0TQRtr0PLhNS9AbGIJiGOnglEgko+Sd/m8jUSxTI1fxIRdNei3j+oZ5p/xcx5FPRtP/BDJP////PwsDwPhczkrwjUbglLxDspVC6BkUFP0O+ZDADw///T5gxQRmqzeoIGdzJxPP/f0Zy69N///8hg6WV6icEGMg2DRU81WE+oUJM6iUK+LAeoF6crmeY+596pumWQmiqlEj/gjogDCrFAhRQt7QEANWTdyq5RaZ+AAAAAElFTkSuQmCC\" style=\"height:22px\" alt=\"\"> X + H2O. Chất X là",
+  "options": {
+   "A": "NO.",
+   "B": "N2.",
+   "C": "N2O.",
+   "D": "NO2."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C2_0080",
+  "stem": "Để tách riêng khí NH3 ra khỏi hỗn hợp gồm N2, H2, NH3 trong công nghiệp, người ta đã",
+  "options": {
+   "A": "cho hỗn hợp qua nước vôi trong dư.",
+   "B": "cho hỗn hợp qua bột CuO nung nóng.",
+   "C": "nén và làm lạnh hỗn hợp để hóa lỏng NH3.",
+   "D": "cho hỗn hợp qua dung dịch H2SO4 đặc."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C2_0081",
+  "stem": "Khi so sánh phân tử ammonia với ion ammonium, nhận định nào sau đây là đúng?",
+  "options": {
+   "A": "Đều chứa liên kết ion.",
+   "B": "Đều có tính acid yếu trong nước.",
+   "C": "Đều có tính base yếu trong nước.",
+   "D": "Đều chứa nguyên tử N có số oxi hoá là –3."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C2_0082",
+  "stem": "(SBT – KNTT) Cho các nhận định sau: phân tử ammonia và ion ammonium đều(1) chứa liên kết cộng hoá trị;(2) là base Brønsted trong nước;(3) là acid Brønsted trong nước;(4) chứa nguyên tử N có số oxi hoá là –3.Số nhận định đúng là",
+  "options": {
+   "A": "2.",
+   "B": "1.",
+   "C": "4.",
+   "D": "3."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C2_0083",
+  "stem": "(SBT – CTST) Trong phòng thí nghiệm, người ta có thể phân biệt muối ammonium với một số muối khác bằng cách cho nó tác dụng với dung dịch base. Hiện tượng nào xảy ra?",
+  "options": {
+   "A": "Thoát ra một chất khí màu lục nhạt, làm xanh giấy quỳ tím ẩm.",
+   "B": "Thoát ra một chất khí không màu, làm xanh giấy quỳ tím ẩm.",
+   "C": "Thoát ra một chất khí màu nâu đỏ, làm xanh giấy quỳ tím ẩm.",
+   "D": "Thoát ra một chất khí không màu, làm hồng giấy quỳ tím ẩm."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C2_0084",
+  "stem": "(SBT – KNTT) Phân biệt được dung dịch NH4Cl và NaCl bằng thuốc thử là dung dịch",
+  "options": {
+   "A": "KCl.",
+   "B": "KNO3.",
+   "C": "KOH.",
+   "D": "K2SO4."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C2_0085",
+  "stem": "(SGK – CTST) Có thể nhận biết muối ammonium bằng cách cho muối tác dụng với dung dịch kiềm thấy thoát ra một chất khí. Chất khí đó là",
+  "options": {
+   "A": "NH3.",
+   "B": "H2.",
+   "C": "NO2.",
+   "D": "NO."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C2_0086",
+  "stem": "(SBT – KNTT) Nhiệt phân hoàn toàn muối nào sau đây thu được sản phẩm chỉ gồm khí và hơi?",
+  "options": {
+   "A": "NaCl.",
+   "B": "CaCO3.",
+   "C": "KClO3.",
+   "D": "(NH4)2CO3."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C2_0087",
+  "stem": "(SBT – KNTT) Trong nước, phân tử/ion nào sau đây thể hiện vai trò là acid Brønsted?",
+  "options": {
+   "A": "NH3.",
+   "B": "NH4+.",
+   "C": "NO3–.",
+   "D": "N2."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C2_0088",
+  "stem": "Muối được làm bột nở trong thực phẩm là",
+  "options": {
+   "A": "(NH4)2CO3.",
+   "B": "Na2CO3.",
+   "C": "NH4HCO3.",
+   "D": "NH4Cl."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C2_0089",
+  "stem": "Ngoài sử dụng làm phân bón, X còn được sử dụng trong pin với vai trò chất điện li, hay dùng để làm sạch các oxide trên bề mặt của kim loại trước khi hàn. X là",
+  "options": {
+   "A": "(NH4)2CO3.",
+   "B": "Na2CO3.",
+   "C": "NH4HCO3.",
+   "D": "NH4Cl."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C2_0090",
+  "stem": "(SBT – CTST) Để tạo độ xốp cho một số loại bánh, có thể dùng chất nào sau đây?",
+  "options": {
+   "A": "(NH4)3PO4.",
+   "B": "NH4HCO3.",
+   "C": "CaCO3.",
+   "D": "NaOH."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C2_0091",
+  "stem": "Cho từ từ dung dịch (NH4)2SO4 vào dung dịch Ba(OH)2. Hiện tượng xảy ra là",
+  "options": {
+   "A": "có kết tủa trắng.",
+   "B": "không có hiện tượng.",
+   "C": "có khí mùi khai bay lên và kết tủa trắng.",
+   "D": "có khí mùi khai bay lên."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C2_0092",
+  "stem": "Sản phẩm phản ứng nhiệt phân nào sau đây không đúng?",
+  "options": {
+   "A": "NH4NO2 <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAE0AAAAgCAAAAAByCKroAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAmDBotZWQAAAEqSURBVEjHY/zPQEXARE3DiDZtT2CW5x7Cyv4TBV7zP/1/k+8VIWVEum23lBSDmvheKvn0JR8DA4PgS8pNW1nDwMAg8ZGBgeG9BMWm/W9jYGBgcHn+hOHOS2eCVhMI1xuuDPzyxf//7/LP8d5NMLIIxuljhmriop2EOCUSjJpGI9OYGP5R0TQRtr0PLhNS9AbGIJiGOnglEgko+Sd/m8jUSxTI1fxIRdNei3j+oZ5p/xcx5FPRtP/BDJP////PwsDwPhczkrwjUbglLxDspVC6BkUFP0O+ZDADw///T5gxQRmqzeoIGdzJxPP/f0Zy69N///8hg6WV6icEGMg2DRU81WE+oUJM6iUK+LAeoF6crmeY+596pumWQmiqlEj/gjogDCrFAhRQt7QEANWTdyq5RaZ+AAAAAElFTkSuQmCC\" style=\"height:22px\" alt=\"\"> N2 + 2H2O.",
+   "B": "NH4NO3 <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAE0AAAAgCAAAAAByCKroAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAmDBotZWQAAAEqSURBVEjHY/zPQEXARE3DiDZtT2CW5x7Cyv4TBV7zP/1/k+8VIWVEum23lBSDmvheKvn0JR8DA4PgS8pNW1nDwMAg8ZGBgeG9BMWm/W9jYGBgcHn+hOHOS2eCVhMI1xuuDPzyxf//7/LP8d5NMLIIxuljhmriop2EOCUSjJpGI9OYGP5R0TQRtr0PLhNS9AbGIJiGOnglEgko+Sd/m8jUSxTI1fxIRdNei3j+oZ5p/xcx5FPRtP/BDJP////PwsDwPhczkrwjUbglLxDspVC6BkUFP0O+ZDADw///T5gxQRmqzeoIGdzJxPP/f0Zy69N///8hg6WV6icEGMg2DRU81WE+oUJM6iUK+LAeoF6crmeY+596pumWQmiqlEj/gjogDCrFAhRQt7QEANWTdyq5RaZ+AAAAAElFTkSuQmCC\" style=\"height:22px\" alt=\"\"> NH3 + HNO3.",
+   "C": "NH4Cl <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAE0AAAAgCAAAAAByCKroAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAmDBotZWQAAAEqSURBVEjHY/zPQEXARE3DiDZtT2CW5x7Cyv4TBV7zP/1/k+8VIWVEum23lBSDmvheKvn0JR8DA4PgS8pNW1nDwMAg8ZGBgeG9BMWm/W9jYGBgcHn+hOHOS2eCVhMI1xuuDPzyxf//7/LP8d5NMLIIxuljhmriop2EOCUSjJpGI9OYGP5R0TQRtr0PLhNS9AbGIJiGOnglEgko+Sd/m8jUSxTI1fxIRdNei3j+oZ5p/xcx5FPRtP/BDJP////PwsDwPhczkrwjUbglLxDspVC6BkUFP0O+ZDADw///T5gxQRmqzeoIGdzJxPP/f0Zy69N///8hg6WV6icEGMg2DRU81WE+oUJM6iUK+LAeoF6crmeY+596pumWQmiqlEj/gjogDCrFAhRQt7QEANWTdyq5RaZ+AAAAAElFTkSuQmCC\" style=\"height:22px\" alt=\"\"> NH3 + HCl.",
+   "D": "NH4HCO3 <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAE0AAAAgCAAAAAByCKroAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAmDBotZWQAAAEqSURBVEjHY/zPQEXARE3DiDZtT2CW5x7Cyv4TBV7zP/1/k+8VIWVEum23lBSDmvheKvn0JR8DA4PgS8pNW1nDwMAg8ZGBgeG9BMWm/W9jYGBgcHn+hOHOS2eCVhMI1xuuDPzyxf//7/LP8d5NMLIIxuljhmriop2EOCUSjJpGI9OYGP5R0TQRtr0PLhNS9AbGIJiGOnglEgko+Sd/m8jUSxTI1fxIRdNei3j+oZ5p/xcx5FPRtP/BDJP////PwsDwPhczkrwjUbglLxDspVC6BkUFP0O+ZDADw///T5gxQRmqzeoIGdzJxPP/f0Zy69N///8hg6WV6icEGMg2DRU81WE+oUJM6iUK+LAeoF6crmeY+596pumWQmiqlEj/gjogDCrFAhRQt7QEANWTdyq5RaZ+AAAAAElFTkSuQmCC\" style=\"height:22px\" alt=\"\"> NH3 + H2O + CO2."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C2_0093",
+  "stem": "Chỉ dùng một kim loại nào sau đây có thể phân biệt các dung dịch chứa trong các lọ riêng biệt: (NH4)2SO4, NH4Cl, FeSO4, AlCl3?",
+  "options": {
+   "A": "Na.",
+   "B": "Ba.",
+   "C": "Mg.",
+   "D": "Fe."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C2_0094",
+  "stem": "Có 4 dung dịch trong 4 lọ mất nhãn: (NH4)2SO4, NH4Cl, Na2SO4, NaOH. Nếu chỉ được phép dùng một thuốc thử để nhận biết 4 chất lỏng trên ta có thể dùng thuốc thử nào sau đây?",
+  "options": {
+   "A": "dung dịch AgNO3.",
+   "B": "dung dịch KOH.",
+   "C": "dung dịch BaCl2.",
+   "D": "dung dịch Ba(OH)2."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C2_0095",
+  "stem": "Để phân biệt muối ammonium với các muối khác, người ta cho nó tác dụng với kiềm mạnh. Hiện tượng quan sát được là",
+  "options": {
+   "A": "thoát ra một chất khí không màu, ít tan trong nước.",
+   "B": "thoát ra một chất khí không màu, có mùi khai, làm xanh giấy quỳ tím ẩm.",
+   "C": "thoát ra một chất khí màu nâu đỏ, làm xanh giấu quỳ tím ẩm.",
+   "D": "thoát ra chất khí không màu, không mùi, tan tốt trong nước."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C2_0096",
+  "stem": "Có 6 dung dịch đựng trong 6 lọ: NH4Cl; (NH4)2SO4; MgCl2; AlCl3; FeCl2 và FeCl3. Hóa chất để nhận biết 6 dung dịch trên là",
+  "options": {
+   "A": "Na dư.",
+   "B": "dd NaOH dư.",
+   "C": "Ba dư.",
+   "D": "dd AgNO3."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C2_0097",
+  "stem": "X là muối khi tác dụng với dung dịch NaOH dư sinh khí mùi khai, tác dụng với dung dịch BaCl2 sinh kết tủa trắng không tan trong HNO3. X là muối nào trong số các muối sau?",
+  "options": {
+   "A": "(NH4)2CO3.",
+   "B": "(NH4)2SO3.",
+   "C": "NH4HSO3.",
+   "D": "(NH4)2SO4."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C2_0098",
+  "stem": "Cho một ít tinh thể muối X vào ống nghiệm và đun nóng trên ngọn lửa đèn cồn, sau một thời gian thấy không còn chất rắn nào ở đáy ống nghiệm. Muối X có thể là muối nào sau đây?",
+  "options": {
+   "A": "NaCl.",
+   "B": "CaCO3.",
+   "C": "KClO3.",
+   "D": "NH4Cl."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C2_0099",
+  "stem": "X là muối khi tác dụng với dung dịch NaOH dư sinh khí mùi khai, tác dụng với dung dịch BaCl2 sinh kết tủa trắng không tan trong HNO3. X là muối nào trong số các muối sau?",
+  "options": {
+   "A": "(NH4)2CO3.",
+   "B": "(NH4)2SO3.",
+   "C": "NH4HSO3.",
+   "D": "(NH4)2SO4."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C2_0100",
+  "stem": "Hợp chất X tan trong nước tạo dung dịch không màu. Dung dịch này không tạo kết tủa với dung dịch BaCl2, khi phản ứng với NaOH tạo ra khí có mùi khai, khi phản ứng với dung dịch HCl tạo ra khí làm đục nước vôi trong và làm mất màu dung dịch thuốc tím. Chất này là",
+  "options": {
+   "A": "NH4HSO3.",
+   "B": "Na2SO3.",
+   "C": "NH4HCO3.",
+   "D": "(NH4)2CO3."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C2_0101",
+  "stem": "(SBT – KNTT) Oxide của nitrogen được tạo thành ở nhiệt độ rất cao, khi nitrogen có trong không khí bị oxi hoá được gọi là",
+  "options": {
+   "A": "NO, tức thời.",
+   "B": "NO, nhiệt.",
+   "C": "NO, nhiên liệu.",
+   "D": "NO, tự nhiên."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C2_0102",
+  "stem": "(SBT – KNTT) Oxide của nitrogen được tạo thành khi nguyên tố nitrogen trong nhiên liệu hoặc sinh khối kết hợp với oxygen dư thừa trong không khí được gọi là",
+  "options": {
+   "A": "NO, nhiên liệu.",
+   "B": "NO, tự nhiên.",
+   "C": "NO, tức thời.",
+   "D": "NO, nhiệt."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C2_0103",
+  "stem": "Nguồn nào sau đây không phát sinh oxide của nitrogen trong không khí?",
+  "options": {
+   "A": "Đốt cháy các nhiên liệu hóa thạch.",
+   "B": "Quá trình sản xuất và sử dụng nitric acid.",
+   "C": "Trong khí quyển khi có sấm sét.",
+   "D": "Quá trình quang hợp của cây xanh."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C2_0104",
+  "stem": "(SGK – Cánh Diều) Trong khí quyển, khi có sấm sét nitrogen bị oxi hóa để tạo thành oxide của nitrogen. Oxide được tạo thành bởi quá trình này có công thức là",
+  "options": {
+   "A": "NO.",
+   "B": "N2O5.",
+   "C": "N2O.",
+   "D": "N2O4."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C2_0105",
+  "stem": "(SBT – KNTT) Xét cân bằng tạo ra nitrogen(II) oxide ở nhiệt độ 2 000 °C:N2(g) + O2(g) <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFEAAAAnCAAAAABSn/s2AAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAmEXkrCb0AAAGkSURBVEjH5Za7S8NQFIe/hNTHpLSTk10UFBz0b6ibCD6GgghKN0EsKjiKujgImmxuFRdB8FFFUHRzLC5q3AURpFpECVSh16FNtSmJabyD4plyz+/y5ZzDOfdeRSDZVNlANKDnqbQIXzhlD8mLeJvoBiCTqpI9JFcTQkQOhBBCiN2IcJqH5Gby6/hrifp0+VOTAjSSiFWZMRYOYS0pk6jux0BPSiTSmI6BPgX4q+PEEVYuCnDS/umtGKfGdP8pBrpP4kPXSGZ9GazEGwCTLwBmWxiAR3MMIKwIDGHga2aGZopSjsui0/3n19JnphCsHxctgPl4BwBX2wufUksw4gQAywN9AOwdzlaov3au/z1Rg+f8WRaAi3zKoTYEI96/rtmrcYcaqQ1mExUv3WyGbOj8piZiW32+tKjrdahNx3MAbNUQrQaqNbYJg1shtz3D0ZUaslYBNTUKO/H3AEVzIcpFFvuxhCzIIxaRnVLa3T7N1BStS1KyLp+P6obyE05V1nzT6EFi9LK7cwBeK71mMwBV4+TjRThU3nz59Zq0nY4bVPkDL/sPpbURJM/1G94AAAAASUVORK5CYII=\" style=\"height:22px\" alt=\"\"> 2NO(g) \t\t\t\t\tKC = 4,10.10–4Ở trạng thái cân bằng, biểu thức nào sau đây có giá trị bằng KC?",
+  "options": {
+   "A": "<img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGoAAAAsCAAAAACoS3I6AAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAmC4RJ8McAAANtSURBVFjDvVhLTBNRFD0lAmKkBomCVkHEH1FEFy4a0dS/CQgmfkBhQwmi0WrBSBQkLgwftXwEgYoCC38xxhj8RI0KboBGVIxAjAEF1ChggChYRKnXxUyblpkOdIZyVm/uvfNO7nv33XdmZISJgsuEMWGSU2bN8X29U8mxkuM4MjMuy66zMMEvhr5Q7QGORxRVJBF9THJ1qSH6cVwRX09UHbF5x9bwp0RElBhDRBXl40dFFLRk0SARbflGVOZZTUS1XiVmqt6DJs5rEsrCrbw1nRn1aTQqAMoUbSdj6L6Yy51YSgUqNbkGAMB9YzgAYNvQbcYT3ajO4IRLqsDMe+oGdwDNmA8ACEQz46jii5Z0rqZcencKAAbgAQCYLOsXiJZ2hNcn6OoByGEEABhJ7jQq6GbF/QGC0QoAaEWw86jk+ubnQLj8LgCgcvIO51EhLJYAz1L9MwA1OQUzhKlMaf7TU3rRFTHn2O+xc7RpO5LaAOT7AIh6XBwWFX7mToLgK0REkSFE1K5scaxb2ENiDL/dsoBf91YsGGtGhvizdn1FiQ/teGQEYHv7m66d+qUc56CJHbi7itvJkXsFAD0bN3CZEOnLIm8cmNismgL7Gwwh4zHfqFn91Fd67R5wMhXTbmcH4Oqm/VdHOgeG2YGH+61SaTzqPVbFfhKXR5ZnmDeLHBEXKAfmCgRMqlcvlgFVdQuNvclOWUGi4dS5XsktRJ+mB2TT91AiejceSfBnZYUHD4qdkhG47dYksxO4IvjQLT5744kIGXOFaH3U2XwRF/b5x7ILaIPu1f+IDDzph+TRSEXG4huY5sm2RmudZtMVOeKsOuP29dP2qGwUGT+VjU6zoeLIGJVKcMHdSkLTzwn4+zRaFQBlina77yh7NSosiowfHJ0mgQqZ89RD9r0cnSaFyqzI+CGg00RoC1aR8UNAp4mRMYwi44eAThNDxSgyfgjoNFHiLCyWAORcO1pntmQqepiBtU67Wa7TW73l2OdB2/mOpMMBQP4TANGK+Ve4X6FRfrrcqb9c7qwDQhVYuV8sVUB+PgDAuxOAAu9XmR2pqZYYpeVAKdC+XFRWZR/W7rK19L0sABpvNJmfDfGLU2wCqDAbQNHbR2uYR9HoyhoSDvh79rPQfeUA1s+SBaUJBaQ2ToOVXpFA5Sgm8G/Mf9NgJi+s6TdtAAAAAElFTkSuQmCC\" style=\"height:40px\" alt=\"\">.",
+   "B": "<img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGoAAAArCAAAAAC1TkKCAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAmDW0qVfIAAAONSURBVFjDvZhpSFRRFMf/I5kLOqLRallmWZZmBFFDZWab4FZqhlmBbWpiqZG4JH6otEKzhVDMSQhBLFoUg6Ayv2hStJBKhGa2aSpOi86olZ4+vKc95707OZvn0733f2Z+nDnnnXvmyQgTZRYTRjIUddcyMqudJTakBctaJM7JILvjQERUrIA/EVWGLj5N9CNz3fZQn/TvREQdaBZ/xigU5ftBSURPYoh+eu5QE/Xv9fjGQhmZqz3+yV+4VU7rVVvAuqAzy8S5GrWi4RhuUb7WAQBs/crMhZpz9t51ABhonc8duHV3mQmF2PWJHQD6YMPtbdBrLpRMORgLwB4abq+GnOE5yVgU3E4ecwGs3PknqWX6VHNFBSSuugIgqlYFAH3VUSw/E6AsrlkCOO51QAMMxMzWVexDGXOdUlToDJ59fEA/SHF5iRLAkkwANjUrAiJ2+rvWyZnuREQh3kTUpmgeZ6v41y1YJtktRsuifVfJAj0CUu9yPzSLoTWUNUodywjAtrZXneGFS0Vi/xC/sLI0IpeCXAFAz6aNYhJCZvCWbwISH1WjW+/Lem9TfN9/o/pZWOEY0WdmFFcWs1xRujm2VFvs+8MvbKxuFhnH2RcpKPYTKNYuz4ApvOUZdoGOtZEKBIZ8nz/1BKqfLNSoks3yCxL9SZ/jmNxM9NHJ9Qx1ryWiN6YIQmTas0VVHMPR2zP+htT569QgvjUcnRadI+Vx+aBLlBSq4jALlU9ErUmWFrVEP1Kd9z8bVUa60NEQIiJ6HLwlzD/wofCzMZKorjXDRPUsFJHHYvd+ItraQQyU0v4xEdU5FohQ2pfI1FM5t8sesFM7+VpLpq7Uf0tI8AWgSEn8Kv1cCczXV3cZKRLOh61my1WaQABAUNqteC1J/6sxe96+QbbaBG5yckOTtqQ/yvbqmyy2OjI5WctEg5MBF77fwdxnTFHOT04aEt3GhswWuTOjf7E0L3CTUwu8TIGSFzbVsLRAeSUAoMI6zBQoBOzW/q+Z7dzDLeyLCh8BqM27JBoH9Rs531/8kHTEFbjwAEDejBfhCpHLTpfc83ZqizsbgHK1yi5WII23WfLdQmCfqS5OojEJHWi5oFuMPyrlO58dYw6c8XblmPGofv+ilLEObcsAXHl9f51eUUmYKn5It8NwcrtgZwSqM2dQt8Pvc5+EW5nh7y38Zso8MnQ5pDc4QDCvGIHS1ybwFclf1V7XOXPEFNUAAAAASUVORK5CYII=\" style=\"height:40px\" alt=\"\">.",
+   "C": "<img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGoAAAApCAAAAAD4huOJAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAmCWpHkesAAANeSURBVFjDvVhtLFVxGP9dKTRsaipZSnqzEh/qA6nRG5u3Nr3zxTW5FrmsrFT6Isy8VFhSfKi7WbNelK02ha3hLisVpkbRKylaXNdLePpwzuXce8897hu/T+f8f885vz3P8z/P+Z0jIswXLOZNSX8pL4/4Cr71lnOhok4AgHS5OIsvovDE6kgAAOkJz3wi+pS00KKe6O9Z5+imaaYHHURElBhGRES1ofvDA4Ofca+NjSAiMkyKyH3ThhEiCuiZYdSlSu1qiajB4bqWlKG9WlTWeVGI/5OQ4AfAO0Xaa3SvVPBOyJML0FXKYABAyNg9k6WQsUY8ppttw1oAgBvaTJdafLP9km5WARsAgLVoyHQp7I7JadJJ2kMJAFCSvRmkkOMUNa6L8wDzkHXCwxxS9sVtdbq4YPtHAIBK63BzSCEoUnNyZjj3Mwd2JcXPAdTnXnPUvMrSII2uq5+TTrkCV6oB5K54fdBbK+SIS06e7bDFA3/g7vCArYRDEU2kujic6afeEOfTI7NOCw6+UUMcz2DiBpAXZ1pYAgsut3VnA6O/69YJZVT6cdchtQVnfNgOtJS3qhbk0RtT1AO6twIoevd0J5sVUZgn0Xef9/qOQxUGTk4KB0wl/+CcqaR6fVu1Q5VDLMb5bvQzc0xY6V/2V+4puy3694Zv1q5ZWAN7kJaiTeKok9j9vFDJ01reQjZzKiIAB1rdhprlngZtRsPBPFeDxZUOhxVzLMUUcKUrZPskMk1SMcEe2FhVlJimIz42swPpAm5p9jVoKYtcQzcnH5hedb8BJv1evdwC1DSuVw4kz0kFiSZSVzkkdxB9WeKaRb98iajd1ARyZMkNWouaNqYqbvYbJS6LytRJFsS4REzPLDVojttJkR6V8C4DugoKJ1/4YDDzTqBkG+ryR+2GLaV7gHhIFOzM0i6gGvp2TBHJZ8kqjIjUfJqaI4uN4J9Zmu8rx/TM++XVenV5xqdpObK+G3k8L0Ijms5m5UmJFo1EAT10G8wmaEUhk5X/8Yj0WXtlEDIei5utwOPIaviiTfoSUfk0AUdmLimVTxNwZGaTYn2agCMznxTj0wQcmfmkGJ8m4Mg4MHoHqvk0jiPTDZERn93S7odCtEQh4103qoDy6GydXFHsEzNmZSTm8WfCf7BXeOsEPxKIAAAAAElFTkSuQmCC\" style=\"height:40px\" alt=\"\">.",
+   "D": "<img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAF4AAAAzCAAAAAA70+A2AAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAmCvNOwFEAAAOISURBVFjDtZhvTFVlHMc/5/InY3JbRJfq0pYhEmbJbG2WtuAS1RrlbK3cKixoUbyq1j/NrV2FtoxpvhDBcE5zNVcpo1yach1B40ULabgmoa1IWq3ATBAvAt9e3AP3cu8F7+Ge+3313e/5nc9+z+959pxzHkMkUo6E0q3jjxnukqq/aC1NN/L9wOFSZ345cGHzikVLFnm2+4EjZcvnZwbSZVFH+Tpg7s9mvSTpoYOSTt2yuF2aOLbgzn5J0trrJElxNKcmY3PXpB99fLBlBRjFR3qeCl3NOPCu2rGKMdN/8dNzNwCQ+0T7UXvwPP9AZ61pv6TQdB6abMLTkObtCbhucsxYDj/ahb/Ve+mFQKcHcZoxJwN24Xn1rvY6AAwmF1TTkPHhkxqT3+4DyOQ/M3SeTNvwFLw+VAlQQK8Z6aXAPjzv5h5uA1bjMwM+VtuIn7fTuAiU3r3vDwB6DniKbMRTWAGQ9Hl2SQfI9/Adn0wbluoLSSn5VPp7VVJuRaxnTmvp/MVlfkk6d+NBSbr44crbluYV7fAr9MxBknBLkjbdN2zhSJtdJj45OI9tzS1p8bYqXEH8rt2+9JgeOe7MvX72jPG+n08HnCHAcJ9lv/d4VizwX/YCL8+e2tIGaW+aSyvhVnNK5wxdPJkU1C6rLx+z+j2PjjzylRG1lKH2oF+SbbX5kkTass4FbLVaWgwK4K8dVEdy6g+Jwrsl1ZB7IVrG5d+DGtaO2PtidIXix4tYGw3fHfLER3Nc2rNA/9KBfU9HFjHaF/QuJ9YUgqd5VfqJHBisds/7p3+n1T0y086p95BS/L4kVXHTs1Jxk6Qme5bWiPiEPbPsvD2FQ7Tz/jfXlZ7ZYOQ/tgEaigyjHGCrx7Fyy9To6UpPlnEy2Jww9aZPXGHG7zBi7upsvpEkXXVuWsJuuk0XWf3Cez4D6mOaex0vDltsDvu//2D7xtaY8CVlv66bPWMO2yHYnJEBl+M7a82xpIxtExV+a82xpDWlpzYmEE9devAnIgH4m98bKx+bcTT+P8Oqe0/UzjgYP97RmOq9nDg8+esvTSQQz7rbATpe2rKm00Z8QzEPVgOkNjqAjJrXnqwOz0m2TJ1SZeWkWz4O5MG/EV9vtt4pHHrDHvyBrqHIoLyvLAT4s61jKmbM4cLF9y1c/VZ4dHTTM3kAZz4Gqlxzx0dX9Z5ryDoUFrQPH1UJvi76H5YLG8bA4c2dAAAAAElFTkSuQmCC\" style=\"height:40px\" alt=\"\">."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C2_0106",
+  "stem": "Bóng cười thực chất là quả bóng bay được bơm khí N2O. Chất khí này vốn được sử dụng cho y tế với tác dụng gây mê, an thần, giảm đau,… Tên gọi của N2O là",
+  "options": {
+   "A": "dinitrogen oxide.",
+   "B": "nitrogen oxide.",
+   "C": "nitrogen dioxide.",
+   "D": "dinitrogen tetroxide."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C2_0107",
+  "stem": "Nitrogen monoxide là tên gọi của oxide nào sau đây?",
+  "options": {
+   "A": "NO.",
+   "B": "NO2.",
+   "C": "N2O.",
+   "D": "N2O4."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C2_0108",
+  "stem": "Nitrogen dioxide là tên gọi của oxide nào sau đây?",
+  "options": {
+   "A": "NO.",
+   "B": "NO2.",
+   "C": "N2O.",
+   "D": "N2O4."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C2_0109",
+  "stem": "Nitrogen có số oxi hóa +4 trong oxide nào sau đây?",
+  "options": {
+   "A": "NO.",
+   "B": "NO2.",
+   "C": "N2O5.",
+   "D": "N2O."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C2_0110",
+  "stem": "Một oxide của nitrogen có tỉ khối hơi so với H2 là 54. Thành phần % khối lượng của oxygen trong oxide đó là",
+  "options": {
+   "A": "46,67%.",
+   "B": "25,92%.",
+   "C": "74,074%.",
+   "D": "53,33%."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C2_0111",
+  "stem": "(SBT – KNTT) Quá trình đốt cháy hỗn hợp hơi nhiên liệu và không khí trong động cơ khi đánh tia lửa điện sinh ra khí NO, một tác nhân gây ô nhiễm không khí. Tên gọi của NO là",
+  "options": {
+   "A": "ammonia.",
+   "B": "nitrogen dioxide.",
+   "C": "nitrogen monoxide.",
+   "D": "nitrogen."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C2_0112",
+  "stem": "Phần trăm khối lượng của N trong một oxide của nó là 30,43%. Tỉ khối của A so với He bằng 23. Xác định CTPT của oxide đó là",
+  "options": {
+   "A": "N2O.",
+   "B": "N2O4.",
+   "C": "N2O5.",
+   "D": "NO2."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C2_0113",
+  "stem": "(Đề TSĐH B - 2013) Một mẫu khí thải có chứa CO2, NO2, N2 và SO2 được sục vào dung dịch Ca(OH)2 dư. Trong bốn khí đó, số khí bị hấp thụ là",
+  "options": {
+   "A": "3.",
+   "B": "4.",
+   "C": "1.",
+   "D": "2."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C2_0114",
+  "stem": "(SGK - KNTT) Nước mưa thông thường có pH khoảng 5,6 chủ yếu do có carbon dioxide hòa tan tạo môi trường acid yếu. Khi nước mưa có pH nhỏ hơn 5,6 thì gọi là hiện tượng mưa acid. Tác nhân chính gây mưa acid là",
+  "options": {
+   "A": "CO2 và H2O.",
+   "B": "SO2 và CO2.",
+   "C": "SO2 và NOx.",
+   "D": "CO2 và CH4."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C2_0115",
+  "stem": "(SGK - KNTT) Với xúc tác của các ion kim loại trong khói bụi, các oxide của sulfur và nitrogen bị oxi hóa bởi oxygen, ozone, hydrogen peroxide, gốc tự do,… rồi hòa tan vào nước tạo thành các acid tương ứng. Hai acid tạo thành từ quá trình trên là",
+  "options": {
+   "A": "H2CO3 và HNO3.",
+   "B": "H2S và HNO3.",
+   "C": "H2S và H2SO4.",
+   "D": "H2SO4 và HNO3."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C2_0116",
+  "stem": "(SBT – CTST) Hiện tượng mưa acid",
+  "options": {
+   "A": "là hiện tượng sẵn có trong tự nhiên.",
+   "B": "xảy ra sự bốc hơi của nước rồi ngưng tụ.",
+   "C": "xảy ra khi nước mưa có pH &lt; 7.",
+   "D": "xảy ra khi nước mưa có pH &lt; 5,6."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C2_0117",
+  "stem": "(SBT – CTST) Hiện tượng mưa acid là do không khí bị ô nhiễm bởi các khí nào sau đây?",
+  "options": {
+   "A": "SO2, NO, NO2.",
+   "B": "NO, CO, CO2.",
+   "C": "CH4, HCl, CO.",
+   "D": "Cl2, CH4, SO2."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C2_0118",
+  "stem": "(SBT – KNTT) Mưa acid là một thảm hoạ thiên nhiên toàn cầu, ảnh hưởng đến sự sống của các sinh vật. Mưa acid là hiện tượng nước mưa có pH",
+  "options": {
+   "A": "&lt; 5,6.",
+   "B": "= 7.",
+   "C": "6 – 7.",
+   "D": "&gt; 8."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C2_0119",
+  "stem": "Các acid nào sau đây có mặt trong nước mưa gây ra hiện tượng mưa acid?",
+  "options": {
+   "A": "Sulfuric acid.",
+   "B": "Hydrochloric acid và sulfuric acid.",
+   "C": "Hydrochloric acid và nitric acid.",
+   "D": "Nitric acid và sulfuric acid."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C2_0120",
+  "stem": "(SGK - KNTT) Mưa acid gây tác động xấu đối với môi trường, con người và sinh vật, rõ rệt nhất khi nước mưa có giá trị pH dưới 4,5. Tác động nào sau đây không phải của mưa acid?",
+  "options": {
+   "A": "Ăn mòn các công trình xây dựng.",
+   "B": "Ăn mòn vật liệu kim loại của các công trình ngoài trời.",
+   "C": "Giảm pH của đất và nước, từ đó ảnh hưởng tiêu cực đến cây trồng, thủy sản,…",
+   "D": "Gây hiệu ứng nhà kính."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C2_0121",
+  "stem": "(SBT – Cánh Diều) Số oxi hoá và hoá trị của nitrogen trong hợp chất nitric acid lần lượt là",
+  "options": {
+   "A": "+5 và V.",
+   "B": "+5 và IV.",
+   "C": "+5 và III.",
+   "D": "+4 và IV."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C2_0122",
+  "stem": "(SBT – KNTT) Phân tử nào sau đây có chứa một liên kết cho – nhận?",
+  "options": {
+   "A": "NH3.",
+   "B": "N2.",
+   "C": "HNO3.",
+   "D": "H2."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C2_0123",
+  "stem": "Trong công thức cấu tạo của phân tử HNO3",
+  "options": {
+   "A": "có hai liên kết π.",
+   "B": "có một liên kết cộng hoá trị theo kiểu cho – nhận.",
+   "C": "nguyên tố nitrogen có số oxi hóa +5.",
+   "D": "nguyên tử nitrogen liên kết trực tiếp với nguyên tử hydrogen."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C2_0124",
+  "stem": "Số oxi hóa của nitrogen trong HNO3 là",
+  "options": {
+   "A": "+1.",
+   "B": "+2.",
+   "C": "+4.",
+   "D": "+5."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C2_0125",
+  "stem": "(SBT – KNTT) Cho các nhận định sau về cấu tạo phân tử nitric acid:(a) Liên kết O–H phân cực về oxygen.(b) Nguyên tử N có số oxi hoá là +5.(e) Nguyên tử N có hoá trị bằng 4.(d) Liên kết cho – nhận N→O kém bền.Số nhận định đúng là",
+  "options": {
+   "A": "1.",
+   "B": "2.",
+   "C": "3.",
+   "D": "4."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C2_0126",
+  "stem": "Nitric acid dễ bị phân huỷ bởi ánh sáng hoặc nhiệt độ, tạo thành các sản phẩm là",
+  "options": {
+   "A": "NO2, H2O.",
+   "B": "NO2, O2, H2O.",
+   "C": "N2, O2, H2O.",
+   "D": "N2, H2O."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C2_0127",
+  "stem": "(SBT – CTST) Điều nào sau đây không đúng về tính chất hóa học của dung dịch HNO3?",
+  "options": {
+   "A": "Dung dịch HNO3 có tính khử mạnh.",
+   "B": "Dung dịch HNO3 có tính oxi hoá mạnh.",
+   "C": "Dung dịch HNO3 đặc, nguội không phản ứng với Fe.",
+   "D": "Dung dịch HNO3 có tính acid."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C2_0128",
+  "stem": "(SBT – KNTT) Cho các nhận định sau về tính chất hóa học của nitric acid: (1) có tính acid mạnh; (2) có tính acid yếu; (3) có tính oxi hoá mạnh; (4) có tính khử mạnh. Số nhận định đúng là",
+  "options": {
+   "A": "1.",
+   "B": "2.",
+   "C": "3.",
+   "D": "4."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C2_0129",
+  "stem": "(SGK – KNTT) Phân tử nitric acid chứa nguyên tử nitrogen có số oxi hóa cao nhất, nên nitric acid có khả năng nhận electron, thể hiện tính…mạnh. Điền từ thích hợp vào chổ ….",
+  "options": {
+   "A": "acid.",
+   "B": "base.",
+   "C": "khử.",
+   "D": "oxi hóa."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C2_0130",
+  "stem": "(SBT – KNTT) Acid nào sau đây thể hiện tính oxi hoá mạnh khi tác dụng với chất khử?",
+  "options": {
+   "A": "HCl.",
+   "B": "HNO3.",
+   "C": "HBr.",
+   "D": "H3PO4."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C2_0131",
+  "stem": "(SBT – KNTT) Kim loại nào sau đây không tác đụng với nitric acid?",
+  "options": {
+   "A": "Zn.",
+   "B": "Cu.",
+   "C": "Ag.",
+   "D": "Au."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C2_0132",
+  "stem": "(SGK – CTST) Một số kim loại bị thụ động hóa trong dung dịch nitric acid đặc, nguội, do tạo lớp màng oxide bền, bảo vệ kim loại khỏi tác dụng của acid. Cặp kim loại bị thụ động hóa trong dung dịch nitric acid đặc, nguội là",
+  "options": {
+   "A": "Fe và Cu.",
+   "B": "Al và Fe.",
+   "C": "Mg và Al.",
+   "D": "Mg và Zn."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C2_0133",
+  "stem": "(SBT – KNTT) Để điều chế được silver nitrate từ một mẫu silver tinh khiết, cần hoà tan mẫu silver vào dung dịch nào sau đây?",
+  "options": {
+   "A": "Cu(NO)3.",
+   "B": "HNO3.",
+   "C": "NaNO3.",
+   "D": "KNO3."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C2_0134",
+  "stem": "(SGK – Cánh Diều) Nitric acid hoặc hydrochloric acid đều không hòa tan được gold (Au) và platinium (Pt). Nhưng hỗn hợp gồm nitric acid đặc và hydrochloric acid đặc sẽ hòa tan được hai kim loại trên. Hỗn hợp này được gọi là nước cường thủy (cường toan). Để thu được nước cường toan, người ta thường trộn nitric acid đặc và hydrochloric acid đặc theo tỉ lệ thể tích lần lượt là",
+  "options": {
+   "A": "1: 3.",
+   "B": "3: 1.",
+   "C": "1: 2.",
+   "D": "2: 1."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C2_0135",
+  "stem": "Nitric acid là một trong số các acid mạnh. Dung dịch HNO3 làm quỳ tím hóa đỏ; tác dụng với basic oxide, base và muối của acid yếu hơn tạo thành muối nitrate. Phản ứng nào sau đây HNO3 không thể hiện tính acid?",
+  "options": {
+   "A": "2HNO3 + CuO <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAmE5claJEAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:20px\" alt=\"\"> Cu(NO3)2 + H2O.",
+   "B": "HNO3 + NaOH <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAmE5claJEAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:20px\" alt=\"\"> NaNO3 + H2O.",
+   "C": "2HNO3 + CaCO3 <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAmE5claJEAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:20px\" alt=\"\"> Ca(NO3)2 + CO2 + H2O.",
+   "D": "10HNO3 + 3FeO <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAmE5claJEAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:20px\" alt=\"\"> 3Fe(NO3)3 + NO + 5H2O."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C2_0136",
+  "stem": "(SBT – KNTT) Trong công nghiệp, quá trình sản xuất Ca(NO3)2 dùng làm phân bón được thực hiện bằng phản ứng giữa dung dịch HNO3 với hợp chất phổ biến, giá rẻ nào sau đây?",
+  "options": {
+   "A": "CaO.",
+   "B": "Ca(OH)2.",
+   "C": "CaCO3.",
+   "D": "CaSO4."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C2_0137",
+  "stem": "Ammonium nitrate (sản xuất làm phân bón) được thực hiện bằng phản ứng giữa dung dịch nitric acid với hợp nào sau đây?",
+  "options": {
+   "A": "NH3.",
+   "B": "CaO.",
+   "C": "NaOH.",
+   "D": "P."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C2_0138",
+  "stem": "Nitric acid không thể hiện tính oxi hóa khi tác dụng với chất nào sau đây?",
+  "options": {
+   "A": "Fe2O3.",
+   "B": "FeSO4.",
+   "C": "Cu.",
+   "D": "P."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C2_0139",
+  "stem": "Nitric acid chỉ thể hiện tính acid khi tác dụng với chất nào sau đây?",
+  "options": {
+   "A": "FeO.",
+   "B": "Cu.",
+   "C": "P.",
+   "D": "NaOH."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C2_0140",
+  "stem": "Cho Fe2O3 tác dụng với nitric acid thì sản phẩm thu được là",
+  "options": {
+   "A": "Fe(NO3)3, NO và H2O.",
+   "B": "Fe(NO3)3, NO2 và H2O.",
+   "C": "Fe(NO3)3, N2 và H2O.",
+   "D": "Fe(NO3)3 và H2O."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C2_0141",
+  "stem": "Tính chất vật lí nào sau đây không phải của nitric acid tinh khiết?",
+  "options": {
+   "A": "Chất rắn, không màu.",
+   "B": "Tan vô hạn trong nước.",
+   "C": "Nóng chảy ở –42 °C và sôi 83 °C.",
+   "D": "Bốc khói mạnh trong không khí ẩm."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C2_0142",
+  "stem": "Hợp chất nào của nitrogen không được tạo ra khi cho HNO3 tác dụng với kim loại?",
+  "options": {
+   "A": "NO.",
+   "B": "NH4NO3.",
+   "C": "NO2.",
+   "D": "N2O5."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C2_0143",
+  "stem": "Cho Ag tác dụng với dung dịch HNO3 đặc, nóng thu được khí X có màu nâu đỏ. Khí X là",
+  "options": {
+   "A": "N2.",
+   "B": "N2O.",
+   "C": "NO.",
+   "D": "NO2."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C2_0144",
+  "stem": "Cho Cu phản ứng với dung dịch HNO3 loãng, nóng thu được khí X không màu hóa nâu trong không khí. Khí X là",
+  "options": {
+   "A": "NO.",
+   "B": "N2O.",
+   "C": "N2.",
+   "D": "NH3."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C2_0145",
+  "stem": "Thí nghiệm với dung dịch HNO3 thường sinh ra khí độc NO2. Để hạn chế khí NO2 thoát ra từ ống nghiệm, người ta nút ống nghiệm bằng",
+  "options": {
+   "A": "bông khô.",
+   "B": "bông có tẩm nước.",
+   "C": "bông có tẩm nước vôi.",
+   "D": "bông có tẩm giấm ăn."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C2_0146",
+  "stem": "Để hòa tan được kim loại Au (Gold) người ta dùng",
+  "options": {
+   "A": "dung dịch muối ăn.",
+   "B": "nước cường toan.",
+   "C": "dung dịch nitric acid đặc.",
+   "D": "dung dịch hydrochloric acid đặc."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C2_0147",
+  "stem": "(SBT – KNTT) Phát biểu nào sau đây không đúng?",
+  "options": {
+   "A": "NH3 và HCl đều dễ tan trong nước.",
+   "B": "HNO3 và HCl đều là acid mạnh trong nước.",
+   "C": "N2 và Cl2 đều có tính oxi hoá mạnh ở điều kiện thường.",
+   "D": "KNO3 và KClO3 đều bị phân huỷ bởi nhiệt."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C2_0148",
+  "stem": "(SBT – KNTT) Phát biểu nào sau đây đúng?",
+  "options": {
+   "A": "N2 và P đều tác dụng với oxygen ở nhiệt độ cao.",
+   "B": "N2 và P đều là chất khí ở điều kiện thường.",
+   "C": "HNO3 và H3PO4 đều có tính oxi hoá mạnh.",
+   "D": "HNO3 và H3PO4 đều là acid mạnh."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C2_0149",
+  "stem": "(SGK – Cánh Diều) Mỗi năm có khoảng hàng chục triệu tấn nitric acid được sản xuất trên toàn cầu. Trong đó, khoảng 80% được dùng cho sản xuất phân đạm ammonium nitrate theo phương trình hóa học: NH3 + HNO3 <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAmFX5GzaQAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:20px\" alt=\"\"> NH4NO3Trong phản ứng trên, nitric acid đóng vai trò là một",
+  "options": {
+   "A": "chất oxi hóa.",
+   "B": "chất khử.",
+   "C": "base.",
+   "D": "acid."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C2_0150",
+  "stem": "Trên toàn cầu, lượng lớn nitric acid dùng để(a) sản xuất phân đạm.(b) biến đổi chất hữu cơ trong quy trình sản xuất tơ hóa học, chất dẻo, thuốc nổ.(c) hòa tan quặng, tinh luyện kim loại.",
+  "options": {
+   "A": "(a), (b).",
+   "B": "(b), (c).",
+   "C": "(a), (c).",
+   "D": "(c)."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C2_0151",
+  "stem": "(SBT – KNTT) Hiện tượng phú dưỡng là một biểu hiện của môi trường ao, hồ bị ô nhiễm do dư thừa các chất dinh dưỡng. Sự dư thừa dinh dưỡng chủ yếu do hàm lượng các ion nào sau đây vượt quá mức cho phép?",
+  "options": {
+   "A": "Sodium, potassium.",
+   "B": "Calcium, magnesium.",
+   "C": "Nitrate, phosphate.",
+   "D": "Chloride, sulfate."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C2_0152",
+  "stem": "Nguyên nhân chính gây ra hiện tượng phú dưỡng là",
+  "options": {
+   "A": "sự gia tăng của vi khuẩn trong nước.",
+   "B": "sự tích tụ của chất hữu cơ từ lá cây rơi vào nước.",
+   "C": "sự gia tăng các chất dinh dưỡng như nitrate và phosphate từ phân bón.",
+   "D": "sự suy giảm của tầng ozone."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C2_0153",
+  "stem": "Hiện tượng phú dưỡng có thể dẫn đến hậu quả nào sau đây?",
+  "options": {
+   "A": "Sự gia tăng của sinh vật biển.",
+   "B": "Sự phát triển quá mức của tảo và thực vật thủy sinh.",
+   "C": "Sự tăng lượng oxygen hòa tan trong nước.",
+   "D": "Sự gia tăng của độ trong suốt của nước."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C2_0154",
+  "stem": "Biện pháp nào sau đây giúp giảm hiện tượng phú dưỡng?",
+  "options": {
+   "A": "Tăng cường sử dụng phân bón hóa học.",
+   "B": "Tăng cường xử lý nước thải trước khi xả ra môi trường.",
+   "C": "Thả thêm cá vào trong nước.",
+   "D": "Sử dụng thêm hóa chất để diệt tảo."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C2_0155",
+  "stem": "Hiện tượng phú dưỡng có ảnh hưởng gì đến hệ sinh thái thủy sinh?",
+  "options": {
+   "A": "Tạo điều kiện thuận lợi cho tất cả các loài sinh vật phát triển.",
+   "B": "Gây ra sự suy giảm oxygen hòa tan trong nước, dẫn đến chết hàng loạt cá và động vật thủy sinh.",
+   "C": "Tăng cường sự đa dạng sinh học.",
+   "D": "Giúp cải thiện chất lượng nước."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C2_0156",
+  "stem": "Trong hiện tượng phú dưỡng, quá trình nào sau đây diễn ra mạnh mẽ?",
+  "options": {
+   "A": "Quá trình quang hợp của tảo.",
+   "B": "Quá trình phân hủy chất hữu cơ.",
+   "C": "Quá trình hô hấp của sinh vật thủy sinh.",
+   "D": "Quá trình kết tủa của chất rắn trong nước."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C2_0157",
+  "stem": "Điều gì xảy ra khi hiện tượng phú dưỡng kéo dài?",
+  "options": {
+   "A": "Tăng cường sự sống của các loài thủy sản.",
+   "B": "Giảm đáng kể đa dạng sinh học trong hệ sinh thái nước.",
+   "C": "Tăng cường khả năng tự làm sạch của nước.",
+   "D": "Giảm lượng nitrate và phosphate trong nước."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C2_0158",
+  "stem": "(SGK – Cánh Diều) Hiện tượng phú dưỡng là sự tích tụ lượng lớn các chất dinh dưỡng, bao gồm cả hợp chất nguyên tố X và hợp chất nguyên tố Y trong các nguồn nước, do các tác động từ con người. Hệ quả của hiện tượng này là làm cho các sinh vật trong nước như vi khuẩn, rong, rêu, tảo sinh sôi, nảy nở và phát triển mạnh. Hai nguyên tố X và Y lần lượt là",
+  "options": {
+   "A": "nitrogen và phosphorus.",
+   "B": "carbon và sulfur.",
+   "C": "oxygen và nitrogen.",
+   "D": "carbon và oxygen."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C2_0159",
+  "stem": "(SGK – Cánh Diều) Biện pháp nào sau đây không dùng để hạn chế hiện tượng phú dưỡng?",
+  "options": {
+   "A": "Tạo điều kiện để nước trong kênh rạch, ao, hồ được lưu thông.",
+   "B": "Xử lí nước thải trước khi cho vào kênh rạch, ao, hồ.",
+   "C": "Sử dụng phân bón đúng liều lượng, đúng cách, đúng thời điểm trong năm để hạn chế sự rửa trôi của ion nitrate và phosphate từ nguồn phân bón dư thừa vào kênh rạch, ao, hồ.",
+   "D": "Cho nước thải (nông nghiệp, công nghiệp và sinh hoạt) được đưa đến ao, hồ thông qua các cống dẫn nước cố định."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C2_0161",
+  "stem": "(SGK – Cánh Diều) Sulfur có kí hiệu hóa học là S, số hiệu nguyên tử là 16, độ âm điện là 2,58. Trong bảng tuần hoàn, sulfur ở",
+  "options": {
+   "A": "ô số 8, chu kì 3, nhóm VIA.",
+   "B": "ô số 16, chu kì 3, nhóm VIA.",
+   "C": "ô số 32, chu kì 3, nhóm VIA.",
+   "D": "ô số 16, chu kì 3, nhóm IIA."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C2_0162",
+  "stem": "Nguyên tử nguyên tố X có tổng số electron ở các phân lớp p là 10. Nguyên tố X là",
+  "options": {
+   "A": "Na.",
+   "B": "Cl.",
+   "C": "O.",
+   "D": "S."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C2_0163",
+  "stem": "(SGK – KNTT) Trong tự nhiên, đơn chất sulfur được phân bố ở vùng lân cận núi lữa và suối nước nóng. Khi núi lữa hoạt động, sulfur được giải phóng ra khỏi lõi Trái Đất chủ yếu ở dạng",
+  "options": {
+   "A": "SO2.",
+   "B": "S.",
+   "C": "H2S.",
+   "D": "SO2 và H2S."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C2_0164",
+  "stem": "(SGK – Cánh Diều) Phần lớn sulfur tồn tại ở dạng hợp chất trong thành phần của các khoáng vật, như quặng pyrite, thạch cao, barite,… Thành phần chính của quặng pyrite là",
+  "options": {
+   "A": "FeS.",
+   "B": "FeS2.",
+   "C": "CaSO4.",
+   "D": "BaSO4."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C2_0165",
+  "stem": "(SBT – KNTT) Sulfur được dân gian sử dụng để pha chế vào thuốc trị các bệnh ngoài da. Têngọi dân gian của sulfur là",
+  "options": {
+   "A": "diêm sinh.",
+   "B": "đá vôi.",
+   "C": "phèn chua.",
+   "D": "giấm ăn."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C2_0166",
+  "stem": "(SBT – KNTT) Thạch cao sống là một dạng tồn tại phổ biến của sulfur trong tự nhiên, được sử dụng làm nguyên liệu để sản xuất xi măng, phần viết bảng,… Công thức của thạch cao sống là",
+  "options": {
+   "A": "BaSO4.",
+   "B": "CaSO4.2H2O.",
+   "C": "MgSO4.",
+   "D": "CuSO4.5H2O."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C2_0167",
+  "stem": "(SBT – KNTT) Trong tự nhiên, đồng vị của sulfur chiếm thành phần nhiều nhất là",
+  "options": {
+   "A": "34S.",
+   "B": "32S.",
+   "C": "36S.",
+   "D": "33S."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C2_0169",
+  "stem": "(SGK – CTST) Tính chất nào sau đây không phải tính chất vật lí của sulfur?",
+  "options": {
+   "A": "Màu vàng ở điều kiện thường.",
+   "B": "Thể rắn ở điều kiện thường.",
+   "C": "Không tan trong benzene.",
+   "D": "Không tan trong nước."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C2_0170",
+  "stem": "Số oxi hóa có thể có của sulfur (s) trong hợp chất là",
+  "options": {
+   "A": "0, 2, 4, 6.",
+   "B": "–2, 0, +4, +6.",
+   "C": "1, 3, 5, 7.",
+   "D": "–2, +4, +6."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C2_0171",
+  "stem": "Phát biểu nào sau đây không đúng khi nói về sulfur?",
+  "options": {
+   "A": "Sulfur phản ứng trực tiếp với hydrogen ở điều kiện thường.",
+   "B": "Ở trạng thái rắn, mỗi phân tử sulfur có 8 nguyên tử.",
+   "C": "Sulfur tác dụng được hầu hết với các phi kim.",
+   "D": "Trong các phản ứng với hydrogen và kim loại, sulfur là chất oxi hoá."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C2_0172",
+  "stem": "Đơn chất vừa có tính oxi hóa vừa có tính khử là",
+  "options": {
+   "A": "F2.",
+   "B": "O3.",
+   "C": "S.",
+   "D": "O2."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C2_0173",
+  "stem": "(Đề TSĐH B - 2008) Hơi mercury (Hg) rất độc, bởi vậy khi làm vỡ nhiệt kế mercury thì chất bột được dùng để rắc lên mercury rồi gom lại là",
+  "options": {
+   "A": "vôi sống.",
+   "B": "cát.",
+   "C": "muối ăn.",
+   "D": "sulfur."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C2_0174",
+  "stem": "(SBT – KNTT) Sulfur đóng vai trò chất khử khi tác dụng với đơn chất nào sau đây?",
+  "options": {
+   "A": "Fe.",
+   "B": "O2.",
+   "C": "H2.",
+   "D": "Hg."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C2_0175",
+  "stem": "Kim loại nào sau đây tác dụng với sulfur ở nhiệt độ thường?",
+  "options": {
+   "A": "Al.",
+   "B": "Fe.",
+   "C": "Hg.",
+   "D": "Cu."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C2_0176",
+  "stem": "Đốt nóng muôi sắt nhỏ có chứa sulfur (S) bột trên ngọn lửa đèn cồn, sulfur nóng chảy, sau đó cháy trong không khí cho ngọn lửa xanh mờ. Đưa sulfur đang cháy vào bình đựng khí oxi, sulfur tiếp tục cháy cho ngọn lửa",
+  "options": {
+   "A": "sáng hơn và sinh ra sulfur dioxide.",
+   "B": "mờ hơn và sinh ra sulfur dioxide.",
+   "C": "sáng hơn và sinh ra sulfur trioxide.",
+   "D": "mờ hơn và sinh ra sulfur trioxide."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C2_0177",
+  "stem": "(SBT – KNTT) Khi nhiệt kế thuỷ ngân vỡ, rắc chất bột nào sau đây lên thuỷ ngân rơi vãi sẽ chuyển hoá chúng thành hợp chất bền, ít độc hại?",
+  "options": {
+   "A": "Than đá.",
+   "B": "Đá vôi.",
+   "C": "Muối ăn.",
+   "D": "Sulfur."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C2_0178",
+  "stem": "Trộn bột iron (Fe) và bột sulfur rồi cho vào ống nghiệm khô. Đun ống nghiệm trên ngọn lửa đèn cồn, một lúc sau hỗn hợp cháy đỏ. Sản phẩm tạo thành là",
+  "options": {
+   "A": "iron(II) sulfide có màu nâu đỏ.",
+   "B": "iron(II) sulfide có màu xám đen.",
+   "C": "iron(III) sulfide có màu nâu đỏ.",
+   "D": "iron(III) sulfide có màu xám đen."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C2_0179",
+  "stem": "(SBT – KNTT) Cho các phản ứng:(a) S + O2 <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAmF5BIrIgAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> SO2; (b) S + 3F2 <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAmF5BIrIgAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> SF6;(c) Hg + S <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAmF5BIrIgAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> HgS; (d) H2 + S <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAmF5BIrIgAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> H2S.Số phản ứng trong đó sulfur đơn chất đóng vai trò chất khử là",
+  "options": {
+   "A": "1.",
+   "B": "2.",
+   "C": "3.",
+   "D": "4."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C2_0180",
+  "stem": "Nguyên tử S đóng vai trò vừa là chất khử, vừa là chất oxi hoá trong phản ứng nào sau đây?",
+  "options": {
+   "A": "S + 2Na <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAE0AAAAgCAAAAAByCKroAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAmCvNOwFEAAAEqSURBVEjHY/zPQEXARE3DiDZtT2CW5x7Cyv4TBV7zP/1/k+8VIWVEum23lBSDmvheKvn0JR8DA4PgS8pNW1nDwMAg8ZGBgeG9BMWm/W9jYGBgcHn+hOHOS2eCVhMI1xuuDPzyxf//7/LP8d5NMLIIxuljhmriop2EOCUSjJpGI9OYGP5R0TQRtr0PLhNS9AbGIJiGOnglEgko+Sd/m8jUSxTI1fxIRdNei3j+oZ5p/xcx5FPRtP/BDJP////PwsDwPhczkrwjUbglLxDspVC6BkUFP0O+ZDADw///T5gxQRmqzeoIGdzJxPP/f0Zy69N///8hg6WV6icEGMg2DRU81WE+oUJM6iUK+LAeoF6crmeY+596pumWQmiqlEj/gjogDCrFAhRQt7QEANWTdyq5RaZ+AAAAAElFTkSuQmCC\" style=\"height:24px\" alt=\"\"> Na2S.",
+   "B": "S + HNO3(đặc) <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAE0AAAAgCAAAAAByCKroAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAmCvNOwFEAAAEqSURBVEjHY/zPQEXARE3DiDZtT2CW5x7Cyv4TBV7zP/1/k+8VIWVEum23lBSDmvheKvn0JR8DA4PgS8pNW1nDwMAg8ZGBgeG9BMWm/W9jYGBgcHn+hOHOS2eCVhMI1xuuDPzyxf//7/LP8d5NMLIIxuljhmriop2EOCUSjJpGI9OYGP5R0TQRtr0PLhNS9AbGIJiGOnglEgko+Sd/m8jUSxTI1fxIRdNei3j+oZ5p/xcx5FPRtP/BDJP////PwsDwPhczkrwjUbglLxDspVC6BkUFP0O+ZDADw///T5gxQRmqzeoIGdzJxPP/f0Zy69N///8hg6WV6icEGMg2DRU81WE+oUJM6iUK+LAeoF6crmeY+596pumWQmiqlEj/gjogDCrFAhRQt7QEANWTdyq5RaZ+AAAAAElFTkSuQmCC\" style=\"height:24px\" alt=\"\"> H2SO4 + 6NO2 + 2H2O.",
+   "C": "S + 3F2 <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAE0AAAAgCAAAAAByCKroAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAmCvNOwFEAAAEqSURBVEjHY/zPQEXARE3DiDZtT2CW5x7Cyv4TBV7zP/1/k+8VIWVEum23lBSDmvheKvn0JR8DA4PgS8pNW1nDwMAg8ZGBgeG9BMWm/W9jYGBgcHn+hOHOS2eCVhMI1xuuDPzyxf//7/LP8d5NMLIIxuljhmriop2EOCUSjJpGI9OYGP5R0TQRtr0PLhNS9AbGIJiGOnglEgko+Sd/m8jUSxTI1fxIRdNei3j+oZ5p/xcx5FPRtP/BDJP////PwsDwPhczkrwjUbglLxDspVC6BkUFP0O+ZDADw///T5gxQRmqzeoIGdzJxPP/f0Zy69N///8hg6WV6icEGMg2DRU81WE+oUJM6iUK+LAeoF6crmeY+596pumWQmiqlEj/gjogDCrFAhRQt7QEANWTdyq5RaZ+AAAAAElFTkSuQmCC\" style=\"height:24px\" alt=\"\"> SF6.",
+   "D": "4S + 6NaOH(đặc) <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAE0AAAAgCAAAAAByCKroAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAmCvNOwFEAAAEqSURBVEjHY/zPQEXARE3DiDZtT2CW5x7Cyv4TBV7zP/1/k+8VIWVEum23lBSDmvheKvn0JR8DA4PgS8pNW1nDwMAg8ZGBgeG9BMWm/W9jYGBgcHn+hOHOS2eCVhMI1xuuDPzyxf//7/LP8d5NMLIIxuljhmriop2EOCUSjJpGI9OYGP5R0TQRtr0PLhNS9AbGIJiGOnglEgko+Sd/m8jUSxTI1fxIRdNei3j+oZ5p/xcx5FPRtP/BDJP////PwsDwPhczkrwjUbglLxDspVC6BkUFP0O+ZDADw///T5gxQRmqzeoIGdzJxPP/f0Zy69N///8hg6WV6icEGMg2DRU81WE+oUJM6iUK+LAeoF6crmeY+596pumWQmiqlEj/gjogDCrFAhRQt7QEANWTdyq5RaZ+AAAAAElFTkSuQmCC\" style=\"height:24px\" alt=\"\"> 2Na2S + Na2S2O3 + 3H2O."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C2_0181",
+  "stem": "(SBT – CTST) Cho các phản ứng hóa học sau:(1) S + O2 <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAmEXkrCb0AAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> SO2;(2) S + 3F2 <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAmEXkrCb0AAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> SF6;(3) S + Hg <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAmEXkrCb0AAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> HgS;(4) S + 6HNO3(đặc) <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAmEXkrCb0AAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> H2SO4 + 6NO2 + 2H2O.Trong các phản ứng trên, số phản ứng trong đó S thể hiện tính khử là",
+  "options": {
+   "A": "3.",
+   "B": "2.",
+   "C": "4.",
+   "D": "1."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C2_0182",
+  "stem": "(SGK – CTST) Cho các phản ứng sau:(a) S + O2 <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAE0AAAAgCAAAAAByCKroAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAmDW0qVfIAAAEqSURBVEjHY/zPQEXARE3DiDZtT2CW5x7Cyv4TBV7zP/1/k+8VIWVEum23lBSDmvheKvn0JR8DA4PgS8pNW1nDwMAg8ZGBgeG9BMWm/W9jYGBgcHn+hOHOS2eCVhMI1xuuDPzyxf//7/LP8d5NMLIIxuljhmriop2EOCUSjJpGI9OYGP5R0TQRtr0PLhNS9AbGIJiGOnglEgko+Sd/m8jUSxTI1fxIRdNei3j+oZ5p/xcx5FPRtP/BDJP////PwsDwPhczkrwjUbglLxDspVC6BkUFP0O+ZDADw///T5gxQRmqzeoIGdzJxPP/f0Zy69N///8hg6WV6icEGMg2DRU81WE+oUJM6iUK+LAeoF6crmeY+596pumWQmiqlEj/gjogDCrFAhRQt7QEANWTdyq5RaZ+AAAAAElFTkSuQmCC\" style=\"height:24px\" alt=\"\"> SO2;(b) Hg + S <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAmDW0qVfIAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:18px\" alt=\"\"> HgS;(c) S + 6HNO3 <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAmDW0qVfIAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:18px\" alt=\"\"> H2SO4 + 6NO2 + 2H2O;(d) Fe + S <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAE0AAAAgCAAAAAByCKroAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAmDW0qVfIAAAEqSURBVEjHY/zPQEXARE3DiDZtT2CW5x7Cyv4TBV7zP/1/k+8VIWVEum23lBSDmvheKvn0JR8DA4PgS8pNW1nDwMAg8ZGBgeG9BMWm/W9jYGBgcHn+hOHOS2eCVhMI1xuuDPzyxf//7/LP8d5NMLIIxuljhmriop2EOCUSjJpGI9OYGP5R0TQRtr0PLhNS9AbGIJiGOnglEgko+Sd/m8jUSxTI1fxIRdNei3j+oZ5p/xcx5FPRtP/BDJP////PwsDwPhczkrwjUbglLxDspVC6BkUFP0O+ZDADw///T5gxQRmqzeoIGdzJxPP/f0Zy69N///8hg6WV6icEGMg2DRU81WE+oUJM6iUK+LAeoF6crmeY+596pumWQmiqlEj/gjogDCrFAhRQt7QEANWTdyq5RaZ+AAAAAElFTkSuQmCC\" style=\"height:24px\" alt=\"\"> FeS.Có bao nhiêu phản ứng trong đó sulfur đóng vai trò là chất khử?",
+  "options": {
+   "A": "1.",
+   "B": "2.",
+   "C": "5.",
+   "D": "4."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C2_0183",
+  "stem": "(Đề TSCĐ – 2014) Cho các phản ứng hóa học sau:(a) S + O2 <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAE0AAAAgCAAAAAByCKroAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAmCvNOwFEAAAEqSURBVEjHY/zPQEXARE3DiDZtT2CW5x7Cyv4TBV7zP/1/k+8VIWVEum23lBSDmvheKvn0JR8DA4PgS8pNW1nDwMAg8ZGBgeG9BMWm/W9jYGBgcHn+hOHOS2eCVhMI1xuuDPzyxf//7/LP8d5NMLIIxuljhmriop2EOCUSjJpGI9OYGP5R0TQRtr0PLhNS9AbGIJiGOnglEgko+Sd/m8jUSxTI1fxIRdNei3j+oZ5p/xcx5FPRtP/BDJP////PwsDwPhczkrwjUbglLxDspVC6BkUFP0O+ZDADw///T5gxQRmqzeoIGdzJxPP/f0Zy69N///8hg6WV6icEGMg2DRU81WE+oUJM6iUK+LAeoF6crmeY+596pumWQmiqlEj/gjogDCrFAhRQt7QEANWTdyq5RaZ+AAAAAElFTkSuQmCC\" style=\"height:24px\" alt=\"\"> SO2(b) S + 3F2 <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAE0AAAAgCAAAAAByCKroAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAmCvNOwFEAAAEqSURBVEjHY/zPQEXARE3DiDZtT2CW5x7Cyv4TBV7zP/1/k+8VIWVEum23lBSDmvheKvn0JR8DA4PgS8pNW1nDwMAg8ZGBgeG9BMWm/W9jYGBgcHn+hOHOS2eCVhMI1xuuDPzyxf//7/LP8d5NMLIIxuljhmriop2EOCUSjJpGI9OYGP5R0TQRtr0PLhNS9AbGIJiGOnglEgko+Sd/m8jUSxTI1fxIRdNei3j+oZ5p/xcx5FPRtP/BDJP////PwsDwPhczkrwjUbglLxDspVC6BkUFP0O+ZDADw///T5gxQRmqzeoIGdzJxPP/f0Zy69N///8hg6WV6icEGMg2DRU81WE+oUJM6iUK+LAeoF6crmeY+596pumWQmiqlEj/gjogDCrFAhRQt7QEANWTdyq5RaZ+AAAAAElFTkSuQmCC\" style=\"height:24px\" alt=\"\"> SF6(c) S + Hg <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAmDvQjBEgAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:18px\" alt=\"\"> HgS(d) S + HNO3(đặc) <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAE0AAAAgCAAAAAByCKroAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAmCvNOwFEAAAEqSURBVEjHY/zPQEXARE3DiDZtT2CW5x7Cyv4TBV7zP/1/k+8VIWVEum23lBSDmvheKvn0JR8DA4PgS8pNW1nDwMAg8ZGBgeG9BMWm/W9jYGBgcHn+hOHOS2eCVhMI1xuuDPzyxf//7/LP8d5NMLIIxuljhmriop2EOCUSjJpGI9OYGP5R0TQRtr0PLhNS9AbGIJiGOnglEgko+Sd/m8jUSxTI1fxIRdNei3j+oZ5p/xcx5FPRtP/BDJP////PwsDwPhczkrwjUbglLxDspVC6BkUFP0O+ZDADw///T5gxQRmqzeoIGdzJxPP/f0Zy69N///8hg6WV6icEGMg2DRU81WE+oUJM6iUK+LAeoF6crmeY+596pumWQmiqlEj/gjogDCrFAhRQt7QEANWTdyq5RaZ+AAAAAElFTkSuQmCC\" style=\"height:24px\" alt=\"\"> H2SO4 + 6NO2 + 2H2O.Số phản ứng trong đó S thể hiện tính oxi hóa là",
+  "options": {
+   "A": "3.",
+   "B": "2.",
+   "C": "4.",
+   "D": "1."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C2_0184",
+  "stem": "Cho phản ứng: S + 2H2SO4(đặc) <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAmEuAiWAcAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:18px\" alt=\"\"> 3SO2↑ + 2H2O. Tỉ lệ số nguyên tử S bị khử và số nguyên tử S bị oxi hóa là",
+  "options": {
+   "A": "1: 2.",
+   "B": "1: 3.",
+   "C": "3: 1.",
+   "D": "2: 1."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C2_0185",
+  "stem": "Phát biểu nào sau về sulfur là sai?",
+  "options": {
+   "A": "S là chất rắn màu vàng.",
+   "B": "S không tan trong nước.",
+   "C": "S dẫn điện, dẫn nhiệt kém.",
+   "D": "S không tan trong các dung môi hữu cơ."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C2_0186",
+  "stem": "Phát biểu nào sau đây là sai?",
+  "options": {
+   "A": "S vừa có tính oxi hoá vừa có tính khử.",
+   "B": "Hg phản ứng với S ngay nhiệt độ thường.",
+   "C": "Ở nhiệt độ thích hợp, S tác dụng với O2, Cl2, F2 thể hiện tính oxi hóa.",
+   "D": "Ở nhiệt độ cao, S tác dụng với nhiều kim loại và thể hiện tính oxi hoá."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C2_0187",
+  "stem": "(Đề THPT QG – 2016) Đốt cháy đơn chất X trong oxygen thu được khí Y. Khi đun nóng X với H2, thu được khí Z. Cho Y tác dụng với Z tạo ra chất rắn màu vàng. Đơn chất X là",
+  "options": {
+   "A": "sulfur.",
+   "B": "carbon.",
+   "C": "phosphorus.",
+   "D": "nitrogen."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C2_0188",
+  "stem": "(SBT – KNTT) Trong công nghiệp, phần lớn sulfur đơn chất sau khi khai thác ở các mỏ được dùng làm nguyên liệu để",
+  "options": {
+   "A": "lưu hoá cao su tự nhiên.",
+   "B": "sản xuất sulfuric acid.",
+   "C": "điều chế thuốc bảo vệ thực vật.",
+   "D": "bào chế thuốc đông y."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C2_0189",
+  "stem": "Ứng dụng nào sau đây không phải của S?",
+  "options": {
+   "A": "Làm nguyên liệu sản xuất sulfuric acid.",
+   "B": "Làm chất lưu hóa cao su.",
+   "C": "Khử chua đất.",
+   "D": "Điều chế thuốc súng đen."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C2_0190",
+  "stem": "(SBT – Cánh Diều) Cho các phát biểu sau:(a) Trong tự nhiên, sulfur tồn tại chủ yếu ở dạng muối sulfide và muối sulfate của một số kim loại.(b) Là một phi kim khá hoạt động nên trong tự nhiên không tìm thấy sulfur đơn chất.(c) Trứng gà ung có mùi thối đặc trưng một phần là do các hợp chất của sulfur có trong trứng phân huỷ gây ra.(d) Nguyên tố sulfur có mặt trong một số loại thực vật, đặc biệt là các loại rau quả có mùi mạnh như hành tây, sầu riêng,…(e) Thành phần chính của quặng pyrite là hợp chất của sulfur và lead (Pb).Số phát biểu đúng là",
+  "options": {
+   "A": "3.",
+   "B": "2.",
+   "C": "4.",
+   "D": "5."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C2_0191",
+  "stem": "(SBT – KNTT) Quá trình đốt than sinh ra nhiều loại khí thải, trong đó có khí SO2. Khí SO2 mùixốc và có khả năng gây viêm đường hô hấp. Tên gọi của SO2 là",
+  "options": {
+   "A": "sulfur trioxide.",
+   "B": "sulfuric acid.",
+   "C": "sulfur dioxide.",
+   "D": "hydrogen sulfide."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C2_0192",
+  "stem": "(SBT – KNTT) Trong số các chất khí: SO2, CO2, O2, N2. Khí tan tốt trong nước ở điều kiện thường là",
+  "options": {
+   "A": "O2.",
+   "B": "CO2.",
+   "C": "SO2.",
+   "D": "N2."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C2_0193",
+  "stem": "(SGK – CTST) Số oxi hoá của sulfur trong phân tử SO2 là",
+  "options": {
+   "A": "+4.",
+   "B": "–2.",
+   "C": "+6.",
+   "D": "0."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C2_0194",
+  "stem": "(Đề THPT QG – 2015) Sulfur trong chất nào sau đây vừa có tính oxi hóa, vừa có tính khử?",
+  "options": {
+   "A": "Na2SO4.",
+   "B": "H2SO4.",
+   "C": "SO2.",
+   "D": "H2S."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C2_0195",
+  "stem": "(SBT – CTST) Phát biểu nào diễn tả đúng tính chất hóa học của SO2?",
+  "options": {
+   "A": "SO2 chỉ có tính khử.",
+   "B": "SO2 chỉ có tính oxi hoá.",
+   "C": "SO2 vừa có tính khử, vừa có tính oxi hoá.",
+   "D": "SO2 không có tính khử và không có tính oxi hoá."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C2_0196",
+  "stem": "(SBT – CTST) Chất khí (X) tan trong nước tạo ra dung dịch làm quỳ tím hoá đỏ và khí (X) có thể được dùng làm chất tẩy màu. Khí (X) là",
+  "options": {
+   "A": "NH3.",
+   "B": "CO2.",
+   "C": "SO2.",
+   "D": "O3."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C2_0199",
+  "stem": "(Đề TSCĐ – 2007) SO2 luôn thể hiện tính khử trong các phản ứng với",
+  "options": {
+   "A": "H2S, O2, nước Br2.",
+   "B": "dung dịch NaOH, O2, dung dịch KMnO4.",
+   "C": "dung dịch KOH, CaO, nước Br2.",
+   "D": "O2, nước Br2, dung dịch KMnO4."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C2_0200",
+  "stem": "(Đề TSCĐ – 2014) Khí nào sau đây có khả năng làm mất màu nước bromine?",
+  "options": {
+   "A": "N2.",
+   "B": "CO2.",
+   "C": "H2.",
+   "D": "SO2."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C2_0201",
+  "stem": "(SBT – KNTT) Ở điều kiện thích hợp, sulfur dioxide đóng vai trò là chất oxi hoá khi tham gia phản ứng với chất nào sau đây?",
+  "options": {
+   "A": "NO2.",
+   "B": "H2S.",
+   "C": "NaOH.",
+   "D": "Ca(OH)2."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C2_0202",
+  "stem": "(Đề TSĐH B – 2014) Cho phản ứng: SO2 + KMnO4 + H2O <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAmDvQjBEgAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:18px\" alt=\"\"> K2SO4 + MnSO4 + H2SO4. Trong phương trình hóa học của phản ứng trên, khi hệ số của KMnO4 là 2 thì hệ số của SO2 là",
+  "options": {
+   "A": "4.",
+   "B": "5.",
+   "C": "6.",
+   "D": "7."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C2_0203",
+  "stem": "(SGK – Cánh Diều) Khí X khi vào cơ thể, khí này kết hợp với nước tạo acid, từ đó làm giảm pH của máu, làm rối loạn nhiều quá trình chuyển hóa trong cơ thể, làm giảm khả năng vận chuyển oxygen của hồng cầu. Vậy, khí X là",
+  "options": {
+   "A": "O2.",
+   "B": "H2.",
+   "C": "SO2.",
+   "D": "N2."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C2_0204",
+  "stem": "(SBT – KNTT) Cho các chất khí sau: H2S, NO, NO2, SO2. Số khí gây ô nhiễm môi trường khi phát thải vào không khí là",
+  "options": {
+   "A": "1.",
+   "B": "4.",
+   "C": "3.",
+   "D": "2."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C2_0205",
+  "stem": "(SBT – KNTT) Cho cân bằng hóa học sau: 2SO2(g) + O2(g) <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFEAAAAnCAAAAABSn/s2AAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAmFAlB/TIAAAGkSURBVEjH5Za7S8NQFIe/hNTHpLSTk10UFBz0b6ibCD6GgghKN0EsKjiKujgImmxuFRdB8FFFUHRzLC5q3AURpFpECVSh16FNtSmJabyD4plyz+/y5ZzDOfdeRSDZVNlANKDnqbQIXzhlD8mLeJvoBiCTqpI9JFcTQkQOhBBCiN2IcJqH5Gby6/hrifp0+VOTAjSSiFWZMRYOYS0pk6jux0BPSiTSmI6BPgX4q+PEEVYuCnDS/umtGKfGdP8pBrpP4kPXSGZ9GazEGwCTLwBmWxiAR3MMIKwIDGHga2aGZopSjsui0/3n19JnphCsHxctgPl4BwBX2wufUksw4gQAywN9AOwdzlaov3au/z1Rg+f8WRaAi3zKoTYEI96/rtmrcYcaqQ1mExUv3WyGbOj8piZiW32+tKjrdahNx3MAbNUQrQaqNbYJg1shtz3D0ZUaslYBNTUKO/H3AEVzIcpFFvuxhCzIIxaRnVLa3T7N1BStS1KyLp+P6obyE05V1nzT6EFi9LK7cwBeK71mMwBV4+TjRThU3nz59Zq0nY4bVPkDL/sPpbURJM/1G94AAAAASUVORK5CYII=\" style=\"height:22px\" alt=\"\"> 2SO3(g);\t<img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAF4AAAAZCAAAAACd5MZmAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAmC4RJ8McAAALbSURBVEjHtZZbSJRRFIXXbypO6AxaGKKCl1TQzEQrMkPFIGQMNBWHMkgy05RKIyhKlMqg0izvZpL0YIVJhpS3IBiwFysfzETU1LHCyazxXnlZPczoOKbjJLqefjb7rPOx9z7nPwKxnjJaV3cYG5p4t31ze7bDf/vTMDW7kaVSA5O1mi9O8e2Fmw4f9xHMw8qBzqNuwpaoOjR5ADubDEQu897mGPNFh97DcUZn30Z4qT/ycITknXCyxdIw5AzRG44E2ysX0L9q66nRB7S3FXjnr5d5vKQRANCbGbcHFoX96dBOTm4kcvWt9U06mVGfpyehK8U2oQ8A8GgqGIDr1oo/88Xp9hkSoVVPcfRr9kWIAJs0JUkyVG10EO/ni5OXaBWtH1+PVDku0rqgSsUVawDAJ2wCAGt0z9GPOk6wGaIhHXojiUQikUhEK9BPx2+E5dkObcAOQySZjLI5+vJDIvj6Tt7XgfJUqVQqlermCuxT9ybCFDmu2oAAAgAhaFrLwkQAp1Aws4rSmEQaV7tfU2oDYvwCgEmINfb1Ds4AZFaK6lXYb6jsuTiZZi+TzwWc8R0AlHDS2OcmA4Do2Cqba3e9v8zjSYBn4RgAwA+dANAm9lC3tsNZfWA7BbQsO5gRp1OlbXwbfjm6jqPR51NkY7odlkcao5Qk2WuSQPIDTpAEyeRbmpQDiF3WvojMCqRTPQcsvuVJyZD8xSOkuFCluRTMmjgSaPtVbT9sYeeslhXMBgel4UlR/BnhBFP/QrI91Abi4GqSZInXBHrJHY+f+nF2V9Xys1rs6ekUo6CGXldX4ylfelXsLbpXkEHZlIXuP7ziUSYXXMhaibBvyQ6+nknFs9rEzAHzfNOaht/5hnTd8J/hc/kDI7g+LLo07vJyN4TA2jW1zx1PNwLqgQZxgMNnoM/RkFXC4pfCj7jhLO9/8z5uNwMwdE4y1n/DRXnGZbqrwHo19murdX6I/AUdyOe9wkB0mAAAAABJRU5ErkJggg==\" style=\"height:23px\" alt=\"\">Khi tăng nhiệt độ thì",
+  "options": {
+   "A": "tổng số mol khí trong hệ giảm.",
+   "B": "hiệu suất phản ứng tăng.",
+   "C": "cân bằng chuyển dịch theo chiều nghịch.",
+   "D": "nồng độ khí sản phẩm tăng."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C2_0206",
+  "stem": "Sulfur dioxide đóng vai trò chất khử khi tác dụng với chất nào sau đây?",
+  "options": {
+   "A": "H2S.",
+   "B": "NO2.",
+   "C": "Mg.",
+   "D": "KOH."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C2_0207",
+  "stem": "Sulfur dioxide tác dụng với nitrogen dioxide (xúc tác NO) tạo sản phẩm gồm",
+  "options": {
+   "A": "N2, SO3.",
+   "B": "NO, SO3.",
+   "C": "S, NO2.",
+   "D": "NO, S."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C2_0208",
+  "stem": "Sulfur dioxide có thể tham gia những phản ứng sau:SO2 + Br2 + 2H2O <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAmDvQjBEgAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:18px\" alt=\"\"> 2HBr + H2SO4 \t\t\t(1)SO2 + 2H2S <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAmDvQjBEgAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:18px\" alt=\"\"> 3S + 2H2O \t\t\t\t(2)Câu nào sau đây diễn tả không đúng tính chất của các chất trong những phản ứng trên?",
+  "options": {
+   "A": "Phản ứng (1): SO2 là chất khử, Br2 là chất oxi hóa.",
+   "B": "Phản ứng (2): SO2 là chất oxi hóa, H2S là chất khử.",
+   "C": "Phản ứng (2): SO2 vừa là chất khử, vừa là chất oxi hóa.",
+   "D": "Phản ứng (1): Br2 là chất oxi hóa, phản ứng (2): H2S là chất khử."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C2_0209",
+  "stem": "Cho các phản ứng sau:(1) SO2 + 2H2S <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAmDW0qVfIAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:18px\" alt=\"\"> 3S + 2H2O(2) 5SO2 + 2KMnO4 + 2H2O <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAmDW0qVfIAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:18px\" alt=\"\"> 2MnSO4 + K2SO4 + 2H2SO4(3) SO2 + Br2 + 2H2O <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAmDW0qVfIAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:18px\" alt=\"\"> H2SO4 + 2HBr(4) SO2 + Ca(OH)2 <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAmDW0qVfIAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:18px\" alt=\"\"> Ca(HSO3)2Số phản ứng mà SO2 đóng vai trò là chất khử là",
+  "options": {
+   "A": "2.",
+   "B": "1.",
+   "C": "3.",
+   "D": "4."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C2_0210",
+  "stem": "(SBT – KNTT) Oxide X là chất khí, mùi hắc, độc (gây ho, viêm đường hô hấp). Trong công nghiệp, X được dùng làm chất tẩy trắng bột gỗ, sản xuất sulfuric acid. Công thức của X là",
+  "options": {
+   "A": "CO2.",
+   "B": "H2S.",
+   "C": "SO2.",
+   "D": "P2O5."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C2_0211",
+  "stem": "(SBT – KNTT) Mưa acid tàn phá nhiều rừng cây, ăn mòn nhiều công trình kiến trúc bằng đá và kim loại. Tác nhân chính tạo ra mưa acid là",
+  "options": {
+   "A": "SO2.",
+   "B": "H2S.",
+   "C": "CO2.",
+   "D": "CO."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C2_0212",
+  "stem": "(Đề TSĐH A – 2011) Chất được dùng để tẩy trắng giấy và bột giấy trong công nghiệp là",
+  "options": {
+   "A": "N2O.",
+   "B": "CO2.",
+   "C": "SO2.",
+   "D": "NO2."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C2_0213",
+  "stem": "Để diệt chuột trong một nhà kho người ta dùng phương pháp đốt sulfur, đóng kín cửa nhà kho lại. Chuột hít phải khói sẽ bị sưng yết hầu, co giật, tê liệt cơ quan hô hấp dẫn đến bị ngạt mà chết. Chất là nguyên nhân chính gây ra các hiện tượng trên là",
+  "options": {
+   "A": "H2S.",
+   "B": "SO2.",
+   "C": "SO3.",
+   "D": "H2SO4."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C2_0214",
+  "stem": "",
+  "options": {
+   "A": "H2S và N2.",
+   "B": "CO2 và O2.",
+   "C": "SO2 và NO2.",
+   "D": "NH3 và HCl."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C2_0215",
+  "stem": "(Đề THPT QG – 2017) Một mẫu khí thải công nghiệp có chứa các khí: CO2, SO2, NO2, H2S. Để loại bỏ các khí đó một cách hiệu quả nhất, có thể dùng dung dịch nào sau đây?",
+  "options": {
+   "A": "NaCl.",
+   "B": "HCl.",
+   "C": "Ca(OH)2.",
+   "D": "CaCl2."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C2_0216",
+  "stem": "(SBT – CTST) Khí SO2 sinh ra từ việc đốt các nhiên liệu hoá thạch, các quặng sulfide là một trong các chất gây ô nhiễm môi trường, do SO2 góp phần gây ra",
+  "options": {
+   "A": "mưa acid.",
+   "B": "hiện tượng khí nhà kính.",
+   "C": "suy giảm tầng ozone.",
+   "D": "nước thải gây ung thư."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C2_0217",
+  "stem": "(SGK – CTST) Biện pháp nào sau đây không đúng để giảm thiểu khí thải SO2 vào môi rường?",
+  "options": {
+   "A": "Sử dụng các nguồn nhiên liệu sinh học thân thiện với môi trường như hydrogen, ethanol,… thay cho nguồn năng lượng hóa thạch.",
+   "B": "Khai thác các nguồn năng lượng tái tạo như năng lượng mặt trời, năng lượng gió, sóng biển, thủy triều,…",
+   "C": "Xử lí khí thải công nghiệp trước khi thải ra môi trường.",
+   "D": "Sử dụng các nguồn nhiên liệu hóa thạch có chứa tạp chất sulfur."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C2_0218",
+  "stem": "(SBT – KNTT) Cho các ứng dụng sau:(1) sản xuất sulfuric acid;(2) tẩy trắng bột giấy:(3) diệt nắm mốc, thuốc đông y;(4) diệt trùng nước sinh hoạt.Số ứng dụng của khí sulfur dioxide trong đời sống, sản xuất là",
+  "options": {
+   "A": "1.",
+   "B": "2.",
+   "C": "3.",
+   "D": "4."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C2_0219",
+  "stem": "Cho một số nhận định về nguyên nhân nguồn sinh ra sulfur dioxide:(1) Do hoạt động của núi lửa.(2) Quá trình đốt cháy sulfur với mục đích diệt khuẩn và nấm mốc, được dùng để bảo quản hoa quả sấy khô, dược liệu từ thực vật.(3) Do khí thải từ các phương tiện giao thông.(4) Do khí sinh ra từ quá trình quang hợp của cây xanh.(5) Quá trình đốt cháy nhiên liệu có chứa tạp chất sulfur (than đá, dầu mỏ), đốt quặng sulfide trong luyện kim, đốt quặng sulfur và quặng pyrite trong sản xuất sulfuric acid,…Số nhận định đúng là",
+  "options": {
+   "A": "4.",
+   "B": "5.",
+   "C": "2.",
+   "D": "3."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C2_0220",
+  "stem": "Phát biểu nào sau đây về nguyên tử nguyên tố sulfur trong phân tử H2SO4 là đúng?",
+  "options": {
+   "A": "Tạo được 4 liên kết cộng hoá trị.",
+   "B": "Có hoá trị VI và số oxi hoá +6.",
+   "C": "Tạo liên kết với nguyên tử oxygen và nguyên tử hydrogen.",
+   "D": "Tạo liên kết S – H là liên kết cộng hoá trị phân cực."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C2_0221",
+  "stem": "Sulfuric acid đựng trong chai thuỷ tinh được bán trên thị trường thường có nồng độ là",
+  "options": {
+   "A": "98%.",
+   "B": "36%.",
+   "C": "63%.",
+   "D": "8%."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C2_0222",
+  "stem": "(SBT – KNTT) Quá trình pha loãng dung dịch đậm đặc của acid nào sau đây toả rất nhiều nhiệt nên không được tự ý pha loãng?",
+  "options": {
+   "A": "HCl.",
+   "B": "H2SO4.",
+   "C": "CH3COOH.",
+   "D": "HNO3."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C2_0223",
+  "stem": "(SBT – CTST) Cách pha loãng dung dịch H2SO4 đặc nào sau đây đúng?",
+  "options": {
+   "A": "Rót nhanh acid vào nước và khuấy đều.",
+   "B": "Rót nhanh nước vào acid và khuấy đều.",
+   "C": "Rót từ từ nước vào acid và khuấy đều.",
+   "D": "Rót từ từ acid vào nước và khuấy đều."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C2_0224",
+  "stem": "(SBT – KNTT) Dung địch acid nào sau đây có khả năng gây bỏng nếu rơi vào da?",
+  "options": {
+   "A": "HCl 36%.",
+   "B": "HNO3 63%.",
+   "C": "H2SO4 98%.",
+   "D": "H3PO4 85%."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C2_0225",
+  "stem": "(SGK – KNTT) Khi pha loãng dung dịch sulfuric acid đặc cần tuân thủ thao tác nào sau đây để đảm bảo an toàn?",
+  "options": {
+   "A": "Rót từ từ acid vào nước.",
+   "B": "Rót nhanh acid vào nước.",
+   "C": "Rót từ từ nước vào acid.",
+   "D": "Rót nhanh nước vào acid."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C2_0226",
+  "stem": "(SBT – KNTT) Chất nào sau đây không bay hơi ở điều kiện thường đo có nhiệt độ sôi rất cao?",
+  "options": {
+   "A": "H2O.",
+   "B": "HNO3.",
+   "C": "NH3.",
+   "D": "H2SO4."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C2_0227",
+  "stem": "(SBT – KNTT) Bước sơ cứu đầu tiên cần làm ngay khi một người bị bỏng sulfuric acid là",
+  "options": {
+   "A": "rửa với nước lạnh nhiều lần.",
+   "B": "trung hoà acid bằng NaHCO3.",
+   "C": "băng bó tạm thời vết bỏng.",
+   "D": "đưa đến cơ sở y tế gần nhất."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C2_0228",
+  "stem": "Sulfuric acid đặc gây bỏng nặng khi tiếp xúc với da nếu không được sơ cứu kịp thời. Cách sơ cứu nào sau đây phù hợp khi bị sulfuric acid đặc rơi vào tay?",
+  "options": {
+   "A": "Rửa chỗ tiếp xúc với acid bằng dung dịch NaHCO3 để trung hoà lượng acid.",
+   "B": "Rửa chỗ tiếp xúc bằng dung dịch NaOH loãng để nhanh chóng loại bỏ lượng acid trên da.",
+   "C": "Rửa chỗ tiếp xúc dưới vòi nước sạch khoảng 20 phút và đến cơ sở y tế.",
+   "D": "Rửa chỗ tiếp xúc dưới vòi nước sạch khoảng 20 phút và bôi kem chống bỏng."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C2_0229",
+  "stem": "(SBT – KNTT) Ở thể lỏng, chất nào sau đây có dạng sánh như đầu đo tồn tại liên kết hydrogen rất mạnh giữa các phân tử?",
+  "options": {
+   "A": "HF.",
+   "B": "H2SO4.",
+   "C": "H2O.",
+   "D": "CH3COOH."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C2_0230",
+  "stem": "Dung dịch H2SO4 loãng phản ứng được với tất cả các chất trong dãy nào sau đây?",
+  "options": {
+   "A": "Al2O3, Ba(OH)2, Ag.",
+   "B": "CuO, NaCl, CuS.",
+   "C": "FeCl3, MgO, Cu.",
+   "D": "BaCl2, Na2CO3, FeS."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C2_0231",
+  "stem": "(SBT – CTST) Kim loại nào sau đây không tác dụng với dung dịch H2SO4 loãng?",
+  "options": {
+   "A": "Al.",
+   "B": "Zn.",
+   "C": "Na.",
+   "D": "Cu."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C2_0232",
+  "stem": "Sản phẩm thu được khi cho dung dịch H2SO4 loãng tác dụng với Fe là",
+  "options": {
+   "A": "Fe2(SO4)3 và H2.",
+   "B": "FeSO4 và H2.",
+   "C": "FeSO4 và SO2.",
+   "D": "Fe2(SO4)3 và SO2."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C2_0233",
+  "stem": "Dung dịch H2SO4 loãng có thể tác dụng với cả 2 chất nào sau đây?",
+  "options": {
+   "A": "Cu và Cu(OH)2.",
+   "B": "Fe và Fe(OH)3.",
+   "C": "C và CO2.",
+   "D": "S và H2S."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C2_0234",
+  "stem": "Dung dịch sulfuric acid đặc khác dung dịch sulfuric acid loãng ở tính chất hóa học nào?",
+  "options": {
+   "A": "Tính base mạnh.",
+   "B": "Tính oxi hoá mạnh.",
+   "C": "Tính acid mạnh.",
+   "D": "Tính khử mạnh."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C2_0235",
+  "stem": "(SBT – CTST) Điều nào sau đây đúng về tính chất hóa học của dung dịch H2SO4 đặc?",
+  "options": {
+   "A": "Dung dịch H2SO4 đặc có tính khử mạnh.",
+   "B": "Dung dịch H2SO4 đặc có tính oxi hoá mạnh.",
+   "C": "Dung dịch H2SO4 đặc vừa có tính khử, vừa có tính oxi hoá.",
+   "D": "Dung dịch H2SO4 đặc không có tính khử, không có tính oxi hoá."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C2_0236",
+  "stem": "(SGK – CTST) Tính chất nào sau đây không phải tính chất của dung dịch sulfuric acid đặc?",
+  "options": {
+   "A": "Tính háo nước.",
+   "B": "Tính oxi hoá.",
+   "C": "Tính acid.",
+   "D": "Tính khử."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C2_0237",
+  "stem": "(SBT – CTST) Dãy kim loại nào trong các dãy sau đây gồm các kim loại không tác dụng với dung dịch H2SO4 đặc, nguội?",
+  "options": {
+   "A": "Al, Fe, Au, Pt.",
+   "B": "Zn, Pt, Au, Mg.",
+   "C": "Al, Fe, Zn, Mg.",
+   "D": "Al, Fe, Au, Mg."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C2_0238",
+  "stem": "Người ta thường dùng các bình bằng thép để đựng và chuyên chở dung dịch H2SO4 đặc vì",
+  "options": {
+   "A": "dung dịch H2SO4 đặc bị thụ động hoá trong thép.",
+   "B": "dung dịch H2SO4 đặc không phản ứng với iron (Fe) ở nhiệt độ thường.",
+   "C": "dung dịch H2SO4 đặc không phản ứng với kim loại ở nhiệt độ thường.",
+   "D": "thép có chứa các chất phụ trợ không phản ứng với dung dịch H2SO4 đặc."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C2_0239",
+  "stem": "(Đề THPT QG – 2015) Khi làm thí nghiệm với H2SO4 đặc, nóng thường sinh ra khí SO2. Để hạn chế tốt nhất khí SO2 thoát ra gây ô nhiễm môi trường, người ta nút ống nghiệm bằng bông tẩm dung dịch nào sau đây?",
+  "options": {
+   "A": "Giấm ăn.",
+   "B": "Muối ăn.",
+   "C": "Cồn.",
+   "D": "Xút."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C2_0240",
+  "stem": "(Đề TSCĐ - 2014) Cho phương trình hóa học:aAl + bH2SO4 <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAmDvQjBEgAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:18px\" alt=\"\"> cAl2(SO4)3 + dSO2 + eH2O. Tỉ lệ a: b là",
+  "options": {
+   "A": "1: 1.",
+   "B": "2: 3.",
+   "C": "1: 3.",
+   "D": "1: 2."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C2_0241",
+  "stem": "Trường hợp nào tác dụng với H2SO4 đặc nóng và H2SO4 loãng đều cho sản phẩm giống nhau?",
+  "options": {
+   "A": "Fe.",
+   "B": "FeO.",
+   "C": "Fe2O3.",
+   "D": "Fe3O4."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C2_0242",
+  "stem": "Cho chất rắn nào sau đây vào dung dịch H2SO4 đặc thì xảy ra phản ứng oxi hoá – khử?",
+  "options": {
+   "A": "KBr.",
+   "B": "NaCl.",
+   "C": "CaF2.",
+   "D": "CaCO3."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C2_0243",
+  "stem": "Trong số những tính chất sau, tính chất nào không phải là tính chất của acid H2SO4 đặc, nguội?",
+  "options": {
+   "A": "Tan trong nước, tỏa nhiệt.",
+   "B": "Làm hóa than vải, giấy, đường.",
+   "C": "Hòa tan được kim loại Al và Fe.",
+   "D": "Háo nước."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C2_0244",
+  "stem": "Kim loại nào sau đây khi tác dụng với lượng dư dung dịch H2SO4 loãng và dung dịch H2SO4 đặc, đun nóng thu được một loại muối?",
+  "options": {
+   "A": "Cu.",
+   "B": "Cr.",
+   "C": "Fe.",
+   "D": "Mg."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C2_0245",
+  "stem": "Acid H2SO4 đặc khi tiếp xúc với đường, vải, giấy có thể làm chúng hóa đen do tính chất nào dưới đây?",
+  "options": {
+   "A": "Oxi hóa mạnh.",
+   "B": "Háo nước.",
+   "C": "Acid mạnh.",
+   "D": "Khử mạnh."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C2_0246",
+  "stem": "Dãy gồm tất cả các chất đều tác dụng với dung dịch H2SO4 loãng là:",
+  "options": {
+   "A": "Fe3O4, BaCl2, Ag, Al, Cu(OH)2.",
+   "B": "Fe(OH)2, Na2CO3, Fe, CuO, NH3.",
+   "C": "CaCO3, Cu, Al(OH)3, MgO, Zn.",
+   "D": "Zn(OH)2, CaCO3, CuS, Al, Fe2O3."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C2_0247",
+  "stem": "Sulfuric acid đặc thường được dùng để làm khô các chất khí ẩm. Khí nào sau đây có thể được làm khô nhờ sulfuric acid đặc?",
+  "options": {
+   "A": "Khí CO2.",
+   "B": "Khí H2S.",
+   "C": "Khí NH3.",
+   "D": "Khí SO3."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C2_0248",
+  "stem": "Thí nghiệm nào sau đây thu được muối iron(II) sau khi kết thúc phản ứng?",
+  "options": {
+   "A": "Đốt cháy Fe trong bình chứa Cl2 dư.",
+   "B": "Cho Fe(OH)2 vào dung dịch HCl.",
+   "C": "Cho Fe2O3 vào dung dịch HCl.",
+   "D": "Cho Fe vào dung dịch H2SO4 đặc, nóng, dư."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C2_0249",
+  "stem": "(Đề TSCĐ – 2009) Chất dùng để làm khô khí Cl2 ẩm là",
+  "options": {
+   "A": "dung dịch NaOH đặc.",
+   "B": "dung dịch H2SO4 đậm đặc.",
+   "C": "Na2SO3 khan.",
+   "D": "CaO."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C2_0250",
+  "stem": "(SBT – KNTT) Nhỏ 1 giọt dụng dịch acid đặc nào sau đây lên tờ giấy trắng thì tờ giấy bị hoá đen ở chỗ tiếp xúc với acid?",
+  "options": {
+   "A": "HBr.",
+   "B": "HCl.",
+   "C": "HNO3.",
+   "D": "H2SO4."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C2_0251",
+  "stem": "(Đề TSĐH A – 2013) Trong điều kiện thích hợp, xảy ra các phản ứng sau:(a) 2H2SO4 + C <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAmDvQjBEgAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:18px\" alt=\"\"> 2SO2 + CO2 + 2H2O.(b) 6H2SO4 + 2Fe <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAmDvQjBEgAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:18px\" alt=\"\"> Fe2(SO4)3 + 3SO2 + 6H2O.(c) H2SO4 + Fe(OH)2 <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAmDvQjBEgAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:18px\" alt=\"\"> FeSO4 + 2H2O.(d) 4H2SO4 + 2FeO <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAmDvQjBEgAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:18px\" alt=\"\"> Fe2(SO4)3 + SO2 + 4H2O.Trong các phản ứng trên, phản ứng xảy ra với dung dịch H2SO4 loãng là",
+  "options": {
+   "A": "(d).",
+   "B": "(a).",
+   "C": "(c).",
+   "D": "(b)."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C2_0252",
+  "stem": "Phản ứng nào sau đây là sai?",
+  "options": {
+   "A": "2FeO + 4H2SO4(đặc) <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAmF5BIrIgAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:18px\" alt=\"\"> Fe2(SO4)3 + SO2 + 4H2O.",
+   "B": "Fe2O3 + 4H2SO4(đặc) <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAmF5BIrIgAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:18px\" alt=\"\"> Fe2(SO4)3 + SO2 + 4H2O.",
+   "C": "FeO + H2SO4(loãng) <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAmF5BIrIgAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:18px\" alt=\"\"> FeSO4 + H2O.",
+   "D": "Fe2O3 + 3H2SO4(loãng) <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAmF5BIrIgAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:18px\" alt=\"\"> Fe2(SO4)3 + 3H2O."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C2_0253",
+  "stem": "Cho phương trình hóa học: H2SO4(đặc) + 8HI <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAmDvQjBEgAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:18px\" alt=\"\"> 4I2 + H2S + 4H2O. Câu nào sau đây diễn tả không đúng tính chất các chất?",
+  "options": {
+   "A": "H2SO4 là chất oxi hóa, HI là chất khử.",
+   "B": "HI bị oxi hóa thành I2, H2SO4 bị khử thành H2S.",
+   "C": "H2SO4 oxi hóa HI thành I2 và nó bị khử thành H2S.",
+   "D": "I2 oxi hóa H2S thành H2SO4 và nó bị khử thành HI."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C2_0254",
+  "stem": "(Đề TSCĐ – 2008) Hòa tan hoàn toàn Fe3O4 trong dung dịch H2SO4 loãng (dư) được dung dịch X1. Cho lượng dư bột Fe vào dung dịch X1 (trong điều kiện không có không khí) đến khi phản ứng xảy ra hoàn toàn, thu được dung dịch X2 chứa chất tan là",
+  "options": {
+   "A": "FeSO4.",
+   "B": "FeSO4 và H2SO4.",
+   "C": "Fe2(SO4)3.",
+   "D": "Fe2(SO4)3 và H2SO4."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C2_0255",
+  "stem": "Cho hỗn hợp X gồm Mg và Fe vào dung dịch acid H2SO4 đặc, nóng đến khi các phản ứng xảy ra hoàn toàn, thu được dung dịch Y và một phần Fe không tan. Chất tan có trong dung dịch Y là",
+  "options": {
+   "A": "MgSO4 và FeSO4.",
+   "B": "MgSO4.",
+   "C": "MgSO4 và Fe2(SO4)3.",
+   "D": "MgSO4, Fe2(SO4)3 và FeSO4."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C2_0256",
+  "stem": "(SBT – KNTT) Trong công nghiệp sản xuất sulfuric acid, sulfur trioxide được hấp thụ vào dung dịch sulfuric acid đặc tạo thành những hợp chất có công thức chung là",
+  "options": {
+   "A": "H2S2O7.",
+   "B": "H2SO4.",
+   "C": "H2SO4.nSO3.",
+   "D": "(SO3)n."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C2_0257",
+  "stem": "Ứng dụng quan trọng nhất của sulfuric acid trong công nghiệp là",
+  "options": {
+   "A": "sản xuất phân bón.",
+   "B": "luyện kim.",
+   "C": "sản xuất sơn, phẩm màu.",
+   "D": "chế hoá dầu mỏ."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C2_0258",
+  "stem": "(SBT – KNTT) Trong công nghiệp sản xuất sulfuric acid, hai nguồn nguyên liệu được khai thác từ mỏ để cung cấp nguyên tố sulfur (s) là",
+  "options": {
+   "A": "ZnS, PbS.",
+   "B": "H2S, SO2.",
+   "C": "CaSO4, BaSO4.",
+   "D": "S, FeS2."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C2_0259",
+  "stem": "(SGK – KNTT) Trong công nghiệp, sulfuric acid chủ yếu được sản xuất bằng phương pháp tiếp xúc, đi từ nguồn nguyên liệu chính là sulfur, quặng pyrite (chứa FeS2) qua ba giai đoạn chính. Giai đoạn 3, hấp thu sulfur trioxide bằng sulfuric acid đặc, tạo ra hỗn hợp oleum. Sau đó, pha loãng oleum vào nước thu được sulfuric acid loãng. Dung dịch sulfuric acid sử dụng để hấp thu SO3 có nồng độ là",
+  "options": {
+   "A": "70%.",
+   "B": "80%.",
+   "C": "98%.",
+   "D": "60%."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C2_0267",
+  "stem": "(SBT – KNTT) Muối X không tan trong nước và các dung môi hữu cơ. Trong y học, X thườngđược dùng làm chất cản quang trong xét nghiệm X-quang đường tiêu hoá. Công thức của X là",
+  "options": {
+   "A": "BaSO4.",
+   "B": "Na2SO4.",
+   "C": "K2SO4.",
+   "D": "MgSO4."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C2_0268",
+  "stem": "Khi trộn dung dịch Na2SO4 với đung dịch BaCl2, phản ứng thực chất xảy ra trong dung dịch là",
+  "options": {
+   "A": "Ba2+ + SO42– <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAmDvQjBEgAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:18px\" alt=\"\"> BaSO4.",
+   "B": "Na+ + Cl– <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAmDvQjBEgAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:18px\" alt=\"\"> NaCl.",
+   "C": "Ba2+ + Na2SO4 <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAmDvQjBEgAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:18px\" alt=\"\"> BaSO4 + 2Na+.",
+   "D": "BaCl2 + SO42– <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAmDvQjBEgAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:18px\" alt=\"\"> BaSO4 + 2Cl–."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C2_0269",
+  "stem": "(SBT – KNTT) Phân biệt được dung địch Na2SO4 và NaCl bằng dung địch nào sau đây?",
+  "options": {
+   "A": "MgCl2.",
+   "B": "CsCl.",
+   "C": "HCl.",
+   "D": "BaCl2."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C2_0270",
+  "stem": "(SGK – KNTT) Cho vài giọt dung dịch BaCl2 vào dung dịch nào sau đây sẽ tạo kết tủa trắng?",
+  "options": {
+   "A": "NaCl.",
+   "B": "Na2SO4.",
+   "C": "NaNO3.",
+   "D": "NaOH."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C2_0271",
+  "stem": "Để nhận biết anion có trong dung dịch K2SO4, không thể dùng thuốc thử nào sau đây?",
+  "options": {
+   "A": "Ba(OH)2.",
+   "B": "BaCl2.",
+   "C": "Ba(NO3)2.",
+   "D": "MgCl2."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C2_0272",
+  "stem": "(SGK – Cánh Diều) Thạch cao nung có khả năng hút nước và nhanh chóng chuyển lại thành thạch cao. Vì vậy, khi nhào trộn thạch cao nung với nước, nó có khả năng đông cứng rất nhanh. Nhờ tính chất này, thạch cao nung được sử dụng làm vật liệu xây dựng, nặn đúc tượng và khuôn đúc, bó chỉnh hình trong y học. Công thức của thạch cao nung là",
+  "options": {
+   "A": "CaSO4.",
+   "B": "CaSO4.2H2O.",
+   "C": "CaSO4.0,5H2O.",
+   "D": "CaSO4.7H2O."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C2_0273",
+  "stem": "Thuốc thử dùng để phân biệt 3 dung dịch: H2SO4 loãng, Ba(OH)2, HCl đựng trong lọ mất nhãn là",
+  "options": {
+   "A": "Cu.",
+   "B": "dung dịch BaCl2.",
+   "C": "dung dịch NaNO3.",
+   "D": "dung dịch NaOH."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C2_0274",
+  "stem": "(SBT – Cánh Diều) Cho các phát biểu sau:(a) Nhiều muối sulfate tan tốt trong nước nhưng một số muối như CaSO4, BaSO4 rất ít tan trong nước.(b) Magnesium sulfate được dùng làm thuốc điều trị bệnh liên quan đến hồng cầu, dùng làm chất hút mồ hôi tay cho các vận động viên,…(c) Calcium sulfate là thành phần chính của các loại thạch cao. Phân tử chất này thường ngậm nước với số lượng các phân tử H2O khác nhau, tạo ra các loại thạch cao có ứng dụng khác nhau.(d) Barium sulfate là chất rắn màu trắng, hầu như không tan trong nước. Chất này được dùng tạo màu trắng cho các loại giấy chất lượng cao.Số phát biểu đúng là",
+  "options": {
+   "A": "1.",
+   "B": "2.",
+   "C": "3.",
+   "D": "4."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C2_0275",
+  "stem": "(SBT – KNTT) Xét cân bằng hóa học: N2(g) + 3H2(g) <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFEAAAAnCAAAAABSn/s2AAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAmDW0qVfIAAAGkSURBVEjH5Za7S8NQFIe/hNTHpLSTk10UFBz0b6ibCD6GgghKN0EsKjiKujgImmxuFRdB8FFFUHRzLC5q3AURpFpECVSh16FNtSmJabyD4plyz+/y5ZzDOfdeRSDZVNlANKDnqbQIXzhlD8mLeJvoBiCTqpI9JFcTQkQOhBBCiN2IcJqH5Gby6/hrifp0+VOTAjSSiFWZMRYOYS0pk6jux0BPSiTSmI6BPgX4q+PEEVYuCnDS/umtGKfGdP8pBrpP4kPXSGZ9GazEGwCTLwBmWxiAR3MMIKwIDGHga2aGZopSjsui0/3n19JnphCsHxctgPl4BwBX2wufUksw4gQAywN9AOwdzlaov3au/z1Rg+f8WRaAi3zKoTYEI96/rtmrcYcaqQ1mExUv3WyGbOj8piZiW32+tKjrdahNx3MAbNUQrQaqNbYJg1shtz3D0ZUaslYBNTUKO/H3AEVzIcpFFvuxhCzIIxaRnVLa3T7N1BStS1KyLp+P6obyE05V1nzT6EFi9LK7cwBeK71mMwBV4+TjRThU3nz59Zq0nY4bVPkDL/sPpbURJM/1G94AAAAASUVORK5CYII=\" style=\"height:22px\" alt=\"\"> 2NH3(g) \t<img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAF4AAAAZCAAAAACd5MZmAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAmC4RJ8McAAALbSURBVEjHtZZbSJRRFIXXbypO6AxaGKKCl1TQzEQrMkPFIGQMNBWHMkgy05RKIyhKlMqg0izvZpL0YIVJhpS3IBiwFysfzETU1LHCyazxXnlZPczoOKbjJLqefjb7rPOx9z7nPwKxnjJaV3cYG5p4t31ze7bDf/vTMDW7kaVSA5O1mi9O8e2Fmw4f9xHMw8qBzqNuwpaoOjR5ADubDEQu897mGPNFh97DcUZn30Z4qT/ycITknXCyxdIw5AzRG44E2ysX0L9q66nRB7S3FXjnr5d5vKQRANCbGbcHFoX96dBOTm4kcvWt9U06mVGfpyehK8U2oQ8A8GgqGIDr1oo/88Xp9hkSoVVPcfRr9kWIAJs0JUkyVG10EO/ni5OXaBWtH1+PVDku0rqgSsUVawDAJ2wCAGt0z9GPOk6wGaIhHXojiUQikUhEK9BPx2+E5dkObcAOQySZjLI5+vJDIvj6Tt7XgfJUqVQqlermCuxT9ybCFDmu2oAAAgAhaFrLwkQAp1Aws4rSmEQaV7tfU2oDYvwCgEmINfb1Ds4AZFaK6lXYb6jsuTiZZi+TzwWc8R0AlHDS2OcmA4Do2Cqba3e9v8zjSYBn4RgAwA+dANAm9lC3tsNZfWA7BbQsO5gRp1OlbXwbfjm6jqPR51NkY7odlkcao5Qk2WuSQPIDTpAEyeRbmpQDiF3WvojMCqRTPQcsvuVJyZD8xSOkuFCluRTMmjgSaPtVbT9sYeeslhXMBgel4UlR/BnhBFP/QrI91Abi4GqSZInXBHrJHY+f+nF2V9Xys1rs6ekUo6CGXldX4ylfelXsLbpXkEHZlIXuP7ziUSYXXMhaibBvyQ6+nknFs9rEzAHzfNOaht/5hnTd8J/hc/kDI7g+LLo07vJyN4TA2jW1zx1PNwLqgQZxgMNnoM/RkFXC4pfCj7jhLO9/8z5uNwMwdE4y1n/DRXnGZbqrwHo19murdX6I/AUdyOe9wkB0mAAAAABJRU5ErkJggg==\" style=\"height:23px\" alt=\"\">. Hiệu suất phản ứng khi hệ đạt cân bằng ở nhiệt độ 400 °C và 500 °C lần lượt bằng x% và y%. Mối quan hệ giữa x và y là",
+  "options": {
+   "A": "x &lt; y.",
+   "B": "x = y.",
+   "C": "x &gt; y.",
+   "D": "5x = 4y."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C2_0276",
+  "stem": "(SBT – KNTT) Xét cân bằng hóa học: N2(g) + 3H2(g) <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFEAAAAnCAAAAABSn/s2AAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAmDW0qVfIAAAGkSURBVEjH5Za7S8NQFIe/hNTHpLSTk10UFBz0b6ibCD6GgghKN0EsKjiKujgImmxuFRdB8FFFUHRzLC5q3AURpFpECVSh16FNtSmJabyD4plyz+/y5ZzDOfdeRSDZVNlANKDnqbQIXzhlD8mLeJvoBiCTqpI9JFcTQkQOhBBCiN2IcJqH5Gby6/hrifp0+VOTAjSSiFWZMRYOYS0pk6jux0BPSiTSmI6BPgX4q+PEEVYuCnDS/umtGKfGdP8pBrpP4kPXSGZ9GazEGwCTLwBmWxiAR3MMIKwIDGHga2aGZopSjsui0/3n19JnphCsHxctgPl4BwBX2wufUksw4gQAywN9AOwdzlaov3au/z1Rg+f8WRaAi3zKoTYEI96/rtmrcYcaqQ1mExUv3WyGbOj8piZiW32+tKjrdahNx3MAbNUQrQaqNbYJg1shtz3D0ZUaslYBNTUKO/H3AEVzIcpFFvuxhCzIIxaRnVLa3T7N1BStS1KyLp+P6obyE05V1nzT6EFi9LK7cwBeK71mMwBV4+TjRThU3nz59Zq0nY4bVPkDL/sPpbURJM/1G94AAAAASUVORK5CYII=\" style=\"height:22px\" alt=\"\"> 2NH3(g)\t <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAF4AAAAZCAAAAACd5MZmAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAmC4RJ8McAAALbSURBVEjHtZZbSJRRFIXXbypO6AxaGKKCl1TQzEQrMkPFIGQMNBWHMkgy05RKIyhKlMqg0izvZpL0YIVJhpS3IBiwFysfzETU1LHCyazxXnlZPczoOKbjJLqefjb7rPOx9z7nPwKxnjJaV3cYG5p4t31ze7bDf/vTMDW7kaVSA5O1mi9O8e2Fmw4f9xHMw8qBzqNuwpaoOjR5ADubDEQu897mGPNFh97DcUZn30Z4qT/ycITknXCyxdIw5AzRG44E2ysX0L9q66nRB7S3FXjnr5d5vKQRANCbGbcHFoX96dBOTm4kcvWt9U06mVGfpyehK8U2oQ8A8GgqGIDr1oo/88Xp9hkSoVVPcfRr9kWIAJs0JUkyVG10EO/ni5OXaBWtH1+PVDku0rqgSsUVawDAJ2wCAGt0z9GPOk6wGaIhHXojiUQikUhEK9BPx2+E5dkObcAOQySZjLI5+vJDIvj6Tt7XgfJUqVQqlermCuxT9ybCFDmu2oAAAgAhaFrLwkQAp1Aws4rSmEQaV7tfU2oDYvwCgEmINfb1Ds4AZFaK6lXYb6jsuTiZZi+TzwWc8R0AlHDS2OcmA4Do2Cqba3e9v8zjSYBn4RgAwA+dANAm9lC3tsNZfWA7BbQsO5gRp1OlbXwbfjm6jqPR51NkY7odlkcao5Qk2WuSQPIDTpAEyeRbmpQDiF3WvojMCqRTPQcsvuVJyZD8xSOkuFCluRTMmjgSaPtVbT9sYeeslhXMBgel4UlR/BnhBFP/QrI91Abi4GqSZInXBHrJHY+f+nF2V9Xys1rs6ekUo6CGXldX4ylfelXsLbpXkEHZlIXuP7ziUSYXXMhaibBvyQ6+nknFs9rEzAHzfNOaht/5hnTd8J/hc/kDI7g+LLo07vJyN4TA2jW1zx1PNwLqgQZxgMNnoM/RkFXC4pfCj7jhLO9/8z5uNwMwdE4y1n/DRXnGZbqrwHo19murdX6I/AUdyOe9wkB0mAAAAABJRU5ErkJggg==\" style=\"height:23px\" alt=\"\">. Hiệu suất phản ứng khi hệ đạt cân bằng ở áp suất 200 bar và 300 bar lần lượt bằng x% và y%. Mối quan hệ giữa x và y là",
+  "options": {
+   "A": "5x = 4y.",
+   "B": "x = y.",
+   "C": "x &gt; y.",
+   "D": "x &lt; y."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C2_0277",
+  "stem": "(SBT – KNTT) Cho cân bằng hóa học sau: N2(g) + 3H2(g) <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFEAAAAnCAAAAABSn/s2AAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAmCWpHkesAAAGkSURBVEjH5Za7S8NQFIe/hNTHpLSTk10UFBz0b6ibCD6GgghKN0EsKjiKujgImmxuFRdB8FFFUHRzLC5q3AURpFpECVSh16FNtSmJabyD4plyz+/y5ZzDOfdeRSDZVNlANKDnqbQIXzhlD8mLeJvoBiCTqpI9JFcTQkQOhBBCiN2IcJqH5Gby6/hrifp0+VOTAjSSiFWZMRYOYS0pk6jux0BPSiTSmI6BPgX4q+PEEVYuCnDS/umtGKfGdP8pBrpP4kPXSGZ9GazEGwCTLwBmWxiAR3MMIKwIDGHga2aGZopSjsui0/3n19JnphCsHxctgPl4BwBX2wufUksw4gQAywN9AOwdzlaov3au/z1Rg+f8WRaAi3zKoTYEI96/rtmrcYcaqQ1mExUv3WyGbOj8piZiW32+tKjrdahNx3MAbNUQrQaqNbYJg1shtz3D0ZUaslYBNTUKO/H3AEVzIcpFFvuxhCzIIxaRnVLa3T7N1BStS1KyLp+P6obyE05V1nzT6EFi9LK7cwBeK71mMwBV4+TjRThU3nz59Zq0nY4bVPkDL/sPpbURJM/1G94AAAAASUVORK5CYII=\" style=\"height:22px\" alt=\"\"> 2NH3(g)\t<img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAF4AAAAZCAAAAACd5MZmAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAmGAD3sRkAAALbSURBVEjHtZZbSJRRFIXXbypO6AxaGKKCl1TQzEQrMkPFIGQMNBWHMkgy05RKIyhKlMqg0izvZpL0YIVJhpS3IBiwFysfzETU1LHCyazxXnlZPczoOKbjJLqefjb7rPOx9z7nPwKxnjJaV3cYG5p4t31ze7bDf/vTMDW7kaVSA5O1mi9O8e2Fmw4f9xHMw8qBzqNuwpaoOjR5ADubDEQu897mGPNFh97DcUZn30Z4qT/ycITknXCyxdIw5AzRG44E2ysX0L9q66nRB7S3FXjnr5d5vKQRANCbGbcHFoX96dBOTm4kcvWt9U06mVGfpyehK8U2oQ8A8GgqGIDr1oo/88Xp9hkSoVVPcfRr9kWIAJs0JUkyVG10EO/ni5OXaBWtH1+PVDku0rqgSsUVawDAJ2wCAGt0z9GPOk6wGaIhHXojiUQikUhEK9BPx2+E5dkObcAOQySZjLI5+vJDIvj6Tt7XgfJUqVQqlermCuxT9ybCFDmu2oAAAgAhaFrLwkQAp1Aws4rSmEQaV7tfU2oDYvwCgEmINfb1Ds4AZFaK6lXYb6jsuTiZZi+TzwWc8R0AlHDS2OcmA4Do2Cqba3e9v8zjSYBn4RgAwA+dANAm9lC3tsNZfWA7BbQsO5gRp1OlbXwbfjm6jqPR51NkY7odlkcao5Qk2WuSQPIDTpAEyeRbmpQDiF3WvojMCqRTPQcsvuVJyZD8xSOkuFCluRTMmjgSaPtVbT9sYeeslhXMBgel4UlR/BnhBFP/QrI91Abi4GqSZInXBHrJHY+f+nF2V9Xys1rs6ekUo6CGXldX4ylfelXsLbpXkEHZlIXuP7ziUSYXXMhaibBvyQ6+nknFs9rEzAHzfNOaht/5hnTd8J/hc/kDI7g+LLo07vJyN4TA2jW1zx1PNwLqgQZxgMNnoM/RkFXC4pfCj7jhLO9/8z5uNwMwdE4y1n/DRXnGZbqrwHo19murdX6I/AUdyOe9wkB0mAAAAABJRU5ErkJggg==\" style=\"height:23px\" alt=\"\">Tổng số mol của hỗn hợp khí khi hệ đạt cân bằng ở nhiệt độ 400 °C và 500 °C lần lượt bằng x và y. Mối quan hệ giữa x và y là",
+  "options": {
+   "A": "x &gt; y.",
+   "B": "x = y.",
+   "C": "x &lt; y.",
+   "D": "5x = 4y."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C2_0278",
+  "stem": "(Đề TSĐH A – 2009) Một bình phản ứng có dung tích không đổi, chứa hỗn hợp khí N2 và H2 với nồng độ tương ứng là 0,3 M và 0,7 M. Sau khi phản ứng tổng hợp NH3 đạt trạng thái cân bằng ở t oC, H2 chiếm 50% thể tích hỗn hợp thu được. Hằng số cân bằng KC ở t oC của phản ứng có giá trị là",
+  "options": {
+   "A": "2,500.",
+   "B": "0,609.",
+   "C": "0,500.",
+   "D": "3,125."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C2_0279",
+  "stem": "(SBT – KNTT) Hỗn hợp X gồm N2 và H2 có tỉ lệ mol tương ứng là 1: 4. Nung nóng X trong bình kín ở nhiệt độ khoảng 450 °C có bột Fe xúc tác, thu được hỗn hợp khí Y có tỉ khối so với H2 bằng 4. Hiệu suất của phản ứng tổng hợp NH3 là",
+  "options": {
+   "A": "20%.",
+   "B": "25%.",
+   "C": "30%.",
+   "D": "10%."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C2_0280",
+  "stem": "(SBT – KNTT) Hỗn hợp khí X gồm N2 và H2 có tỉ khối đối với H2 bằng 3,6. Nung nóng X trong bình kín có bột Fe xúc tác, thu được hỗn hợp khí Y có số mol giảm 8% so với ban đầu. Hiệu suất của phản ứng tổng hợp NH3 là",
+  "options": {
+   "A": "25%.",
+   "B": "23%.",
+   "C": "16%.",
+   "D": "20%."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C2_0281",
+  "stem": "(Đề TSĐH A - 2010) Hỗn hợp khí X gồm N2 và H2 có tỉ khối so với He bằng 1,8. Đun nóng X một thời gian trong bình kín (có bột Fe làm xúc tác), thu được hỗn hợp khí Y có tỉ khối so với He bằng 2. Hiệu suất của phản ứng tổng hợp NH3 là",
+  "options": {
+   "A": "25%.",
+   "B": "50%.",
+   "C": "36%.",
+   "D": "40%."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C2_0282",
+  "stem": "Cho 4 lít N2 và 12 lít H2 vào bình kín để thực hiện phản ứng tổng hợp NH3. Biết hiệu suất phản ứng là 25%, hỗn hợp thu được sau phản ứng có thể tích là bao nhiêu (các thể tích khí đo trong cùng điều kiện)?",
+  "options": {
+   "A": "12 lít.",
+   "B": "14 lít.",
+   "C": "16 lít.",
+   "D": "18 lít."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C2_0283",
+  "stem": "Một hỗn hợp gồm 8 mol N2 và 16 mol H2 được nạp vào một bình kín có dung tích 4 lít và giữ ở nhiệt độ không đổi. Khi phản ứng đạt trạng thái cân bằng thì áp suất bằng 9/10 áp suất ban đầu. Hiệu suất phản ứng là",
+  "options": {
+   "A": "15%.",
+   "B": "17,5%.",
+   "C": "20%.",
+   "D": "22,5%."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C2_0284",
+  "stem": "Cho 4 lít N2 và 14 lít H2 vào bình phản ứng, hỗn hợp thu được sau phản ứng có thể tích bằng 16,4 lít (các thể tích khí được đo trong cùng điều kiện). Hiệu suất phản ứng là bao nhiêu?",
+  "options": {
+   "A": "20%.",
+   "B": "30%.",
+   "C": "40%.",
+   "D": "50%."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C2_0285",
+  "stem": "Một hỗn hợp khí X gồm N2 và H2 có tỉ khối so với hydrogen là 4,9. Cho hỗn hợp đi qua xúc tác thích hợp, nung nóng được hỗn hợp mới Y có tỉ khối so với hydrogen là 6,125. Hiệu suất tổng hợp NH3 là",
+  "options": {
+   "A": "42,86%.",
+   "B": "16,67%.",
+   "C": "40%.",
+   "D": "33,33%."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C2_0286",
+  "stem": "(Đề TN THPT QG – 2021) Trong bình kín dung tích không đổi chứa hỗn hợp khí X gồm H2 và N2 (chất xúc tác thích hợp), áp suất trong bình là p atm, tỉ khối của X so với H2 là 5. Nung nóng bình để thực hiện phản ứng tổng hợp NH3, rồi làm nguội bình về nhiệt độ ban đầu, thu được hỗn hợp khí Y, áp suất trong bình là 0,88p atm. Hiệu suất phản ứng tổng hợp NH3 là",
+  "options": {
+   "A": "26,0%.",
+   "B": "19,5%.",
+   "C": "24,0%.",
+   "D": "20,0%."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C2_0287",
+  "stem": "Trong một bình kín dung tích 56 lít chứa đầy N2 và H2 theo tỉ lệ thể tích 1: 4 ở 0 oC và 200 atm, có một ít bột xúc tác Ni. Nung nóng bình một thời gian, sau đó đưa về 0 oC thì áp suất trong bình giảm 10% so với áp suất ban đầu. Hiệu suất của phản ứng là",
+  "options": {
+   "A": "18,75%.",
+   "B": "20%.",
+   "C": "30%.",
+   "D": "25%."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C2_0288",
+  "stem": "Cho 5 lít N2 và 15 lít H2 vào một bình kín dung tích không đổi. Ở 0 oC, áp suất trong bình là P1 atm. Đun nóng bình một thời gian thấy có 20% N2 tham gia phản ứng, đưa bình về nhiệt độ ban đầu thấy áp suất trong bình lúc này là P2 atm. Tỉ lệ P1 và P2 là",
+  "options": {
+   "A": "6: 10.",
+   "B": "10: 6.",
+   "C": "10:9.",
+   "D": "9: 10."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C2_0289",
+  "stem": "Một bình kín dung tích không đổi chứa hỗn hợp cùng thể tích khí N2 và H2 ở 0 oC, 100 atm. Sau khi tiến hành tổng hợp NH3, đưa nhiệt độ bình về 0 oC, áp suất mới của bình là 90 atm. Hiệu suất phản ứng tổng hợp NH3 là",
+  "options": {
+   "A": "10%.",
+   "B": "25%.",
+   "C": "20%.",
+   "D": "30%."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C2_0290",
+  "stem": "Nung nóng hỗn hợp gồm 0,5 mol N2 và 1,5 mol H2 trong bình kín (có xúc tác) rồi đưa về nhiệt độ t oC thấy áp suất trong bình lúc này là P1. Sau đó cho một lượng dư H2SO4 đặc vào bình (nhiệt độ lúc này trong bình là t oC) đến khi áp suất ổn định thì thấy áp suất trong bình lúc này là P2 (P1 = 1,75P2). Hiệu suất tổng hợp NH3 là",
+  "options": {
+   "A": "65%.",
+   "B": "70%.",
+   "C": "50%.",
+   "D": "60%."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C2_0291",
+  "stem": "Một bình kín dung tích không đổi chứa hỗn hợp N2 và H2 (có xúc tác thích hợp). Nung nóng bình một thời gian, sau đó đưa về nhiệt độ ban đầu, thấy áp suất trong bình giảm 18,4% so với áp suất ban đầu. Tỉ khối của hỗn hợp khí thu được sau phản ứng so với H2 bằng 6,164. Hiệu suất phản ứng tổng hợp NH3 là",
+  "options": {
+   "A": "70,33%.",
+   "B": "29,67%.",
+   "C": "60,00%.",
+   "D": "40,00%."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C2_0292",
+  "stem": "Trộn 3 mol SO2 với 2 mol O2, cho hỗn hợp vào bình kín có chứa sẵn chất xúc tác, bật tia lửa điện để phản ứng xảy ra. Sau phản ứng, đưa bình về điều kiện ban đầu thì thấy áp suất trong bình giảm đi 10%. Vậy hiệu suất của phản ứng trên là",
+  "options": {
+   "A": "90%.",
+   "B": "60,67%.",
+   "C": "33,33%.",
+   "D": "50,2%."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C2_0293",
+  "stem": "(SBT – KNTT) Xét phản ứng giữa sulfur và hydrogen ở điều kiện chuẩn:H2(g) + S(s) <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAmF5BIrIgAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:18px\" alt=\"\"> H2S(g) \t\t\t\t\t<img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHgAAAAUCAAAAABjOaYvAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAmEA4sOSsAAAMqSURBVEjH5ZZtSJVnGMd/jyi+hKF2DJJ5YirbAp241XBTJJupHR3nsImzcmgvCLYwse2oyBQ22JdRSSK+pW1om3PsJQw521gGDUcNIjSCwFGmttgxzznkfExPXvvwPEd33Fk+n9aH/T9d/O//df+4by7u51GEp6Ogp8T978CDL9oCgb1vrTiP7fHR1bNcKFAKLjDQ+smXhva1bbek16qwUGnJPvLI56rHduclDwHwxiu656k3mU8AIiIiXzMqK7KmiogMMyySIcuvihHlLYtn6zGRqv2ynF/tcwtrRL7v0upDVp/7coGI6Cd2xHQGPIjh0atV2JgzhNr1DsrhDlUzf/qhAXIPBWzQwBNxe/vUQMtVLSer13qP53T9+TczG0DhmvocpKjXNPN8agygrIQW81//2VcHA9Bd7modKAsAfjuAd7nQ1+v2XxjN5y5RsIlJzbgZYr/uzPp4gy8wGdkX6gf2/pZASucqeHwn4OZftHNutR6ah7RErb56+zwLBEMI+u25Y96PfZC+2KaHXbXdK1wNPJgHB2puJPvMpEvApWzWV8U0tBwF4EHlt1sIZwkWCddWw6Jj2VTcpYOXiqYjVjuDAPqLoDSk0wAIwOvW5YExp9N5WOOWtGSCmVmYwawln70HmGb1CR2uun9Kq0J08ERUBMRaelVj4JEkXc9DtMlkCgP4fd+p14CXIm7BWHialtw1ugSueH26dlubPprmDmDWwWfKAA64v/on5MS5479Q11fjGnu3w657WTO67q/mpnPenHI4HGpYRS/SXRE+trkZ2GvqwTtUrmcUjsa/R+O8d7IYQMT7jNVqtVoLyBAREW+jObpuVhw2bA6ZkpHK8f3yTXP7Ocl6wvsxqO19W9SKPTmVCzK11SIiMm6x5dkfiYjI5ZTEK2LBfnzbrnYREfz6r2d9eGPNlmd77tnk1yOe4vpmQ0+Yrs+b1gkofm/TXOl3y/6fDdcHp4M+88w8jMzNLPwi0uD4wY+ftm18ciJ4reHP/aPnZBAlod0bLkYR+tA4OKFPWSfhD55wOmP9jJItB7c11O2YaErqfyEhzjCXxHUTyv/uD+Qvoij8Dq8cYUIAAAAASUVORK5CYII=\" style=\"height:25px\" alt=\"\">Nhiệt tạo thành của H2S(g) là",
+  "options": {
+   "A": "–206 kJ/mol.",
+   "B": "–412 kJ/mol.",
+   "C": "412 kJ/mol.",
+   "D": "20,6 kJ/mol."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C2_0294",
+  "stem": "(SBT – KNTT) Xét phản ứng trong quá trình tạo ra NOx nhiệt:N2(g) + O2(g) <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAmFAlB/TIAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:18px\" alt=\"\"> 2NO(g) \t\t\t\t\t<img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHUAAAAUCAAAAACWxy2fAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAmCWpHkesAAAMhSURBVEjH5ZZZSFRhGIbfMzmkdVG5kBEp5kKllVa2CBkt6iTqTBlpSYQtZrbYaoEwFkg3QpMQ6mgxoiZRBBlRuOZFlEXJpBVtRmS0qzkZow5z3i7OmTFnXOaqLnqvPp7v+/73/P/5P84RiH8gxb8w/UuuhVPPjeR6vs5O9EuFHa14niks1OGZtkI71mpiSSgAPFNpEmKfAv1741dnDdiS5uyYuLBbAIBsb5m17xOiagCQJLlgI+3SoYckkUdmGZn0laPq8ZZV00lyzjHyaDB5MI2i6pAtm3CErC2T4kCdDH+igKS01xbFjc+jbGes2+ZfrQEAy4swIPy12Vy2DcIuvVlKNtblArE7x3ivl67AMFI262pFhI8j7LNJ9JKAUtVI6+0Yj1ZzCDDf3CrRmoWeAAR729vg3e9tsRsAmKzBqgsnBWfX0HxnZvW1RfUr5KAyMmhwwkO8x1TAC50SfK7MMX6LPjPZVv0kZWgxNwCoSkF6ckOMHSa4jXGsE/qcUKpGJ2akNvXDDVBCPuEfnsd9upYPFss1j+uKhxoUANAQjURv/RC82dzc3AyXdb/xIBQn7rR4wAIMwkOi7tN84LX5mlzTmTjwR4cCwIMIAcq0G19cNPlhk1UGHfAFZqLDD93Ad/hJNOAjAO9u+TbWFJS3SJFSdr24HUC6xeCaqTXIpkcy8YUJ6MGMRZNeAu0eERJd02YBembJt2VfWuJ+Ee8A6aHIXg1JMjxQdJrXt1rDARoKtY+Yo89sG2FiddNJ9s0sJQtm/eKhFIpx2Wzz0ZE0zy6hZfEp+7y+mVjCZD7xMpEEWTRXrVar1YGoJ0kaopBp5IvDWFxEUy9jvyxj1wZGs6rUybP2aKT7ntODNMZt2qBqJ80Z69ft7ecH/3iSfBOvicsZIEmWT4n5/CHEs2rZ8nV3KbkO6fuSygqHhcXVYpSFS6nLjzfRVVXnjVMwzJVraXXIlzTxXr4h0pTEJq2rpnVbe8epcJxMh2/Q5XkrsWhFR8tPJbw/uTpJs6uEcSqGufZ0vwoZlq09G6LPvR7wNG9GULUxw1XXwHErhP/oX+I3uJCPRE11c5AAAAAASUVORK5CYII=\" style=\"height:25px\" alt=\"\">Nhiệt tạo thành chuẩn của NO(g) là",
+  "options": {
+   "A": "180,6 kJ/mol.",
+   "B": "–180,6 kJ/mol.",
+   "C": "–90,3 kJ/mol.",
+   "D": "90,3 kJ/mol."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C2_0296",
+  "stem": "(SBT – KNTT) Cho nhiệt tạo thành chuẩn của SO2(g) và SO3(g) lần lượt là –296,8 kJ/mol và –395,7 kJ/mol.Biến thiên enthalpy chuẩn của phản ứng: 2SO2(g) + O2(g) <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFYAAAAqCAAAAAAM3fORAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAmEXkrCb0AAAMaSURBVEjH5ZZdaFNnHMZ/OT2xH9TJIqUtdFRJpzJlauaG4FxUuq7aC7sLJ06pn+CFde5meLFcDDY22ERwGxVt0LqL0YshgtUVlKUdlV20KPhBFbWuX7aabso6TGJtnl0kaaKNOaeQIsPn7n3eJ7+T9+F/Xo5DTIeMaaFmxgbWOuq7oX9/2aG4c6Pu4z07a89ac5VJd50HJenEd/H1lVd+kfRnWYMslBmrja9HJa3+K75ct0aS9GPhAwusCQQjAJSYyTMkrPqV56q4NNcFDMDY+fqhUuC9f9tqiVlATunkDkxgQzgPuHJhQdJOWO8uaaji8B6AiuVEHp9uHgRK6CVuATcH03frvSNJNd0ph5iwGnN6H1ZKksqlfhrckjTMoYQlyZ2mBKsB2zzrSNO2xKI4fxiAe8yx+JlpsZ+/wz//PPxxYt7IRY+zuh2A9pmreMdg0aT0pWCVvRLUY3wu6fqIij6Ubs4ultRXdkT6Mk0JV1/Na01OQkbNXb8bmA/RIqjoerPOFb7fWJ0+W/7GhdpTH2QuIRIkPFxIwcn4OvQZkaDp+hoKXMDI90NLY6knA5FggQsocLVWJ7jPLSFQ7J39ttezMWZEvyiRAsXefO+E9WRZqRRweXI9gMfjWfB+Z2fgNfJa42/Zc7BbVdOtzhgj4rteLgW2yq2YNXpNWl0iBRyTjpkXstFtTN82/zpUcybF0AHP/eU9gNMZyh9/bORCdCw3tjduPWBx+XzMSaUy8xjwM7CpqeJWW/2iZug60Dyx/SLu25cFa8LRjoUOIPxb8hHbsoCdMf4IgFDSDbPKDI12DKUmBysIjXY8srCS2Lrfj1O39ym3qBzampqe8sZsWUms4ef4T299ktVuDcDwb2ffD1nHYvi30xLNJjb28hr+xbuzOmrxO8HYZyt9+Zuw0zcFbDqd7AAiK1Kcvsv/MNgYXfFs6jbXup6JWn32pKrlI2lDi52k7Ua7e8A9DANuO2mH3e/b9Xsr4SvHmGmrW7slNJprfVOoy/a/LTxVabcv/m/37YvGzvh7WrBbPt0VspudwtxOUwlT038csfO8sBPtugAAAABJRU5ErkJggg==\" style=\"height:31px\" alt=\"\"> 2SO3(g) là",
+  "options": {
+   "A": "–98,9 kJ.",
+   "B": "–197,8 kJ.",
+   "C": "98,9 kJ.",
+   "D": "197,8 kJ."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C2_0297",
+  "stem": "Phản ứng tổng hợp ammonia (NH3): N2(g) + 3H2(g) <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFEAAAAnCAAAAABSn/s2AAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAmDW0qVfIAAAGkSURBVEjH5Za7S8NQFIe/hNTHpLSTk10UFBz0b6ibCD6GgghKN0EsKjiKujgImmxuFRdB8FFFUHRzLC5q3AURpFpECVSh16FNtSmJabyD4plyz+/y5ZzDOfdeRSDZVNlANKDnqbQIXzhlD8mLeJvoBiCTqpI9JFcTQkQOhBBCiN2IcJqH5Gby6/hrifp0+VOTAjSSiFWZMRYOYS0pk6jux0BPSiTSmI6BPgX4q+PEEVYuCnDS/umtGKfGdP8pBrpP4kPXSGZ9GazEGwCTLwBmWxiAR3MMIKwIDGHga2aGZopSjsui0/3n19JnphCsHxctgPl4BwBX2wufUksw4gQAywN9AOwdzlaov3au/z1Rg+f8WRaAi3zKoTYEI96/rtmrcYcaqQ1mExUv3WyGbOj8piZiW32+tKjrdahNx3MAbNUQrQaqNbYJg1shtz3D0ZUaslYBNTUKO/H3AEVzIcpFFvuxhCzIIxaRnVLa3T7N1BStS1KyLp+P6obyE05V1nzT6EFi9LK7cwBeK71mMwBV4+TjRThU3nz59Zq0nY4bVPkDL/sPpbURJM/1G94AAAAASUVORK5CYII=\" style=\"height:18px\" alt=\"\"> 2NH3(g) \t∆H = –92 kJ.Biết năng lượng liên kết (kJ/mol) của N≡N và H–H lần lượt là 946 và 436. Năng lượng liên kết của N–H trong ammonia là",
+  "options": {
+   "A": "391 kJ/mol.",
+   "B": "361 kJ/mol.",
+   "C": "245 kJ/mol.",
+   "D": "490 kJ/mol."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C2_0298",
+  "stem": "Phương trình nhiệt hóa học:3H2(g) + N2(g) <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFEAAAAnCAAAAABSn/s2AAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAmDW0qVfIAAAGkSURBVEjH5Za7S8NQFIe/hNTHpLSTk10UFBz0b6ibCD6GgghKN0EsKjiKujgImmxuFRdB8FFFUHRzLC5q3AURpFpECVSh16FNtSmJabyD4plyz+/y5ZzDOfdeRSDZVNlANKDnqbQIXzhlD8mLeJvoBiCTqpI9JFcTQkQOhBBCiN2IcJqH5Gby6/hrifp0+VOTAjSSiFWZMRYOYS0pk6jux0BPSiTSmI6BPgX4q+PEEVYuCnDS/umtGKfGdP8pBrpP4kPXSGZ9GazEGwCTLwBmWxiAR3MMIKwIDGHga2aGZopSjsui0/3n19JnphCsHxctgPl4BwBX2wufUksw4gQAywN9AOwdzlaov3au/z1Rg+f8WRaAi3zKoTYEI96/rtmrcYcaqQ1mExUv3WyGbOj8piZiW32+tKjrdahNx3MAbNUQrQaqNbYJg1shtz3D0ZUaslYBNTUKO/H3AEVzIcpFFvuxhCzIIxaRnVLa3T7N1BStS1KyLp+P6obyE05V1nzT6EFi9LK7cwBeK71mMwBV4+TjRThU3nz59Zq0nY4bVPkDL/sPpbURJM/1G94AAAAASUVORK5CYII=\" style=\"height:18px\" alt=\"\"> 2NH3(g) \t\t\t\t\t\t<img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFgAAAAkCAAAAAAoHqJSAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAmCvNOwFEAAANiSURBVEjH1ZZdbJNVGMd/bVcpyBCEzMmKQMwG6OIKY66mkw0IYpgkxg9itpghK3CBmIhR40IySEyMgB83GkxnY5SgiKKZJBJJlH1csLjIylCMW0y6kX3JhlsHwxT29+Jd1zLf9SMbF/6v3v97zvmd5zzPOTnHIm6PrLeJOyXw0O5cd86uoUlaFZX3Q6Wk4oJB9Sx/1LwxBhxKX2nWY//YomZ3S2p0GMZ+QqrnC0l+6hKBfdBs1uV66wp485Jhbv65FTb/cUPSAVokNXPQFByT4xrwmSVrRu4cWJY1VpOli2Fhtg0YZBYwm8EExbvQBEevplC7eVwFhpmbAOxLTyN0LAWwm9+B87jjg/85Ul46SS4mkaf43RB/HSrxxAd/PeCthLMXUiDXFriLitfXmjemjWfCle9a2EXN+8mD53wQpzEScXvddmxb4bPrKYQcT5GIaxzlsO0tDZwoM+3X0x75GkiSbGzncObzkrQWSkw2e+GEMTuTOO9jEX/X4wXw/sSZtmyz+V8Z31RfHk8l4k05kqSRefCaacTHx011chEbxbt0yguAoxw+CU9L8Qyw31Zh2O3QVzsF3ATwqH9zhmEfWg010wc+HfRGfCX8EJw2sG/Rxogvm8WoP8mx+x/My1teNQI0PZZXVNQAcKRwTX5FN4CkXnt1tJoV4LyR3K4obpTOzXxaanHskd5xBKRjnNa1R1aGjRvkgDUYhdQDJ5MD75SkLfSozP63FJ7/nLTuPkk+Go0D8vHiH2MWmB7CVxq74uGLV+D8qiVWgHBbO3S05swADgNk0ndPc9ZdkOY+BR0LgAyCHpDq/pO8tC5p391PNDx5v6Rqi/FzZrekBrthbF9FFlBmHdAD2ZK0iy5tzJJ0mLO3XKYT5Lm3+mRBwgM2umSD9IwjJGkvAdXbP1Vv3ibFBRdKgYTgb+/4RWqyVA6Ntj/Fz9JeMm3OzoTghOrO8kvSmfXO/Be38JuqMgMa3ubsnCq43/VR1LxgHe6yvSFpyLL7lndF6up9vGpH1J1z3dl20wmkz/91ao/CjtK3nwWgtRO42LIDJ5eB8JVFMZdp6rpcVBIIAGtWNfW/Tl/FBi9L133+0lzeUyVMmuNDGQteDcZNcOvYBAf1/bIVD+fuG5HU//LqtS7PN5Is/7sX/b8oXhKOhyq+LwAAAABJRU5ErkJggg==\" style=\"height:25px\" alt=\"\"> = –91,80 kJLượng nhiệt tỏa ra khi dùng 9 gam H2(g) để tạo thành NH3(g) là",
+  "options": {
+   "A": "–275,40 kJ.",
+   "B": "–137,70 kJ.",
+   "C": "–45,90 kJ.",
+   "D": "–183,60 kJ."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C2_0299",
+  "stem": "(Đề TSCĐ - 2010) Cho 0,015 mol một loại hợp chất oleum vào nước thu được 200 mL dung dịch X. Để trung hoà 100 mL dung dịch X cần dùng 200 mL dung dịch NaOH 0,15 M. Phần trăm về khối lượng của nguyên tố sulfur trong oleum trên là",
+  "options": {
+   "A": "32,65%.",
+   "B": "35,95%.",
+   "C": "37,86%.",
+   "D": "23,97%."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C2_0300",
+  "stem": "(Đề TSĐH A - 2013) Hòa tan hết 1,69 gam oleum có công thức H2SO4.3SO3 vào nước dư. Trung hòa dung dịch thu được cần V mL dung dịch KOH 1 M. Giá trị của V là",
+  "options": {
+   "A": "10.",
+   "B": "40.",
+   "C": "30.",
+   "D": "20."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C2_0301",
+  "stem": "Hòa tan 8,36 gam oleum vào nước được dung dịch Y, để trung hòa dung dịch Y cần 200 ml dung dịch NaOH 1 M. Công thức phân tử của oleum là",
+  "options": {
+   "A": "H2SO4.2SO3.",
+   "B": "H2SO4.3SO3.",
+   "C": "H2SO4.5SO3.",
+   "D": "H2SO4.4SO3."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C2_0302",
+  "stem": "Hòa tan 1,69 gam oleum có công thức H2SO4.nSO3 vào 2,31 gam nước thu được dung dịch sulfuric acid 49%. Cho 0,01 mol oleum trên vào nước dư được dung dịch Y. Trung hòa dung dịch Y cần V mL dung dịch KOH 1 M. Giá trị V là",
+  "options": {
+   "A": "20.",
+   "B": "25.",
+   "C": "80.",
+   "D": "40."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C2_0304",
+  "stem": "(Đề THPT QG - 2019) Hòa tan m gam Fe bằng dung dịch H2SO4 loãng (dư) thu được 2,479 lít khí H2 (đkc). Giá trị của m là",
+  "options": {
+   "A": "2,80.",
+   "B": "1,12.",
+   "C": "5,60.",
+   "D": "2,24."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C2_0305",
+  "stem": "(Đề TSCĐ - 2013) Cho 1,56 gam Cr phản ứng hết với dung dịch H2SO4 loãng (dư), đun nóng, thu được V mL khí H2 (đkc). Giá trị của V là",
+  "options": {
+   "A": "743,7.",
+   "B": "1487,4.",
+   "C": "224.",
+   "D": "672."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C2_0307",
+  "stem": "Hòa tan hoàn toàn kim loại M bằng một lượng vừa đủ dung dịch H2SO4 4,9% thu được khí H2 và dung dịch muối có nồng độ 5,935%. Kim loại M là",
+  "options": {
+   "A": "Mg.",
+   "B": "Ni.",
+   "C": "Fe.",
+   "D": "Zn."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C2_0308",
+  "stem": "Cho 4 gam hỗn hợp X gồm Fe và Cu tác dụng với dung dịch H2SO4 loãng dư thì thu được 1,2395 lít khí (đkc). Thành phần phần trăm theo khối lượng của Fe và Cu trong hỗn hợp X lần lượt là",
+  "options": {
+   "A": "40% và 60%.",
+   "B": "30% và 70%.",
+   "C": "70% và 30%.",
+   "D": "60% và 40%."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C2_0309",
+  "stem": "Cho 10 gam hỗn hợp X gồm Fe và Cu tác dụng với dung dịch H2SO4 loãng dư. Sau phản ứng, thu được 2,479 lít khí H2 (đkc), dung dịch X và m gam kim loại không tan. Giá trị của m là",
+  "options": {
+   "A": "6,4.",
+   "B": "3,4.",
+   "C": "4,4.",
+   "D": "5,6."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C2_0310",
+  "stem": "(Đề TSĐH A - 2012) Hòa tan hoàn toàn 2,43 gam hỗn hợp gồm Mg và Zn vào một lượng vừa đủ dung dịch H2SO4 loãng, sau phản ứng thu được 1,2395 lít H2 (đkc) và dung dịch X. Khối lượng muối trong dung dịch X là",
+  "options": {
+   "A": "4,83 gam.",
+   "B": "5,83 gam.",
+   "C": "7,33 gam.",
+   "D": "7,23 gam."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C2_0311",
+  "stem": "(Đề MH lần I - 2017) Hòa tan hoàn toàn 13,8 gam hỗn hợp X gồm Al, Fe vào dung dịch H2SO4 loãng, thu được 0,45 mol khí H2. Phần trăm về khối lượng của Al trong X là",
+  "options": {
+   "A": "58,70%.",
+   "B": "20,24%.",
+   "C": "39,13%.",
+   "D": "76,91%."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C2_0312",
+  "stem": "(Đề TSCĐ - 2007) Hòa tan hoàn toàn 3,22 gam hỗn hợp X gồm Fe, Mg và Zn bằng một lượng vừa đủ dung dịch H2SO4 loãng, thu được 1,4874 lít hydrogen (ở đkc) và dung dịch chứa m gam muối. Giá trị của m là",
+  "options": {
+   "A": "9,52.",
+   "B": "10,27.",
+   "C": "8,98.",
+   "D": "7,25."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C2_0313",
+  "stem": "Cho 13,5 gam hỗn hợp các kim loại Al, Cr, Fe tác dụng với lượng dư dd H2SO4 loãng nóng (trong điều kiện không có không khí), thu được dd X và 8,6765 lít khí H2 (ở đkc). Cô cạn dd X (trong điều kiện không có không khí) được m gam muối khan. Giá trị của m là",
+  "options": {
+   "A": "48,8.",
+   "B": "47,1.",
+   "C": "45,5.",
+   "D": "42,6."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C2_0314",
+  "stem": "(Đề TSĐH A - 2009) Cho 3,68 gam hỗn hợp gồm Al và Zn tác dụng với một lượng vừa đủ dd H2SO4 10%, thu được 2,479 lít khí H2 (ở đkc). Khối lượng dung dịch thu được sau phản ứng là",
+  "options": {
+   "A": "101,48 gam.",
+   "B": "101,68 gam.",
+   "C": "97,80 gam.",
+   "D": "88,20 gam."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C2_0315",
+  "stem": "(Đề THPT QG - 2017) Cho 11,9 gam hỗn hợp Zn và Al phản ứng vừa đủ với dung dịch H2SO4 loãng, thu được m gam muối trung hòa và 9,916 lít khí H2 (đkc). Giá trị của m là",
+  "options": {
+   "A": "42,6.",
+   "B": "70,8.",
+   "C": "50,3.",
+   "D": "51,1."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C2_0316",
+  "stem": "(Đề TSCĐ - 2008) Hoà tan hết 7,74 gam hỗn hợp bột Mg, Al bằng 500 mL dung dịch hỗn hợp HCl 1 M và H2SO4 0,28 M thu được dung dịch X và 8,736 lít khí H2 (ở đkc). Cô cạn dung dịch X thu được lượng muối khan là",
+  "options": {
+   "A": "77,86 gam.",
+   "B": "25,95 gam.",
+   "C": "103,85 gam.",
+   "D": "38,93 gam."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C2_0317",
+  "stem": "(Đề TSĐH A - 2007) Cho m gam hỗn hợp Mg, Al vào 250 mL dung dịch X chứa hỗn hợp acid HCl 1 M và acid H2SO4 0,5 M, thu được 0,2375 mol khí H2 và dung dịch Y (coi thể tích dung dịch không đổi). Dung dịch Y có pH là",
+  "options": {
+   "A": "1.",
+   "B": "6.",
+   "C": "7.",
+   "D": "2."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C2_0318",
+  "stem": "Hòa tan hoàn toàn m gam hỗn hợp gồm Mg và Zn vào một lượng vừa đủ dung dịch H2SO4 loãng, sau phản ứng thu được 0,05 mol khí H2 và dung dịch X chứa 7,23 gam muối. Giá trị của m là",
+  "options": {
+   "A": "2,43 gam.",
+   "B": "3,83 gam.",
+   "C": "3,33 gam.",
+   "D": "2,23 gam."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C2_0319",
+  "stem": "Hòa tan hoàn toàn 5,5 gam hỗn hợp gồm Al và Fe vào lượng dư dung dịch H2SO4 loãng, thu được 4,958 lít khí H2 (đkc). Thành phần phần trăm khối lượng của Fe trong hỗn hợp đầu là",
+  "options": {
+   "A": "50,91%.",
+   "B": "76,36%.",
+   "C": "25,45%.",
+   "D": "12,73%."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C2_0320",
+  "stem": "(Đề TSCĐ - 2011) Hoà tan hoàn toàn hỗn hợp X gồm 0,2 mol Fe và 0,2 mol Fe2O3 vào dung dịch acid H2SO4 loãng (dư), thu được 2,479 lít khí (đkc) và dung dịch Y. Cho lượng dư dung dịch NaOH vào dung dịch Y, sau khi phản ứng xảy ra hoàn toàn thu được m gam kết tủa. Giá trị nhỏ nhất của m là",
+  "options": {
+   "A": "57,4.",
+   "B": "59,1.",
+   "C": "60,8.",
+   "D": "54,0."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C2_0321",
+  "stem": "(Đề TSĐH B - 2013) Hòa tan hỗn hợp X gồm 11,2 gam Fe và 2,4 gam Mg bằng dung dịch H2SO4 loãng (dư), thu được dung dịch Y. Cho dung dịch NaOH dư vào Y thu được kết tủa Z. Nung Z trong không khí đến khối lượng không đổi, thu được m gam chất rắn. Biết các phản ứng đều xảy ra hoàn toàn. Giá trị của m là",
+  "options": {
+   "A": "36.",
+   "B": "20.",
+   "C": "18.",
+   "D": "24."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C2_0322",
+  "stem": "(SBT – KNTT) Hoà tan hết m gam oxide của kim loại M (hoá trị II) vào dung dịch H2SO4, thu được 3m gam muối sulfate. Công thức của oxide kim loại là",
+  "options": {
+   "A": "ZnO.",
+   "B": "CuO.",
+   "C": "CaO.",
+   "D": "MgO."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C2_0323",
+  "stem": "Cho 25,5 gam hỗn hợp X gồm CuO và Al2O3 tan hoàn toàn trong dung dịch H2SO4 loãng, thu được dung dịch chứa 57,9 gam muối. Phần trăm khối lượng của Al2O3 trong X là",
+  "options": {
+   "A": "60%.",
+   "B": "40%.",
+   "C": "80%.",
+   "D": "20%."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C2_0324",
+  "stem": "(Đề TSĐH A - 2007) Hoà tan hoàn toàn 2,81 gam hỗn hợp gồm Fe2O3, MgO, ZnO trong 500 mL acid H2SO4 0,1 M (vừa đủ). Sau phản ứng, hỗn hợp muối sulfate khan thu được khi cô cạn dung dịch có khối lượng là",
+  "options": {
+   "A": "6,81 gam.",
+   "B": "4,81 gam.",
+   "C": "3,81 gam.",
+   "D": "5,81 gam."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C2_0325",
+  "stem": "Hòa tan một oxide kim loại X hóa trị II bằng một lượng vừa đủ dung dịch H2SO4 10%, ta thu được dung dịch muối có nồng độ 11,76%. Kim loại X là",
+  "options": {
+   "A": "Ca.",
+   "B": "Fe.",
+   "C": "Cu.",
+   "D": "Mg."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C2_0326",
+  "stem": "(Đề TSCĐ - 2007) Khi hòa tan hydroxide kim loại M(OH)2 bằng một lượng vừa đủ dung dịch H2SO4 20% thu được dung dịch muối trung hoà có nồng độ 27,21%. Kim loại M là",
+  "options": {
+   "A": "Cu.",
+   "B": "Zn.",
+   "C": "Fe.",
+   "D": "Mg."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C2_0327",
+  "stem": "Cho 9,125 gam muối hydrogen carbonate phản ứng hết với dung dịch H2SO4 (dư), thu được dung dịch chứa 7,5 gam muối sulfate trung hoà. Công thức của muối hydrogen carbonate là",
+  "options": {
+   "A": "NaHCO3.",
+   "B": "Ca(HCO3)2.",
+   "C": "Ba(HCO3)2.",
+   "D": "Mg(HCO3)2."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C2_0328",
+  "stem": "(Đề TSĐH B - 2013) Hòa tan hoàn toàn 24 gam hỗn hợp X gồm MO, M(OH)2 và MCO3 (M là kim loại có hóa trị không đổi) trong 100 gam dung dịch H2SO4 39,2%, thu được 0,05 mol khí CO2 và dung dịch Y chỉ chứa một chất tan duy nhất có nồng độ 39,41%. Kim loại M là",
+  "options": {
+   "A": "Zn.",
+   "B": "Ca.",
+   "C": "Mg.",
+   "D": "Cu."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C2_0329",
+  "stem": "(Đề TN THPT - 2020) Nung nóng m gam hỗn hợp X gồm Mg, Al và Cu trong O2 dư thu được 16,2 gam hỗn hợp Y gồm các oxide. Hòa tan hết Y bằng lượng vừa đủ dung dịch gồm HCl 1 M và H2SO4 0,5 M, thu được dung dịch chứa 43,2 gam hỗn hợp muối trung hòa. Biết các phản ứng xảy ra hoàn toàn. Giá trị của m là",
+  "options": {
+   "A": "9,8.",
+   "B": "9,4.",
+   "C": "13,0.",
+   "D": "10,3."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C2_0330",
+  "stem": "(Đề TN THPT - 2020) Nung nóng m gam hỗn hợp X gồm Mg, Al và Cu trong O2 dư, thu được 15,8 gam hỗn hợp Y gồm các oxide. Hòa tan hết Y bằng lượng vừa đủ dung dịch gồm HCl 1 M và H2SO4 0,5 M, thu được dung dịch chứa 42,8 gam hỗn hợp muối trung hòa. Biết các phản ứng xảy ra hoàn toàn. Giá trịcủa m là",
+  "options": {
+   "A": "10,3.",
+   "B": "8,3.",
+   "C": "12,6.",
+   "D": "9,4."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C2_0332",
+  "stem": "(Đề TNTHPT QG – 2023) Oxi hóa hoàn toàn 11,42 gam hỗn hợp X (gồm Mg, Al và Zn) bằng O2, thu được 17,5 gam hỗn hợp Y gồm các oxide. Cho Y tác dụng vừa đủ với dung dịch H2SO4 loãng, thu được dung dịch chứa m gam muối trung hòa. Giá trị của m là",
+  "options": {
+   "A": "29,66.",
+   "B": "53,98.",
+   "C": "47,90.",
+   "D": "48,66."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C2_0333",
+  "stem": "Dung dịch X chứa 0,5 mol Na+; 0,4 mol Mg2+; còn lại là SO42–. Để kết tủa hết ion SO42– trong dung dịch X cần bao nhiêu lít dung dịch Ba(OH)2 0,2 M?",
+  "options": {
+   "A": "2,25 lít.",
+   "B": "6,5 lít.",
+   "C": "4,5 lít.",
+   "D": "3,25 lít."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C2_0334",
+  "stem": "Cho dung dịch Ba(OH)2 đến dư vào 100 mL dung dịch X có chứa các ion: NH4+; SO42–; NO3– thì có 23,3 gam một kết tủa được tạo thành và đun nóng thì chỉ có 7,437 lít (đkc) một chất khí thoát ra. Nồng độ mol/L của (NH4)2SO4 và NH4NO3 trong dung dịch X là bao nhiêu?",
+  "options": {
+   "A": "2 M và 2 M",
+   "B": "1 M và 1 M.",
+   "C": "1 M và 2 M.",
+   "D": "2 M và 2 M."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C2_0335",
+  "stem": "(Đề TSCĐ - 2008) Dung dịch X chứa các ion: Fe3+, SO42–, NH4+, Cl–. Chia dung dịch X thành hai phần bằng nhau:- Phần một tác dụng với lượng dư dung dịch NaOH, đun nóng thu được 0,7437 lít khí (ở đkc) và 1,07 gam kết tủa;- Phần hai tác dụng với lượng dư dung dịch BaCl2, thu được 4,66 gam kết tủa. Tổng khối lượng các muối khan thu được khi cô cạn dung dịch X là (quá trình cô cạn chỉ có nước bay hơi)",
+  "options": {
+   "A": "3,73 gam.",
+   "B": "7,04 gam.",
+   "C": "7,46 gam.",
+   "D": "3,52 gam."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C2_0336",
+  "stem": "(Đề TSĐH B - 2013) Dung dịch X chứa 0,12 mol Na+; x mol SO42–; 0,12 mol Cl– và 0,05 mol NH4+. Cho 300 mL dung dịch Ba(OH)2 0,1 M vào X đến khi các phản ứng xảy ra hoàn toàn, lọc bỏ kết tủa, thu được dung dịch Y. Cô cạn Y, thu được m gam chất rắn khan. Giá trị của m là",
+  "options": {
+   "A": "7,190.",
+   "B": "7,705.",
+   "C": "7,875.",
+   "D": "7,020."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C2_0337",
+  "stem": "Dung dịch X chứa các ion Mg2+; SO42–; NH4+ và Cl–. Chia dung dịch E thành 2 phần bằng nhau: Phần 1 tác dụng với dung dịch NaOH dư, đun nóng, được 0,58 gam kết tủa và 0,7437 lít khí (đkc). Phần 2 tác dụng với dung dịch BaCl2 dư thu được 4,66 gam kết tủa. Tổng khối lượng các chất tan trong dung dịch X bằng",
+  "options": {
+   "A": "6,11 gam.",
+   "B": "3,055 gam.",
+   "C": "5,35 gam.",
+   "D": "9,165 gam."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C2_0338",
+  "stem": "(SBT – KNTT) Kết quả phân tích thành phần một muối sulfate cho thấy nguyên tố kim loại M chiếm 20% khối lượng, còn lại là oxygen và sulfur (S). Kim loại M là",
+  "options": {
+   "A": "Mg.",
+   "B": "Cu.",
+   "C": "Fe.",
+   "D": "Ca."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C2_0339",
+  "stem": "(SBT – KNTT) Trong công nghiệp thực phẩm, nitrogen lỏng (D = 0,808 g/mL) được phun vào vỏ bao bì trước khi đóng nắp để làm căng vỏ bao bì. Thể tích khí nitrogen thu được (đkc) khi hoá hơi 1 mL nitrogen lỏng là",
+  "options": {
+   "A": "646,4 mL.",
+   "B": "808,0 mL.",
+   "C": "715,4 mL.",
+   "D": "1095,7 mL."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C2_0340",
+  "stem": "(SBT – KNTT) Dẫn khí SO2 vào 100 mL dung dịch KMnO4 0,02 M đến khi mất màu tím theo sơ đồ phản ứng: SO2 + KMnO4 + H2O <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAmF5BIrIgAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:18px\" alt=\"\"> K2SO4 + MnSO4 + H2SO4Thể tích khí SO2 (đkc) đã phản ứng là",
+  "options": {
+   "A": "50 mL.",
+   "B": "248 mL.",
+   "C": "124 mL.",
+   "D": "100 mL."
+  },
+  "answer": "C"
+ }
+]

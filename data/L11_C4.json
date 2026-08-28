@@ -1,0 +1,1377 @@
+[
+ {
+  "id": "L11_C4_0001",
+  "stem": "Công thức tổng quát của alkane là",
+  "options": {
+   "A": "CnHn+2 (n ≥ 1).",
+   "B": "CnH2n+2 (n ≥ 0).",
+   "C": "CnH2n (n ≥ 2).",
+   "D": "CnH2n-2 (n ≥ 2)."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C4_0002",
+  "stem": "Công thức chung của alkane chứa 12 nguyên tử hydrogen trong phân tử là",
+  "options": {
+   "A": "C7H12.",
+   "B": "C4H12.",
+   "C": "C5H12.",
+   "D": "C6H12."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C4_0003",
+  "stem": "Dãy nào sau đây chỉ gồm các chất thuộc dãy đồng đẳng của methane?",
+  "options": {
+   "A": "C2H2, C3H4, C4H6, C5H8.",
+   "B": "CH4, C2H2, C3H4, C4H10.",
+   "C": "CH4, C2H6, C4H10, C5H12.",
+   "D": "C2H6, C3H8, C5H10, C6H12."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C4_0004",
+  "stem": "(Đề THPT QG - 2015) Khí thiên nhiên được dùng làm nhiên liệu và nguyên liệu cho các nhà máy sản xuất điện, sứ, đạm, methyl alcohol,…Thành phần chính của khí thiên nhiên là methane. Công thức phân tử của methane là",
+  "options": {
+   "A": "CH4.",
+   "B": "C2H4.",
+   "C": "C2H2.",
+   "D": "C6H6."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C4_0005",
+  "stem": "(SBT – KNTT) Công thức phân tử nào sau đây không phải là công thức của một alkane?",
+  "options": {
+   "A": "C2H6.",
+   "B": "C3H6.",
+   "C": "C4H10.",
+   "D": "C5H12."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C4_0006",
+  "stem": "(SBT – KNTT) Pentane là tên theo danh pháp thay thế của",
+  "options": {
+   "A": "CH3[CH2]2CH3.",
+   "B": "CH3[CH2]3CH3.",
+   "C": "CH3[CH2]4CH3.",
+   "D": "CH3[CH2]5CH3."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C4_0007",
+  "stem": "",
+  "options": {
+   "A": "Những hợp chất mà trong phân tử chỉ có liên kết đơn là hydrocarbon no.",
+   "B": "Hydrocarbon chỉ có liên kết đơn trong phân tử là hydrocarbon no.",
+   "C": "Hydrocarbon có các liên kết đơn trong phân tử là hydrocarbon no.",
+   "D": "Hydrocarbon có ít nhất một liên kết đơn trong phân tử là hydrocarbon no."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C4_0008",
+  "stem": "(SBT – Cánh Diều) Số đồng phân cấu tạo ứng với công thức phân tử C6H14 là",
+  "options": {
+   "A": "3.",
+   "B": "5.",
+   "C": "4.",
+   "D": "6."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C4_0009",
+  "stem": "(SBT – Cánh Diều) Tên thay thế của hydrocarbon có công thức cấu tạo (CH3)3CCH2CH2CH3 là",
+  "options": {
+   "A": "2,2-dimethylpentane.",
+   "B": "2,3-dimethylpentane.",
+   "C": "2,2,3-trimethylbutane.",
+   "D": "2,2-dimethylbutane."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C4_0010",
+  "stem": "(Đề TSĐH A - 2013) Tên thay thế (theo IUPAC) của (CH3)3C-CH2-CH(CH3)2 là",
+  "options": {
+   "A": "2,2,4,4-tetramethylbutane.",
+   "B": "2,4,4-trimethylpentane.",
+   "C": "2,2,4-trimethylpentane.",
+   "D": "2,4,4,4-tetramethylbutane."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C4_0011",
+  "stem": "Hợp chất hữu cơ X có tên gọi là: 2-chloro-3-methylpentane. Công thức cấu tạo của X là",
+  "options": {
+   "A": "CH3CH2CH(Cl)CH(CH3)2.",
+   "B": "CH3CH(Cl)CH(CH3)CH2CH3.",
+   "C": "CH3CH2CH(CH3)CH2CH2Cl.",
+   "D": "CH3CH(Cl)CH2CH(CH3)CH3."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C4_0012",
+  "stem": "(SBT – KNTT) Alkane X có công thức phân tử C6H14. Số công thức cấu tạo của X là",
+  "options": {
+   "A": "2.",
+   "B": "3.",
+   "C": "4.",
+   "D": "5."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C4_0013",
+  "stem": "(SBT – KNTT) Alkane (CH3)3C-CH2CH(CH3)2 có tên gọi là",
+  "options": {
+   "A": "2,2,4-trimethylpentane.",
+   "B": "2,4,4-trimethylpentane.",
+   "C": "pentamethylpropane.",
+   "D": "trimetylpentane."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C4_0014",
+  "stem": "Cho alkane sau: CH3(C2H5)CH–CH(CH3)2. Danh pháp thay thế của alkane trên là",
+  "options": {
+   "A": "2-ethyl-3-methylbutane.",
+   "B": "2-methyl-3-ethylbutane.",
+   "C": "3,4-dimethylpentane.",
+   "D": "2,3-dimethylpentane."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C4_0015",
+  "stem": "Trong phân tử hydrocarbon X, hydrogen chiếm 25% về khối lượng. Công thức phân tử của X là",
+  "options": {
+   "A": "CH4.",
+   "B": "C2H4.",
+   "C": "C2H6",
+   "D": "C6H6."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C4_0016",
+  "stem": "(SBT – KNTT) Cho các alkane kèm theo nhiệt độ nóng chảy và nhiệt độ sôi oC) sau: propane (–187,7 và –42,1), butane (–138,3 và –0,5), pentane (–129,7 và 36,1), hexane (–95,3 và 68,7). Số alkane tồn tại ở thể khí ở điều kiện thường là",
+  "options": {
+   "A": "1.",
+   "B": "2.",
+   "C": "3.",
+   "D": "4."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C4_0018",
+  "stem": "(SBT – Cánh Diều) Cho các yếu tố sau:(a) Phân tử khối.(b) Tương tác van der Waals giữa các phân tử.(c) Độ tan trong nước.(d) Liên kết hydrogen giữa các phân tử.Số yếu tố không quyết định đến độ lớn của nhiệt độ sôi của các alkane là",
+  "options": {
+   "A": "1.",
+   "B": "2.",
+   "C": "3.",
+   "D": "4."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C4_0019",
+  "stem": "(SBT – KNTT) Phát biểu nào sau đây không đúng?",
+  "options": {
+   "A": "Trong phân tử alkane chỉ chứa các liên kết σ bền vững.",
+   "B": "Các phân tử alkane hầu như không phân cực.",
+   "C": "Ở điều kiện thường các alkane tương đối trơ về mặt hoá học.",
+   "D": "Trong phân tử methane, bốn liên kết C–H hướng về bốn đỉnh của một hình vuông."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C4_0020",
+  "stem": "(SBT – KNTT) Nhận xét nào sau đây là đúng về tính chất hoá học của alkane?",
+  "options": {
+   "A": "Khá trơ về mặt hoá học, phản ứng đặc trưng là thế và tách.",
+   "B": "Hoạt động hoá học mạnh, phản ứng đặc trưng là thế và tách.",
+   "C": "Khá trơ về mặt hoá học, phản ứng đặc trưng là cộng và trùng hợp.",
+   "D": "Hoạt động hoá học mạnh, phản ứng đặc trưng là cộng và trùng hợp."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C4_0021",
+  "stem": "(SBT – KNTT) Cho các chất sau: chloromethane, dichloromethane, trichloromethane và tetrachloromethane. Số chất là sản phẩm của phản ứng xảy ra khi trộn methane với chlorine và chiếu ánh sáng từ ngoại là",
+  "options": {
+   "A": "1.",
+   "B": "2.",
+   "C": "3.",
+   "D": "4"
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C4_0022",
+  "stem": "(SBT – Cánh Diều) Nhỏ 1 mL nước bromine vào ống nghiệm đựng 1 mL hexane, chiếu sáng và lắc đều. Hiện tượng quan sát được là",
+  "options": {
+   "A": "trong ống nghiệm có chất lỏng đồng nhất.",
+   "B": "màu của nước bromine bị mất.",
+   "C": "màu của bromine không thay đổi.",
+   "D": "trong ống nghiệm xuất hiện kết tủa."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C4_0023",
+  "stem": "(SBT – KNTT) Cho các chất sau: (X) 1-chloropropane và (Y) 2-chloropropane. Sản phẩm của phản ứng monochlorine hoá propane là",
+  "options": {
+   "A": "(X).",
+   "B": "(Y).",
+   "C": "cả hai chất.",
+   "D": "chất khác X, Y."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C4_0024",
+  "stem": "(SBT – Cánh Diều) Cho butane phản ứng với chlorine thu được sản phẩm chính là",
+  "options": {
+   "A": "2-chlorobutane.",
+   "B": "1-chlorobutane.",
+   "C": "3-chlorobutane.",
+   "D": "4-chlorobutane."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C4_0025",
+  "stem": "(SBT – KNTT) Trộn neopentane với chlorine và chiếu ánh sáng từ ngoại thì thu được tối đa bao nhiêu sản phẩm monochlorine?",
+  "options": {
+   "A": "1.",
+   "B": "2.",
+   "C": "3.",
+   "D": "4."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C4_0026",
+  "stem": "(SBT – CTST) Có bao nhiêu alkane (có số nguyên tử C &lt; 5) khi tác dụng với chlorine (có ánh sáng hoặc đun nóng) tạo duy nhất một sản phẩm thế monochloro?",
+  "options": {
+   "A": "3.",
+   "B": "2.",
+   "C": "1.",
+   "D": "4."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C4_0027",
+  "stem": "(SBT – CTST) Khi cho 2,2-dimethylbutane tác dụng với chlorine thu được tối đa bao nhiêu dẫn xuất monochloro?",
+  "options": {
+   "A": "3.",
+   "B": "2.",
+   "C": "5.",
+   "D": "4."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C4_0028",
+  "stem": "Hydrocarbon Y có công thức cấu tạo như sau: (CH3)2CHCH2CH3. Khi cho Y phản ứng với bromine có thể thu được bao nhiêu dẫn xuất monobromo là đồng phân cấu tạo của nhau?",
+  "options": {
+   "A": "3.",
+   "B": "4.",
+   "C": "5.",
+   "D": "6."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C4_0029",
+  "stem": "Cho các alkane có công thức phân tử sau: C2H6, C3H8, C4H10 và C5H12. Dãy alkane mà ứng với mỗi công thức phân tử có một đồng phân khi tác dụng với chlorine có thể tạo ra dẫn xuất monochloro duy nhất là",
+  "options": {
+   "A": "C3H8, C4H10.",
+   "B": "C2H6, C5H12.",
+   "C": "C4H10, C5H12.",
+   "D": "C2H6, C4H10."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C4_0030",
+  "stem": "(Đề TSĐH B - 2007) Khi bromine hóa một alkane chỉ thu được một dẫn xuất monobromo duy nhất có tỉ khối hơi đối với hydrogen là 75,5. Tên của alkane đó là",
+  "options": {
+   "A": "3,3-dimethylhecxan.",
+   "B": "2,2-dimethylpropane.",
+   "C": "isopentane.",
+   "D": "2,2,3-trimethylpentane."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C4_0031",
+  "stem": "(SBT – KNTT) Cracking alkane là quá trình phân cắt liên kết C–C (bẻ gãy mạch carbon) của các alkane mạch dài để tạo thành hỗn hợp các hydrocarbon có mạch carbon",
+  "options": {
+   "A": "ngắn hơn.",
+   "B": "dài hơn.",
+   "C": "không đổi.",
+   "D": "thay đổi."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C4_0032",
+  "stem": "(SBT – KNTT) Cho các chất sau: (1) 2-methylbutane; (2) 2-methylpentane; (3) 3-methylpentane; (4) 2,2-dimethylbutane và (5) benzene. Trong số các chất này, có bao nhiêu chất có thể là sản phẩm reforming hexane?",
+  "options": {
+   "A": "5.",
+   "B": "2.",
+   "C": "3.",
+   "D": "4."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C4_0033",
+  "stem": "(SBT – Cánh Diều) Khi dehydrogen hợp chất 2,3-dimethylbutane có thể thu được bao nhiêu alkene đồng phân cấu tạo của nhau?",
+  "options": {
+   "A": "3.",
+   "B": "4.",
+   "C": "2.",
+   "D": "5."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C4_0034",
+  "stem": "(SBT – Cánh Diều) Để tăng chất lượng của xăng, dầu, người ta thực hiện cách nào sau đây?",
+  "options": {
+   "A": "Thực hiện phản ứng reforming để thay đổi cấu trúc của các alkane mạch không nhánh thành hydrocarbon mạch nhánh hoặc mạch vòng có chỉ số octane cao.",
+   "B": "Thực hiện phản ứng cracking để thay đổi cấu trúc các alkane mạch dài chuyển thành các alkene và alkane mạch ngắn hơn.",
+   "C": "Thực hiện phản ứng hydrogen hoá để chuyển các alkene thành alkane.",
+   "D": "Bổ sung thêm heptane vào xăng, dầu."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C4_0035",
+  "stem": "Oxi hoá butane bằng oxygen ở 180 °C và 70 bar tạo thành sản phẩm hữu cơ X duy nhất. X là",
+  "options": {
+   "A": "HCOOH.",
+   "B": "CH3COOH.",
+   "C": "C2H5COOH.",
+   "D": "CO2."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C4_0036",
+  "stem": "(SBT – Cánh Diều) Trong công nghiệp, các alkane được điều chế từ nguồn nào sau đây?",
+  "options": {
+   "A": "Sodium acetate.",
+   "B": "Dầu mỏ và khí mỏ dầu.",
+   "C": "Aluminium carbide (Al4C3).",
+   "D": "Khí biogas."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C4_0037",
+  "stem": "(SBT – CTST) Biogas là một loại khí sinh học, được sản xuất bằng cách ủ kín các chất thải hữu cơ trong chăn nuôi, sinh hoạt. Biogas được dùng để đun nấu, chạy máy phát điện sinh hoạt gia đình. Thành phần chính của biogas là",
+  "options": {
+   "A": "N2.",
+   "B": "CO2.",
+   "C": "CH4.",
+   "D": "NH3."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C4_0038",
+  "stem": "(SBT – Cánh Diều) Phương pháp nào sau đây có thể được thực hiện để góp phần hạn chế ô nhiễm môi trường do các phương tiện giao thông gây ra?",
+  "options": {
+   "A": "Không sử dụng phương tiện giao thông.",
+   "B": "Cấm các phương tiện giao thông tại các đô thị.",
+   "C": "Sử dụng phương tiện chạy bằng điện hoặc nhiên liệu xanh.",
+   "D": "Sử dụng các phương tiện chạy bằng than đá."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C4_0039",
+  "stem": "(SBT – KNTT) Phát biểu nào sau đây về ứng dụng của alkane không đúng?",
+  "options": {
+   "A": "Propane C3H8 và butane C4H10 được sử dụng làm khí đốt.",
+   "B": "Các alkane C6, C7, C8 là nguyên liệu để sản xuất một số hydrocarbon thơm.",
+   "C": "Các alkane lỏng được sử dụng làm nhiên liệu như xăng hay dầu diesel.",
+   "D": "Các alkane từ C11 đến C20 được dùng làm nến và sáp."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C4_0040",
+  "stem": "Công thức tổng quát của alkyne là",
+  "options": {
+   "A": "CnHn+2 (n ≥ 1).",
+   "B": "CnH2n+2 (n ≥ 0).",
+   "C": "CnH2n (n ≥ 2).",
+   "D": "CnH2n-2 (n ≥ 2)."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C4_0041",
+  "stem": "Công thức tổng quát của alkene là",
+  "options": {
+   "A": "CnHn+2 (n ≥ 1).",
+   "B": "CnH2n+2 (n ≥ 0).",
+   "C": "CnH2n (n ≥ 2).",
+   "D": "CnH2n-2 (n ≥ 2)."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C4_0042",
+  "stem": "(SBT – KNTT) Hydrocarbon không no là những hydrocarbon trong phân tử có chứa",
+  "options": {
+   "A": "liên kết đơn.",
+   "B": "liên kết σ.",
+   "C": "liên kết bội.",
+   "D": "vòng benzene."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C4_0043",
+  "stem": "(SBT – Cánh Diều) Phát biểu nào sau đây là đúng?",
+  "options": {
+   "A": "Hydrocarbon không no là những hydrocarbon mạch hở, phân tử chỉ có liên kết đôi C=C hoặc liên kết ba C≡C.",
+   "B": "Hydrocarbon không no là những hydrocarbon mạch vòng, phân tử có liên kết đôi C=C hoặc liên kết ba C≡C.",
+   "C": "Hydrocarbon không no là những hydrocarbon mạch hở, phân từ có liên kết đôi C=C hoặc liên kết ba C≡C.",
+   "D": "Hydrocarbon không no là những hydrocarbon trong phân tử có chứa liên kết đôi C=C hoặc liên kết ba C≡C hoặc cả hai loại liên kết đó."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C4_0044",
+  "stem": "(SBT – Cánh Diều) Phát biểu nào sau đây là không đúng?",
+  "options": {
+   "A": "Công thức chung của các hydrocarbon không no, mạch hở, phân tử có một liên kết đôi C=C là CnH2n, n ≥ 2.",
+   "B": "Công thức phân tử của các hydrocarbon không no, mạch hở, phân tử có một liên kết ba C≡C có dạng CnH2n–2, n ≥ 2.",
+   "C": "Công thức phân tử của các hydrocarbon no, mạch hở có dạng CnH2n, n ≥ 2.",
+   "D": "Công thức chung của các hydrocarbon là CxHy với x ≥ 1."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C4_0045",
+  "stem": "(SBT – KNTT) Hợp chất nào sau đây là một alkene?",
+  "options": {
+   "A": "CH3CH2CH3.",
+   "B": "CH3CH=CH2.",
+   "C": "CH3C≡CH.",
+   "D": "CH2=C=CH2."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C4_0046",
+  "stem": "(SBT – KNTT) Hợp chất nào sau đây là một alkyne?",
+  "options": {
+   "A": "CH3CH2CH2CH3.",
+   "B": "CH3CH=CH2.",
+   "C": "CH3CH2C≡CH.",
+   "D": "CH2=CH-CH=CH2."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C4_0047",
+  "stem": "Chất nào sau đây có chứa hai liên kết π trong phân tử?",
+  "options": {
+   "A": "C2H6.",
+   "B": "C3H4.",
+   "C": "C2H4.",
+   "D": "C4H8."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C4_0048",
+  "stem": "Số liên kết σ và liên kết π trong phân tử CH≡C–CH=CH2 lần lượt là",
+  "options": {
+   "A": "7 và 2.",
+   "B": "7 và 3.",
+   "C": "3 và 3.",
+   "D": "3 và 2."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C4_0049",
+  "stem": "(Đề THPT QG - 2016) Trước những năm 50 của thế kỷ XX, công nghiệp tổng hợp hữu cơ dựa trên nguyên liệu chính là acetylene. Ngày nay, nhờ sự phát triển vượt bậc của công nghệ khai thác và chế biến dầu mỏ, ethylen trở thành nguyên liệu rẻ tiền, tiện lợi hơn nhiều so với acetylene. Công thức phân tử của ethylene là",
+  "options": {
+   "A": "CH4.",
+   "B": "C2H6.",
+   "C": "C2H4.",
+   "D": "C2H2."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C4_0050",
+  "stem": "Cho alkyne X có công thức cấu tạo sau: CH3C≡C-CH(CH3)-CH3. Tên của X là",
+  "options": {
+   "A": "4-methylpent-2-yne.",
+   "B": "2-methylpent-3-yne.",
+   "C": "4-methylpent-3-yne.",
+   "D": "2-methylpent-4-yne."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C4_0052",
+  "stem": "Theo IUPAC alkyne CH3-C≡C-CH(CH3)-CH(CH3)-CH3 có tên gọi là",
+  "options": {
+   "A": "4-dimethylhex-1-yne.",
+   "B": "4,5-dimethylhex-1-yne.",
+   "C": "4,5-dimethylhex-2-yne.",
+   "D": "2,3-dimethylhex-4-yne."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C4_0053",
+  "stem": "Chất X có công thức: CH3–CH(CH3)–CH=CH2. Tên thay thế của X là",
+  "options": {
+   "A": "2-methylbut-3-ene.",
+   "B": "3-methylbut-1-yne.",
+   "C": "3-methylbut-1-ene.",
+   "D": "2-methylbut-3-yne."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C4_0054",
+  "stem": "(SBT – KNTT) Chất nào sau đây là đồng phân của CH2=CH-CH2CH2CH3?",
+  "options": {
+   "A": "(CH3)2C=CH-CH3.",
+   "B": "CH2=CH-CH2CH3.",
+   "C": "CH≡C-CH2CH2CH3.",
+   "D": "CH2=CH-CH2CH=CH2."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C4_0055",
+  "stem": "(Đề TSCĐ - 2011) Chất nào sau đây có đồng phân hình học?",
+  "options": {
+   "A": "CH2=CH-CH=CH2.",
+   "B": "CH3-CH=C(CH3)2.",
+   "C": "CH3-CH=CH-CH=CH2.",
+   "D": "CH2=CH-CH2-CH3."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C4_0056",
+  "stem": "(Đề TSĐH A - 2008) Cho các chất sau: CH2=CH-CH2-CH2-CH=CH2, CH2=CH-CH=CH-CH2-CH3, CH3-C(CH3)=CH-CH3, CH2=CH-CH2-CH=CH2. Số chất có đồng phân hình học là",
+  "options": {
+   "A": "2.",
+   "B": "3.",
+   "C": "1.",
+   "D": "4."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C4_0057",
+  "stem": "(SBT – CTST) Cho các alkene sau:1. CH2=CH-CH2CH3. \t\t\t\t2. (CH3)2C=C(CH3)2.3. CH3CH2CH=CH-CH3. \t\t\t\t4. CH3CH2CH=CH-CH2-CH3.Số alkene có đồng phân hình học là",
+  "options": {
+   "A": "4.",
+   "B": "2.",
+   "C": "3.",
+   "D": "1."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C4_0058",
+  "stem": "Cho các chất có công thức cấu tạo sau: (1) ClCH2CH=CHCH3; (2) CH2CH=CHCH3; (3) BrCH2C(CH3)=C(CH2CH3)2; (4) ClCH2CH=CH2; (5) ClCH2CH=CHCH2CH3; (6) (CH3)2C=CH2. Trong số các chất trên, bao nhiêu chất có đồng phân hình học?",
+  "options": {
+   "A": "3.",
+   "B": "4.",
+   "C": "5.",
+   "D": "6."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C4_0059",
+  "stem": "Số alkene có cùng công thức C4H8 và số alkyne có cùng công thức C4H6 lần lượt là",
+  "options": {
+   "A": "4 và 2.",
+   "B": "4 và 3.",
+   "C": "3 và 3.",
+   "D": "3 và 2."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C4_0060",
+  "stem": "Ứng với công thức phân tử C5H8 có bao nhiêu alkyne là đồng phân cấu tạo của nhau?",
+  "options": {
+   "A": "3.",
+   "B": "2.",
+   "C": "5.",
+   "D": "4."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C4_0061",
+  "stem": "(SBT – KNTT) Chất nào sau đây là đồng phân của CH≡C-CH2CH3?",
+  "options": {
+   "A": "CH≡C-CH3.",
+   "B": "CH3C≡C-CH3.",
+   "C": "CH2=CH-CH2CH3.",
+   "D": "CH2=CH-C≡CH."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C4_0062",
+  "stem": "(SBT – KNTT) Chất nào sau đây không có đồng phân hình học?",
+  "options": {
+   "A": "CH3CH=CH-CH3.",
+   "B": "(CH3)2C=CH-CH3.",
+   "C": "CH3-CH=CH-CH(CH3)2.",
+   "D": "(CH3)2CHCH=CHCH(CH3)2."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C4_0064",
+  "stem": "(SBT – Cánh Diều) Các alkene không có các tính chất vật lí đặc trưng nào sau đây?",
+  "options": {
+   "A": "Tan tốt trong nước và các dung môi hữu cơ.",
+   "B": "Có khối lượng riêng nhỏ hơn khối lượng riêng của nước.",
+   "C": "Có nhiệt độ sôi thấp hơn alkane phân tử có cùng số nguyên tử carbon.",
+   "D": "Không dẫn điện."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C4_0065",
+  "stem": "(SBT – KNTT) Cho các chất kèm theo nhiệt độ nóng chảy và nhiệt độ sôi (°C) sau: (X) but-1-ene (–185 và –6,3); (Y) trans-but-2-ene (–106 và 0,9); (Z) cis-but-2-ene (–139 và 3,7); (T) pent-1-ene (–165 và 30). Chất nào là chất lỏng ở điều kiện thường?",
+  "options": {
+   "A": "(X).",
+   "B": "(Y).",
+   "C": "Z.",
+   "D": "(T)."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C4_0066",
+  "stem": "Phản ứng nào sau đây không phải là phản ứng đặc trưng của hydrocarbon không no?",
+  "options": {
+   "A": "Phản ứng cộng.",
+   "B": "Phản ứng trùng hợp.",
+   "C": "Phản ứng oxi hoá – khử.",
+   "D": "Phản ứng thế."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C4_0067",
+  "stem": "(SBT – KNTT) Chất nào sau đây cộng H2 dư (Ni, to) tạo thành butane?",
+  "options": {
+   "A": "CH3CH=CH2.",
+   "B": "CH3C≡C-CH2CH3.",
+   "C": "CH3CH2CH=CH2.",
+   "D": "(CH3)2C=CH2."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C4_0068",
+  "stem": "Cho phản ứng sau: 2-methylpropene + H2 <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFQAAAAZCAAAAACKxlavAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAmHumUFCwAAAGVSURBVEjHtZU9SEJRFMf/r9Q+aGoxwaIQRCEoNDDHkvaIBgcJkaAammwQhAoiAmuonIQG+4AggraUIKIcRRfJQaXIqSkiwsiPe1pemsL1qT3/0+H+zvvfc869jysQ5FdHGzxbNE0vHTrTdTi1Ivsthe18zK30fk6wEXBkdkST2kwNzGgwmOEX2rnJAcNd+Zt+C0xph7UbM8oKCOkE3OlH4tn5Ftq/2vH0pojckerlnLpAlFo8cKb47dcz/R61FskdIT+iFc8VuE6lRl7v9FXB6C4ALP9Z63Eh4PjXlTJ7NhJSBk2bYt24UJDdVBl8DMpuinHvhxjta14AACq8cbOTBQnTh5PrcwBeE979OHvCZOkZAGCwTG3zvomtikGjf+bXbE4yp2D0S9zTGm1lG0iKqEJERAIhm6/qYUhVDvlERMVSDVo7jowBINJVDyZR2ZhPalFFBkYkEF6LVasDinLIJyL6zBFjjDGm7mCMMWK+y7CtiYNqSDFFQJypfGIT03uAzG/UhdYHAJC10ri+T37TX7Xlif4BTf9W5/Rmdt0AAAAASUVORK5CYII=\" style=\"height:22px\" alt=\"\"> X. Tên gọi của X là",
+  "options": {
+   "A": "isobutane.",
+   "B": "butane.",
+   "C": "xyclobutane.",
+   "D": "2-methylbutane."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C4_0069",
+  "stem": "(Đề THPT QG - 2018) Chất nào sau đây không làm mất màu dung dịch Br2?",
+  "options": {
+   "A": "Acetylene.",
+   "B": "Propylene.",
+   "C": "Ethylen.",
+   "D": "Methane."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C4_0070",
+  "stem": "(Đề TN THPT - 2020) Ở điều kiện thường, chất nào sau đây làm mất màu nước bromine?",
+  "options": {
+   "A": "Butane.",
+   "B": "Methane.",
+   "C": "Ethylene.",
+   "D": "Propane."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C4_0071",
+  "stem": "Hydrocarbon nào sau đây khi phản ứng với nước bromine thu được 1,2-dibromobutane?",
+  "options": {
+   "A": "But-1-ene.",
+   "B": "Butane.",
+   "C": "Buta-1,3-diene.",
+   "D": "But-1-yne."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C4_0072",
+  "stem": "(SBT – KNTT) Sản phẩm tạo thành khi 2-methylpent-2-en tác dụng với Br2 có tên gọi là",
+  "options": {
+   "A": "2,3-dibromo-2-methylpent-2-ene.",
+   "B": "3,4-dibromo-4-methylpentane.",
+   "C": "2,3-dibromo-2-methylpentane.",
+   "D": "4-bromo-2-methylpent-2-ene."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C4_0073",
+  "stem": "(Đề TSCĐ - 2009) Cho các chất: 2-methylpropene, but-1-ene, cis-but-2-ene, 2-methylbut-2-ene. Dãy gồm các chất sau khi phản ứng với H2 (dư, xúc tác Ni, to), cho cùng một sản phẩm là:",
+  "options": {
+   "A": "2-methylbut-2-ene và but-1-ene.",
+   "B": "cis-but-2-ene và but-1-ene.",
+   "C": "but-1-ene, 2-methylpropene và cis-but-2-ene.",
+   "D": "2-methylpropene và cis-but-2-ene."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C4_0074",
+  "stem": "Phản ứng nào sau đây đã tạo thành sản phẩm không tuân theo đúng quy tắc Markovnikov?",
+  "options": {
+   "A": "CH3CH=CH2 + HCl <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAmG5n+4KMAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:20px\" alt=\"\"> CH3CHClCH3.",
+   "B": "(CH3)2C=CH2 + HBr <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAmG5n+4KMAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:20px\" alt=\"\"> (CH3)2CHCH2Br.",
+   "C": "CH3CH2CH=CH2 + H2O <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFAAAAAfCAAAAABVdBXIAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAmHXCdRZYAAAEsSURBVEjHY/zPQF3ARGXzSDVQ5h6VDfzyjzIDd/owCYTfZ7gfLsDss4fhwpQpv5ZM2UHAxP/4Abvz//////935v7////W6GhW/+iJ+DWQYuD////5bxNQ/3+gY/mwHCEVLKQZqEtQBSOBnMLBLMvAwMDwmPELsXaSFimEwUBHynAwEH+k7A1jEkp88P9BohBz+H68Kn9PJjLrEQ20FlDZwHXsR6lr4H8/sQf/////TyinEA9e6Iof5WdgYGFguLQMXc7KD5nX9wpdvu7rIiwm6u8N3M7OwPifYW08ulR6LzLP+Ca6/MMHwf9QAcSfHCf1COZlYsG/Pz9dGZZTNVJmMjRSNZaf8Uf+p2osJ9zcz8HAQLiAJRb81j4ixkBNAxn+QYsZ6iVsKKB68QUAGus38xrD9j0AAAAASUVORK5CYII=\" style=\"height:23px\" alt=\"\"> CH3CH2CH(OH)CH3.",
+   "D": "(CH3)2C=CH-CH3 + HI <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAmG5n+4KMAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:20px\" alt=\"\"> (CH3)2CICH2CH3."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C4_0075",
+  "stem": "(Đề TSĐH B - 2012) Hydrate hóa 2-methylbut-2-ene (điều kiện nhiệt độ, xúc tác thích hợp) thu được sản phẩm chính là",
+  "options": {
+   "A": "2-methylbutan-2-ol.",
+   "B": "3-methylbutan-2-ol.",
+   "C": "3-methylbutan-1-ol.",
+   "D": "2-methylbutan-3-ol."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C4_0076",
+  "stem": "Chất nào dưới đây khi phản ứng với HCl thu được sản phẩm chính là 2-chlorobutane?",
+  "options": {
+   "A": "But-1-ene.",
+   "B": "Buta-1,3-diene.",
+   "C": "But-2-yne.",
+   "D": "But-1-yne."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C4_0077",
+  "stem": "Khi cho but-1-ene tác dụng với dung dịch HBr, theo qui tắc Maccopnhicop sản phẩm nào sau đây là sản phẩm chính?",
+  "options": {
+   "A": "CH3-CH2-CHBr-CH2Br.",
+   "B": "CH3-CH2-CHBr-CH3.",
+   "C": "CH2Br-CH2-CH2-CH2Br.",
+   "D": "CH3-CH2-CH2-CH2Br."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C4_0078",
+  "stem": "(SBT – Cánh Diều) Cho các hydrocarbon: (1) CH2=C(CH3)CH2CH3; (2) (CH3)2C=CHCH3; (3) CH2=C(CH3)CH=CH2; (4) (CH3)2CHC≡CH. Những hydrocarbon nào phản ứng với HBr sinh ra sản phẩm chính là 2-bromo-2-methylbutane?",
+  "options": {
+   "A": "(1) và (2).",
+   "B": "(2) và (4).",
+   "C": "(1)và (3).",
+   "D": "(3) và (4)."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C4_0079",
+  "stem": "(Đề THPT QG - 2018) Chất nào sau đây tác dụng được với dung dịch AgNO3 trong NH3?",
+  "options": {
+   "A": "Methane.",
+   "B": "Ethylen.",
+   "C": "Benzene.",
+   "D": "Propyne."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C4_0080",
+  "stem": "(Đề THPT QG - 2018) Sục khí acetylene vào dung dịch AgNO3 trong NH3 thu được kết tủa màu",
+  "options": {
+   "A": "vàng nhạt.",
+   "B": "trắng.",
+   "C": "đen.",
+   "D": "xanh."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C4_0081",
+  "stem": "(SBT – Cánh Diều) Để phân biệt but-2-yne (CH3C≡CCH3) với but-1-yne (CH≡CCH2CH3) có thể dùng thuốc thử nào sau đây?",
+  "options": {
+   "A": "Dung dịch HCl.",
+   "B": "Dung dịch AgNO3/NH3.",
+   "C": "Nước bromine.",
+   "D": "Dung dịch KMnO4."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C4_0082",
+  "stem": "(SBT – KNTT) Cho các chất sau: propane, propene, propyne, butane, but-l-yne, but-2-yne, but-1-ene và cis-but-2-ene. Số chất tác dụng với dung dịch AgNO3 trong NH3 tạo kết tủa là",
+  "options": {
+   "A": "l.",
+   "B": "2.",
+   "C": "3.",
+   "D": "4."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C4_0083",
+  "stem": "Trong số các alkyne có công thức phân tử C5H8 có mấy chất tác dụng được với dung dịch AgNO3 trong NH3?",
+  "options": {
+   "A": "1.",
+   "B": "2.",
+   "C": "3.",
+   "D": "4."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C4_0084",
+  "stem": "(Đề TSĐH A - 2012) Hydrogen hóa hoàn toàn hydrocarbon mạch hở X thu được isopentane. Số công thức cấu tạo có thể có của X là",
+  "options": {
+   "A": "6.",
+   "B": "7.",
+   "C": "4.",
+   "D": "5."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C4_0085",
+  "stem": "(Đề TSCĐ - 2014) Chất nào sau đây làm mất màu dung dịch KMnO4 ở điều kiện thường?",
+  "options": {
+   "A": "Benzene.",
+   "B": "Methane.",
+   "C": "Toluene.",
+   "D": "Acetylene."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C4_0086",
+  "stem": "(SBT – KNTT) Xét phản ứng hoá học sau:CH3CH=CH2 + KMnO4 + H2O <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAmG5n+4KMAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:20px\" alt=\"\"> CH3CH(OH)CH2OH + MnO2 + KOHTổng hệ số tỉ lượng tối giản của các chất trong phản ứng này bằng",
+  "options": {
+   "A": "13.",
+   "B": "14.",
+   "C": "15.",
+   "D": "16."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C4_0087",
+  "stem": "(SBT – Cánh Diều) Cho pent-2-ene phản ứng với dung dịch KMnO4 ở nhiệt độ phòng có thể thu được sản phẩm hữu cơ có công thức cấu tạo nào sau đây?",
+  "options": {
+   "A": "CH3CH2CH(OH)CH(OH)CH3.",
+   "B": "CH3CH2CH2CH(OH)CH3.",
+   "C": "CH3CH(OH)CH2CH(OH)CH3.",
+   "D": "CH3CH2CH(OH)CH2CH3."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C4_0088",
+  "stem": "(SBT – Cánh Diều) Các chai lọ, túi, màng mỏng trong suốt, không độc, được sử dụng làm chai dụng nước, thực phẩm, màng bọc thực phẩm được sản xuất từ polymer của chất nào sau đây?",
+  "options": {
+   "A": "Butadiene.",
+   "B": "Propene.",
+   "C": "Vinyl chloride.",
+   "D": "Ethylene."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C4_0089",
+  "stem": "(Đề THPT QG - 2019) Cho 2 mL chất lỏng X vào ống nghiệm khô có sẵn vài viên đá bọt sau đó thêm từ từ từng giọt dung dịch H2SO4 đặc, lắc đều. Đun nóng hỗn hợp sinh ra hydrocarbon làm nhạt màu dung dịch KMnO4. Chất X là",
+  "options": {
+   "A": "acetic aldehyde.",
+   "B": "methyl alcohol.",
+   "C": "ethyl alcohol.",
+   "D": "acetic acid."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C4_0090",
+  "stem": "(SBT – KNTT) Arene hay còn gọi là hydrocarbon thơm là những hydrocarbon trong phân tử có chứa một hay nhiều",
+  "options": {
+   "A": "vòng benzene.",
+   "B": "liên kết đơn.",
+   "C": "liên kết đôi.",
+   "D": "liên kết ba."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C4_0092",
+  "stem": "(SBT – KNTT) Công thức phân tử nào sau đây có thể là công thức của hợp chất thuộc dãy đồng đẳng của benzene?",
+  "options": {
+   "A": "C8H16.",
+   "B": "C8H14.",
+   "C": "C8H12.",
+   "D": "C8H10."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C4_0093",
+  "stem": "(SBT – CTST) Công thức phân tử nào dưới đây không thể là của một arene?",
+  "options": {
+   "A": "C7H8.",
+   "B": "C10H8.",
+   "C": "C11H18.",
+   "D": "C8H8."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C4_0094",
+  "stem": "Chất nào sau đây không thể chứa vòng benzene?",
+  "options": {
+   "A": "C8H10.",
+   "B": "C6H8.",
+   "C": "C9H10.",
+   "D": "C9H12."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C4_0095",
+  "stem": "(SBT – Cánh Diều) Phát biểu nào sau đây là không đúng?",
+  "options": {
+   "A": "Hydrocarbon thơm là những hydrocarbon trong phân tử có vòng benzene.",
+   "B": "Các chất trong phân tử có vòng benzene được gọi là hydrocarbon thơm.",
+   "C": "Những hydrocarbon trong phân tử có vòng benzene được gọi là hydrocarbon thơm.",
+   "D": "Dãy đồng đẳng của benzene có công thức tổng quát CnH2n–6 (n ≥ 6)."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C4_0102",
+  "stem": "Ứng với công thức phân tử C8H10 có bao nhiêu arene là đồng phân cấu tạo của nhau?",
+  "options": {
+   "A": "4.",
+   "B": "2.",
+   "C": "5.",
+   "D": "3."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C4_0103",
+  "stem": "(SBT – CTST) Biết độ dài liên kết C=C là 134 pm, liên kết C–C là 154 pm. Thực tế, 3 liên kết π trong vòng benzene không có định mà trải đều trên toàn bộ vòng benzene. Giá trị nào dưới đây phù hợp với độ dài liên kết giữa carbon và carbon trong phân tử benzene?",
+  "options": {
+   "A": "125 pm.",
+   "B": "132 pm.",
+   "C": "160 pm.",
+   "D": "139 pm."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C4_0104",
+  "stem": "(SBT – KNTT) Nhận định nào sau đây về cấu tạo của phân tử benzene không đúng?",
+  "options": {
+   "A": "Phân tử benzene có 6 nguyên tử carbon tạo thành hình lục giác đều.",
+   "B": "Tất cả nguyên tử carbon và hydrogen đều nằm trên một mặt phẳng.",
+   "C": "Các góc liên kết đều bằng 109,5o.",
+   "D": "Các độ dài liên kết carbon – carbon đều bằng nhau."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C4_0105",
+  "stem": "(SBT – KNTT) Nhận xét nào sau đây về tính chất hoá học của benzene là không đúng?",
+  "options": {
+   "A": "Benzene khó tham gia phản ứng cộng hơn ethylene.",
+   "B": "Benzene dễ tham gia phản ứng thế hơn so với phản ứng cộng.",
+   "C": "Benzene không bị oxi hoá bởi tác nhân oxi hoá thông thường.",
+   "D": "Benzene làm mất màu dung dịch nước bromine ở điều kiện thường."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C4_0106",
+  "stem": "(Đề TSCĐ - 2011) Sản phẩm chủ yếu trong hỗn hợp thu được khi cho toluene phản ứng với bromine theo tỉ lệ số mol 1: 1 (có mặt bột Fe) là",
+  "options": {
+   "A": "p-bromotoluene và m-bromotoluene.",
+   "B": "m-bromtoluene.",
+   "C": "o-bromtoluene và p-bromtoluene.",
+   "D": "o-bromtoluene và m-bromtoluene."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C4_0108",
+  "stem": "Cho các chất sau: (X) o-bromotoluene; (Y) m-bromotoluene; (Z) p-bromotoluene. Sản phẩm chính của phản ứng giữa toluen với bromine ở nhiệt độ cao có mặt iron(III) bromide là",
+  "options": {
+   "A": "(X) và (Y).",
+   "B": "(Y) và (Z).",
+   "C": "(X) và (Z).",
+   "D": "(Y)."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C4_0109",
+  "stem": "Chất lỏng X (có công thức phân tử là C6H6) không màu, có mùi thơm nhẹ, không tan trong nước, là một dung môi hữu cơ thông dụng. X tác dụng với chlorine khi chiếu sáng tạo nên chất rắn Y; tác dụng với chlorine khi có xúc tác FeCl3, tạo ra chất lỏng Z và khí T. Khí T khi đi qua dung dịch silver nitrate tạo ra kết tủa trắng. Công thức của các chất Y, Z, T lần lượt là",
+  "options": {
+   "A": "C6H6Cl6, C6H5Cl, HCl.",
+   "B": "C6H5Cl, C6H6Cl6, HCl.",
+   "C": "C6H5Cl5(CH3), C6H5CH2Cl, HCl.",
+   "D": "C6H5CH2Cl, C6H5Cl5(CH3), HCl."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C4_0110",
+  "stem": "(SBT – KNTT) Nitro hoá benzene bằng hỗn hợp HNO3 đặc và H2SO4 đặc ở nhiệt độ &lt; 50 °C, tạo thành chất hữu cơ X. Phát biểu nào sau đây về X không đúng?",
+  "options": {
+   "A": "Tên của X là nitrobenzene.",
+   "B": "X là chất lỏng, sánh như dầu.",
+   "C": "X có màu vàng.",
+   "D": "X tan tốt trong nước."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C4_0111",
+  "stem": "(SBT – KNTT) Chất nào sau đây khi tác dụng với hỗn hợp HNO3 và H2SO4 đặc nóng tạo một sản phẩm mononitro hoá duy nhất?",
+  "options": {
+   "A": "Benzene.",
+   "B": "Toluene.",
+   "C": "o-xylene.",
+   "D": "Naphthalene."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C4_0112",
+  "stem": "(SBT – CTST) Arene (B) có công thức phân tử C8H10. Khi có mặt bột Fe, (B) tác dụng với bromine tạo một sản phẩm thế monobromo duy nhất. Số công thức cấu tạo phù hợp với (B) là",
+  "options": {
+   "A": "3.",
+   "B": "4.",
+   "C": "1.",
+   "D": "2."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C4_0113",
+  "stem": "(SBT – KNTT) Phản ứng giữa toluene và chlorine khi được chiếu sáng tạo sản phẩm là",
+  "options": {
+   "A": "p-chlorotoluene.",
+   "B": "m-chlorotoluene.",
+   "C": "benzyl chloride.",
+   "D": "2,4-dichlorotoluene."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C4_0114",
+  "stem": "(SBT – KNTT) Nhận xét nào sau đây không đúng đối với phản ứng cộng chlorine vào benzene?",
+  "options": {
+   "A": "Khó hơn phản ứng cộng chlorine vào ethylene.",
+   "B": "Xảy ra với điều kiện ánh sáng tử ngoại và đun nóng.",
+   "C": "Sản phẩm thu được là 1,2,3,4,5,6-hexachlorocyclohexane.",
+   "D": "Tỉ lệ mol của các chất tham gia phản ứng là 1: 1."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C4_0115",
+  "stem": "(SBT – KNTT) Phân tử chất nào sau đây có thể cộng thêm 5 phân tử H2 (xúc tác Ni, đun nóng)?",
+  "options": {
+   "A": "Benzene.",
+   "B": "Toluene.",
+   "C": "Styrene.",
+   "D": "Naphthalene."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C4_0116",
+  "stem": "(SBT – KNTT) Đun nóng toluene với dung dịch KMnO4 nóng, thì tỉ lệ mol C6H5COOK sinh ra so với KMnO4 phản ứng bằng",
+  "options": {
+   "A": "l: 2.",
+   "B": "2: 1.",
+   "C": "2: 3.",
+   "D": "3: 2."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C4_0117",
+  "stem": "(SBT – KNTT) Đun nóng hydrocarbon thơm X có công thức phân tử C8H10 với dung dịch KMnO4 nóng thu được dung dịch có chứa C6H5COOK và K2CO3. Chất X là",
+  "options": {
+   "A": "o-xylene.",
+   "B": "p-xylene.",
+   "C": "ethylbenzene.",
+   "D": "styrene."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C4_0118",
+  "stem": "(SBT – Cánh Diều) Chất nào sau đây khi đun nóng với dung dịch KMnO4/H2SO4 tạo thành hợp chất hữu cơ đơn chức?",
+  "options": {
+   "A": "C6H5CH3.",
+   "B": "m-CH3C6H4CH3.",
+   "C": "p-CH3C6H4CH3.",
+   "D": "o-CH3C6H4CH3."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C4_0119",
+  "stem": "(SBT – Cánh Diều) Hydrocarbon thơm X có công thức phân tử C8H10, khi tác dụng với dung dịch KMnO4 trong môi trường H2SO4 tạo nên hợp chất hữu cơ đơn chức Y. X phản ứng với chlorine có chiếu sáng tạo hợp chất hữu cơ Z chứa một nguyên tử Cl trong phân tử (là sản phẩm chính). Các chất X, Y, Z có công thức cấu tạo lần lượt là",
+  "options": {
+   "A": "C6H5CH2CH3, C6H5COOH, C6H5CHClCH3.",
+   "B": "C6H5CH2CH3, C6H5CH2COOH, C6H5CHClCH3.",
+   "C": "o-CH3C6H4CH3, o-HOOCC6H4COOH, o-ClCH2C6H4CH2Cl.",
+   "D": "p-CH3C6H4CH3, p-HOOCC6H4COOH, p-ClCH2C6H4CH2Cl."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C4_0120",
+  "stem": "(SBT – Cánh Diều) Phát biểu nào sau đây là không đúng?",
+  "options": {
+   "A": "Toluene (C6H5CH3) không tác dụng được với nước bromine, dung dịch thuốc tím ở điều kiện thường.",
+   "B": "Styrene (C6H5CH=CH2) tác dụng được với nước bromine, làm mất màu dung dịch thuốc tím ở điều kiện thường.",
+   "C": "Ethylbenzene (C6H5CH2CH3) không tác dụng được với nước bromine, làm mất màu dung dịch thuốc tím khi đun nóng.",
+   "D": "Naphthalene (C10H8) tác dụng được với nước bromine, làm mất màu dung dịch thuốc tím ở điều kiện thường."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C4_0121",
+  "stem": "(SBT – KNTT) Chất nào sau đây là chất rắn, màu trắng?",
+  "options": {
+   "A": "Benzene.",
+   "B": "Toluene.",
+   "C": "Styrene.",
+   "D": "Naphthalene."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C4_0122",
+  "stem": "(SBT – Cánh Diều) Để phân biệt styrene và phenylacetylene chỉ cần dùng chất nào sau đây?",
+  "options": {
+   "A": "Nước bromine.",
+   "B": "Dung dịch KMnO4.",
+   "C": "Dung dịch AgNO3/NH3.",
+   "D": "Khí oxygen dư."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C4_0123",
+  "stem": "Chất nào sau đây có thể làm nhạt màu nước bromine trong CCl4 ở điều kiện thường?",
+  "options": {
+   "A": "Benzene.",
+   "B": "Toluene.",
+   "C": "Styrene.",
+   "D": "Naphthalene."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C4_0124",
+  "stem": "(SBT – KNTT) Chất lỏng X có khả năng làm nhạt màu dung dịch KMnO4 ở điều kiện thường. X là chất nào trong các chất sau đây?",
+  "options": {
+   "A": "Benzene.",
+   "B": "Toluene.",
+   "C": "Styrene.",
+   "D": "Naphtalene."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C4_0125",
+  "stem": "(Đề TSCĐ - 2011) Cho các chất: acetylene, vinylacetylene, cumene và styrene. Trong các chất trên, số chất phản ứng được với nước bromine là",
+  "options": {
+   "A": "1.",
+   "B": "2.",
+   "C": "5.",
+   "D": "3."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C4_0126",
+  "stem": "(Đề TSĐH A - 2012) Cho dãy các chất: cumene, styrene, acetylene, benzene. Số chất trong dãy làm mất màu nước bromine là",
+  "options": {
+   "A": "1.",
+   "B": "4.",
+   "C": "2.",
+   "D": "3."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C4_0127",
+  "stem": "(SBT – Cánh Diều) Một trong những ứng dụng của toluene là",
+  "options": {
+   "A": "làm phụ gia để tăng chỉ số octane của nhiên liệu.",
+   "B": "làm chất đầu để sản xuất methyleyclohexane.",
+   "C": "làm chất đầu để điều chế phenol.",
+   "D": "làm chất đầu để sản xuất polystyrene."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C4_0128",
+  "stem": "(SBT – Cánh Diều) Một số chất gây ô nhiễm môi trường như benzene, toluene có trong khí thải đốt cháy nhiên liệu xăng, dầu. Để giảm thiểu nguyên nhân gây ô nhiễm này cần",
+  "options": {
+   "A": "cầm sử dụng nhiên liệu xăng.",
+   "B": "hạn chế sử dụng nhiên liệu hoá thạch.",
+   "C": "thay xăng bằng khí gas.",
+   "D": "cấm sử dụng xe cá nhân."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C4_0129",
+  "stem": "Phát biểu nào sau đây về quá trình sản xuất các hydrocarbon trong công nghiệp là không đúng?",
+  "options": {
+   "A": "Người ta có thể khai thác/điều chế toluene bằng quá trình reforming hexane và heptane.",
+   "B": "Người ta có thể khai thác/điều chế toluene và benzene từ nhựa than đá.",
+   "C": "Người ta có thể khai thác/điều chế benzene bằng phản ứng trimer hoá acetylene.",
+   "D": "Người ta có thể khai thác benzene từ dầu mỏ hoặc điều chế benzene bằng phản ứng reforming hexane."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C4_0131",
+  "stem": "(Đề MH – 2023) Bình “ga” loại 12 cân sử dụng trong hộ gia đình Y có chứa 12 kg khí hóa lỏng (LPG) gồm propane và butane với tỉ lệ mol tương ứng là 2: 3. Khi được đốt cháy hoàn toàn, 1 mol propane tỏa ra lượng nhiệt là 2220 kJ và 1 mol butane tỏa ra lượng nhiệt là 2850 kJ. Trung bình, lượng nhiệt tiêu thụ từ&#x27; đốt khí “ga” của hộ gia đình Y là 10.000 kJ/ngày và hiệu suất sử dụng nhiệt là 67,3%. Sau bao nhiêu ngày hộ gia đình Y sử dụng hết bình ga trên?",
+  "options": {
+   "A": "30 ngày.",
+   "B": "60 ngày.",
+   "C": "40 ngày.",
+   "D": "20 ngày."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C4_0132",
+  "stem": "(Liên trường Nghệ An lần 2 – 2023) Khí biogas (giả thiết chỉ chứa CH4) và khí gas (chứa 40% C3H8 và 60% C4H10 về thể tích) được dùng phổ biến làm nhiên liệu và đun nấu. Nhiệt lượng tỏa ra khi đốt cháy hoàn toàn 1 mol các chất như bảng sau:Nếu nhu cầu về năng lượng không đổi, hiệu suất sử dụng các loại nhiên liệu như nhau, khi dùng khí biogas để thay thế khí gas để làm nhiên liệu đốt cháy thì lượng khí CO2 thải ra môi trường sẽ",
+  "options": {
+   "A": "giảm 18,9%.",
+   "B": "tăng 18,0%.",
+   "C": "tăng 23,3%.",
+   "D": "giảm 23,3%."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C4_0133",
+  "stem": "Xăng sinh học E10 là nhiên liệu hỗn hợp giữa (10% ethanol và 90% octane) về khối lượng, còn có tên là gasohol. Hiện nay có khoảng 40 nước trên thế giới đang sử dụng nhiên liệu này trong các động cơ đốt trong của xe hơi và phương tiện giao thông tải trọng nhẹ. Biết rằng nhiệt lượng cháy của nhiên liệu đo ở điều kiện tiêu chuẩn (25 oC, 100 kPa) được đưa trong bảng dưới đây:Để sản sinh năng lượng khoảng 2396 MJ thì cần đốt cháy hoàn toàn bao nhiêu tấn xăng E10 ở điều kiện tiêu chuẩn?",
+  "options": {
+   "A": "5,0×10–2 tấn.",
+   "B": "5,2×10–2 tấn.",
+   "C": "7,6×10–2 tấn.",
+   "D": "8,1×10–2 tấn."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C4_0134",
+  "stem": "Một mẫu khí gas X chứa hỗn hợp propane và butane. Đốt cháy hoàn toàn 12 gam mẫu khí gas X tỏa ra nhiệt lượng 594 kJ. Biết rằng, khi đốt cháy hoàn toàn, 1 mol propane tỏa ra lượng nhiệt là 2220 kJ và 1 mol butane tỏa ra lượng nhiệt là 2850 kJ. Tỉ lệ số mol của propan và butan trong X là",
+  "options": {
+   "A": "1: 2.",
+   "B": "2: 3.",
+   "C": "1: 1.",
+   "D": "3: 2."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C4_0135",
+  "stem": "Một bình gas sử dụng trong hộ gia đình X có chứa 12 kg khí hóa lỏng (LPG) gồm propane và butane với tỉ lệ mol tương ứng là 2: 3. Khi đốt cháy hoàn toàn, 1 mol propane tỏa ra lượng nhiệt là 2220 kJ và 1 mol butane tỏa ra lượng nhiệt là 2850 kJ. Trung bình, lượng nhiệt tiêu thụ từ đốt khí gas của hộ gia đình X là 10000 kJ/ngày và sau 45 ngày gia đình X dùng hết bình gas trên. Hiệu suất sử dụng nhiệt của hộ gia đình X gần nhất với giá trị nào sau đây?",
+  "options": {
+   "A": "62,5%.",
+   "B": "75,6%.",
+   "C": "70,8%.",
+   "D": "67,3%."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C4_0136",
+  "stem": "(SBT – Cánh Diều) Một hydrocarbon X mạch hở trong phân tử có phần trăm khối lượng carbon bằng 85,714%. Trên phổ khối lượng của X có peak ion phân tử ứng với giá trị m/z = 42. Công thức phù hợp với X là",
+  "options": {
+   "A": "CH2=CHCH3.",
+   "B": "CH3CH2CH3.",
+   "C": "CH3CH3.",
+   "D": "CH≡CH."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C4_0137",
+  "stem": "(SBT – Cánh Diều) Một arene Y có phần trăm khối lượng carbon bằng 92,307%. Trên phổ khối lượng của Y có peak ion phân tử ứng với giá trị m/z = 104. Công thức cấu tạo phân tử của Y là",
+  "options": {
+   "A": "C6H5CH=CH2.",
+   "B": "CH3C6H4CH3.",
+   "C": "C6H5C≡CH.",
+   "D": "C6H5C2H5."
+  },
+  "answer": "A"
+ }
+]

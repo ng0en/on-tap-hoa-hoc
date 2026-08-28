@@ -1,0 +1,2125 @@
+[
+ {
+  "id": "L12_C5_0001",
+  "stem": "(SBT – KNTT) Mối liên hệ giữa dạng oxi hoá và dạng khử của kim loại M được biểu diễn ở dạng quá trình khử là",
+  "options": {
+   "A": "M <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFEAAAAnCAAAAABSn/s2AAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnEvk5aUYAAAGkSURBVEjH5Za7S8NQFIe/hNTHpLSTk10UFBz0b6ibCD6GgghKN0EsKjiKujgImmxuFRdB8FFFUHRzLC5q3AURpFpECVSh16FNtSmJabyD4plyz+/y5ZzDOfdeRSDZVNlANKDnqbQIXzhlD8mLeJvoBiCTqpI9JFcTQkQOhBBCiN2IcJqH5Gby6/hrifp0+VOTAjSSiFWZMRYOYS0pk6jux0BPSiTSmI6BPgX4q+PEEVYuCnDS/umtGKfGdP8pBrpP4kPXSGZ9GazEGwCTLwBmWxiAR3MMIKwIDGHga2aGZopSjsui0/3n19JnphCsHxctgPl4BwBX2wufUksw4gQAywN9AOwdzlaov3au/z1Rg+f8WRaAi3zKoTYEI96/rtmrcYcaqQ1mExUv3WyGbOj8piZiW32+tKjrdahNx3MAbNUQrQaqNbYJg1shtz3D0ZUaslYBNTUKO/H3AEVzIcpFFvuxhCzIIxaRnVLa3T7N1BStS1KyLp+P6obyE05V1nzT6EFi9LK7cwBeK71mMwBV4+TjRThU3nz59Zq0nY4bVPkDL/sPpbURJM/1G94AAAAASUVORK5CYII=\" style=\"height:22px\" alt=\"\"> Mn+ + ne.",
+   "B": "Mn+ + ne <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFEAAAAnCAAAAABSn/s2AAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnEvk5aUYAAAGkSURBVEjH5Za7S8NQFIe/hNTHpLSTk10UFBz0b6ibCD6GgghKN0EsKjiKujgImmxuFRdB8FFFUHRzLC5q3AURpFpECVSh16FNtSmJabyD4plyz+/y5ZzDOfdeRSDZVNlANKDnqbQIXzhlD8mLeJvoBiCTqpI9JFcTQkQOhBBCiN2IcJqH5Gby6/hrifp0+VOTAjSSiFWZMRYOYS0pk6jux0BPSiTSmI6BPgX4q+PEEVYuCnDS/umtGKfGdP8pBrpP4kPXSGZ9GazEGwCTLwBmWxiAR3MMIKwIDGHga2aGZopSjsui0/3n19JnphCsHxctgPl4BwBX2wufUksw4gQAywN9AOwdzlaov3au/z1Rg+f8WRaAi3zKoTYEI96/rtmrcYcaqQ1mExUv3WyGbOj8piZiW32+tKjrdahNx3MAbNUQrQaqNbYJg1shtz3D0ZUaslYBNTUKO/H3AEVzIcpFFvuxhCzIIxaRnVLa3T7N1BStS1KyLp+P6obyE05V1nzT6EFi9LK7cwBeK71mMwBV4+TjRThU3nz59Zq0nY4bVPkDL/sPpbURJM/1G94AAAAASUVORK5CYII=\" style=\"height:22px\" alt=\"\"> M.",
+   "C": "Mn− <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFEAAAAnCAAAAABSn/s2AAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnEvk5aUYAAAGkSURBVEjH5Za7S8NQFIe/hNTHpLSTk10UFBz0b6ibCD6GgghKN0EsKjiKujgImmxuFRdB8FFFUHRzLC5q3AURpFpECVSh16FNtSmJabyD4plyz+/y5ZzDOfdeRSDZVNlANKDnqbQIXzhlD8mLeJvoBiCTqpI9JFcTQkQOhBBCiN2IcJqH5Gby6/hrifp0+VOTAjSSiFWZMRYOYS0pk6jux0BPSiTSmI6BPgX4q+PEEVYuCnDS/umtGKfGdP8pBrpP4kPXSGZ9GazEGwCTLwBmWxiAR3MMIKwIDGHga2aGZopSjsui0/3n19JnphCsHxctgPl4BwBX2wufUksw4gQAywN9AOwdzlaov3au/z1Rg+f8WRaAi3zKoTYEI96/rtmrcYcaqQ1mExUv3WyGbOj8piZiW32+tKjrdahNx3MAbNUQrQaqNbYJg1shtz3D0ZUaslYBNTUKO/H3AEVzIcpFFvuxhCzIIxaRnVLa3T7N1BStS1KyLp+P6obyE05V1nzT6EFi9LK7cwBeK71mMwBV4+TjRThU3nz59Zq0nY4bVPkDL/sPpbURJM/1G94AAAAASUVORK5CYII=\" style=\"height:22px\" alt=\"\"> M + ne.",
+   "D": "M + ne <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFEAAAAnCAAAAABSn/s2AAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnEvk5aUYAAAGkSURBVEjH5Za7S8NQFIe/hNTHpLSTk10UFBz0b6ibCD6GgghKN0EsKjiKujgImmxuFRdB8FFFUHRzLC5q3AURpFpECVSh16FNtSmJabyD4plyz+/y5ZzDOfdeRSDZVNlANKDnqbQIXzhlD8mLeJvoBiCTqpI9JFcTQkQOhBBCiN2IcJqH5Gby6/hrifp0+VOTAjSSiFWZMRYOYS0pk6jux0BPSiTSmI6BPgX4q+PEEVYuCnDS/umtGKfGdP8pBrpP4kPXSGZ9GazEGwCTLwBmWxiAR3MMIKwIDGHga2aGZopSjsui0/3n19JnphCsHxctgPl4BwBX2wufUksw4gQAywN9AOwdzlaov3au/z1Rg+f8WRaAi3zKoTYEI96/rtmrcYcaqQ1mExUv3WyGbOj8piZiW32+tKjrdahNx3MAbNUQrQaqNbYJg1shtz3D0ZUaslYBNTUKO/H3AEVzIcpFFvuxhCzIIxaRnVLa3T7N1BStS1KyLp+P6obyE05V1nzT6EFi9LK7cwBeK71mMwBV4+TjRThU3nz59Zq0nY4bVPkDL/sPpbURJM/1G94AAAAASUVORK5CYII=\" style=\"height:22px\" alt=\"\"> Mn−."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C5_0002",
+  "stem": "(SBT – KNTT) Kí hiệu cặp oxi hoá − khử ứng với quá trình khử: Fe3+ + 1e <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFEAAAAnCAAAAABSn/s2AAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnEvk5aUYAAAGkSURBVEjH5Za7S8NQFIe/hNTHpLSTk10UFBz0b6ibCD6GgghKN0EsKjiKujgImmxuFRdB8FFFUHRzLC5q3AURpFpECVSh16FNtSmJabyD4plyz+/y5ZzDOfdeRSDZVNlANKDnqbQIXzhlD8mLeJvoBiCTqpI9JFcTQkQOhBBCiN2IcJqH5Gby6/hrifp0+VOTAjSSiFWZMRYOYS0pk6jux0BPSiTSmI6BPgX4q+PEEVYuCnDS/umtGKfGdP8pBrpP4kPXSGZ9GazEGwCTLwBmWxiAR3MMIKwIDGHga2aGZopSjsui0/3n19JnphCsHxctgPl4BwBX2wufUksw4gQAywN9AOwdzlaov3au/z1Rg+f8WRaAi3zKoTYEI96/rtmrcYcaqQ1mExUv3WyGbOj8piZiW32+tKjrdahNx3MAbNUQrQaqNbYJg1shtz3D0ZUaslYBNTUKO/H3AEVzIcpFFvuxhCzIIxaRnVLa3T7N1BStS1KyLp+P6obyE05V1nzT6EFi9LK7cwBeK71mMwBV4+TjRThU3nz59Zq0nY4bVPkDL/sPpbURJM/1G94AAAAASUVORK5CYII=\" style=\"height:22px\" alt=\"\"> Fe2+ là",
+  "options": {
+   "A": "Fe3+/Fe2+.",
+   "B": "Fe2+/Fe.",
+   "C": "Fe3+/Fe.",
+   "D": "Fe2+/Fe3+."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C5_0003",
+  "stem": "(SBT – KNTT) Kí hiệu cặp oxi hoá – khử tương ứng với quá trình khử: Fe(OH)3 + le <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFEAAAAnCAAAAABSn/s2AAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnFBBazHMAAAGkSURBVEjH5Za7S8NQFIe/hNTHpLSTk10UFBz0b6ibCD6GgghKN0EsKjiKujgImmxuFRdB8FFFUHRzLC5q3AURpFpECVSh16FNtSmJabyD4plyz+/y5ZzDOfdeRSDZVNlANKDnqbQIXzhlD8mLeJvoBiCTqpI9JFcTQkQOhBBCiN2IcJqH5Gby6/hrifp0+VOTAjSSiFWZMRYOYS0pk6jux0BPSiTSmI6BPgX4q+PEEVYuCnDS/umtGKfGdP8pBrpP4kPXSGZ9GazEGwCTLwBmWxiAR3MMIKwIDGHga2aGZopSjsui0/3n19JnphCsHxctgPl4BwBX2wufUksw4gQAywN9AOwdzlaov3au/z1Rg+f8WRaAi3zKoTYEI96/rtmrcYcaqQ1mExUv3WyGbOj8piZiW32+tKjrdahNx3MAbNUQrQaqNbYJg1shtz3D0ZUaslYBNTUKO/H3AEVzIcpFFvuxhCzIIxaRnVLa3T7N1BStS1KyLp+P6obyE05V1nzT6EFi9LK7cwBeK71mMwBV4+TjRThU3nz59Zq0nY4bVPkDL/sPpbURJM/1G94AAAAASUVORK5CYII=\" style=\"height:22px\" alt=\"\"> Fe(OH)2 + OH– là",
+  "options": {
+   "A": "Fe3+/Fe2+.",
+   "B": "Fe2+/Fe.",
+   "C": "Fe3+/Fe.",
+   "D": "Fe(OH)3/Fe(OH)2."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C5_0004",
+  "stem": "(KHBD – KNTT) Ở điều kiện chuẩn, thiết lập được điện cực zinc (Zn) bằng cách nhúng thanh Zn vào dung dịch",
+  "options": {
+   "A": "HCl 1 M.",
+   "B": "ZnSO4 1 M.",
+   "C": "H2SO4 1 M.",
+   "D": "NaCl 1 M."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C5_0005",
+  "stem": "(KHBD – KNTT) Ở điều kiện chuẩn, thiết lập được điện cực silver (Ag) bằng cách nhúng thanh Ag vào dung dịch",
+  "options": {
+   "A": "NaNO3 1 M.",
+   "B": "AgNO3 0,1 M.",
+   "C": "AgNO3 1 M.",
+   "D": "HNO3 1 M."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C5_0006",
+  "stem": "(KHBD – KNTT) Điều kiện chuẩn của một điện cực kim loại là điều kiện ứng với nồng độ ion kim loại là 1 M và nhiệt độ thường được chọn là.",
+  "options": {
+   "A": "298 K (25 oC).",
+   "B": "273 K (0 oC).",
+   "C": "0 K (−273 oC).",
+   "D": "373 K (100 oC)."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C5_0007",
+  "stem": "(KHBD – KNTT) Đối với một điện cực kim loại, tại ranh giới giữa kim loại với dung dịch chất điện li",
+  "options": {
+   "A": "tồn tại cân bằng giữa dạng oxi hoá và dạng khử.",
+   "B": "xảy ra quá trình khử ion kim loại.",
+   "C": "xảy ra quá trình oxi hoá nguyên tử kim loại.",
+   "D": "xảy ra phản ứng oxi hoá – khử."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C5_0008",
+  "stem": "(KHBD – KNTT) Đối với điện cực hydrogen chuẩn, áp suất khí hydrogen được hấp phụ trên lá Pt và nồng độ ion H+ trong dung dịch chất điện li lần lượt là",
+  "options": {
+   "A": "1 atm và 1 M.",
+   "B": "1 mmHg và 0,1 M.",
+   "C": "1 N/m2 và 0,1 M.",
+   "D": "1 bar và 1 M."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C5_0009",
+  "stem": "(KHBD – KNTT) Đối với điện cực hydrogen chuẩn, tại ranh giới giữa bề mặt Pt với dung dịch chất điện li tồn tại cân bằng",
+  "options": {
+   "A": "2H2O + 2e <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFEAAAAnCAAAAABSn/s2AAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnFWdd/OUAAAGkSURBVEjH5Za7S8NQFIe/hNTHpLSTk10UFBz0b6ibCD6GgghKN0EsKjiKujgImmxuFRdB8FFFUHRzLC5q3AURpFpECVSh16FNtSmJabyD4plyz+/y5ZzDOfdeRSDZVNlANKDnqbQIXzhlD8mLeJvoBiCTqpI9JFcTQkQOhBBCiN2IcJqH5Gby6/hrifp0+VOTAjSSiFWZMRYOYS0pk6jux0BPSiTSmI6BPgX4q+PEEVYuCnDS/umtGKfGdP8pBrpP4kPXSGZ9GazEGwCTLwBmWxiAR3MMIKwIDGHga2aGZopSjsui0/3n19JnphCsHxctgPl4BwBX2wufUksw4gQAywN9AOwdzlaov3au/z1Rg+f8WRaAi3zKoTYEI96/rtmrcYcaqQ1mExUv3WyGbOj8piZiW32+tKjrdahNx3MAbNUQrQaqNbYJg1shtz3D0ZUaslYBNTUKO/H3AEVzIcpFFvuxhCzIIxaRnVLa3T7N1BStS1KyLp+P6obyE05V1nzT6EFi9LK7cwBeK71mMwBV4+TjRThU3nz59Zq0nY4bVPkDL/sPpbURJM/1G94AAAAASUVORK5CYII=\" style=\"height:22px\" alt=\"\"> H2 + 2OH−.",
+   "B": "H+ + 1e <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFEAAAAnCAAAAABSn/s2AAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnFWdd/OUAAAGkSURBVEjH5Za7S8NQFIe/hNTHpLSTk10UFBz0b6ibCD6GgghKN0EsKjiKujgImmxuFRdB8FFFUHRzLC5q3AURpFpECVSh16FNtSmJabyD4plyz+/y5ZzDOfdeRSDZVNlANKDnqbQIXzhlD8mLeJvoBiCTqpI9JFcTQkQOhBBCiN2IcJqH5Gby6/hrifp0+VOTAjSSiFWZMRYOYS0pk6jux0BPSiTSmI6BPgX4q+PEEVYuCnDS/umtGKfGdP8pBrpP4kPXSGZ9GazEGwCTLwBmWxiAR3MMIKwIDGHga2aGZopSjsui0/3n19JnphCsHxctgPl4BwBX2wufUksw4gQAywN9AOwdzlaov3au/z1Rg+f8WRaAi3zKoTYEI96/rtmrcYcaqQ1mExUv3WyGbOj8piZiW32+tKjrdahNx3MAbNUQrQaqNbYJg1shtz3D0ZUaslYBNTUKO/H3AEVzIcpFFvuxhCzIIxaRnVLa3T7N1BStS1KyLp+P6obyE05V1nzT6EFi9LK7cwBeK71mMwBV4+TjRThU3nz59Zq0nY4bVPkDL/sPpbURJM/1G94AAAAASUVORK5CYII=\" style=\"height:22px\" alt=\"\"> H.",
+   "C": "2H+ + 2e <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFEAAAAnCAAAAABSn/s2AAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnFWdd/OUAAAGkSURBVEjH5Za7S8NQFIe/hNTHpLSTk10UFBz0b6ibCD6GgghKN0EsKjiKujgImmxuFRdB8FFFUHRzLC5q3AURpFpECVSh16FNtSmJabyD4plyz+/y5ZzDOfdeRSDZVNlANKDnqbQIXzhlD8mLeJvoBiCTqpI9JFcTQkQOhBBCiN2IcJqH5Gby6/hrifp0+VOTAjSSiFWZMRYOYS0pk6jux0BPSiTSmI6BPgX4q+PEEVYuCnDS/umtGKfGdP8pBrpP4kPXSGZ9GazEGwCTLwBmWxiAR3MMIKwIDGHga2aGZopSjsui0/3n19JnphCsHxctgPl4BwBX2wufUksw4gQAywN9AOwdzlaov3au/z1Rg+f8WRaAi3zKoTYEI96/rtmrcYcaqQ1mExUv3WyGbOj8piZiW32+tKjrdahNx3MAbNUQrQaqNbYJg1shtz3D0ZUaslYBNTUKO/H3AEVzIcpFFvuxhCzIIxaRnVLa3T7N1BStS1KyLp+P6obyE05V1nzT6EFi9LK7cwBeK71mMwBV4+TjRThU3nz59Zq0nY4bVPkDL/sPpbURJM/1G94AAAAASUVORK5CYII=\" style=\"height:22px\" alt=\"\"> H2.",
+   "D": "H <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFEAAAAnCAAAAABSn/s2AAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnFWdd/OUAAAGkSURBVEjH5Za7S8NQFIe/hNTHpLSTk10UFBz0b6ibCD6GgghKN0EsKjiKujgImmxuFRdB8FFFUHRzLC5q3AURpFpECVSh16FNtSmJabyD4plyz+/y5ZzDOfdeRSDZVNlANKDnqbQIXzhlD8mLeJvoBiCTqpI9JFcTQkQOhBBCiN2IcJqH5Gby6/hrifp0+VOTAjSSiFWZMRYOYS0pk6jux0BPSiTSmI6BPgX4q+PEEVYuCnDS/umtGKfGdP8pBrpP4kPXSGZ9GazEGwCTLwBmWxiAR3MMIKwIDGHga2aGZopSjsui0/3n19JnphCsHxctgPl4BwBX2wufUksw4gQAywN9AOwdzlaov3au/z1Rg+f8WRaAi3zKoTYEI96/rtmrcYcaqQ1mExUv3WyGbOj8piZiW32+tKjrdahNx3MAbNUQrQaqNbYJg1shtz3D0ZUaslYBNTUKO/H3AEVzIcpFFvuxhCzIIxaRnVLa3T7N1BStS1KyLp+P6obyE05V1nzT6EFi9LK7cwBeK71mMwBV4+TjRThU3nz59Zq0nY4bVPkDL/sPpbURJM/1G94AAAAASUVORK5CYII=\" style=\"height:22px\" alt=\"\"> H+ + 1e."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C5_0010",
+  "stem": "(KHBD – KNTT) Thế điện cực chuẩn là đại lượng đặc trưng cho điện thế của điện cực ở điều kiện chuẩn và thường được kí hiệu là",
+  "options": {
+   "A": "V.",
+   "B": "Eo.",
+   "C": "∆Ho.",
+   "D": "T."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C5_0011",
+  "stem": "(KHBD – KNTT) Thế điện cực chuẩn của điện cực nào sau đây được quy ước bằng 0 và được gọi là điện cực so sánh?",
+  "options": {
+   "A": "Hydrogen.",
+   "B": "Zinc.",
+   "C": "Copper.",
+   "D": "Silver."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C5_0012",
+  "stem": "(SBT – KNTT) Giá trị thế điện cực chuẩn của cặp oxi hoá − khử nào được quy ước bằng 0 V?",
+  "options": {
+   "A": "Na+/Na.",
+   "B": "2H+/H2.",
+   "C": "Al3+/Al.",
+   "D": "Cl2/2Cl−."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C5_0013",
+  "stem": "(SBT – KNTT) Cặp oxi hoá − khử nào sau đây có giá trị thế điện cực chuẩn lớn hơn 0?",
+  "options": {
+   "A": "K+/K.",
+   "B": "Li+/Li.",
+   "C": "Ba2+/Ba.",
+   "D": "Cu2+/Cu."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C5_0014",
+  "stem": "(KHBD – KNTT) Thế điện cực chuẩn của điện cực copper (Cu) là <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHkAAAAWCAAAAADBM2waAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnEWAwOPwAAAL6SURBVEjHxVZbSBRhGD1rq3bxhlarFK2huNoFw1xXLUMhKXyojMQin7pAu1oUEoLYBTHqqawwtLILlAqVEpsPlaBFFzTWoKgsqo1ctIuVrS1trrunh3F2Z4xgdhE8T99/ODPfnPN/M/+oiClC0FQ1RhDQWaRakrvKEHsdqG7a/zLwe3XmbVzRNV4PZGcV6I8LdW/oEACgY61qbRuAS5k5ZgAkn6KNZPM1ftlAi4mB4mNkHx+H24TFqzLypbqJJEcW4atAfpu+gySZ95akL+0sHQhAFYBZW5UdQGOKDpna8wIVUwKkJHQBwL7Noi66uNkO4HVwAiT73K1dirnLmlpMinr9EuEBANsRO4CHSQCWPhAEcwwAXJEAWuKzvJcZHVcBnN0FSNLe4k+wY7NEPCLJx+gnmbSHZJnOp7od85Z8v859V0ybTEsl/6S6SFINAKiuh9WfeKf98tXv78CKK1HY6FQDCP4t8odbhxsSMLa7Xvr6GHf2ZNxYr5Z53h7oYJk1mmjM0Wgsut0kSyWeB5fvY2UrKfHsiNzG1f0kSd9s+4UfIsZ8aedvJVmcL1FdCHJECV4PidSemT0bhErtS8J0RnHa7kSxajd4yZVmAM+LhMX9tDDADc99N9C9qzPZG/epTQ3jpc9zjsxVe3spWaEsAcGzLeIFH4X1c3viMHn8FunMXUdSljaZt9Dj9dxZh6pauO1Oma0CtA7VdDkr5yqIIGNkFoB5bUbNoHk+4hvf6LH4wOmQ74aD/2qN78Qvxn+N3Oyly+QKZObSfypRqWUPZD2Xyu4TAICabzGJ4SVqADi586gu1GJaoGwGHBXlEUp0KtkpmdsSi77kCZIno+36QgxhtsLO9jhlQmkAI4tI8k+B9WaphK31pH8myZqLH3KUxKgQsvPZAwAIiUOS9NGCVG4VAGihDVHmRhFknSNmDwDdE3bgQTbW3APsfarJ/X2RT9jlujR0GPSH062uYJGz7MXBY6MznhUuKZ/241PspHWeZCN+YOr+w/4CyB6AeaOJmScAAAAASUVORK5CYII=\" style=\"height:24px\" alt=\"\">, điều này nghĩa là khi so sánh với điện cực hydrogen chuẩn, điện cực Cu có thế điện cực",
+  "options": {
+   "A": "gấp đôi.",
+   "B": "thấp hơn 0,340 V.",
+   "C": "cao hơn 0,340 V.",
+   "D": "bằng."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C5_0015",
+  "stem": "(KHBD – KNTT) Thế điện cực chuẩn của điện cực kẽm là <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAAAWCAAAAAAtastJAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnFv5UrV8AAANGSURBVEjH5VZZbIxhFD3/dEpHVbSdhhAV1aQvHlRLmqqllFJNNIJaYklQ2loaOkKoPUSQaREjagmCdmwhajBoxDSoJVIixNJOiiadtipdZmOOh/ln/hmJmL8hHpyne8+9ud/57ndv8gnEv4XiH58PBXA0SUgZm5IY1oTO1fo8a1cr2XIzUvPsolMsCIIgKG2wrpqQPuQ6rsWnpaeaAACO9eHh65uBujU9NW0ASGrxheRSC/XF3KdnF7FyLl2TCkRHu9toNO7PJjNXkzdLqb1OlvSsdwc1CjNJVs4jSUnAnQ7qi7nvfBfP71TdIC+oOt2esZHk/Gre7tZM0sWnX8l6nHEH3wtFJDm7yk/AQ5IdBeX5nQEcZm8TYZU4Ez6Qb2CSGPN4csVwya/HWdGa1M9JNrlDHgH2hTJuuy1URKbEnUUL2YRzErP8Cjk+WTNh6Mp2kmRFtwYxchWXyb2HSJJKAMB0pb2/jHkrKvKaHQYAE3sBNiiBYEgzbDHtB1ojNFHNSQ4dABzU9BVDU6KPZKHsLgDALeBC7+/5XZv9hhkAXgwBVHACDqi8kZJlAhASHoXImaU6AAd6bPWuXs4mc92wMB8BQNBhORtnE43g0BgLgHAA0WiJQBOiPTlt+hoAg+oAqFso4PjjsiBvgcVbS2sLRTFS2byABWhjRcyHQq1Wq4MADOvxBnihivfk6OaEABhX4wS+DBBQ8vKkUirQZ9rRT55M7xp+muU7ZxUV+eS2dhmTWZBNV/oq1kRpSdI2qJEkrTGH6UzYwl1pBoPBUONNvocTogWydARGjhmTHLPEv+Aibk7MqwpcgDVnclqujR8HZpCkLsfNvsvISl9rZwIAYIGUneJZd/yq3pVn/La21SWjBZ593CwrXen7tu0Fo2vLXwEAdjRHxoZNDxUAlDgiuu/ZMDPA+TBe08laI78OfGvkxMqfJVabPvN+asA3eiezaT89wemF/D51+9xjPlSxi/b413yStGe0Q/6D/Bb+/4GWXXuhiM3c+cCnQwoBu7PiENencHCjvOYGBL8ZQOG6yNZWQOHzTTIl4+2lR3ge60//Mfh14Omt4FMbv36s/dDglLgErBl18cgZs8XSYP4LAoT//k/4A9Teh9RYNKMRAAAAAElFTkSuQmCC\" style=\"height:24px\" alt=\"\">, điều này nghĩa là khi so sánh với điện cực hydrogen chuẩn, điện cực kẽm có thế điện cực",
+  "options": {
+   "A": "cao hơn.",
+   "B": "thấp hơn.",
+   "C": "bằng.",
+   "D": "gấp đôi."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C5_0016",
+  "stem": "(SBT – KNTT) Cặp oxi hoá – khử nào sau đây có giá trị thế điện cực chuẩn nhỏ hơn 0?",
+  "options": {
+   "A": "Ag+/Ag.",
+   "B": "Na+/Na.",
+   "C": "Hg2+/Hg.",
+   "D": "Cu2+/Cu."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C5_0017",
+  "stem": "(SBT – KNTT) Cho dãy sắp xếp các kim loại theo chiều giảm dần tính khử: Na, Mg, Al, Fe. Trong số các cặp oxi hoá − khử sau, cặp nào có giá trị thế điện cực chuẩn nhỏ nhất?",
+  "options": {
+   "A": "Mg2+/Mg.",
+   "B": "Fe2+/Fe.",
+   "C": "Na+/Na.",
+   "D": "Al3+/Al."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C5_0018",
+  "stem": "(SBT – KNTT) Cho thứ tự sắp xếp các cặp oxi hoá − khử trong dãy điện hoá: Mg2+/Mg; H2O/H2, OH−; 2H+/H2; Ag+/Ag. Cặp oxi hoá − khử có giá trị thế điện cực chuẩn lớn nhất trong dãy là",
+  "options": {
+   "A": "2H+/H2.",
+   "B": "Ag+/Ag.",
+   "C": "H2O/H2, OH−.",
+   "D": "Mg2+/Mg."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C5_0019",
+  "stem": "(SBT – KNTT) Cho phản ứng hoá học: Cu + 2Ag+ <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnD5o/BZ8AAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> Cu2+ + 2Ag.Phát biểu nào sau đây về phản ứng trên là đúng?",
+  "options": {
+   "A": "Ag+ khử Cu thành Cu2+.",
+   "B": "Cu2+ có tính oxi hoá mạnh hơn Ag+.",
+   "C": "Cu có tính khử yếu hơn Ag.",
+   "D": "Cu là chất khử, Ag+ là chất oxi hoá."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C5_0020",
+  "stem": "(SBT – KNTT) Cho phản ứng hoá học: Cu + 2Fe3+ <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnF4lTnckAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> Cu2+ + 2Fe2+. Phát biểu nào sau đây về phản ứng trên không đúng?",
+  "options": {
+   "A": "Cu bị Fe3+ oxi hoá thành Cu2+.",
+   "B": "Cu2+ có tính oxi hoá mạnh hơn Fe3+.",
+   "C": "Fe3+ bị Cu khử thành Fe2+.",
+   "D": "Cu là chất khử, Fe3+ là chất oxi hoá."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C5_0021",
+  "stem": "(SBT – KNTT) Trong dãy điện hoá của kim loại, khi đi từ trái sang phải, tính oxi hoá của các ion kim loại biến đổi như thế nào?",
+  "options": {
+   "A": "Không đổi.",
+   "B": "Tuần hoàn.",
+   "C": "Giảm dần.",
+   "D": "Tăng dần."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C5_0022",
+  "stem": "(SBT – KNTT) Trong nước, thế điện cực chuẩn của kim loại M2+/M càng lớn thì dạng khử có tính khử..(1).. và dạng oxi hoá có tính oxi hoá..(2).. Cụm từ cần điền vào (1) và (2) lần lượt là",
+  "options": {
+   "A": "càng mạnh và càng yếu.",
+   "B": "càng mạnh và càng mạnh.",
+   "C": "càng yếu và càng yếu.",
+   "D": "càng yếu và càng mạnh."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C5_0023",
+  "stem": "(SBT – KNTT) Xét phản ứng hoá học giữa hai cặp oxi hoá – khử của kim loại:R + 2M+ <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnF4lTnckAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> R2+ + 2MBiết giá trị thế điện cực chuẩn các cặp oxi hoá – khử M⁺/M và R2+/R lần lượt là x (V) và y (V). Nhận xét nào sau đây đúng?",
+  "options": {
+   "A": "x &lt; y.",
+   "B": "x &gt; y.",
+   "C": "x = y.",
+   "D": "2x = y."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C5_0024",
+  "stem": "(Đề TN THPT QG – 2021) Kim loại nào sau đây có tính khử yếu hơn kim loại Cu?",
+  "options": {
+   "A": "Zn.",
+   "B": "Ag.",
+   "C": "Mg.",
+   "D": "Fe."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C5_0025",
+  "stem": "(Đề TN THPT QG – 2021) Kim loại nào sau đây có tính khử mạnh hơn kim loại Al?",
+  "options": {
+   "A": "Fe.",
+   "B": "Cu.",
+   "C": "Mg.",
+   "D": "Ag."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C5_0026",
+  "stem": "(Đề THPT QG - 2017) Kim loại nào sau đây có tính khử mạnh nhất?",
+  "options": {
+   "A": "Fe.",
+   "B": "K.",
+   "C": "Mg.",
+   "D": "Al."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C5_0027",
+  "stem": "(Đề MH - 2018) Kim loại nào sau đây có tính khử yếu nhất?",
+  "options": {
+   "A": "Ag.",
+   "B": "Al.",
+   "C": "Fe.",
+   "D": "Cu."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C5_0028",
+  "stem": "(Đề TNTHPT QG – 2020) Ion kim loại nào sau đây có tính oxi hóa mạnh nhất",
+  "options": {
+   "A": "Mg2+.",
+   "B": "Zn2+.",
+   "C": "Al3+.",
+   "D": "Cu2+."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C5_0029",
+  "stem": "(Đề TNTHPT QG – 2021) Ion kim loại nào sau đây có tính oxi hóa yếu nhất?",
+  "options": {
+   "A": "Cu2+.",
+   "B": "Na+.",
+   "C": "Mg2+.",
+   "D": "Ag+."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C5_0030",
+  "stem": "(Đề TSCĐ - 2012) Cho dãy các ion: Fe2+, Ni2+, Cu2+, Sn2+. Trong cùng điều kiện, ion có tính oxi hóa mạnh nhất trong dãy là",
+  "options": {
+   "A": "Sn2+.",
+   "B": "Cu2+.",
+   "C": "Fe2+.",
+   "D": "Ni2+."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C5_0031",
+  "stem": "Trong số các ion: Ag+, Al3+, Fe2+, Cu2+, ion nào có tính oxi hoá mạnh nhất ở điều kiện chuẩn?",
+  "options": {
+   "A": "Cu2+.",
+   "B": "Fe2+.",
+   "C": "Ag+.",
+   "D": "Al3+."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C5_0032",
+  "stem": "(SBT – CTST) Dãy kim loại sắp xếp theo chiều tăng dần tính khử từ trái sang phải là",
+  "options": {
+   "A": "Pb, Ni, Sn, Zn.",
+   "B": "Pb, Sn, Ni, Zn.",
+   "C": "Ni, Sn, Zn. Pb.",
+   "D": "Ni, Zn, Pb, Sn."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C5_0033",
+  "stem": "Dãy cation kim loại được sắp xếp theo chiều tăng dần tính oxi hoá từ trái sang phải là",
+  "options": {
+   "A": "Cu2+, Fe2+, Mg2+.",
+   "B": "Mg2+, Fe2+, Cu2+.",
+   "C": "Mg2+, Cu2+, Fe2+.",
+   "D": "Cu2+, Mg2+, Fe2+."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C5_0034",
+  "stem": "Cho các ion kim loại: Zn2+, Sn2+, Ni2+, Fe2+, Pb2+. Thứ tự tính oxi hoá giảm dần là",
+  "options": {
+   "A": "Pb2+ &gt; Sn2+ &gt; Fe2+ &gt; Ni2+ &gt; Zn2+.",
+   "B": "Sn2+ &gt; Ni2+ &gt; Zn2+ &gt; Pb2+ &gt; Fe2+.",
+   "C": "Zn2+ &gt; Sn2+ &gt; Ni2+ &gt; Fe2+ &gt; Pb2+.",
+   "D": "Pb2+ &gt; Sn2+ &gt; Ni2+ &gt; Fe2+ &gt; Zn2+."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C5_0035",
+  "stem": "(SBT – CTST) Dãy các kim loại được sắp xếp theo chiều tính khử giảm dần là",
+  "options": {
+   "A": "K &gt; Ca &gt; Mg &gt; Cu &gt; Fe &gt; Al.",
+   "B": "Ca &gt; K &gt; Mg &gt; Cu &gt; Fe &gt; Al.",
+   "C": "K &gt; Ca &gt; Mg &gt; Al &gt; Fe &gt; Cu.",
+   "D": "Ca &gt; K &gt; Cu &gt; Mg &gt; Fe &gt; Al."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C5_0036",
+  "stem": "(SBT – CTST) Dãy các ion được sắp xếp theo chiều tính oxi hoá giảm dần là",
+  "options": {
+   "A": "K+ &gt; Mg2+ &gt; Al3+ &gt; Fe2+ &gt; Cu2+.",
+   "B": "Fe2+ &gt; Cu2+ &gt; K+ &gt; Mg2+ &gt; Al3+.",
+   "C": "Cu2+ &gt; Fe2+ &gt; K+ &gt; Mg2+ &gt; Al3+.",
+   "D": "Cu2+ &gt; Fe2+ &gt; Al3+ &gt; Mg2+ &gt; K+."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C5_0037",
+  "stem": "(SBT – CTST) Dung dịch chất nào sau đây có thể hoà tan được Fe?",
+  "options": {
+   "A": "AlCl3.",
+   "B": "Fe2(SO4)3",
+   "C": "FeCl2.",
+   "D": "MgCl2."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C5_0038",
+  "stem": "(SBT – KNTT) Ở điều kiện chuẩn, Fe khử được ion kim loại nào sau đây trong dung dịch?",
+  "options": {
+   "A": "Mg2+.",
+   "B": "Al3+.",
+   "C": "Na+.",
+   "D": "Ag+."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C5_0039",
+  "stem": "(SBT – KNTT) Ở điều kiện chuẩn, kim loại nào sau đây khử được ion H+ thành H2?",
+  "options": {
+   "A": "Mg.",
+   "B": "Cu.",
+   "C": "Hg.",
+   "D": "Au."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C5_0040",
+  "stem": "(Đề THPT QG - 2015) Kim loại Fe không phản ứng với chất nào sau đây trong dung dịch?",
+  "options": {
+   "A": "CuSO4.",
+   "B": "MgCl2.",
+   "C": "FeCl3.",
+   "D": "AgNO3."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C5_0041",
+  "stem": "(Đề TSCĐ - 2007) Để khử ion Fe3+ trong dung dịch thành ion Fe2+ có thể dùng một lượng dư",
+  "options": {
+   "A": "kim loại Mg.",
+   "B": "kim loại Cu.",
+   "C": "kim loại Ba.",
+   "D": "kim loại Ag."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C5_0042",
+  "stem": "(Đề TSCĐ - 2007) Để khử ion Cu2+ trong dung dịch CuSO4 có thể dùng kim loại",
+  "options": {
+   "A": "Fe.",
+   "B": "Na.",
+   "C": "K.",
+   "D": "Ba."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C5_0043",
+  "stem": "(Đề THPT QG - 2018) Ở nhiệt độ thường, kim loại Fe phản ứng được với dung dịch",
+  "options": {
+   "A": "FeCl2.",
+   "B": "NaCl.",
+   "C": "MgCl2.",
+   "D": "CuCl2."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C5_0044",
+  "stem": "(Đề TSCĐ - 2011) Dãy gồm các ion đều oxi hóa được kim loại Fe là",
+  "options": {
+   "A": "Fe3+, Cu2+, Ag+.",
+   "B": "Zn2+, Cu2+, Ag+.",
+   "C": "Cr2+, Au3+, Fe3+.",
+   "D": "Cr2+, Cu2+, Ag+."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C5_0045",
+  "stem": "(Đề TSCĐ - 2009) Thứ tự một số cặp oxi hoá – khử trong dãy điện hoá như sau: Mg2+/Mg; Fe2+/Fe; Cu2+/Cu; Fe3+/Fe2+; Ag+/Ag. Dãy chỉ gồm các chất, ion tác dụng được với ion Fe3+ trong dung dịch là:",
+  "options": {
+   "A": "Mg, Fe2+, Ag.",
+   "B": "Mg, Cu, Cu2+.",
+   "C": "Mg, Fe, Cu.",
+   "D": "Fe, Cu, Ag+."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C5_0046",
+  "stem": "(Đề TSCĐ - 2010) Cho biết thứ tự từ trái sang phải của các cặp oxi hoá - khử trong dãy điện hoá (dãy thế điện cực chuẩn) như sau: Zn2+/Zn; Fe2+/Fe; Cu2+/Cu; Fe3+/Fe2+; Ag+/Ag. Các kim loại và ion đều phản ứng được với ion Fe2+ trong dung dịch là",
+  "options": {
+   "A": "Zn, Ag+.",
+   "B": "Ag, Cu2+.",
+   "C": "Ag, Fe3+.",
+   "D": "Zn, Cu2+."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C5_0047",
+  "stem": "(Đề MH – 2021) Cho từ từ đến dư kim loại X vào dung dịch FeCl3, sau khi phản ứng xảy ra hoàn toàn thu được dung dịch Y chứa hai muối. X là kim loại nào sau đây?",
+  "options": {
+   "A": "Mg.",
+   "B": "Zn.",
+   "C": "Cu.",
+   "D": "Na."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C5_0048",
+  "stem": "(SBT – KNTT) Cho thứ tự sắp xếp một số cặp oxi hoá – khử trong dãy điện hoá: Al3+/Al, Fe2+/Fe, Sn2+/Sn, Cu2+/Cu. Kim loại nào sau đây có phản ứng với dung dịch muối tương ứng?",
+  "options": {
+   "A": "Fe và CuSO4.",
+   "B": "Fe và Al2(SO4)3.",
+   "C": "Sn và FeSO4.",
+   "D": "Cu và SnSO4."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C5_0049",
+  "stem": "(SBT – KNTT) Cho các cặp oxi hoá – khử của các halogen và thế điện cực chuẩn tương ứng:Dãy sắp xếp các ion halide theo thứ tự giảm dần tính khử là",
+  "options": {
+   "A": "F−, Cl−, Br−, I−.",
+   "B": "Cl−, F−, Br−, I−.",
+   "C": "I−, Br−, Cl−, F−.",
+   "D": "Br−, I−, F−, Cl−."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C5_0050",
+  "stem": "(SBT – KNTT) Cho các cặp oxi hoá − khử của các kim loại và thế điện cực chuẩn tương ứng:Trong số các kim loại trên, kim loại có tính khử mạnh nhất là",
+  "options": {
+   "A": "Mg.",
+   "B": "Zn.",
+   "C": "Ag.",
+   "D": "Li."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C5_0051",
+  "stem": "(KHBD – KNTT) Cho biết:Dãy sắp xếp các ion kim loại theo chiều tăng dần tính oxi hoá là",
+  "options": {
+   "A": "Fe2+; Ni2+; Cu2+; Ag+.",
+   "B": "Cu2+; Ag+; Ni2+; Fe2+.",
+   "C": "Ag+; Fe2+; Cu2+; Ni2+.",
+   "D": "Ag+; Cu2+; Ni2+; Fe2+."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C5_0052",
+  "stem": "Cho biết:Dãy sắp xếp các cation theo chiều tăng dần tính oxi hoá là",
+  "options": {
+   "A": "Fe2+; H+; Cu2+; Ag+.",
+   "B": "Ag+; Cu2+; H+; Fe2+.",
+   "C": "H+; Fe2+; Ag+; Cu2+.",
+   "D": "H+; Cu2+; Fe2+; Ag+."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C5_0053",
+  "stem": "Cho biết:Dãy sắp xếp các kim loại theo chiều tăng dần tính khử là",
+  "options": {
+   "A": "K &lt; Mg &lt; Zn &lt; Hg.",
+   "B": "Mg &lt; K &lt; Hg &lt; Zn.",
+   "C": "Hg &lt; Zn &lt; Mg &lt; K.",
+   "D": "Hg &lt; Mg &lt; Zn &lt; K."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C5_0054",
+  "stem": "(SBT – KNTT) Cho thế điện cực chuẩn của các cặp oxi hoá − khử: Fe2+/Fe, Na+/Na, Ag+/Ag, Mg2+/Mg, Cu2+/Cu lần lượt là –0,44 V, –2,713 V, +0,799 V, –2,353 V, +0,340 V. Ở điều kiện chuẩn, kim loại Cu khử được ion kim loại nào sau đây?",
+  "options": {
+   "A": "Na+.",
+   "B": "Mg2+.",
+   "C": "Ag+.",
+   "D": "Fe2+."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C5_0055",
+  "stem": "(SBT – Cánh Diều) Dự đoán hiện tượng nào sau đây sẽ xảy ra khi dùng một chiếc thìa bằng copper (Cu) khuấy vào cốc chứa dung dịch aluminium nitrate?",
+  "options": {
+   "A": "Chiếc thìa bị phủ một lớp Al.",
+   "B": "Một hỗn hợp Cu và Al được tạo thành.",
+   "C": "Dung dịch trở nên xanh.",
+   "D": "Không biến đổi hoá học nào xảy ra."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C5_0056",
+  "stem": "(Đề TSCĐ - 2008) Hai kim loại X, Y và các dung dịch muối chloride của chúng có các phản ứng hóa học sau:X + 2YCl3 <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnD5o/BZ8AAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> XCl2 + 2YCl2;Y + XCl2 <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnD5o/BZ8AAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> YCl2 + X.Phát biểu nào sau đây là đúng?",
+  "options": {
+   "A": "Kim loại X khử được ion Y2+.",
+   "B": "Kim loại X có tính khử mạnh hơn kim loại Y.",
+   "C": "Ion Y3+ có tính oxi hóa mạnh hơn ion X2+.",
+   "D": "Ion Y2+ có tính oxi hóa mạnh hơn ion X2+."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C5_0057",
+  "stem": "(Đề TSĐH A - 2011) Cho các phản ứng sau:Fe + 2Fe(NO3)3 <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnD5o/BZ8AAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> 3Fe(NO3)2;AgNO3 + Fe(NO3)2 <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnD5o/BZ8AAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> Fe(NO3)3 + Ag.Dãy sắp xếp theo thứ tự tăng dần tính oxi hoá của các ion kim loại là",
+  "options": {
+   "A": "Ag+, Fe2+, Fe3+.",
+   "B": "Ag+, Fe3+, Fe2+.",
+   "C": "Fe2+, Ag+, Fe3+.",
+   "D": "Fe2+, Fe3+, Ag+."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C5_0058",
+  "stem": "(SBT – Cánh Diều) Cho các thông tin sau:X(s) + YSO4(aq) <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnFv5UrV8AAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> không có phản ứngZ(s) + YSO4(aq) <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnFv5UrV8AAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> Y(s) + ZSO4(aq)Trong đó, X, Y, Z là các kim loại. Dãy nào sau đây sắp xếp đúng các kim loại theo mức độ hoạt động của chúng?",
+  "options": {
+   "A": "Z &gt; Y &gt; X.",
+   "B": "X &gt; Y &gt; Z.",
+   "C": "Y &gt; X &gt; Z.",
+   "D": "Y &gt; Z &gt; X."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C5_0059",
+  "stem": "(SBT – Cánh Diều) Một học sinh thực hiện ba thí nghiệm ở điều kiện chuẩn và quan sát được các hiện tượng sau:(1) Copper (Cu) kim loại không phản ứng với dung dịch Pb(NO3)2 1 M.(2) Lead (Pb) kim loại tan trong dung dịch AgNO3 1 M và xuất hiện tinh thể Ag.(3) Silver (Ag) kim loại không phản ứng với dung dịch Cu(NO3)2 1 M.Trật tự nào sau đây thể hiện đúng mức độ khử của ba kim loại?",
+  "options": {
+   "A": "Cu &gt; Pb &gt; Ag.",
+   "B": "Pb &gt; Cu &gt; Ag.",
+   "C": "Cu &gt; Ap &gt; Pb.",
+   "D": "Pb &gt; Ag &gt; Cu."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C5_0060",
+  "stem": "(SBT – Hóa học 12 NC) Cho biết: <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAPQAAAAXCAAAAAAZlD0OAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnF4lTnckAAAXISURBVFjD7ZhrUJRlFMf/C0tcFcFwUZBGIdEZ7ygDykUMwiQVEMZyzDTBK6KTKTpljhqS0pSG1gziQKMo3jWdsSBFR2UNsxkgcilUFBAxkNuyoLvsvw/vLnsR84XB8YOdT+f89zznt+d5zvvMuyshXj2zeNlf4CU1fWfVa+5Tgid5JQBH9qQe7mGhuzOiJu/WB6cDZocsbDIRf5kmmXYSQJZf4Bl9Wu+QASA/JHryRX2wLWC2fzJwTSKRSCQPAODJBienDfVAxRqHtS0ASNJxFcmaFeRkav3ZI9OO3csG11NCcM/qLDsmxpuK9TZxJMmQcqNlvUAmyXuOCsr7VAlBjs0/fGibTfmCvLy8vMeCuNbiLknmf0CShvF2DQd69IBvLgJwqXgu+sXsFBSFeiQsRhebis5zDjUDKLPyNC/QYzKAqs+aAewb4Q2/NzIEqdj1dbgMKgY8Q0NDQ18TxKXMAID0pYDRM61ongEkpn29+vmgNqXO1ACAlBIAV93tgFFyLQDA1zUPTZdnmopY1pqtxwZEGZXrBhkA9HClFgCqkpsBXB0GYNQVIWF67U2UVE83XTU0fJ8GqC+fBMAw3hv/Fj1MYfY6206StN5PcvFoksdQI2RcsR7bN0JrJnL8GPLxGDVJ/1lG490NMkmNHm5fQJJyVJIclkgywVuXkmrtI91OykfOiYg8q1/3I06SX31HkpQCAE4pUDpf9EjlGtz2LKDjghJ+7VIAVmgDANTG5kQ2hG7ZZCICy+ILfY/PkgIo6CzQPTIAS6XBv52LOzjQD9ECSMfJT/1z6B+BE6b6XrfBtdCsGEGN8EiPRM4FmJx0Srf2W2/1MpkMjjJZ2pJRJI/qDnWbB8l0hycmItnq+BFDK03W95xMkmdkMme4yGQ3vFeSXKE76bfnk5wbLgSxYfrkLywqLi6m0UkDWC9+s5UanWNr7fwAsNk9D9h2FkCd9QAAwC1XAG7Khx7GImD3YcZSB/enynWDDACNeqeP5bsPcM3/d3fA4xGAOg9BvzUWgFuhELiU6tPjNu+984ngGr2cZP4mEvuel872GLSA+y1AiZ9QzrUZQIOli4kIYJkqZklXBUWTAXTo4V5GiwLKAJQIl5SOPhC72wHUDNHnyKIzqsfpfP2QkfEK0+HZohQ3ZNb7SWrHf88G2Unu619A3pAqqJ0xu1PstJAhWpJs93rfaLyfIh84lsz2z8XBhYusqm8pCxwqucirkfzGs41Ng9K4IZ8ss/upM/USMnUeyNsrrdyCgwN97KpNym2asPyqKK5STZIV70QHppG5tjtIHguODV9U1yl22pEUkmRHsDPJZ5LZvlyeMH6jKHhHi5YkzwfFBuSTW1FIqrdMjQ3epmHOyPCIoBNGuQEqQ9Mmlhmo9zTrGrUkd5Jx68XtOklycb6IpHvh5kruALkqPrJO6Dm9Tqv8WEPy4M3IeJV8QK5o+oQmMVnmPzjanf8CAE05LGPsJcD1CWgO/FkLAI0PRDxyu5ymPD9JsW6XuRTm5Gcb5NMf0JRj3v3DEps5lgBqh/sE2fo5hQEoVz+/bmvCmr5i7gWpaXjb2+2HZCQNz04BJgJAQSLORRWdD1Ot9v/2VxH1pr8pIskh0+YZnyQNz07BUQCWvgAe9dfJxZmeeadFFP50oJiezZs+Z6c9s9Xi+vaaBiGmhQQlbc5ZYfekCw9rRdQT0zPcu9BasiAfDAMZAM7MBC5r0IIC/5gTIura24vq2bxpLEThhdApmc5vCeGVSaj2icK4Zm/1oTgbcSV7Zn0WQFoBAxkAGpyAwHn4EtFJqh29yDJtOqNCq7VN9SwstfIQXthvrG7dGoFa580JRS32o4e9uJ5LVbcGl9UoDWQAta5QVjx+UqkqrbrVVjRC5DGKsS4utyebqTK/XksPUp7UjUu8Z9YVmSQzy5lyrvcw0q42oul4XaKZZFl2UhH34g76P8gAYHu+SB3UexTJ/38MviL2L++SIkPHDbkOAAAAAElFTkSuQmCC\" style=\"height:27px\" alt=\"\">. Phản ứng hoá học nào sau đây xảy ra được?",
+  "options": {
+   "A": "Hg + Ag <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnD5o/BZ8AAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> Hg2+ + Ag.",
+   "B": "Hg2+ + Ag <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnD5o/BZ8AAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> Hg + Ag+.",
+   "C": "Hg2+ + Ag+ <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnD5o/BZ8AAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> Hg + Ag.",
+   "D": "Hg + Ag <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnD5o/BZ8AAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> Hg2+ + Ag+."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C5_0062",
+  "stem": "(SGK – CTST) Trong pin điện hoá, quá trình khử",
+  "options": {
+   "A": "xảy ra ở cực âm.",
+   "B": "xảy ra ở cực dương.",
+   "C": "xảy ra ở cực âm và cực dương.",
+   "D": "không xảy ra ở cả cực âm và cực dương."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C5_0063",
+  "stem": "(SBT – Hóa học 12 NC) Trong cầu muối của pin điện hoá khi hoạt động, xảy ra sự di chuyển của các",
+  "options": {
+   "A": "ion.",
+   "B": "electron.",
+   "C": "nguyên tử kim loại.",
+   "D": "phân tử nước."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C5_0064",
+  "stem": "(SBT – KNTT) Trong quá trình hoạt động của pin điện hoá Zn − Cu, nhận định nào sau đây không đúng về vai trò của cầu muối?",
+  "options": {
+   "A": "Ngăn cách hai dung dịch chất điện li.",
+   "B": "Cho dòng electron chạy qua.",
+   "C": "Trung hoà điện ở mỗi dung dịch điện li.",
+   "D": "Đóng kín mạch điện."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C5_0065",
+  "stem": "(SBT – CTST) Trong pin điện hoá, quá trình oxi hoá",
+  "options": {
+   "A": "chỉ xảy ra ở cực dương.",
+   "B": "chỉ xảy ra ở cực âm.",
+   "C": "xảy ra ở cả hai cực.",
+   "D": "không xảy ra ở cả hai cực."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C5_0066",
+  "stem": "(SBT – CTST) Phát biểu nào sau đây không đúng về pin Galvani?",
+  "options": {
+   "A": "Ở điện cực dương xảy ra quá trình oxi hoá.",
+   "B": "Cathode là kim loại yếu hơn, đóng vai trò điện cực dương của pin.",
+   "C": "Anode là kim loại mạnh hơn, đóng vai trò điện cực âm của pin.",
+   "D": "Phản ứng hoá học diễn ra trong pin kèm theo sự giải phóng điện năng."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C5_0067",
+  "stem": "(SGK – Cánh Diều) Phát biểu nào sau đây là đúng khi nói về pin Galvani?",
+  "options": {
+   "A": "Anode là điện cực dương.",
+   "B": "Cathode là điện cực âm.",
+   "C": "Ở điện cực âm xảy ra quá trình oxi hoá.",
+   "D": "Dòng electron di chuyển từ cathode sang anode."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C5_0068",
+  "stem": "(SBT – Cánh Diều) Sức điện động chuẩn của pin Galvani được tính như thế nào?",
+  "options": {
+   "A": "Bằng hiệu của thế điện cực chuẩn tương ứng của điện cực dương và điện cực âm.",
+   "B": "Bằng tổng của thế điện cực chuẩn tương ứng của điện cực dương và điện cực âm.",
+   "C": "Bằng tích của thế điện cực chuẩn tương ứng của điện cực dương và điện cực âm.",
+   "D": "Bằng thương của thế điện cực chuẩn tương ứng của điện cực dương và điện cực âm."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C5_0069",
+  "stem": "(SBT – KNTT) Trong pin điện hoá Zn − Cu, phản ứng hoá học xảy ra giữa hai dạng nào của các cặp oxi hoá − khử tương ứng?",
+  "options": {
+   "A": "Zn và Cu2+.",
+   "B": "Zn và Cu.",
+   "C": "Zn2+ và Cu2+.",
+   "D": "Zn và Cu2+."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C5_0070",
+  "stem": "(SBT – KNTT) Trong quá trình hoạt động của pin điện Zn − Cu, dòng electron di chuyển từ",
+  "options": {
+   "A": "cực zinc (Zn) sang cực copper (Cu).",
+   "B": "cực bên phải sang cực bên trái.",
+   "C": "cathode sang anode.",
+   "D": "cực dương sang cực âm."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C5_0071",
+  "stem": "(SBT – KNTT) Trong quá trình hoạt động của pin điện Ni − Cu, quá trình xảy ra ở anode là",
+  "options": {
+   "A": "Ni <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnD5o/BZ8AAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> Ni2+ + 2e.",
+   "B": "Cu <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnD5o/BZ8AAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> Cu2+ + 2e.",
+   "C": "Cu2+ + 2e <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnD5o/BZ8AAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> Cu.",
+   "D": "Ni2+ + 2e <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnD5o/BZ8AAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> Ni."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C5_0072",
+  "stem": "(SBT – KNTT) Trong quá trình hoạt động của pin điện Cu − Ag, điện cực Cu là",
+  "options": {
+   "A": "điện cực dương.",
+   "B": "cathode.",
+   "C": "điện cực bị giảm dần khối lượng.",
+   "D": "nơi xảy ra quá trình khử."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C5_0073",
+  "stem": "(SBT – CTST) Cho pin điện hoá Zn – Fe. Xác định các chất, ion đóng vai trò là chất khử, chất oxi hoá trong pin?",
+  "options": {
+   "A": "Zn là chất khử, Fe2+ là chất oxi hoá.",
+   "B": "Zn là chất oxi hoá, Fe2+ là chất khử.",
+   "C": "Zn2+ là chất khử, Fe là chất oxi hoá.",
+   "D": "Zn2+ là chất oxi hoá, Fe là chất khử."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C5_0074",
+  "stem": "(SBT – KNTT) Phản ứng hoá học xảy ra trong pin điện hoá Sn − Cu:Sn + Cu2+ <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnD5o/BZ8AAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> Sn2+ + CuTrong quá trình hoạt động của pin điện hoá, nhận định nào sau đây là đúng?",
+  "options": {
+   "A": "Khối lượng của điện cực Sn tăng.",
+   "B": "Nồng độ Sn2+ trong dung dịch tăng.",
+   "C": "Khối lượng của điện cực Cu giảm.",
+   "D": "Nồng độ Cu2+ trong dung dịch tăng."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C5_0075",
+  "stem": "(SGK – CTST) Khi pin Galvani Zn – Cu hoạt động thì nồng độ",
+  "options": {
+   "A": "Cu2+ giảm, Zn2+ tăng.",
+   "B": "Cu2+ giảm, Zn2+ giảm.",
+   "C": "Cu2+ tăng, Zn2+ tăng.",
+   "D": "Cu2+ tăng, Zn2+ giảm."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C5_0076",
+  "stem": "(SGK – CTST) Cho một pin điện hoá được tạo bởi các cặp oxi hoá khử Fe2+/Fe, Ag+/Ag ở điều kiện chuẩn. Quá trình xảy ra ở cực âm khi pin hoạt động là",
+  "options": {
+   "A": "Fe <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnD5o/BZ8AAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> Fe2+ + 2e.",
+   "B": "Fe2+ + 2e <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnD5o/BZ8AAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> Fe.",
+   "C": "Ag + le <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnD5o/BZ8AAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> Ag.",
+   "D": "Ag <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnD5o/BZ8AAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> Ag + le."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C5_0077",
+  "stem": "(SBT – Cánh Diều) Xét pin Galvani hoạt động với phương trình tương ứng như sau:Zn + HgO <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnFv5UrV8AAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> ZnO + HgQuá trình nào sau đây xuất hiện ở anode?",
+  "options": {
+   "A": "HgO + 2e <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnFv5UrV8AAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> Hg + O2–.",
+   "B": "Zn2+ + 2e <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnFv5UrV8AAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> Zn",
+   "C": "Zn <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnFv5UrV8AAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> Zn2+ + 2e",
+   "D": "Hg + O2– <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnFv5UrV8AAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> HgO + 2e"
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C5_0078",
+  "stem": "(SBT – Cánh Diều) Trong pin nhiên liệu hydrogen, H2 có vai trò tương tự như kim loại mạnh hơn trong pin Galvani. Phản ứng nào sau đây diễn ra ở điện cực dương khi pin nhiên liệu hydrogen hoạt động?",
+  "options": {
+   "A": "2H2 + O2 <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnFv5UrV8AAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> 2H2O.",
+   "B": "H2 <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnFv5UrV8AAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> 2H+ + 2e.",
+   "C": "O2 + 4H+ + 4e <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnFv5UrV8AAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> 2H2O.",
+   "D": "2H+ + 2e <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnFv5UrV8AAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> H2."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C5_0080",
+  "stem": "(SBT – Hóa học 12 NC) Các chất phản ứng trong pin điện hoá Al – Cu là",
+  "options": {
+   "A": "Al3+.",
+   "B": "Al3+ và Cu.",
+   "C": "Cu2+ và Al.",
+   "D": "Al và Cu."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C5_0081",
+  "stem": "(SGK – Hóa học 12 NC) Trong quá trình pin điện hoá Zn – Ag hoạt động, ta nhận thấy",
+  "options": {
+   "A": "khối lượng của điện cực Zn tăng.",
+   "B": "khối lượng của điện cực Ag giảm.",
+   "C": "nồng độ của ion Zn2+ trong dung dịch tăng.",
+   "D": "nồng độ của ion Ag+ trong dung dịch tăng."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C5_0082",
+  "stem": "(SBT – Hóa học 12 NC) Trong pin điện hoá Zn – Cu, phản ứng hoá học nào xảy ra ở điện cực âm?",
+  "options": {
+   "A": "Cu <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnD5o/BZ8AAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> Cu2+ + 2e.",
+   "B": "Cu2+ + 2e <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnD5o/BZ8AAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> Cu.",
+   "C": "Zn2+ + 2e <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnD5o/BZ8AAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> Zn.",
+   "D": "Zn <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnD5o/BZ8AAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> Zn2+ + 2e."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C5_0083",
+  "stem": "(SBT – CTST) Cho pin điện hoá Zn – Cu. Quá trình xảy ra ở cực dương của pin là",
+  "options": {
+   "A": "Zn2+ + 2e <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnD5o/BZ8AAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> Zn.",
+   "B": "Cu2+ + 2e <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnD5o/BZ8AAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> Cu.",
+   "C": "Zn <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnD5o/BZ8AAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> Zn2+ + 2e.",
+   "D": "Cu <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnD5o/BZ8AAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> Cu2+ + 2e."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C5_0084",
+  "stem": "(SBT – CTST) Cho pin điện hoá Al – Pb. Quá trình xảy ra ở cực âm của pin là",
+  "options": {
+   "A": "Al3+ + 3e <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnD5o/BZ8AAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> Al.",
+   "B": "Pb2+ + 2e <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnD5o/BZ8AAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> Pb.",
+   "C": "Al <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnD5o/BZ8AAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> Al3+ + 3e.",
+   "D": "Pb <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnD5o/BZ8AAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> Pb2+ + 2e."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C5_0085",
+  "stem": "(SBT – Cánh Diều) Một pin Galvani được cấu tạo bởi hai cặp oxi hoá – khử sau:(1) Ag+ + e <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnFv5UrV8AAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> Ag; <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHUAAAAXCAAAAAAQU18xAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnE44+WdAAAALISURBVEjH5VZLSFRhGD1XR8hXRpkUhWXESOlkDyPNUXNRDBIqhYFtjB7gjJJCRC0iyxaSiwoq6CHpxjHTFIxQMrVFTWZIjJgKaqRpYOVjUBudEU+LuffOjI44I4KLzub8/zn3/uf//gf3CsQqwGs1QuEFNKcLkUcSDm2qAgr0lzs9e7856UTcO6mzThAEQbiGruTURK0ZMgN4qxE0NQBKY+JfASD5BTUkyyv5K41tOnqCgaBufgwcFHtxDQ0NDQc7J7YUcfZwNiUmSY6sOU+STOolaU/93s7hNLZle5SaH0My8obY05PsSWElRshiv2mJbWamv4lk9zGSlPf10zYVQvbqn+uWXtVJCXP4oASgei8aGQCK8jDgsx5Q/e2Q2GZqp8oAPMkCHFY4w+36Zv0lGKi8SDIn3G4OxZJ6jJPfUCuxaO2PImeirPZaCzSaNrcPkLdcayymFQB8zHbzTg6QHHyb6MGMxKKlNbbiZapCPMMArtfXxy/rCvhaAVh85f5Y3SkgqKnjQGoLAiUWvdNBj/HsAgBAIT1f7H7UuNQI9A4dBfAnVLYenFUAUNUCTVDKbINfZnFWwFY47SupdXdfN0ho4c1okrvzJWtqh4kk50hejbCziC6E1tlaDqnx80a/4sYMBtd+pSHgB8/tHCfJe5dIciyH7Nv4WmYZSWFzcmrTSUQkJqr3KJ3G+50blTu8dGxjQrq6mbyFVpKWsH6SnNx39Hh8rZ1lvCikvVbH1Quvl5pWnZXkQLWjtjiiTW7uj6vUN1W2e9tjIQ0k+cjspC2CyexyT0Lnpz6l2kRj3v0USbjrQnOR+tOjUDp/6cztpdsrYIjVTYhCr3Kh5gL+mz28505zqBjmkJrDZ0o+i8JDy0JtBaBwnEF/tSpktLcsuM9s3OUPALD4LNRWAi5mUtLLwjo3tBWqVYRvo9Ga4Ia2fAj/0d/aPwTX+73YkGIpAAAAAElFTkSuQmCC\" style=\"height:26px\" alt=\"\">(2) Ni2+ + 2e <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnFv5UrV8AAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> Ni; <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAH8AAAAWCAAAAADMLRxdAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnFv5UrV8AAAMYSURBVEjH5VZZSFRhGD13HEvKLNFoRamsYLAXtdCxsgnMaENssaikMivMJbJNyMwWhIQQNJLC6qFEI6INhC5ulBkKQdnYSNa4C6GlpY5Zzulh7p07k0FXK3zoezrn+777n/st8P8CMaamGVt5aABz8rjZK8L0fgnA7UtZRaM8qMwQFVouk8igNcHHLcBqQRCEA8AUQRAE4SQADKZ6eqZ2AY0p7ke/ACDJyckkOw6SobSGcFTWPNnEqkmtEouwssc3mVwjiqL4hgwVRVFcXGcLHtU0kWTZTpJU9PmA1I9aPz2YpP9piZWSjJ1PrpV4Acm3GyTyTkgjyW2VJKmVW2aauR5Iyhk89PtW98pggrI9lQsALHoqMQMACMoX2wBckE+eG5F/SouuBj0A2PULYjyAaDWTHpouIzHE7mzWAfB64ZD2ajVg3WLt9z/mDQDtrw1yJH7Do0jc2A1F/54Jxhi1m+bSq+CaJmB2MIABLQBXixKpNt8H7o7TWOLCa7QALibYQ2t9rkSisNRG5Plnvh3N2LcD2EiSCxNJHlxoD3QGPJGQEZUkP+q+KV+d0zSW77NBe/9PqC0f6JbBJJe8bGA8APh8BNDpI0e6tuboJTgVbQBy92iVA/ZmXDUfgXP95LUadTV/95LtueLMCCKpS5dY+6pakuzLJfkSNWTf3B7HI6KnhUnIQT/O5JBx8855DpxSP4hWDyOfubcw1q+bbNXlFRcXF/d/NVhpjdMPkdkpTtkVuK7ov090nRUWtixwQptjykB8VUJAmvofKFm+eWkZeRbV5ENba800BK5bGfeBHJzT5Jy9tN+x/l/YwJVOa+/h7+r1ZQvqGVG68/3zPjQGjTvrC8uxo71IcIt2AdBya0eg5fO+0ndZKlazLyHFQ/0iy/unWOamu8xyduVZMnOTmGNRVU5v+wjb9fP9ezntA5Bxw8FjcUO8sRSo2KWimokzRlb9sPvf+8x+YJ6Do2EBIOQnfXZy/j0b9v6Icitx4o/DAfgmqhn+n+ubaxtwyW3IVD9kdw269tRVYf8SGDs+/QN94T9///0AeTX9e7e0OxYAAAAASUVORK5CYII=\" style=\"height:24px\" alt=\"\">Khi pin làm việc ở điều kiện chuẩn, nhận định nào sau đây là đúng?",
+  "options": {
+   "A": "Ag được tạo ra ở cực dương, Ni được tạo ra ở cực âm.",
+   "B": "Ag được tạo ra ở cực dương, Ni2+ được tạo ra ở cực âm.",
+   "C": "Ag+ được tạo ra ở cực âm và Ni được tạo ra ở cực dương.",
+   "D": "Ag+ được tạo ra ở cực âm và Ni2+ được tạo ra ở cực dương."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C5_0086",
+  "stem": "(SBT – Hóa học 12 NC) Trong quá trình hoạt động của pin điện hoá Cu – Ag, nồng độ của các ion trong dung dịch biến đổi như thế nào?",
+  "options": {
+   "A": "Nồng độ của ion Ag+ tăng dần và nồng độ của ion Cu2+ tăng dần.",
+   "B": "Nồng độ của ion Ag+ giảm dần và nồng độ của ion Cu2+ giảm dần.",
+   "C": "Nồng độ của ion Ag+ giảm dần và nồng độ của ion Cu2+ tăng dần.",
+   "D": "Nồng độ của ion Ag+ tăng dần và nồng độ của ion Cu2+ giảm dần."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C5_0087",
+  "stem": "(SBT – CTST) Cho sức điện động chuẩn của các pin điện hoá: <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHYAAAAVCAAAAAC2rEU5AAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnF4lTnckAAALlSURBVEjH5VZrSJNhFH5mU0y7gBTdFlJpEFFGbklKrilkWcpKy4TuS5O0FO1CZUhIhBkalYaCZPinWgkV3oLQMiIqKTRFXGUXc2WlNjPQtT392Ldv03Rs+9OPnl/nPOfwnu+c53zf+0mIfwGPf1IVHkBnupdstTI0IA24UZR/3b1zcpetVSZ+sCMM828C6IxfrwrSA8DrFMnicwAebJlXCIAkp6aT1KeSYTSvpFuIN9Act8yO2AEt2Tv3DnlMZ2EUgWaSzCkjaRvyzCjAfaH3T4ZE/bJb9MsXAUDBjBjgdICQoqsHYKrcCjtt2w0xwMGLBRnOlzL9FDAIqAAAEmtIdzcLAG6r7MgEvxIA1Sof2A35pM7lwdb7Cphq8Q8vtUaG1+mN0JLS3buVigtWNtOrh4xpI0lLWf+oKJnrZUfBMKvOah6qohFaDuD4LzZNuCawHZI8fowgRW3VtbWpbssqwKw5skYw7/2OBgB4QzYRy0NuCXRgZCnL9lpscZNdh7FPQD9J095LYkBtOVpJWTbJWJWVr0Rd8BBJUmp73CtL5K7193iTYEg/w6hZnyAGCnIAkzxfjYgmAH0LrHysLCnRa3S3Se0sDL+8a/D1WeHhBoqZVq44UyZo0xGazeQKfi0bo3FTdGZNTU1NFzUB/cIooCWbJ7VQ790gpp2SvLEYIN8e8JyjVK4K9vnERg2PasWkFAP1jGuhXvB1i1+Ukmwo/rvsgDAw5uKpXVnWhW9WXbWldW+gWNYOjRpuf9SwsyeoJKKZbXtIMq7FFj6vMJNkiCPB5T+cWYtRV4GuKDJsAaZPS97ZjNbZVrZJLn8DAEbPhwAg/Tau3INpWVOcWQvpSDfQ+h55EBLxUxn8HABQtUK98YkvYHZwbZ2Y5dQ2jjzhWacOaNW/6/349j2CugC86qofEoL3K0L8F+77AsBv3ON8nasKOBAgo2dM+m6FM+q5pO0I5FWPxX4f3uZkRw4g+a9+av4AEXmhh7NDBHkAAAAASUVORK5CYII=\" style=\"height:24px\" alt=\"\">; <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHYAAAAVCAAAAAC2rEU5AAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnEBc3CGoAAALQSURBVEjH5VZbSFRRFF13UFRIC3qoYYopDj5JEjQfY4KQSJFUgpkiJZpKEIRh9KGhBGGIRGROGJLK+GFkkTVS1FhkUuQDy3z8DDoTEz4xxZkmx93HPffMTOkwYx9+tH7W3mffe9bdZ9+zzxEIWwHZlqhCBmiyhajDini/h0C16vLXzc2TFZeZUGGUPE3aiaQeGwagjBRKBgFLZUDeFwBENIhOImrvoOks6i+jTeHIGi0GXWTO1PYx6vPWcyYiomdoIyJairIQkXWRD8lBAITNZVshwCf9OXPuh8uRENTEGQCQEawEANVpGQA36b0P8cCeA6qhMueljBZmeLgjDTaf3BsGIPodZ7Gc56+MhgPNj1ltRdwCgKrc2gjnZY/7MdSL/nAGC0ztALBTx1lEoYcSGAj0Bc+2uhFa1xf2hb37UfuEWSY3AO5GziJ2nWq54aksgTXbyu7uFNdl7TFX2unPTK9fAMxenBlKFzqWB9JgzRZAk+tCy6uSjAcwl3M7UQoEzgOYDeTMkBSjNJ2BTbYAABd+JhE5oQx3AENuPVdF8jiAz4mcebq9dQXM5PuWUmgxv6j2KrVr2Pab6DRceODfWm4gIiLdsXyzMbeHHk2ss231EY1qtVq9Mry7noj0PiP0fpuOs4Ql7wJmgej1SUSmpibHhBHVtFL8jPTQShGZ5klOCybR/x46+01JRGdX/pZ9Kuag1QdlEhG9UmQna2xYQlmfVdYGNa2r0cZrzZ8SbirM1NBCRCS3RhvPXTcTUXODg26lqnKqqf1xFLytu+sZArlvecg0RvZKo/fi0gGgeCjaHUDAyMblftl1yanfws3eVeQxQ0YQ+JlYXAwAEIL3AcCag1Nrf5tzzdVuiuXR/jlYxsa1MzOGScTqAGh+aHh4VP/mJ4DJ2I2nC3G2pW+8/uZCy3rDqwVmp8rnEIKD24Wh/+g6o10H/fHPEP6rS81v0JqKPo2nwHQAAAAASUVORK5CYII=\" style=\"height:24px\" alt=\"\">; <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHUAAAAVCAAAAABdm/46AAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnEvk5aUYAAAMjSURBVEjH5ZZbaFRXGIW/EyboREVqvNXGFLGNoB1NtFRpnVxA2xiVWKWIVgleMjhR1AcL4kMpikgiPojiNV5QmpQYG4mRBpGkCq21OCqixruJF6LmVm2cM5nEWX2YMxkjSZjEBx+6nva/9jp7nf3//z5nG+I9IOp9mBIFld8Zn6UmTx5eDBsLfrjRu3VqZn/71c5QUJWRmeI2wefOSMtpAeBMupFeAhye4jwJSLpMiaTCY3o+R54c9QaBxP1qGn4iGPz7UZ7avlwprf5egfS1QbKh73JJUtpdSWHX6qt6Nkeelb1yrYx6Ja1KDQbHaJDyY3xee7lUbPcG2ax+LyTd/FqS2ut64WMHQxMLfsmJPKtms4VW/oiLAcf5AAAPoweBw3vtkpkADvNSUO1+9TOwbwW8keEFPd/g9H4WcuUaL6mYWklSAf9I9yktoFGqp9CST5wgtUxolSQbABv38KDnHXQ6PPTZgGhMADIG52427tDiwxYmwZ399xfHM21WDwM/lpc73+ko2FsBP3YABlZcm5T5FwPstIZJWDhwLwezAbCFnsvvuVVzW8izT3wZUN9naDB2lEIFCbU0DqKeeEsVk5W/on8cHeoquXta15mxFrbprPFSykkJnSNJ68fJjCmTikI9LFUR/1tw9IarUy8WZ+dtUGGlpbpdopNbj8y33ubR7MV+c+Hv+vV2Z+d14m41DSvRgdg/paZV0r0hp6S18xX4Zk1YlTYq0O5aMY9xKSlTxydIm45qcl1I482WngYax4aIp5/UP9kraYm3E9vqGXOdO6TT9jypOWn6LGepJNM1Y5rbFxYVbVF4r2FsOtrmMH86dHHK1mS/dh2RpGWH22f3LN3sl3RoVzdZd1UqArz19T+3bXff0YwZtm70c66PAM5VZ8G+z6cBuK44ooG461032PYPUiPpQ1vHMHmRNYgShsC/pogriS4XAMaokQCBbv5TGZ9G1P0dVmiu8jTw+uatB3V1tTUkPYKdsZ6DuaHpqsdnW4CapK6Xi8wUuk6+f9nrzui2LH8kpesWRjd3iVrPrE7YskkfRrihrmH8j24w/wFT+KIHWLjC+AAAAABJRU5ErkJggg==\" style=\"height:24px\" alt=\"\"> (với X, Y, Z, T là 4 kim loại). Dãy sắp xếp các kim loại theo chiều tăng dần tính khử là",
+  "options": {
+   "A": "X &lt; Y &lt; Z &lt; T.",
+   "B": "Y &lt; T &lt; Z &lt; X.",
+   "C": "T &lt; Z &lt; Y &lt; X.",
+   "D": "Z &lt; X &lt; Y &lt; Y."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C5_0088",
+  "stem": "(SBT – CTST) Cho sức điện động chuẩn của các pin điện hoá sau: <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHsAAAAVCAAAAABDUs6JAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnFv5UrV8AAAMlSURBVEjH5ZZvTNR1HMdfh8g4E9gqUvLSOU+ZNWIWRYSJpzYepMmYZNkSRTDmITh1/pmu1ig3y+kDTxoJI5+0ZPNPUYFzDtoUq6kPcifXMFh4eS6JCNAiPd49+N3v7mhyO48HPujz6P15f9/7vPf9fr6f7+9nEQ8s4h6cNXHQXZVgW5j3or0CGg99dHQ81Vodhblt4cSKCqB7xSuOTB/A1XLLU/uAb1+beQCQpJQqST6nlKuRHMUePSkenU/yhojaeKfU98SX0s5Og3lu9ogkvVsvKXTmU/NhnM2vn5vOCzPqgnnHmWxg/5Rl8IHdoDZ0tgL+468T1m/PwDKoPLh/0/0aDpkxwrk5QMZZc2V4swvgCwdgCXArH64FvnFMAuJN4Werk2Hl/e/VP9VEp3N6ngQeuWQS27ekAnRklXTdfmujwVnXuG6mcngvQe+THtyrYzvnCUMh/Hc8MPGvQPZV4hKAobtpu62Xnn8ssK/yAw3bvLfmEjzzgpYWZ2zWo8J6B/jHaiS+mmoAErFZeSb7WEAze/Enqi8ltG9gR6yG/SZImjC9D+idbqSNzQnAuUOyXQce7TVlGwpPN7WP9oaGjKwYrP12E32dPb8JuFxkpKvygLXpO1h0Efhjlil71Vb2RoIBg/OtMo8upNWVuK9+GJjOwRqpxtXoOh42wn3rX759ZNuAXIP3mG9vslvtk69pnb0/wOQ6pR8nX5YvsS2oes/yswGQujZOnJaX99Kzk36V0tXsDIrKB3SqUlJHeP3hed+9I6l//b0elzMLiua3StX8EOatUwuKHEdCoutLFfQOj3TVvd9W7F9e/Wa9rpRIW49K0tni/oU3TcmFlBuSVHwlwgOX9Wc0z+B/viWDdX2bZxFnX7rnPO7HwW8BmEHKFHg7azuAb1EtgM095hW4VbElOZqrEj86TSoNgDhhEeQ3FcH3NgHUAvBLz+c5BU/DSIQv4K60qK7p6AoXB9rB7fvd293lu5PphfyMj08c7kztOtj7k6HwVC1PWFXshmuZY9Z8KDpriNCPTb+NvXajMpqORo5I3sOfjr3WMDx+b8v/9J/pX4WrNoTi4GV1AAAAAElFTkSuQmCC\" style=\"height:24px\" alt=\"\">; <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHoAAAAVCAAAAACskKW3AAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnFBBazHMAAALmSURBVEjH5VZrSBRhFD2zWRobmgmpFZVYSvkga8XEWBWWrOiH2QMkIdDK3IIEKwojNOlBEWGEJT0srS0oelmBLWmKJJWLPXwEFSJSmrtFqWmtO55+zEy7ra2ZG/Sj++vce+7cw9x7Z75PIP6Vqf6ZMlRA1WohPEEbE3AV2GvY3uxGsdtRuqTEWsWbKAiCIOwGBk+GSZHiMGFTAyDumZbWCIBkA66TvHSFXck06Tl6O3qXLJzQLntxRqPRGN1MU2q8vxy6gwsk2RMukrQ3PDYUBCC48dbaOCClt0b2Nut0upmBczDDkKwkLAkqBgBDqgqAhxJ9FANMnmd4qv9DObFfBoIa8yUgB1IBHMoG/BzGm7mzZQ5QcgNwaHjqKJtcpZbNR+7puA47+TZWGoTScJo9t5KmNSRJSToqKSnEjRk72tJcByfnopM01/r2c2Olg/R1MuPvKB9babM7H+cOOEvXorRHI8Efsz49ytWy9Sqz9gFw9snlMXbueLqHc3pcZPHXtRJ04PRFo5F+mCIDj06gsO28wxfSd65haH5WlqVuiHQjurd4zf6073JAghR41bR4f/k9/33qbLnUgVBPk346AFhupctPaS32Cgfv51QAUyPWV9f7ADi1wnuodNqOhb4yJCtXIiw+flFkCFlQxhizMpa+DeRgXJWYrwR2XSPNMv2g6BeDXgAAWMcCPCZpDWojSVbkRHtl5luVJH2dDPDTswVltoj+vJL6hYe1VhaVknwReea1wmrek/y2rPXmZpIxwy2b5vMINtLp+Kg5csIrGKH+24K70DQFQHhiczBg0mjeAKIAYFwgQgDAwwJX9mVLjjd+b04rqE2TgYoQCACzbAAW1ANAUvUqdL+Twhgc5szLDRzJgv4k3dvyYamf+FJsNZs72qZFtQPoeiZ2Bsj0noPW8c9XROdpWgfGApNc1lSrR6IMuJ6FNUN0TZaXufXnIUlhmFtKh2m5K+pDdQrcNeG/vCB9B0JTeQePmKmbAAAAAElFTkSuQmCC\" style=\"height:24px\" alt=\"\">; <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHkAAAAVCAAAAABHpx60AAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnEBc3CGoAAAMJSURBVEjH5VZbSJNhGH5+UdsKIjqqiWUrAzvgLFuBaZlkiUUUKVnZhTjSwkSKSC80LcEsFp2MKDtvUYFYXUTrgCVRkh0mala2pNDa0lDLzdOeLvb/06KNtS686Ll63+f5+J///d7v5fsEYpjgNVzG8AIerBdmL4lS+V0HCrS76j3/ljU9fmlGj5gcFgRBELytKIpct2g/AODdVmHWQQCVicEaACRfoJyk7hpNa1iTQY+RuZG2FVlioinW6/VHknhFZqZJftlORsywkWTeGZKDzh8M/LKGNds8Nu6W3yavy7vtmd5EMqWaOVNJKnbbybO4R7J/zo+hzk9IMv/yrrq/s+vpEmFhFd6TjagaFJuXkVXyehpkleLPjU0keSOTQ503eFZowSgRCdSinfwK3aC4vYJkyYh53sUSk+1rIlfVDzor4+JCPN5lCWXoJDtQ5iBMYTby/sQm1o65J1JvhGJ+jOEvNaf+s7MObaR5SM25J0kuTyGZHCdxsQpbvpYk6S2NxGkPJ8kqBj6jgtA+Fl8RJEldVw0AmsIATK6WyIy1+puPpXl2kJ44a6aLSEH4yEagVq6UpNJkGQC/TgDf/CVydWBarK89lHabXMyOzWkHcqh7IDWlnDdLLiSli+n7PVd04rQ+v/On7c5Koi1uBw0TNCRpDTaRpEZhYUfAUceivUITpT7fX4dZ0dGRc0PIwotUmaU13WnkZ1t7qEREt5INYrzP8Adni3plbLqVn6bEk2SpmiTZVxCzPrqo37GoJYEO5yEovNg/x5J/9tnCkqhenrhAkqnnRK0rlCR74o0V20hjooujps1z50D+dmM8PFQqU2DmpJ0KE+oCADz8sAU4NT8WsAEAfP0RAiCwznnr9bey3Tkh3r+mUZvEwIsQCPTuuIqXYWo1gNHjWwLwVCUQAGwu7rhpl4S/dv7e0LZy3MDrAaPZ3NocqPwIHBtX80ivs6vnj4fjrioif76xz6dZ6fyTCjfHwnkjelMHnGq5b91ppUsILt4krTUJTpRXPQvcLMw5hP/wNfQTyPWFCzWFoXIAAAAASUVORK5CYII=\" style=\"height:24px\" alt=\"\"> (với X, Y, Z là ba kim loại). Dãy sắp xếp các kim loại theo chiều tăng dần tính khử là",
+  "options": {
+   "A": "X &lt; Y &lt; Z.",
+   "B": "X &lt; Z &lt; Y.",
+   "C": "Y &lt; Z &lt; X.",
+   "D": "Z &lt; X &lt; Y."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C5_0089",
+  "stem": "(SBT – Cánh Diều) Cho các phát biểu sau:(a) Một ưu điểm của acquy là tái sử dụng được nhiều lần.(b) Phản ứng xảy ra trong acquy cũng giống như phản ứng xảy ra trong pin Galvani nhưng có thể đảo ngược.(c) Acquy không gây ô nhiễm môi trường.(d) Acquy là nguồn điện hoá học có thể hoạt động liên tục.Số phát biểu không đúng là",
+  "options": {
+   "A": "2.",
+   "B": "3.",
+   "C": "4.",
+   "D": "1."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C5_0090",
+  "stem": "(SBT – Cánh Diều) Cho các phát biểu sau:(a) Khác với acquy, chất phản ứng của pin nhiên liệu phải được cung cấp liên tục từ nguồn bên ngoài.(b) Pin nhiên liệu tạo ra điện năng nhờ năng lượng mặt trời.(c) Pin nhiên liệu biến đổi trực tiếp năng lượng hoá học thành điện năng.(d) Một trong những hạn chế của pin nhiên liệu là sự lưu trữ nhiên liệu.(e) Khi sử dụng, pin nhiên liệu không gây ô nhiễm môi trường.Số phát biểu đúng là",
+  "options": {
+   "A": "2.",
+   "B": "3.",
+   "C": "4.",
+   "D": "5."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C5_0091",
+  "stem": "(SBT – Hóa học 12 NC) Trong quá trình điện phân, những ion âm (anion) di chuyển về",
+  "options": {
+   "A": "anode, ở đây chúng bị khử.",
+   "B": "anode, ở đây chúng bị oxi hoá.",
+   "C": "cathode, ở đây chúng bị khử.",
+   "D": "cathode, ở đây chúng bị oxi hoá."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C5_0092",
+  "stem": "(SBT – Cánh Diều) Phát biểu nào sau đây về thứ tự điện phân trong dung dịch của các ion kim loại ở điện cực là đúng?",
+  "options": {
+   "A": "Ion kim loại ứng với thế điện cực chuẩn dương hơn sẽ được điện phân trước ở cực âm.",
+   "B": "Ion kim loại ứng với thế điện cực chuẩn âm hơn sẽ được điện phân trước ở cực âm.",
+   "C": "Ion kim loại ứng với thế điện cực chuẩn dương hơn sẽ được điện phân trước ở cực dương.",
+   "D": "Ion kim loại ứng với thế điện cực chuẩn âm hơn sẽ được điện phân trước ở cực dương."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C5_0093",
+  "stem": "(SBT – CTST) Nhận xét nào sau đây đúng về quá trình điện phân ở hai điện cực?",
+  "options": {
+   "A": "Cation nhường electron ở cathode.",
+   "B": "Anion nhận electron ở anode.",
+   "C": "Sự oxi hoá xảy ra ở anode.",
+   "D": "Sự oxi hoá xảy ra ở cathode."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C5_0094",
+  "stem": "(SBT – KNTT) Ion kim loại nào sau đây bị điện phân trong dung dịch (với điện cực graphite)?",
+  "options": {
+   "A": "Na+.",
+   "B": "Cu2+.",
+   "C": "Ca2+.",
+   "D": "K+."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C5_0095",
+  "stem": "(SBT – KNTT) Ion halide hầu như không bị điện phân trong dung dịch là",
+  "options": {
+   "A": "Br–.",
+   "B": "F–.",
+   "C": "Cl–.",
+   "D": "Ι–."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C5_0096",
+  "stem": "(SBT – CTST) Điện phân dung dịch nào sau đây sẽ có khí thoát ra ở cả 2 điện cực (ngay lúc mới đầu bắt đầu điện phân)?",
+  "options": {
+   "A": "Cu(NO3)2",
+   "B": "FeCl2.",
+   "C": "K2SO4.",
+   "D": "FeSO4."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C5_0097",
+  "stem": "(SBT – CTST) Khi điện phân dung dịch nào sau đây, tại anode xảy ra quá trình oxi hoá nước?",
+  "options": {
+   "A": "Dung dịch ZnCl2.",
+   "B": "Dung dịch CuCl2.",
+   "C": "Dung dịch AgNO3.",
+   "D": "Dung dịch MgCl2."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C5_0098",
+  "stem": "(SGK – Hóa học 12 NC) Trong quá trình điện phân KBr nóng chảy, phản ứng nào xảy ra ở điện cực dương (anode)?",
+  "options": {
+   "A": "Ion Br– bị khử.",
+   "B": "Ion Br– bị oxi hoá.",
+   "C": "Ion K+ bị oxi hoá.",
+   "D": "lon K+ bị khử."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C5_0099",
+  "stem": "(SGK – CTST) Điện phân CaCl2 nóng chảy, ở cathode xảy ra quá trình nào?",
+  "options": {
+   "A": "Oxi hoá ion Ca2+.",
+   "B": "Khử ion Ca2+.",
+   "C": "Oxi hoá ion Cl–.",
+   "D": "Khử ion Cl–."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C5_0100",
+  "stem": "(SBT – CTST) Khi điện phân NaCl nóng chảy (điện cực trơ), ở cathode xảy ra",
+  "options": {
+   "A": "sự khử ion Cl–.",
+   "B": "sự oxi hoá ion Cl–.",
+   "C": "sự oxi hoá ion Na+.",
+   "D": "sự khử ion Na+."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C5_0101",
+  "stem": "(SBT – CTST) Điện phân nóng chảy NaCl (điện cực trơ), ở cathode thu được chất nào sau đây?",
+  "options": {
+   "A": "HCl.",
+   "B": "Cl2.",
+   "C": "Na.",
+   "D": "NaOH."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C5_0102",
+  "stem": "(SBT – KNTT) Phương trình hoá học nào sau đây biểu diễn quá trình điều chế kim loại bằng phương pháp điện phân nóng chảy?",
+  "options": {
+   "A": "CaCl2 <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnFWdd/OUAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> Ca + Cl2.",
+   "B": "Fe2O3 + 3CO2 <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnFWdd/OUAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> Fe + 3CO2.",
+   "C": "Mg + CuSO4 <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnFWdd/OUAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> MgSO4 + Cu.",
+   "D": "2NaCl + 2H2O <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnFWdd/OUAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> 2NaOH + H2 + Cl2."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C5_0103",
+  "stem": "(SBT – KNTT) Trong quá trình điện phân KCl nóng chảy với các điện cực trơ, ở cathode xảy ra quá trình",
+  "options": {
+   "A": "oxi hoá ion K+.",
+   "B": "khử ion K+.",
+   "C": "oxi hoá ion Cl–.",
+   "D": "khử ion Cl–."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C5_0104",
+  "stem": "(SBT – KNTT) Phản ứng hoá học chính xảy ra trong quá trình điện phân nóng chảy Al2O3 trong 3NaF.AlF3 là",
+  "options": {
+   "A": "2AlF3 <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnFWdd/OUAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> 2Al + 3F2",
+   "B": "2NaF <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnFWdd/OUAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> Na + F2.",
+   "C": "2H2O <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnFWdd/OUAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> 2H2 + O2",
+   "D": "2Al2O3 <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnFWdd/OUAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> 4Al + 3O2."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C5_0105",
+  "stem": "(SBT – KNTT) Việc duy trì điện áp thấp (~ 5 V) trong quá trình điện phân nóng chảy Al2O3 trong 3NaF.AlF3 nhằm ngăn cản quá trình nào sau đây xảy ra ở cathode?",
+  "options": {
+   "A": "Al3+ + 3e <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnFWdd/OUAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> Al.",
+   "B": "Na+ + le <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnFWdd/OUAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> Na.",
+   "C": "F2 + 2e <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnFWdd/OUAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> 2F–.",
+   "D": "O2 + 4e <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnFWdd/OUAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> 2O2–."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C5_0106",
+  "stem": "(SBT – Hóa học 12 NC) Trong quá trình điện phân dung dịch AgNO3 (các điện cực trơ), ở cực âm xảy ra phản ứng nào sau đây?",
+  "options": {
+   "A": "Ag <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnD5o/BZ8AAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> Ag + le.",
+   "B": "Ag+ + le <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnD5o/BZ8AAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> Ag.",
+   "C": "2H2O <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnD5o/BZ8AAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> 4H+ + O2 + 4e.",
+   "D": "2H2O + 2e <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnD5o/BZ8AAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> H2 + 2OH–."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C5_0107",
+  "stem": "(SBT – Cánh Diều) Khi điện phân dung dịch CuSO4, ion nào sẽ điện phân đầu tiên ở cathode?",
+  "options": {
+   "A": "Cu2+.",
+   "B": "H+ (của nước).",
+   "C": "SO42–.",
+   "D": "OH– (của nước)."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C5_0108",
+  "stem": "(SBT – Hóa học 12 NC) Trong quá trình điện phân dung dịch CuSO4 (các điện cực trơ), ở anode xảy ra phản ứng",
+  "options": {
+   "A": "oxi hoá ion SO42–.",
+   "B": "khử ion SO42–.",
+   "C": "khử phân tử H2O.",
+   "D": "oxi hoá phân tử H2O."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C5_0109",
+  "stem": "(SBT – CTST) Điện phân dung dịch CuCl2 với điện cực trơ. Nồng độ của CuCl2 trong dung dịch",
+  "options": {
+   "A": "giảm dần.",
+   "B": "tăng dần.",
+   "C": "không thay đổi.",
+   "D": "tăng dần rồi giảm dần."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C5_0110",
+  "stem": "(SBT – KNTT) Khi điện phân dung dịch CuSO4 bằng dòng điện một chiều (với điện cực anode bằng Cu) thì ở anode xảy ra quá trình",
+  "options": {
+   "A": "oxi hoá H2O thành H⁺ và O2.",
+   "B": "khử Cu2+ thành Cu.",
+   "C": "oxi hoá Cu thành Cu2+.",
+   "D": "khử H2O thành H2 và OH–."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C5_0111",
+  "stem": "(SBT – CTST) Điện phân dung dịch CuSO4 với hai điện cực trơ. Sau một thời gian, màu xanh của dung dịch nhạt dần do",
+  "options": {
+   "A": "khí H2 sinh ra đã khử màu của dung dịch.",
+   "B": "dung dịch bị pha loãng dần nên màu xanh nhạt dần.",
+   "C": "ion Cu2+ bị khử dần thành Cu kim loại.",
+   "D": "ion Cu2+ được tạo thêm."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C5_0112",
+  "stem": "(SBT – CTST) Điện phân dung dịch CuSO4 với anode bằng đồng (anode tan) và điện phân dung dịch CuSO4 với anode bằng graphite (điện cực trơ) đều có đặc điểm chung là",
+  "options": {
+   "A": "ở cathode xảy ra sự oxi hoá: 2H2O + 2e <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnD5o/BZ8AAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> 2OH– + H2.",
+   "B": "ở anode xảy ra sự khử: 2H2O <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnD5o/BZ8AAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> O2 + 4H+ + 4e",
+   "C": "ở anode xảy ra sự oxi hoá: Cu <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnD5o/BZ8AAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> Cu2+ + 2e.",
+   "D": "ở cathode xảy ra sự khử: Cu2+ + 2e <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnD5o/BZ8AAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> Cu"
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C5_0113",
+  "stem": "(SBT – Cánh Diều) Khi điện phân dung địch NaCl có màng ngăn, các chất được tạo ra ở anode (cực dương) và cathode (cực âm) lần lượt là",
+  "options": {
+   "A": "Cl2 và NaOH, H2.",
+   "B": "Na và Cl2.",
+   "C": "Cl2 và Na.",
+   "D": "NaOH và H2."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C5_0114",
+  "stem": "(SBT – CTST) Trong quá trình điện phân dung dịch NaCl (điện cực trơ), ở cathode xảy ra",
+  "options": {
+   "A": "sự oxi hoá cation Na+.",
+   "B": "sự oxi hoá phân tử H2O.",
+   "C": "sự khử phân tử H2O.",
+   "D": "sự khử cation Na+."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C5_0115",
+  "stem": "(SBT – CTST) Sản phẩm thu được khi điện phân dung dịch KCl (điện cực trơ, có màng ngăn) gồm",
+  "options": {
+   "A": "K và Cl2.",
+   "B": "K, H2 và Cl2.",
+   "C": "KOH, H2 và Cl2.",
+   "D": "KOH, O2 và HCl."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C5_0116",
+  "stem": "(SBT – KNTT) Trong công nghiệp, quá trình điện phân dung dịch NaCl bão hoà (điện cực trơ, có màng ngăn xốp) tạo ra khí nào sau đây ở cathode?",
+  "options": {
+   "A": "Hydrogen.",
+   "B": "Chlorine.",
+   "C": "Oxygen.",
+   "D": "Hydrogen chloride."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C5_0117",
+  "stem": "(SBT – CTST) Tiến hành điện phân dung dịch NaCl bằng điện cực trơ, thu được một khí Y duy nhất. Điều khẳng định nào sau đây là đúng?",
+  "options": {
+   "A": "Y là khí oxygen.",
+   "B": "Y là khí chlorine.",
+   "C": "Y là khí hydrogen.",
+   "D": "Có dùng màng ngăn."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C5_0118",
+  "stem": "(SBT – CTST) Quá trình điện phân dung dịch NaCl (điện cực trơ, có màng ngăn) và điện phân NaCl nóng chảy (điện cực trơ) có điểm giống nhau là",
+  "options": {
+   "A": "tại cathode xảy ra sự khử ion Na+.",
+   "B": "tại cathode xảy ra sự khử phân tử H2O",
+   "C": "tại anode xảy ra sự oxi hoá ion Cl–.",
+   "D": "tại anode xảy ra sự oxi hoá phân tử H2O."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C5_0119",
+  "stem": "(SBT – KNTT) Xét quá trình điện phân dung dịch NaCl 20% bằng dòng điện một chiều (với điện cực trơ, có màng ngăn xốp). Quá trình khử xảy ra ở cathode là",
+  "options": {
+   "A": "2H2O + 2e <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnFWdd/OUAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> H2 + 2OH–.",
+   "B": "Cl2 + 2e <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnFWdd/OUAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> 2Сl–.",
+   "C": "2Cl– <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnFWdd/OUAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> Cl2 + 2e.",
+   "D": "H2O <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnFWdd/OUAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> 2H+ + ½O2 + 2e."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C5_0120",
+  "stem": "(SBT – KNTT) Phương trình hoá học nào sau đây biểu diễn quá trình điều chế kim loại bằng phương pháp điện phân dung dịch?",
+  "options": {
+   "A": "2Al2O3 <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnFWdd/OUAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> 4Al + 3O2.",
+   "B": "2Al + Cr2O3 <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnFWdd/OUAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> Al2O3 + 2Cr.",
+   "C": "Zn + CuSO4 <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnFWdd/OUAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> ZnSO4 + Cu.",
+   "D": "CuCl2 <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnFWdd/OUAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> Cu + Cl2."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C5_0121",
+  "stem": "(SBT – KNTT) Trong công nghiệp, phương pháp điện phân dung dịch được sử dụng để sản xuất một lượng đáng kể kim loại nào sau đây?",
+  "options": {
+   "A": "Zn.",
+   "B": "Al.",
+   "C": "Na.",
+   "D": "Mg."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C5_0122",
+  "stem": "(SBT – KNTT) Trong công nghiệp, việc tinh chế đồng từ đồng thô được thực hiện bằng phương pháp điện phân dung dịch với anode làm bằng",
+  "options": {
+   "A": "graphite.",
+   "B": "platinum.",
+   "C": "thép.",
+   "D": "đồng thô."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C5_0123",
+  "stem": "(SBT – KNTT) Điện phân dung dịch chất nào sau đây (dùng điện cực trơ), thu được dung dịch có khả năng làm quỳ tím chuyển sang màu đỏ?",
+  "options": {
+   "A": "NaBr.",
+   "B": "NaCl.",
+   "C": "CuSO4.",
+   "D": "CuCl2."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C5_0124",
+  "stem": "(SBT – KNTT) Điện phân dung dịch chất nào sau đây (với điện cực trơ, không có màng ngăn điện cực), thu được dung dịch có khả năng tẩy màu?",
+  "options": {
+   "A": "CuSO4.",
+   "B": "NaCl.",
+   "C": "K2SO4.",
+   "D": "AgNO3."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C5_0125",
+  "stem": "(SBT – KNTT) Trong quá trình mạ bạc cho một chiếc vòng bằng thép thì ở anode xảy ra quá trình",
+  "options": {
+   "A": "Ag <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnFWdd/OUAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> Ag+ + le.",
+   "B": "Fe <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnFWdd/OUAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> Fe2+ + 2e.",
+   "C": "2H2O <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnFWdd/OUAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> 4H+ + O2 + 4e.",
+   "D": "C <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnFWdd/OUAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> C4+ + 4e."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C5_0126",
+  "stem": "(SBT – KNTT) Cho các cặp oxi hoá – khử và thế điện cực chuẩn tương ứng:Khi điện phân dung dịch chứa đồng thời bốn loại ion halide ở trên với nồng độ mol bằng nhau, ion halide bị điện phân đầu tiên ở anode là",
+  "options": {
+   "A": "Cl–.",
+   "B": "Br–.",
+   "C": "F–.",
+   "D": "I–."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C5_0127",
+  "stem": "(SBT – KNTT) Cho các cặp oxi hoá – khử và thế điện cực chuẩn tương ứng:Khi điện phân dung dịch chứa đồng thời bốn loại cation trên với nồng độ mol bằng nhau, cation bị điện phân đầu tiên ở cathode là",
+  "options": {
+   "A": "Cu2+.",
+   "B": "Ag+.",
+   "C": "H+.",
+   "D": "Fe2+."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C5_0128",
+  "stem": "(SBT – KNTT) Cho các cặp oxi hoá – khử và thế điện cực chuẩn tương ứng:Ion kim loại nào sau đây bị khử tại cathode khi điện phân (với điện graphite) dung dịch muối sulfate tương ứng?",
+  "options": {
+   "A": "Mg2+.",
+   "B": "Na+.",
+   "C": "Cu2+.",
+   "D": "Al3+."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C5_0129",
+  "stem": "(SBT – Cánh Diều) Điện phân dung dịch hỗn hợp gồm HCl và CuSO4 có cùng nồng độ. Các chất được tạo ra đầu tiên ở anode (cực dương) và ở cathode (cực âm) lần lượt là",
+  "options": {
+   "A": "Cl2 và H2.",
+   "B": "Cl2 và Cu.",
+   "C": "O2 và Cu.",
+   "D": "O2 và H2."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C5_0130",
+  "stem": "(SBT – CTST) Khi điện phân dung dịch (có màng ngăn) gồm NaCl, HCl, CuCl2 và phenolphthalein. Màu của dung dịch biến đổi như thế nào khi điện phân đến hết NaCl?",
+  "options": {
+   "A": "Đỏ - không màu <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnD5o/BZ8AAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> xanh.",
+   "B": "Xanh - không màu <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnD5o/BZ8AAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> đỏ.",
+   "C": "Xanh - không màu <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnD5o/BZ8AAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> hồng.",
+   "D": "Hồng - không màu <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnD5o/BZ8AAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> xanh."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C5_0131",
+  "stem": "(SBT – CTST) Dung dịch X chứa hỗn hợp các muối: NaCl, CuCl2, FeCl3 và ZnCl2. Kim loại tách ra đầu tiên ở cathode khi điện phân dung dịch là",
+  "options": {
+   "A": "Fe.",
+   "B": "Cu.",
+   "C": "Zn.",
+   "D": "Na."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C5_0132",
+  "stem": "(SBT – CTST) Khi điện phân hỗn hợp gồm các dung dịch: FeCl3, CuCl2, HCl. Quá trình nào xảy ra ở cathode và theo đúng thứ tự điện phân?(1) Cu2+ + 2e <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnD5o/BZ8AAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> Cu;\t(2) Fe3+ + 3e <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnD5o/BZ8AAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> Fe;\t(3) Fe3+ + 1e <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnD5o/BZ8AAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> Fe2+;\t(4) Fe2+ + 2e <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnD5o/BZ8AAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> Fe;\t(5) 2H+ + 2e <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnD5o/BZ8AAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> H2.",
+  "options": {
+   "A": "(4) <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnD5o/BZ8AAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> (5) <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnD5o/BZ8AAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> (1) <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnD5o/BZ8AAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> (3).",
+   "B": "(2) <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnD5o/BZ8AAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> (1) <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnD5o/BZ8AAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> (5) <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnD5o/BZ8AAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> (3).",
+   "C": "(3) <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnD5o/BZ8AAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> (1) <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnD5o/BZ8AAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> (5) <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnD5o/BZ8AAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> (4).",
+   "D": "(1) <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnD5o/BZ8AAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> (3) <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnD5o/BZ8AAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> (5) <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnD5o/BZ8AAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> (4)."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C5_0133",
+  "stem": "(SBT – CTST) Cho 4 dung dịch chứa các ion sau:Lần lượt điện phân các dung dịch trên với điện cực trơ. Dung dịch nào sau khi điện phân có môi trường acid?",
+  "options": {
+   "A": "(1), (2).",
+   "B": "(1), (4).",
+   "C": "(1), (3).",
+   "D": "(2), (3)."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C5_0134",
+  "stem": "(SBT – KNTT) Khi điện phân dung dịch gồm NaCl 1 M và NaBr 1 M, quá trình oxi hoá đầu tiên xảy ra ở anode là",
+  "options": {
+   "A": "2H2O <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnFWdd/OUAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> 4H+ + O2 + 4e.",
+   "B": "2Cl– <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnFWdd/OUAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> Cl2 + 2e.",
+   "C": "2Br– <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnFWdd/OUAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> Br2 + 2e.",
+   "D": "Na <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnFWdd/OUAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> Na+ + le."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C5_0135",
+  "stem": "(SBT – KNTT) Khi điện phân dung dịch gồm Cu(NO3)2 0,1 M và AgNO3 0,1 M, quá trình khử đầu tiên xảy ra ở cathode là",
+  "options": {
+   "A": "Ag+ + 1e <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnFWdd/OUAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> Ag.",
+   "B": "Cu2+ + 2e <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnFWdd/OUAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> Cu.",
+   "C": "2H2O + 2e <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnFWdd/OUAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> H2 + 2OH–.",
+   "D": "2H+ + 2e <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnFWdd/OUAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> H2."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C5_0136",
+  "stem": "(SBT – KNTT) Khi điện phân dung dịch gồm CuCl2 1,0 M và H2SO4 0,5 M, thứ tự bị điện phân ở anode là",
+  "options": {
+   "A": "H2O, Cl–.",
+   "B": "Cl–, H2O.",
+   "C": "SO42–, Cl–, H2O.",
+   "D": "Cl–, SO42–, H2O."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C5_0137",
+  "stem": "(SBT – KNTT) Khi điện phân dung dịch gồm CuSO4 và HCl (sử dụng điện cực trơ, có màng ngăn xốp), chất khí đầu tiên thoát ra ở anode là",
+  "options": {
+   "A": "O2.",
+   "B": "Cl2.",
+   "C": "H2.",
+   "D": "SO2."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C5_0138",
+  "stem": "(Đề TSĐH A - 2010) Điện phân (với điện cực trơ) một dung dịch gồm NaCl và CuSO4 có cùng số mol, đến khi ở cathode xuất hiện bọt khí thì dừng điện phân. Trong cả quá trình điện phân trên, sản phẩm thu được ở anode là",
+  "options": {
+   "A": "khí Cl2 và H2.",
+   "B": "khí Cl2 và O2.",
+   "C": "chỉ có khí Cl2.",
+   "D": "khí H2 và O2."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C5_0139",
+  "stem": "Điều khẳng định nào sau đây là đúng khi điện phân hỗn hợp dung dịch Cu(NO3)2, AgNO3?",
+  "options": {
+   "A": "Tại cathode xảy ra quá trình khử Cu2+ trước.",
+   "B": "Khối lượng dung dịch giảm là khối lượng của kim loại thoát ra bám vào cathode.",
+   "C": "Ngay từ đầu đã có khí thoát ra tại cathode.",
+   "D": "Tại anode xảy ra quá trình oxi hoá H2O."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C5_0140",
+  "stem": "(SBT – CTST) Điện phân dung dịch gồm NaCl và HCl (điện cực trơ, có màng ngăn). Trong quá trình điện phân, giá trị pH của dung dịch thu được so với dung dịch ban đầu là",
+  "options": {
+   "A": "không thay đổi.",
+   "B": "giảm xuống.",
+   "C": "tăng lên sau đó giảm xuống.",
+   "D": "tăng lên."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C5_0141",
+  "stem": "(SBT – Cánh Diều) Nếu thế khử chuẩn của điện cực dương là 0,80 V và thế khử chuẩn của điện cực âm là –0,76 V thì sức điện động chuẩn của pin Galvani tạo từ hai điện cực trên là bao nhiêu?",
+  "options": {
+   "A": "1,56 V.",
+   "B": "–l,56 V.",
+   "C": "0,04 V.",
+   "D": "–0,04 V."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C5_0142",
+  "stem": "Lắp ráp pin điện hóa Fe – Sn ở điều kiện chuẩn. Cho biết các giá trị thế điện cực chuẩn: <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHYAAAAWCAAAAAAwODeXAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnEBc3CGoAAAK2SURBVEjH5VZdSxRhFH5mG6HFVRHLD1ZSxNqKBPtCXT8qSIKKWEwT1CCxQne9Sswk0RB/gEJJyUp7kWYkiejShdQWmRWbeiG1koEfGYrblq0r+bF6upiZnZ1CfJXAi56b55yHM+d5z/sO8w5H2AqotsQVKsCWwx04npEU2Q7UtpZ/3Fwf24ms1Bf+QnapgpcqQ0MrXcBYmaZ8DgARDaKDiB4+phkD9RtpM5gIGaY3QZOycI83KZioXDVORGS7SEQkb3KKDgSA29Swzft0SI4x+3LHsyQFAygmMwA0FYubLOBdTALCE1vbjOtaeCSsytrrPQASeqV08dptBQNA3KlmL+D6rAcAXlIbWgHUIG9d15VIKepJ8YkT+wGEDUhpRdlOBQMAjOe6DbAUQratvYtR1v3c5pFj+zgQnQxggQcQ8EuUu7efVLCAM7uaDGh77mdbbcBlVlt/NLQA59sBqJcBLKkFdaqxU8EiVFerx8cOBQmJ701mxg8JXppzOp1uIqLMfCLKzRQK6kUfiaUHpwNu5g0IIS+vxtjINOFKvBRZkzQaMUzrAjCUIyR5xwAU6m5oRZbqI7LMew/KSxGnTfebyGo1EdV6mHdgMvgD9Wm+UFH8rKikmpRMRPQS98k3re0Oquqx4l7wG+k0nuCWdTpfz3jI2o6SiKmuaMQ2fzq6dlVGWq4UrrH8zgHyXp9d3fDn6shPpjLefzXuUnXyyIVEAHWusPig7EAOQAN1FC57S5iGnq8oC2Yq5BQXX11swbw3RFFgXyKLGV+1bLbuKLZD+eviGwqpaSlalPM+PYC32gdNpuH1uwUyuv5p+8oy6OoJjHL6BFJxGLE8RWO4boKxJQt4ZZpegG/BBoMs9OqB3ZeA1bP8RtpuaFqP4/0MdsRVPZIPvP8w7KMOoPiK5fs/tOX+q3+p3wGwSvy4X+znAAAAAElFTkSuQmCC\" style=\"height:24px\" alt=\"\"> và <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAH4AAAAWCAAAAAAj73djAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnEvk5aUYAAAMPSURBVEjH5VZLSFRhGD13ZgwrcTBhtEwjK5FU0oLS8BEKWSY4GRUuWpShMG0qNYwsTCxbCAXSQzPKKDXsIUa2MNQoHy3MSNCMUgfNmnyk5it15rSYGe8dHzQjgovO6vsP597vO+f74V6BWErIlrQ7ZEDVQcF3V+gO18dARmFK80LflBMeHdVpPlT6fAJwyH9v4IkhQC0IgiAEA8DEWSens31AR5JDym8AJBvxjGRRCX+q2aDhwvB04yizthpIkjpNLFpI7tZzZFMCub+8oqIi/qZRmCLTkmTVEZIU23d8pE7NhhMLbB+WSvaimiQ5ONGIFpLPSSZ6kYUkp7aPGoVfhfMkGVdDktO7f7fODyr/wmLNv2PWD5swInKGei/AefVbAICjnZGMBjCpBOIAPNqz3Eh6Rt6ZAvq+7AQk4cdZb7RqpQlKkevGU5K+iaaj0T3JzjUlJEnDdp1ZWoZnZPYNkqQCAJBxC+3WX7Jdw2JdPgoEbADGoQBgN2apLMv8elINAHixRWUm93nkqVFcCQv38QtbuRuAHJLf8YSkzyz3Y/E7JkgypEV8JlPWUZ1AiXsA+da7nzK7F5Ro0gMOAFT2/QB6PWZq7c95VkYCb5TeInf84u32ZGOpEFnNDSvb18aaCsUPOJlKWVAr0KPbKdV1DvgBehgAZJ2R8C6x+d4BsAyfDJFk+ic3u5zjF2zYQun6UV4OMEx6H5gO/30yyVT3QfLDNgvta9zldPhV15F2DfqhccmAyxJqPtc/rGWG1RuJ0UYpJ0sFxdqXQOv9ZqR5H3OpD3cYcX7lCGQlWWhDgw+by3nMfMs3GIZPT9l+F7vDbFHL06VjpXe91W4GgO5E5bCXfJU7gCJVtpm1Al9Sr6islM5y/yOKbJ854NU52fnQNWJTVhYfXJU8uMCjISg7bFLk+p1V8uACjx7/vIgmK9y4rbDF+8zd10Vn/o7h0S6RuddP1kVnMoIFD2y/CTa517UF5jYDkEl+gX45zcUuFhTSg/5SeNspbU/Pd+3a6YlcjexAf2ebfPHbC//1v95fd2QpwR9IvakAAAAASUVORK5CYII=\" style=\"height:24px\" alt=\"\">. Sức điện động chuẩn của pin điện hóa trên là",
+  "options": {
+   "A": "–0,577 V.",
+   "B": "0,303 V.",
+   "C": "0,577 V.",
+   "D": "–0,303 V."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C5_0143",
+  "stem": "Cho <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAG0AAAAXCAAAAAAkKp4tAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnEvk5aUYAAAKxSURBVEjH3VZdSFMBFP6m0zKzQtSpiVbahpglZJg0NSUKxCSUVfYQgQQyKyOoXoLK0AiDPUhhpNhD/pHYg/SDYSuoWYaFWhaoSTqlaZh/sXC6r4e7ux+VeVXwoe/pnO8cznfPd8/YlRGrCI/VFIMHoNfIduxPTgiuBwqrL3Ytc5A+NWvfKzEpVmcnFgEAevJkMbcBvD66VQeA5Cc8JlnziMNH2KblstC/8Rtb/IxCUrt2hMM+VUKyZ7uVJK9WkHQ4magCAciWupTxygSAimgV9kaUC1RHcAACQzuERNutBzDbcNz5vb2PiEVQXHWtdvH5UyKsAGAsmgDwVgkg9o3QkG76is7BdCE55n8PwNPUdXByMkeyaTO+Igwk2YIBkspzJM+obC0la3bLb4n9F7yHycNdJCkHABSWoU+ydZ5Tjvh7E/rwcBOy/soBeJltF1PSte1zUnyakOXpKi8Z/0TDebfcZR1Ho0Lhj0CFok11lmS+bbeDJ0meOCQ2HYi0XqumYzcA5dLvYkwM/DwzfuJd4scwIHwUwK9wge+NA7C5VWzTZr1oNAAA5I4h2rvSxGajxOhJgp1UNwLo1AhJ8ASA3yFiLTPsdI43XJwkk+a4dFmamcKVGDd8oWH9AHOjxkhdpJnjoaX2luuyXiEA+TIbMSkp6p1KlyEjBbsKTFLUZietJNmcrFHryRtoJS2FaZqU4hl7y1AG7Wou1616LoYWrYVkf4MzJwHx426Kc9Sa6oXfXfc0aSDJMrMLtxim8mvcleeo3ad6nO3nSzNFQrcA505tyG3Z9R/H3PFgSx0MidpJG9GjnM+5g2+I+7qLdp2Jg2qaTlV+sBF3pudzK4DcWflHQ2zQaE9VQK+5PdoXADDtNZ9bCRZ4gsoe3nwmgVvhbjb4NLdbkiVwS4fsP/4K+gd5+k6C9p6pwwAAAABJRU5ErkJggg==\" style=\"height:27px\" alt=\"\">; <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHUAAAAWCAAAAADbD4yUAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnF4lTnckAAALJSURBVEjH5VZbSBRhFP5mdxRXArPFzcoUK7WyQIMwy1rTnmRJMbvoU0KarL5kWAahJnaDhS284JpSQq1RYUahYIRk3iKsB8GoTFlcb21sVqtp6+7pYWdmZ8VotMCHztN3vvmY75zzc2Z+hrAMIVsOU8iAtsPMtvh9MYEPgFJjQf9S31SeoEka5rCzOpKn0/IAAAM5TKQOwPMjoXoARPQGD4mo4T59SqFeLS0tGjdN0+UdTiIi6k1Xr+ZoA5vLoZ1hTiKi4joick84NgIEgFliq9fTFMh63Q4ACDGmcOzbZzG8QPuhDYCj8RhE5/oyZDtUUca72j8bOGxcTLk5Z084oFzTAQBQ8uxsfoWgOLrKAKB5vy8AVqjVCKAYGRLaeqHhADspcBOzKwEohz2VZ08HCFhxvMISgBtXIbiWVmNI+jDjbW7cPA1EbwRmwALw+uEhfOJzQJTl6G+eMU9tcbsWpeCEdFdxZI8A5XmAAnYAPxXiZ2NVj8RpWGJNQZ3LRphwrXSnOb5Xxg99DmAFAJWPFcDnYLHuXos3gM5K/kOkTX36uMvTFdBWSXTtSuUAOw5/Dspi3wGWid1iXYYaQGZEIZ8fDMpK93ZBYV9pr2j7Zg26ZpopWsS+NoVO06Vop33zISIiPb+vtCfXrbnAfHQBFmirxPlrcHybEZXpnd35vudOF5VKHnuyKcnP3sSwQS1Aa2v715y157zma7JebYDQ60IxUut02vLnFv+NGlVLEMlLxMWUmDtMWwFg9KSfLVy+aj2ABpWOZyXEQOEVlQSZuITxJKKh+XXpF2R/F+YpKSqPP51KHlcf3BurU9vdnFWpksfVB1uiahL7JDSxzlfSSDyL6NaUfU+mTLObuWUl6taUUSLV3178KUvpdWJwl6EfgEx0wfjivxD7l8GKE8fFhMFTJotlzBQkFBLoYietw4Pyf+bK/Ef3pl+fOMw5S04aHwAAAABJRU5ErkJggg==\" style=\"height:24px\" alt=\"\">. Suất điện động chuẩn của pin điện hoá Sn – Ag là",
+  "options": {
+   "A": "0,66 V.",
+   "B": "0,79 V.",
+   "C": "0,94 V.",
+   "D": "1,09 V."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C5_0144",
+  "stem": "(SGK – Hóa học 12 NC) Phản ứng hoá học xảy ra trong pin điện hoá:2Cr + 3Cu2+ <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnD5o/BZ8AAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> 2Cr3+ + 3CuBiết <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAPMAAAAWCAAAAAAwFPXSAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnEBc3CGoAAAUZSURBVFjD5Zh7UFRlGMafoyRBBNpquybe5aYSWjJB2yQ4KFlesxHLxpxxNAUvJI2mGV7SodIEBgsbwxxRm1LRZGKkrZRJQfNOkSSClxgxF9lYYLnuefpjz56zK2wethyb8f3rfM/3nPf3ve939ptzViAeuOhyvxdwf2q+sqSbf9ToZ4csBL7+ZONX7ue6NnGqfot9MH3E+IgEMwDAPGgfAODyfGHYJgAF0wem2m3Wlf18oqL0YWFASfLOZDfJR6Jf1h+1D7oLgiAIq/6BTJJ+S0hWJZB6ipF0N8QR22jSHZRG46xsCJhHkpyFvZIYHiCS5Oosh9smh5HkNDL+PCfdcot83a+URY9WSiO9wWAwhP/mmqw827pYwN0f99oLAAqKX0P3V9IkaVEXeI85CgA7QmRffNkRANacGe0yvAHAbX5WSBAi+n8ujRJiYmIG9A5xTZZrLjVPBBZnbE5URWmsl6IVAJDyC4Dj/t5AaJFoc0wA0OoHoCw3Sb4t7rHPAORFewPvDqhT0plLJwLxe3eO7HVXsh1cLyra8UAAocek0asAPkp0TYaHXdwzyxeIU9vZyYXSRfIyWbveHYCm+ZbOLlQeTgdal2wXZIvX7C3GXtj2IQDRYc04XREMDFuvAmyVsxsiFfJQAJqziuvGr9GuyVLNB0tRMkttvQDwnXLZtAOw/liPiCYPAA+hUdIPrS9PnAKsXKhrU8zzU79YVtkQAiAlxa5VvICqRWrBXeuV61PXAP8IADZyozKzeSFck5UzLKXMzaPrtlarhZ9Wm/FmKMm9qJJnGuc805KfSLbKJwkZM1hcs8fp/slhZNE2d8gzAUwjyaBFJBOC5Imaoa2ka7Jybncq6kxSNJEkPbNJbuhDMtPTqrgqcHiKrcuj7VIO8p9ubldzJ8IONrWxzmg0mkly7EyScWNlz7pNJF2THWrefko9+SWNFB8rNRcIZjJeYlwvJlmGvIpz586dxkb5IWrz77fcOZWt5vJN6sBtdrDmhCKuHUVy6Gr7sGFQLUnXZIea55Y6Jv85761K/pCvbiWe2STFpzJp0h5glqaQPPs2yXf61pLOTxjXCuUkyZmBdY41797qkC4ndwWbktXvQKVvCQt9/uCcIX+RZFqSfaJDMj2AK6mWfechWi6ucTwswlFs2bVfvKnqaLvtCUDIWWAwrpqCvpZjkdCeGOPToPnet5117qlBAICBu6+EArCuOmOKApsr0hw8L+73P7G7kOvUHmx9DizQVuX6Y0DWpXCgNf1ohy472XaGdRhnDtH67TdWdj7mHVHjGmVxOdXEGWL90rbOk0fVqnF5OLXCkhLkeSa+HwDkZwcPHP4kuwBIS8wUH7/1xFSVXU/vEXV3k3n5Cq87NZmyNShMeDiuK4Avx5QUBVhqlqoCNyxP8lVldOrAihzSaLyjLS2f5i8meVFtsy+pMdXebCd1REk1PqceXX9Dnc/5W9KgB3r23LDj2vMOYv44gx5A8PHZtdHVKroYoKbVvtp2ko1yYfT7JbJUozkZCiD4dviu7LvnfKS3ql2G87NtFQCgf1v/bg7i5QmSDD+tuqTuhY0yuMd7yltp7qSfBADQ+L0uupm1g3De59gCwFwqOH3eNHojtgDASeEe/6ViozitydQj8gLvFP91OO9z8gctXsVThyd1Nd2U3+XzxiP2aqau2mtkRUb17z3vYc1XM3XVXj5Go/xx9acOvdanBDeXB9ZcCvzvQPd68/6P8SD+H/Y3DsEc06S0VlMAAAAASUVORK5CYII=\" style=\"height:24px\" alt=\"\">. Eo của pin điện hoá là",
+  "options": {
+   "A": "0,40 V.",
+   "B": "1,08 V.",
+   "C": "1,25 V.",
+   "D": "2,5 V."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C5_0146",
+  "stem": "(SBT – Hóa học 12 NC) Phản ứng hoá học xảy ra trong pin điện hoá:2Cr + 3Ni2+ <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnD5o/BZ8AAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> 2Cr3+ + 3NiBiết: <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAPEAAAAWCAAAAAA04SXvAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnEBc3CGoAAAT6SURBVFjD7Zh7UFRlGMafg+sIChriBRoiRQJ1xtYYL9xk3cYCdRAUHbIRL6GpSOqApJjQEDRWmGllkGIQyejkLWWcTdHE0UDNvGSkpXKTYJCLiqjILvv0x+7ZPSughx0YZ6rnr+97vve8v33Pec93zlmB+I/J5ln/gGdRcetaN/uJE/2VSqA4KSfJykTH1TP8C8TJc4IgCMI6AGh03wMAOBosBO8HkO0zIU8M6wZyyuhg1ewKAKUzp6qV1QDQkuDomFAPlMXZx98DQJKhSpIMJ6MvctotWqOKfldZ5FBpnPnn5+fnj/2DJOdit8Grt11IklRflxzW5eSZjdSHjyYbXjhIJlwzmPE25SR5PJIkJV09DwBg5X29fYQXfF7MNM6WTZo0aYjLCADZI8SI/hE7GwH82XNYm4O7kBztACHsYhU2Dg4BPvQwmEuYCQBblwCS+7jxaggQvTvnlYFPZTSJ0pu9nz0BjDplnM0G8MlKANfy4kwhS+/nitiA6ZJ0nSA/FMnajshqAICAA2oAgtF0D9quA+qv+xnOrLG3jm2T20a6PqIKzabncpIxXmbjb1+SLZOrtWJXk95K8pFSS9I3VNLV8sl8TSR//AQy418mFQsWqMZ+LjoHsZ/c8BVJUgEAKAlG9Tty26hHk3n8Szng6gOgWQGg50PzysYYAGtjnHVma+mis+P2hioAFJq8TpFxxDwsOwf0CmmPfG9HNpp0Luvszo8bFGGwprptDcOunwAAhordf8Tp32VzJdqcC4TvAWCnBdBiZ1q4rfkIOKKbIg1+c9XX477JskxgNfnoIsCprh2yPurd12ELVzt4j99rrNjm7aTyMm8HScUAfHxkw+6IA4ceGZuAXgDg1gCgzs0U8+VbCiD9h00AZqkKDF7veZlL7F3bpOsEuUnsGLtekWHGTegxsn6xahmgcK0CMKBOdBcmbytdZRybnxE3Nsi8j51EnTabyWNIjnxfnN53v0uy5MKFC+eQdk10r8BNY5mrc2ROFcmfdkRuidxFkpw7meSE+aaoiMEq40hScW6GJPe+vAQ2J8neUljZt5iF9jcZ5XGHJDfFiQuSnYtUD9WTZLPHbIuKLciHDi0jV1tJbp0Sq9FoNJX8zf4yq20LTFEnkGWuWLfGtY9KFTh+YK4kT3PulqIY70T54GOBswKOkyk4S7JlaHm7FX+/niTZqupPsgMyGVW7QrmixiryPUPjZpGHA2epv5VEBTwwV9yumvmGvilWJ79iUWPuygiqCHrC4oHz1EZru4ksPp1MStcPuvX8dAAZXkrBNqIHgJ2vFhe99KAhVtbWcn91XN+nR11N3vy4VRI5LKcscZ1iX3xqvZOHwxwFAGxuSSsYmVGTGJ3RVWRx5zLp8HKSVyzPyWe1AW3NjtRUJSfq5sO23vqZ+5hmaZ09dfILH+1ljZyUMsm0eK8GkO8PYPglVUqxyWpwOjMKwPD6sTu+e/r56+Mi5yy72rZjpifeAk7MlziFfhgdnApU+8nIKY8MyfMYANAqAMAwx0TzG3PetJMCADj1m6OXmdM6DfhgsT+kXxm0EYD3/Ic4u/TuSo7lNQ46AeCMhX3b0fcSHze7RTNsj1nMT/kBUGSu6WKM5TUOKkt3rrOzr601fcbUOGNg6vrhj254Nvzl2Y3lll6+7rElCsXVtx1F69eVKGLAqOUorS9x7zqS8P//XP96/QMDGdgUPlO7rQAAAABJRU5ErkJggg==\" style=\"height:24px\" alt=\"\">. Eº của pin điện hoá là",
+  "options": {
+   "A": "1,0 V.",
+   "B": "0,48 V.",
+   "C": "0,78 V.",
+   "D": "0,96 V."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C5_0147",
+  "stem": "(SBT – Hóa học 12 NC) Suất điện động chuẩn của pin điện hoá được tạo thành từ cặp oxi hoá – khử Au3+/Au và Sn2+/Sn là (Biết: <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOoAAAAWCAAAAADrr1/wAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnEBc3CGoAAAUJSURBVFjD5VhtUFRlFH7u7uKuRhKwsBgGiowygQ6UjaImajiaOIFKkgoDRiquzTRBhJIfQSLVOKOGNC6hIqlBoTllURAf5RfNoE5iEMaADMaHAsrnLiy7px977+5eYOkuaDXj+bPPOefZ99lz3vO+e+cyhMfFRP/1D/hXSy15lfFZtHCOSx6QfDq+cgyLdcZGcFDGMAyTAwBQeTMx1wHd7snhN7n0Q9JMW7JyRQPnFHv/waLQNwEA/Tvs7Xe0AbfjbOO7ABDRdXxNRF98RXdD6KqSRm05a2eEcdi/sLCwsNmAv8NJIqIuH52J+1A0z3r2UupzeiIialGuRpUhrJJsYwnxonoiopIIIiLTAPvPAAFgRtPdpN8AIDDXyxhxCAwMDFQY8PKpKgA4vW7IaRmLJoBDoeOx6dovhjE6uIuNVhXN4QgxlAkAGTGA2Vn91X0mnH1P5ygFiai7WdMCAFIrAMDRAlm05UIVgOPRQJPLAbOEFZo6TrDHFNOXTQccJ10EAEy0YaN9sYeNDI9lRweAtpp5vFIPAcCe9R8/K6jUYBfWDlgg3FwbEvSJlnWipSrgmpsCIL35jW+F5gVO0NUUa+l7CoBjA5+ZEOdkcpSN54GsjQAACQAg+QjqBJXIWYEJarIAXXE35vqaEyonoHH5Lba/8tDsD2WqGABP3zUyrNNc1G3C3/cCftMADSQAbNQ84nlZoJkX5JYRgpxig8NdEdGjvYzaFAoF7BSKNCIKDjPPpEu5e+gisrtm8741Fk1XAGlE1IQzROS9xbhkFVHjy/1E87cZuXtFt0s3G6CEqz/Tql3tHmDBeKlDMyA7HD4MyamvjZ2l+bNUmg1DCVZoDnC7ytihQgfYAnCWtQNodTPnfZk/DsCldO6cvJH0Wd07BigxsZSfCld+rYwFibHD5i+K/YEmWznnb93aemU4nmDNy6tZIGmGPQtF/tXAvZZ55rz1AQA2ztjO+YrVmV5+LDb+x9GLvCkpzY8mShA4UtLPDZ/BYUTRng+IftxD1OW73UjoejKSiIjK5elmAzxI82ReCml2WzHJ56b20j4/vdZrjXGAiYg3wPQzjpNxgEvSsfMgdJ0aXhsDfnJq3VuqSXQW0vM2KQCofr8qfst3ytFbL+CZ8yUTO8LijATbCMNzlFxWpAQsaG7oKy47dZmSBc9WcP0KO+05RjI5H6jOrsROr9c9BnMWLgjjoKWOaSjlhlapHcWtMbtjhGR2quWcJqNV3x07YL1iY4AQloTfA533oWUGlOuqniYJlwBoKF+FTfJUgZ3uSYibaDmbX3BkcOh9z07nUABAuE+uUhYmBtBQ/mBA2pQgULJm12FBPH7lBXnrhnTjiJo6TvjphDSOiLobR8r+qR8caV5BVDdUcr56aNSS3ekRRBv0WFq/pqETKVn1C81iahnyVy0uwqWojsWt/9i6JyaNlPUc8rjrLF5wwu2eb8ZLFTzJV2alOOhD9oYfE7BbrhMEbSq/VPWNrCm5cIf7OLPxmA5UnHHIgjvsFILWtMqYb/bnpTrJN0fe4Em++8P9UJHnyn1XRr/yyKV+uzPqo2wwvDcTBUvx1/NR71V2Mo/khUVL7VxVJQCR2eoFS3HFY792UHSsxruW6s/OdG6vOeUTJ77f7MIF+216PghCi0NSYm1aa7XceomRTZeypPbtB+0NtWJTrN8Gx6q0kfo7dZ1NWpvRr823R7NV/0t7jN4t/Q0tQHfQMTpDvAAAAABJRU5ErkJggg==\" style=\"height:24px\" alt=\"\">)",
+  "options": {
+   "A": "1,24 V.",
+   "B": "1,46 V.",
+   "C": "1,64 V.",
+   "D": "0,98 V."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C5_0148",
+  "stem": "(SBT – CTST) Cho pin điện hoá Fe – Cu. Biết <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHYAAAAWCAAAAAAwODeXAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnEBc3CGoAAAK2SURBVEjH5VZdSxRhFH5mG6HFVRHLD1ZSxNqKBPtCXT8qSIKKWEwT1CCxQne9Sswk0RB/gEJJyUp7kWYkiejShdQWmRWbeiG1koEfGYrblq0r+bF6upiZnZ1CfJXAi56b55yHM+d5z/sO8w5H2AqotsQVKsCWwx04npEU2Q7UtpZ/3Fwf24ms1Bf+QnapgpcqQ0MrXcBYmaZ8DgARDaKDiB4+phkD9RtpM5gIGaY3QZOycI83KZioXDVORGS7SEQkb3KKDgSA29Swzft0SI4x+3LHsyQFAygmMwA0FYubLOBdTALCE1vbjOtaeCSsytrrPQASeqV08dptBQNA3KlmL+D6rAcAXlIbWgHUIG9d15VIKepJ8YkT+wGEDUhpRdlOBQMAjOe6DbAUQratvYtR1v3c5pFj+zgQnQxggQcQ8EuUu7efVLCAM7uaDGh77mdbbcBlVlt/NLQA59sBqJcBLKkFdaqxU8EiVFerx8cOBQmJ701mxg8JXppzOp1uIqLMfCLKzRQK6kUfiaUHpwNu5g0IIS+vxtjINOFKvBRZkzQaMUzrAjCUIyR5xwAU6m5oRZbqI7LMew/KSxGnTfebyGo1EdV6mHdgMvgD9Wm+UFH8rKikmpRMRPQS98k3re0Oquqx4l7wG+k0nuCWdTpfz3jI2o6SiKmuaMQ2fzq6dlVGWq4UrrH8zgHyXp9d3fDn6shPpjLefzXuUnXyyIVEAHWusPig7EAOQAN1FC57S5iGnq8oC2Yq5BQXX11swbw3RFFgXyKLGV+1bLbuKLZD+eviGwqpaSlalPM+PYC32gdNpuH1uwUyuv5p+8oy6OoJjHL6BFJxGLE8RWO4boKxJQt4ZZpegG/BBoMs9OqB3ZeA1bP8RtpuaFqP4/0MdsRVPZIPvP8w7KMOoPiK5fs/tOX+q3+p3wGwSvy4X+znAAAAAElFTkSuQmCC\" style=\"height:24px\" alt=\"\"> và <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHkAAAAWCAAAAADBM2waAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnEWAwOPwAAAL6SURBVEjHxVZbSBRhGD1rq3bxhlarFK2huNoFw1xXLUMhKXyojMQin7pAu1oUEoLYBTHqqawwtLILlAqVEpsPlaBFFzTWoKgsqo1ctIuVrS1trrunh3F2Z4xgdhE8T99/ODPfnPN/M/+oiClC0FQ1RhDQWaRakrvKEHsdqG7a/zLwe3XmbVzRNV4PZGcV6I8LdW/oEACgY61qbRuAS5k5ZgAkn6KNZPM1ftlAi4mB4mNkHx+H24TFqzLypbqJJEcW4atAfpu+gySZ95akL+0sHQhAFYBZW5UdQGOKDpna8wIVUwKkJHQBwL7Noi66uNkO4HVwAiT73K1dirnLmlpMinr9EuEBANsRO4CHSQCWPhAEcwwAXJEAWuKzvJcZHVcBnN0FSNLe4k+wY7NEPCLJx+gnmbSHZJnOp7od85Z8v859V0ybTEsl/6S6SFINAKiuh9WfeKf98tXv78CKK1HY6FQDCP4t8odbhxsSMLa7Xvr6GHf2ZNxYr5Z53h7oYJk1mmjM0Wgsut0kSyWeB5fvY2UrKfHsiNzG1f0kSd9s+4UfIsZ8aedvJVmcL1FdCHJECV4PidSemT0bhErtS8J0RnHa7kSxajd4yZVmAM+LhMX9tDDADc99N9C9qzPZG/epTQ3jpc9zjsxVe3spWaEsAcGzLeIFH4X1c3viMHn8FunMXUdSljaZt9Dj9dxZh6pauO1Oma0CtA7VdDkr5yqIIGNkFoB5bUbNoHk+4hvf6LH4wOmQ74aD/2qN78Qvxn+N3Oyly+QKZObSfypRqWUPZD2Xyu4TAICabzGJ4SVqADi586gu1GJaoGwGHBXlEUp0KtkpmdsSi77kCZIno+36QgxhtsLO9jhlQmkAI4tI8k+B9WaphK31pH8myZqLH3KUxKgQsvPZAwAIiUOS9NGCVG4VAGihDVHmRhFknSNmDwDdE3bgQTbW3APsfarJ/X2RT9jlujR0GPSH062uYJGz7MXBY6MznhUuKZ/241PspHWeZCN+YOr+w/4CyB6AeaOJmScAAAAASUVORK5CYII=\" style=\"height:24px\" alt=\"\">. Sức điện động chuẩn của pin điện hoá Fe – Cu là",
+  "options": {
+   "A": "1,66 V.",
+   "B": "0,1 V.",
+   "C": "0,78 V.",
+   "D": "0,92 V."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C5_0151",
+  "stem": "(SBT – KNTT) Cho các cặp oxi hoá – khử và thế điện cực chuẩn tương ứng:Pin có sức điện động chuẩn lớn nhất là",
+  "options": {
+   "A": "Pin Zn – Cu.",
+   "B": "Pin Fe – Cu.",
+   "C": "Pin Cu – Ag.",
+   "D": "Pin Fe – Ag."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C5_0154",
+  "stem": "Cho biết: <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAH0AAAAXCAAAAAADhB/FAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnFv5UrV8AAALzSURBVEjH5ZZZSJRRGIbf30ZygebCNEMwjBJb1KnI0chUsNQWcklCM4UyyTGSBAkKKloIu8gW0zCiyDJrXIiywQylm0zJAikNmzDGpRwrl7IxJ327mJ/ZNJpxLrzovTrf+33/ec75/vMvAjGLcppNOJyAxmRhZeQGuXclcLI8v92h6U7JYiNSNGJQFxwVu04FXBAEQRAkYwDwNFaIrQFwMzT8IQCSr1FD8q6S2ni2KuiIdoxwMkkmBiWVZOncLhYW1NfXX9ppML+6ZJIko9QkTfSPbeyPZ2uOQ/QGkmXoNQQvtOQnlLNeSzK9RSzJcB8m+W4TSRrve/OiQHjJyisUtjZ54oeoUTMzCgAgGAK5J6CHFNGegKZ3rViSPXoHQOl+wKzzKfZus9FdlNQqkR9kFhxZM06SPPDAaK0OJn8F62ns/KqYGH9HGl6rVCrV4nhkYZ3R3+YX0kaS1MomjeY1NLP8GE30GnKvI3QfAJcNw4nkQvPMSw8lSR69arJGpXsY3W1Jt1v6QVFD5LeBgQGdAZ5ZZFmWHkpyZKnOzDro1hJPa3q2ffRnHqIWmJnjuytMwSOS3BVCsuC4+ZUd8FVNoYdbTX+78gx52K4VTWzOU6lUqh59QBLJxCGyx+M8OeantSiL8ps00huSsCIiYn3QlHM3phjIDc7tt4P+3fBQ3WC0G8mCkC1bw4pIlmRZlt0/S9PejRpKjSSZkDJkgJd+oV6hJ6mpPjdvhLwY+MHWZfRF2FRm8ZWRBgpv0Dm5XAqgA2l99yBJkwB4HBcmv4Xfaq/FADpseBOp84psemNJLMOc4uLqhG6Ufdb4LlMCQBgA6FyQdTqnKrHdkPj3rK7X3WyiW31htze+nz8HqM1IGTTbiT/gHdCoXmKd+Kt8bINb0yWpaakA0q+05ZrMJxsB5OyLnpJwWBadH25vyhKEV/3Dz9926g4Z7XFnNDE/Tl6h7bJMOK5pz+KJ8Ym4n3YlZibJtEtyrkKcq12JmUn4j/8q/wBxnzh1RnNOUQAAAABJRU5ErkJggg==\" style=\"height:27px\" alt=\"\">, <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHkAAAAWCAAAAADBM2waAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnEWAwOPwAAAMGSURBVEjH5VZrSJNRGH6+tcpl/lhOhChDG/RHstRIrLSbrcRSulKSBIWYlUleyC52pQgLqx8ZrYwMjVoXigprRUSLSirE7CKZOqiEOU1TdDrd0499274J0jcL+tHz65znPN95znkvfEcg/hEU/8oYCmBgV8jYuXNnRUQA7wvLCoe9lW1z4rzMXnFyUhAEQVDa0LM9QRd+HwD6CtTqglagKWdsXicAkkyOIMkVZGY1l1k4TGSl0rE4W5wUHzMajafXkEk7yAd6J5mnMJPkk/UkKXG+Q2ZWc+lwnbtVleR1VbdzZrSQTKvio1GtJB1O8ouwlyTXPvdy7vhIsnb3pUI5Lr2dIno8nAkNZB1MHsa8gNw2Q/rd4vF20uqk3M6P9T7c76C/iCQPV4E20oorHmbrbXJBbF7CtKwukbmDW+TxMxLnAJ1uqi/OEnQZDAZDB8lS/CQ7UOpesUxzkFEJFlq1GSI1ELKEjP5JklQCAMIq8bJ2eBXdvArAu3BABTvQB5V75VSGAPipgxC4Wl8idlJ6obkpMgAAoHTpYmJ8aSCbOBjpH9YCQA0gBG3jYEWIS9N5rQZAaBMATRsFJ7npgL4x193PLjSckO1crBWRBoVGo9GMABA5pg54p5ru0pSs8wMwv8YO/JgoGiN4+flvLoWrwsjys9L83bu3hTzYJSPTLmSvoUO3nTVBxSRpC7WQZE/YWdqj9rtFT3FRHIHs3znBPz4+bmZQufdOG7kvOvO5fOee9CULN9v4dVIiSZakO9n6xBRdfq9HNbvb4zwEbr9lf367w/dqr9gnS6b0yl9Xdlzj1Q8AgMOtgdqAlf4CgFN940YX7V4tswaMd0vkCb3O0W/hoieDD1dl+s5n82RfuV5mmAZH+/IGDiQfSr0goU462Dv9E1/HFMX1+R77ITHo/9x29DgU2qQjLyRBUQg4ljIFU4JzJ1t86PnfwTvPyN0Z2N4OKCQvFVMsPt98hWqtN/3H8L7zm4cjy/Z0fG1saLZ7uCjkzLlxrtzc0tJs/ovOwn/4DvsFTiap6EafZcgAAAAASUVORK5CYII=\" style=\"height:24px\" alt=\"\">, <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHUAAAAWCAAAAADbD4yUAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnD5o/BZ8AAAK1SURBVEjH5VZdSFNhAD0bWvOHQqcZQkqWK1BBo9KKtHpoWT6IYSImBVrY+lHMURIULXsr9pSamgXVFKZYQQ8tSPMh6EGDhEQSMkYRbRNds83pdnrYnXdbE+cMfOg8ne/cw3e+73zf5V4JsQqQrkYopEB/qSTzQH7uxh5Ao1N/CnMix7mjB1WzwsDdmgEAJ7IL885bAcDZGBfXaAEmLseqfwEg+QF9JLv0/FnMIRXDw6UKuo/UefhQeUESSR52cSb9rEdTS7+SZH8lSYoN79kGApCEt1V7eyUk1fftAIBUXTEA4KIU0YcGPIYadgBAW43fub5PzcKGbF23aukEp02AQ9SG7Qogyz4MAJALYhGAufUenqZ8MA9YxvcCPg2Xh16mJkZAkajpMEma0SUMtUkCMSbrBfYCfeSdZpKkJzVHqVSEdZo2vV6vnybZCSs5jU7/1Oe74jVzguRKKSR3Wn1S+8iqsFI/A8AIyS5YSNPfe7VX5ToF2iSdGBCuVoT3YDqW8ZJ4zzMyJs0EIA5ACibjYUZKoFd2Le2N0kOrb7Z/afDQCNGgag4xVXtXIAW90gSB7oge24qRqBxfn3EqC3DBLQyTSjq2e597Gyb3+1b3pOc2HdeX0XVdGd3KWn5M1C40PNxA8uqmaa/lLR4KTEL03+vNSIDL6hjzXehsfeXTd8c0oddea5xL1679ti/jJQyGwZFTyY2mssjYGXmTYsGz3xAl7jUYHG1mt61+fvn3S3cjBJPE95tjvSBLn7pS0p0AlGYmqlxDuwEYB18tqEvj9aOWdSHY/NZw6zFzTRVmP63VHkxdDOPuUFwRAYtw/Y5Fz2j2aVGxy4Kpi2FLSJcgIHXwe4sMx+V54vzjimDqChGQmn8SALhGVAxngqn/MtU2aimUY/OzH2pRc0YGU1cIyX/03/QHYgFw8JLsXcwAAAAASUVORK5CYII=\" style=\"height:24px\" alt=\"\">và <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHkAAAAWCAAAAADBM2waAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnEBc3CGoAAAL6SURBVEjHxVZbSBRhGD1rq3bxhlarFK2huNoFw1xXLUMhKXyojMQin7pAu1oUEoLYBTHqqawwtLILlAqVEpsPlaBFFzTWoKgsqo1ctIuVrS1trrunh3F2Z4xgdhE8T99/ODPfnPN/M/+oiClC0FQ1RhDQWaRakrvKEHsdqG7a/zLwe3XmbVzRNV4PZGcV6I8LdW/oEACgY61qbRuAS5k5ZgAkn6KNZPM1ftlAi4mB4mNkHx+H24TFqzLypbqJJEcW4atAfpu+gySZ95akL+0sHQhAFYBZW5UdQGOKDpna8wIVUwKkJHQBwL7Noi66uNkO4HVwAiT73K1dirnLmlpMinr9EuEBANsRO4CHSQCWPhAEcwwAXJEAWuKzvJcZHVcBnN0FSNLe4k+wY7NEPCLJx+gnmbSHZJnOp7od85Z8v859V0ybTEsl/6S6SFINAKiuh9WfeKf98tXv78CKK1HY6FQDCP4t8odbhxsSMLa7Xvr6GHf2ZNxYr5Z53h7oYJk1mmjM0Wgsut0kSyWeB5fvY2UrKfHsiNzG1f0kSd9s+4UfIsZ8aedvJVmcL1FdCHJECV4PidSemT0bhErtS8J0RnHa7kSxajd4yZVmAM+LhMX9tDDADc99N9C9qzPZG/epTQ3jpc9zjsxVe3spWaEsAcGzLeIFH4X1c3viMHn8FunMXUdSljaZt9Dj9dxZh6pauO1Oma0CtA7VdDkr5yqIIGNkFoB5bUbNoHk+4hvf6LH4wOmQ74aD/2qN78Qvxn+N3Oyly+QKZObSfypRqWUPZD2Xyu4TAICabzGJ4SVqADi586gu1GJaoGwGHBXlEUp0KtkpmdsSi77kCZIno+36QgxhtsLO9jhlQmkAI4tI8k+B9WaphK31pH8myZqLH3KUxKgQsvPZAwAIiUOS9NGCVG4VAGihDVHmRhFknSNmDwDdE3bgQTbW3APsfarJ/X2RT9jlujR0GPSH062uYJGz7MXBY6MznhUuKZ/241PspHWeZCN+YOr+w/4CyB6AeaOJmScAAAAASUVORK5CYII=\" style=\"height:24px\" alt=\"\">. Pin điện hoá có suất điện động chuẩn bằng 1,61 V được cấu tạo bởi hai cặp oxi hoá – khử",
+  "options": {
+   "A": "Zn2+/Zn và Pb2+/Pb.",
+   "B": "Zn2+/Zn và Cu2+/Cu.",
+   "C": "Pb2+/Pb và Cu2+/Cu.",
+   "D": "Mg2+/Mg và Zn2+/Zn."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C5_0155",
+  "stem": "(ĐH A – 2012) Cho <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHsAAAAVCAAAAABDUs6JAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnFv5UrV8AAALiSURBVEjH5VZdSFNhGH62NstsDvOiMnFQ1kySKAeZ/0HkRVoimRelWQ4R//EHlEoSpQiDLqIU2zRmiRZUYJQF+UPlIFo3okik07Ga5mY6f4r583Zxzplb0zG2Cy96b87zvN/3vc95v/ec9/t4hA0z/sZJgw9oi7wC4+Mig/OBJ/fq2j0MaC5J5+BwUgMAdB9PieoBAFgq/fwqTcBo6bbyWQBEROIiIjLkEUXRyjHyyNrOSdMYtFSTvqWeiHTiIVKL9IyznD9GRNSdTkS0uuc7EwDPi3+iPYSDBarNAKA8IEWERMH4ckgBAI05ACDgZg4FJAGFdy3Fbggu/2YBz8ff6twkZp4f9wMI+8CQPQnKKgFM3yLttFszfIE095J9n8gCwbTjoC4UgP8XluWefpmMh5ewqv1iCAMZ7m90/JyTwT8CAEJuZ04FNSajrQsA948ld3bmuS/t3LwXAVi8WcbPfjPWe0RkkzeACg/CL3F588SOg0FTAIxBHJVXP9CWwV4baA6Tuandl8ICwbjjYHQHgP5Uju5IUYQcZvdgdZJaBE2AMmtwuI51zNVjTq6qDrWNtHDt0dMKHQDA2MQ5Y42scdLyfTPWFVlfB6HWya08dyKTg0QjBcLdcXEx4Vu/E0npdZ61T+SYaeknney27R2Vz4gmJxncc9+xtzQUBEoKm2rwieavZwsjyrqI3sWmRtvGiF5gAeyXSklR23Nx+UzNeSUNXiYiaskkhjImmyAiqm0ejSGio+u2N9mMCz3wn7NkVjFVshf84MQbagwEAJi6eZulGplsGFjmAYAEEi8AAuPa9Z/PL/V14TMR2FMRVxc+gUcAyir8p6cBPiH8MwAk9J6F+QePab4r652CV3a58onar9aY+4ABg0mvHTEsHtIDmrdC1dUZvXbEsMjMqOpvfX7HcvCx6tc4gO1rB/VxSRpwUo/in87r1dHi0ZFHzu4Ot145fWuT5YJr6a1nvP/0zvQXzvNbsabNFl0AAAAASUVORK5CYII=\" style=\"height:24px\" alt=\"\">, <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHkAAAAWCAAAAADBM2waAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnEWAwOPwAAAMGSURBVEjH5VZrSJNRGH6+tcpl/lhOhChDG/RHstRIrLSbrcRSulKSBIWYlUleyC52pQgLqx8ZrYwMjVoXigprRUSLSirE7CKZOqiEOU1TdDrd0499274J0jcL+tHz65znPN95znkvfEcg/hEU/8oYCmBgV8jYuXNnRUQA7wvLCoe9lW1z4rzMXnFyUhAEQVDa0LM9QRd+HwD6CtTqglagKWdsXicAkkyOIMkVZGY1l1k4TGSl0rE4W5wUHzMajafXkEk7yAd6J5mnMJPkk/UkKXG+Q2ZWc+lwnbtVleR1VbdzZrSQTKvio1GtJB1O8ouwlyTXPvdy7vhIsnb3pUI5Lr2dIno8nAkNZB1MHsa8gNw2Q/rd4vF20uqk3M6P9T7c76C/iCQPV4E20oorHmbrbXJBbF7CtKwukbmDW+TxMxLnAJ1uqi/OEnQZDAZDB8lS/CQ7UOpesUxzkFEJFlq1GSI1ELKEjP5JklQCAMIq8bJ2eBXdvArAu3BABTvQB5V75VSGAPipgxC4Wl8idlJ6obkpMgAAoHTpYmJ8aSCbOBjpH9YCQA0gBG3jYEWIS9N5rQZAaBMATRsFJ7npgL4x193PLjSckO1crBWRBoVGo9GMABA5pg54p5ru0pSs8wMwv8YO/JgoGiN4+flvLoWrwsjys9L83bu3hTzYJSPTLmSvoUO3nTVBxSRpC7WQZE/YWdqj9rtFT3FRHIHs3znBPz4+bmZQufdOG7kvOvO5fOee9CULN9v4dVIiSZakO9n6xBRdfq9HNbvb4zwEbr9lf367w/dqr9gnS6b0yl9Xdlzj1Q8AgMOtgdqAlf4CgFN940YX7V4tswaMd0vkCb3O0W/hoieDD1dl+s5n82RfuV5mmAZH+/IGDiQfSr0goU462Dv9E1/HFMX1+R77ITHo/9x29DgU2qQjLyRBUQg4ljIFU4JzJ1t86PnfwTvPyN0Z2N4OKCQvFVMsPt98hWqtN/3H8L7zm4cjy/Z0fG1saLZ7uCjkzLlxrtzc0tJs/ovOwn/4DvsFTiap6EafZcgAAAAASUVORK5CYII=\" style=\"height:24px\" alt=\"\"> và <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAG0AAAAXCAAAAAAkKp4tAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnEvk5aUYAAAKxSURBVEjH3VZdSFMBFP6m0zKzQtSpiVbahpglZJg0NSUKxCSUVfYQgQQyKyOoXoLK0AiDPUhhpNhD/pHYg/SDYSuoWYaFWhaoSTqlaZh/sXC6r4e7ux+VeVXwoe/pnO8cznfPd8/YlRGrCI/VFIMHoNfIduxPTgiuBwqrL3Ytc5A+NWvfKzEpVmcnFgEAevJkMbcBvD66VQeA5Cc8JlnziMNH2KblstC/8Rtb/IxCUrt2hMM+VUKyZ7uVJK9WkHQ4magCAciWupTxygSAimgV9kaUC1RHcAACQzuERNutBzDbcNz5vb2PiEVQXHWtdvH5UyKsAGAsmgDwVgkg9o3QkG76is7BdCE55n8PwNPUdXByMkeyaTO+Igwk2YIBkspzJM+obC0la3bLb4n9F7yHycNdJCkHABSWoU+ydZ5Tjvh7E/rwcBOy/soBeJltF1PSte1zUnyakOXpKi8Z/0TDebfcZR1Ho0Lhj0CFok11lmS+bbeDJ0meOCQ2HYi0XqumYzcA5dLvYkwM/DwzfuJd4scwIHwUwK9wge+NA7C5VWzTZr1oNAAA5I4h2rvSxGajxOhJgp1UNwLo1AhJ8ASA3yFiLTPsdI43XJwkk+a4dFmamcKVGDd8oWH9AHOjxkhdpJnjoaX2luuyXiEA+TIbMSkp6p1KlyEjBbsKTFLUZietJNmcrFHryRtoJS2FaZqU4hl7y1AG7Wou1616LoYWrYVkf4MzJwHx426Kc9Sa6oXfXfc0aSDJMrMLtxim8mvcleeo3ad6nO3nSzNFQrcA505tyG3Z9R/H3PFgSx0MidpJG9GjnM+5g2+I+7qLdp2Jg2qaTlV+sBF3pudzK4DcWflHQ2zQaE9VQK+5PdoXADDtNZ9bCRZ4gsoe3nwmgVvhbjb4NLdbkiVwS4fsP/4K+gd5+k6C9p6pwwAAAABJRU5ErkJggg==\" style=\"height:27px\" alt=\"\">. Suất điện động chuẩn của pin điện hóa Cu – Ag là",
+  "options": {
+   "A": "0,46 V.",
+   "B": "0,56 V.",
+   "C": "1,14 V.",
+   "D": "0,34 V."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C5_0156",
+  "stem": "(SBT – KNTT) Sức điện động chuẩn của pin điện hoá H2 − Cu (gồm hai điện cực ứng với hai cặp oxi hoá − khử là 2H+/H2 và Cu2+/Cu) đo được bằng vôn kế có điện trở vô cùng lớn là 0,340 V. Từ đó, xác định được thế điện cực chuẩn của cặp Cu2+/ Cu là",
+  "options": {
+   "A": "–0,340 V.",
+   "B": "0,000 V.",
+   "C": "0,680 V.",
+   "D": "+0,340 V."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C5_0157",
+  "stem": "(SBT – Hóa học 12 NC) Biết: <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAPUAAAAWCAAAAAA9CoWVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnFBBazHMAAAXgSURBVFjD7VhrUFRlGH6ARRfEcJRQkzQUtSS8p4DKskZqKAqoeQmw0RBEDacxtdRRY4xBLDIM8cKsReJdVExME+lmapKpg2IgFzF2lEW8wC4Cu08/9pzdFSGPwIw/7Plz3u/53u99vvec9z03K+I5hPWz3sCzyvrUVKvXfX2Gd9kHfJr20ZWWxbsekCyaJQFBIzYCQJLSf2AMAODHcVbj0gFs9xyVIboVRbdx8VV4uy0A9nwdv7uZuomjJ/iXioPAof6eS3UAiqaMVw5QA0BBpJX7egA/veOaAIDkBaST3LmXtwOZE8UWoD4mVL5JsA0Dt7Kyy0Fy/QgtH8w2khXy90mSygKLVY7RJNXzyRE0eDVP+ICblrGDDcJorIH3ekSTd14+TH6cbyTf6G0gyVUpJM1ZF1/irUDmzG9R1nfpKGZ9yrqaXODLSocjJPUCO6vdPZJ5YyxXOUaT5GHSu9lZK5aRGmQLoyySc3qTK4aSFE+FCidJ1ntUkzT19dkeHnAemLYr6umrq7ZKQI2No5n9zcUe8PjdkFWlhPn+Ma96B4AtkQBGBlnEyLsfAHyQ+MWiJ8uJalUGE2U40wfo1PVXYagEACvgkNJ4BABM67gZwFGlPQCZuHBDGoBVmNmMnoqLE9UyLNgbHQB0enj7isOWE+qe8a5GdvjgzfNQezIOgMHy8ZEW9gIwTYqavotonfASrVsPOwDoVGrhdmkccHXo7EJt6EIjYffexvIXsTUOpqw/TUZRM9IVsHJlY2yNDIAtdHftxi/STw+4aGOk54WfG7Z/kgzAaZPrwTzkhklVs6ky23+UAC6eQA1kAGx15plzRYdQVd91hd2fw5yFkxmZoFpys/o1AOa72ZyW9LNlk4p9HeFBci/Uy51JHkeuQFc7zqZf6aNLosnY/OaIvQtgMkk19pN0jzBNaAb/QtYhiaT3VJH062VYnUaSNFX4tuZf65oawbBtZ8F2PwJA09bZVVPbBk7QCLT9rG2RDi6PxVgmXe6uaLS3Sf4SaAvAWX4HgKa7OFMxPdEbkLmUAXASlREVfCLDWGAWbynNuI8ZkeAm4JEqHVn2ALjsaa00/AVUoofIz9NOiWgsiuq8NDW9qOZ2Hg5OTk7tAVh7XQPKb3kLLuqZCd4AMDoHQKVJeaJLuF8boylWODmK90LD133CnaeEivg7nWccU3guTGOiWN/3mGCVpzRV4XWvTiZpGLyJlZ3TyRkzyGhfs4fS1UCSNW4zLCqcDM+ziPLdvrXkUumlftBVy88GGYzKN/slZ2ZmZmp5yeEy1fJsk9caq+tGA2TWZLgrFCP79yFjUjm8XPTRhpNcPqCY8Rbhj+8z7jW/ltlJj4lXr55r67k4y8+eJIvfDh6VSLIqYmzQFLXZaU8sSVKv6EiSLFxo202hGDXE/h/LSDVR5dEDom9JTnuD7yT/EtLPnqTwJCkif/CZqvzG7FQ2gaasLRCTWu+hW6067xnvU8ukb0nGnhptiOdqleixlSPv8eKixIkkhze1hTKFlI3eGNv0XM0WDeui6iQn/XTKbPD18fPnm+S90Lfz4l63kfsSAPj2+wroBUQMXQpAd2n7K7tx2ivqAQCZpvHOK/hwo4T+zFuyoSFVOCIMxaHXdmUjpGw3ZCEyAKU7Qobo7s/NQqSEmNKULd5SjPAJEQxrwsr4FhHnGQwAmwEAGSucx0wLD16qXQfA0MQHm12KvQRlB5W8IdUzICc9aEDfvsBeAPACgKOzSr2WbejvjWQJMaUpN/jSrLqaUwF93rWi8nJ1CQaVAmdzK+2T6vR51/QAgJIDFbhTsOPC9WM7qgF0bDxmN0nSLvJGyE0rbwNrtlswOjmicrMAtbeEmNKUATRd/LVz9E3MqAoYm8mM1KduuychlvsD45mqMjP53zOWxe5rdXyzFXX+46+CbczRpgrp5IE6n4raELQ+guUnHxkffwtAj4XxrSzT6terBSicmc+KwPrly+pNVALvhp4mx+gKB15vPSGr//+bPTf4F+ib9yvPtxcVAAAAAElFTkSuQmCC\" style=\"height:24px\" alt=\"\">, thế điện cực chuẩn của cặp oxi hoá – khử Ag+/Ag là",
+  "options": {
+   "A": "0,8 V.",
+   "B": "1,32 V.",
+   "C": "0,76 V.",
+   "D": "0,85 V."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C5_0159",
+  "stem": "(SBT – CTST) Cho pin điện hoá Mn – Cd có <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIEAAAAVCAAAAABEPNLZAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnF4lTnckAAANSSURBVEjH7ZZtTNV1FMc/f7psXHKySVMqQx1OtCTQXEjKg0njKjgZylrOZD2gQKtV0ze+cE1XbGQvKAbT+dByCgKBix5ssG5Jq2Cg+ULNot1uMiXuxRkDTK7cby/u/16uDYj8v/BN31fn9z3n9zvnd875PRjiHiPiXgdABDgLjaVZGalxjbD3xK6L1tf84Om89VdM+UfDMAzDaOOzzPy0ygDX5jAczcCHK9NbAEnnaJZU26D+fHWXySqaFo6ofLk/MDi3pbW19fPE0a77OtQX0xAgB6JeliSt6ZE0XoW0RAQYllNQudlO8dkzgUFsaXZ2dt9LkUcffZI5G2oC5KxnaweBy5EJhPVBx7wkZqecqCu7K69jQyaG8f+wCGIf/DageGQ1+Gu283sckNRpmpcOHwcOlkBYFZ6zlHnn/SZidJUmSUt3jCsb35C2p0g6wqBJLU+WbiX7FKrCXoej21Lms4I5uMFf2IDIm+PK/a/DtvNf4HNzK5iE8518vNFGqAp7Tp9Ot1x/E3Z8wKg9RLTNj4dVjeVpRb3MMLktMQc4UgyALWh3yJLb20OmYMTMjroOeONDuvIKgIIC2BMfZXLRRYdKZsy9MwIoq777CL4rMAVbX0TaZfD88VRQ1el/ApABtG4ITSh9f/MBUwzdB0rXn88XV+xWrdNsl5+bVTFzUKpM+jW866qr6quapOu5Ls/hibry1IIRvbPM71u8SZKU3yJJzY3Sqdjecas1C8wbA+mrTTyWmbn68UXSvmNK9QRtRoql9meq5Ht1bbiDL1+TdElSiUtfV08UQmXWxvVuKTtaki4u8UtSe0puTu6FMKP6coUiCMO+Y7eTbr51tGvluxmjqv5Iam9IVp1zrfYX7X7RtNl5UpKGy+odLil1ihN6NXNaB/kfL9OZ92qiEkicszOhnwsPAXGLnT0LITHl7V5YsaIexgyAT5YUzgNs3klbo+fNqmm1kO3OYcZWU4gQhgBeeeG42eXQBZDTUggdvsDt7Z/8bbUfjv7vEQxdGlgXO/bTmMvjueaeu+wKfK9d61Lr+l1uV5/X+wAAOb/VxHnteTv87l/mw6xJV354Wv4xNzohfKUH/+338OmNrVjFFBFwrTtv6skD3xRgGcb/vzT+BlUry9D8b48pAAAAAElFTkSuQmCC\" style=\"height:24px\" alt=\"\"> và <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHEAAAAWCAAAAADS5CzuAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnF4lTnckAAAJ4SURBVEjH5VZLSFRhFP5G7sBUkJChE0YxGWZkmC6yFqYTBSaBQkVEYlFJzRDRwwiklWQt2hQqiG0MSh0cHyAklTS9FinV7JLQklJmxLEHMi+943wt5l7vvTXqzF246dvc/3zn3P/c853z/1wDscJIWemESAFcxwy5JfsKzU6gru36J/17New/XDausme2OAEAA6WG0h4ArXuK+gCQdKOHZHsnpyr4wU696N4a5J2CqEJUoTO2+GE6R5K0jpJUVN27DQRg0F3i/aOrUP3x9YLdul1erTvePgPgszELqj4Obt6J9F1tHfZENp/3SwgoXPRdNpC24a1sj/RdW/DZAo8BtFwAVKqeSEZA1xoJqQrnQTfJ3POSOXfIK8qqkgV55GyeSJICAKCuGWPJCFjiV9ZPgkB+FhCGAMAYkujai+aIEmSrHtrdVS5oajyrd2AyATSQ9KKL5A6pxqeXSVWNgdQzPDBOklRmNRmIvyT8Jn/6fL4QyXnTA5IZ9bGIilhtxfIbl1YPVfDvjLbEM75Kk5ChIq015BRcMeOr2+1+j7sjsnMYm/r/yVik2fSRs568kUzhvZYgb+dHxZwjshKKqqTVIp1UAXA14eY9zM+ENcNxcvbF9K2X4dr0hMep/FtZqthrEDb2x/PavsgnfbEvDrdMU7SLSTaYJD3FS7q1N/lYraPjCoDnp1HpcUCoFACM96jo5TF6tXHpAE3+Yi85THLylIpsDsWlF8NEYGm/oM7u95mBHDi+a5oXisSlF0PmMn5Nxmjs0fhm0qVSKTsurRuaPq5d7wEGEdFEPDsYl9YNTY142FSAgcKqGstE2CRzc8a4tG4Y/oP/nD8U3KGlWCgdzQAAAABJRU5ErkJggg==\" style=\"height:24px\" alt=\"\">. Thế điện cực chuẩn của cặp oxi hoá khử Mn2+/ Mn có giá trị là",
+  "options": {
+   "A": "0,39 V.",
+   "B": "–1,19 V.",
+   "C": "+1,19 V.",
+   "D": "–0,39 V."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C5_0160",
+  "stem": "(ĐH A – 2009) Cho suất điện động chuẩn của các pin điện hoá: Zn – Cu là 1,1 V; Cu – Ag là 0,46 V. Biết thế điện cực chuẩn <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAG0AAAAXCAAAAAAkKp4tAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnEvk5aUYAAAKxSURBVEjH3VZdSFMBFP6m0zKzQtSpiVbahpglZJg0NSUKxCSUVfYQgQQyKyOoXoLK0AiDPUhhpNhD/pHYg/SDYSuoWYaFWhaoSTqlaZh/sXC6r4e7ux+VeVXwoe/pnO8cznfPd8/YlRGrCI/VFIMHoNfIduxPTgiuBwqrL3Ytc5A+NWvfKzEpVmcnFgEAevJkMbcBvD66VQeA5Cc8JlnziMNH2KblstC/8Rtb/IxCUrt2hMM+VUKyZ7uVJK9WkHQ4magCAciWupTxygSAimgV9kaUC1RHcAACQzuERNutBzDbcNz5vb2PiEVQXHWtdvH5UyKsAGAsmgDwVgkg9o3QkG76is7BdCE55n8PwNPUdXByMkeyaTO+Igwk2YIBkspzJM+obC0la3bLb4n9F7yHycNdJCkHABSWoU+ydZ5Tjvh7E/rwcBOy/soBeJltF1PSte1zUnyakOXpKi8Z/0TDebfcZR1Ho0Lhj0CFok11lmS+bbeDJ0meOCQ2HYi0XqumYzcA5dLvYkwM/DwzfuJd4scwIHwUwK9wge+NA7C5VWzTZr1oNAAA5I4h2rvSxGajxOhJgp1UNwLo1AhJ8ASA3yFiLTPsdI43XJwkk+a4dFmamcKVGDd8oWH9AHOjxkhdpJnjoaX2luuyXiEA+TIbMSkp6p1KlyEjBbsKTFLUZietJNmcrFHryRtoJS2FaZqU4hl7y1AG7Wou1616LoYWrYVkf4MzJwHx426Kc9Sa6oXfXfc0aSDJMrMLtxim8mvcleeo3ad6nO3nSzNFQrcA505tyG3Z9R/H3PFgSx0MidpJG9GjnM+5g2+I+7qLdp2Jg2qaTlV+sBF3pudzK4DcWflHQ2zQaE9VQK+5PdoXADDtNZ9bCRZ4gsoe3nwmgVvhbjb4NLdbkiVwS4fsP/4K+gd5+k6C9p6pwwAAAABJRU5ErkJggg==\" style=\"height:27px\" alt=\"\">. Thế điện cực chuẩn <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFgAAAAnCAAAAACuitD8AAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnF4lTnckAAAL6SURBVEjHtZdZbExxFMZ/M6bDmGotiaZaD7YWrTSxVUVFQiyJnQdJremD0YSEEEuIBhFbrQ8kHixNI5bYhb6UCEKUIBoho5YEFUvbMNqZqfk8tMPsJtOZ7+Xee/Lld88995z//16DSIyMCeKGBbs35I4auMHdDrJCqyTri95llChmIa01+d1pkSQ1mHdJ2mJuiBlsgh1b7YOx7gF5nI5vJwB45soCcl3PCmOthAlIGgSdbG2BGgAasQBWGuP38gYAkEoT4KBr/MC5nQHyzC+B5+YhMYNbuwJ6hOiK95nt6AqDAAz0+Op/P/emq6kNs0pNseQaIuN7ObGnGCD/Gr+IPcFAeZ9VdQCP4w/+ng5ATtzBKacBjtXEHZw0GaAx/uBWTTDEDRyuj9ut4IX+/YoEgW9XxQUcPLMPksOa52aYXu4aHCU5aBEaMSHsmB6W9oyTpHnHo9lBcNmh+Qggj/Pn5ydTwyZhgy71AE3/32VNsK6sBRzL/oaSAerSe3U3G1qeBnbL/fl8Oc2bm82W4rZI4dlbC3p3SaK+ds65oFIE69MUSdrLev9w1cLfqi0qyhxVZPMax+jUTkmazg1fZ1hwiaTPqb1++EUvlv6WJM04+q/uu3XqjKRKpisasMcpqZhyv+CBirYTH/BEu9wtkntQR3tUYEmqNhZ4pBNpfW39LIWfpJoOVqvV2iyp9pvXUz+s9biXdZJWdpw4Mz15sScy2DPa+FCSlqbdfnvJtCa06eRmyado2eOr35ZyLTK4nGJJ0tJ+kkZPC22a9UTyKVp2seQ0lClwa/KVY23K9n9XFldI069XeQCPjhUU/Y2Zja6QI+3Vto9lPf87BpWTALRCBwMX3LAZv96XvRz4cCUi+PxsgIp7S4YDVa+iAa9y7k8C7tgjcd3VBT5FO+uIAlx5edpkgLvdIoFvjjUC2z5uTgNaHvh5w7TEAvrn5+f1sXDh2sDkjTqUnhFqQbNdl6TeDM0fmZNpon5fStbJptWG/DveT6wEKGE/N38A1A0LmZOZOY0AAAAASUVORK5CYII=\" style=\"height:24px\" alt=\"\"> và <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFgAAAAnCAAAAACuitD8AAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnD5o/BZ8AAALjSURBVEjH1ddLSFRhFAfw/9g44QyjaRGSgkGiEDppPnHRKFjJSKKLbHFXCkEPKsqgSIhazEbFiBQtXNhjkT2ohHEhPSVI1EZBJUxqRBlTE3WePma8p8XVcUbn08vMnUVndb7D4cd3z73f5V4ZITQRFiKXCT/NyEnmpoKRyW+8UPTQUqHGTQEHA87WEVEXOgKH/Y+CNyYBSEFfUDOujpJ5xxQApzsCgAqWwGE5oNcPpCP9NsDzy/buVgBQhi8CcGBPUDCwD9hfKqyPtQJA2NERAEPIDBwGEdEEcHJt5i7FH+Gp6KWlExpX4DdPvvkKOqIB4LTzbIQl/bE8gJ0ydixZ+D5uF1qC2KJv+MKDbsng9Sm6FwBgRDLXA3+Ils70gbNqAKBcejgmHwAKpIeFaJMO3vp2G50PEXymOwSjAOAYVLN6Jys0NnuTGqJiy4573JGsXv5ybbOlHsBgssgdzwAzbwHQ6pLVACYcHw+o5wGsOkTB1Q9sQH+ZpyTApntdan4uMrXZZ1h83zMYTGZHA7SpQqX6SDlsDe2yXRZKueN9JYyXU4fqooWIOg9afcr6RqI6TqfkuM61SpqVfh/S/iKi4cJ2r04GbI4qEZLKWa8qr28jIqL+OE/pRzHxWQdsRET05NXO8C18EZKxlY2i46qRNsP6FurEXSGf/7sznCn3gC3xWlq5GcMRNSpUKlUBETmHPY05M3QdH9dXn3NB9Cgljg2rEzbyYi0RZXB++8bziU7B5FnXgoiq4oj1wQK7UtwxeFMKWOGvmQFHLIqHVfDXzICTzC4x7qwzAUiCSTysc30Vkt6f28HvSgDo8ElYLRh2hi/F1AiJYRqKZfYkygAcz3sofOMNGKHA8vZw7Otv5+wAvr8MR6Lx/WT3nL8u2/hhAGjbWzwGwNwQjkTcnxwaBcA80jRxLaOwKDvnyjSZc3en1WfGNm3teX5j7eTU5WmLtJqKHlrllAlVlYrzRLL/7ufmH9Tok4QySxC3AAAAAElFTkSuQmCC\" style=\"height:24px\" alt=\"\"> có giá trị lần lượt là",
+  "options": {
+   "A": "+1,56 V và +0,64 V.",
+   "B": "–1,46 V và –0,34 V.",
+   "C": "–0,76 V và +0,34 V.",
+   "D": "–1,56 V và +0,64 V."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C5_0161",
+  "stem": "(Đề TN THPT - 2020) Cho 0,384 gam kim loại R (hóa trị II) tác dụng hết với dung dịch AgNO3 dư, thu được 1,296 gam Ag. Kim loại R là",
+  "options": {
+   "A": "Zn.",
+   "B": "Cu.",
+   "C": "Mg.",
+   "D": "Fe."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C5_0162",
+  "stem": "(Đề MH - 2020) Cho m gam bột Zn tác dụng hoàn toàn với dung dịch CuSO4 dư, thu được 9,6 gam Cu. Giá trị m là",
+  "options": {
+   "A": "6,50.",
+   "B": "3,25.",
+   "C": "9,75.",
+   "D": "13,00."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C5_0163",
+  "stem": "(Đề MH – 2019) Cho 6 gam Fe vào 100 mL dung dịch CuSO4 1 M. Sau khi phản ứng xảy ra hoàn toàn, thu được m gam hỗn hợp kim loại. Giá trị của m là",
+  "options": {
+   "A": "7,0.",
+   "B": "6,8.",
+   "C": "6,4.",
+   "D": "12,4."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C5_0164",
+  "stem": "(Đề THPT QG - 2019) Cho m gam Fe tác dụng hết với dung dịch CuSO4 dư, thu được 19,2 gam Cu. Giá trị của m là",
+  "options": {
+   "A": "11,2.",
+   "B": "14.",
+   "C": "8,4.",
+   "D": "16,8."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C5_0165",
+  "stem": "(Đề THPT QG - 2019) Cho 2,24 gam Fe tác dụng hết với dung dịch Cu(NO3)2 dư, thu được m gam kim loại Cu. Giá trị của m là",
+  "options": {
+   "A": "3,20.",
+   "B": "6,40.",
+   "C": "5,12.",
+   "D": "2,56."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C5_0166",
+  "stem": "(Đề TSCĐ - 2009) Nhúng một lá kim loại M (chỉ có hoá trị hai trong hợp chất) có khối lượng 50 gam vào 200 mL dung dịch AgNO3 1 M cho đến khi phản ứng xảy ra hoàn toàn. Lọc dung dịch, đem cô cạn thu được 18,8 gam muối khan. Kim loại M là",
+  "options": {
+   "A": "Fe.",
+   "B": "Cu.",
+   "C": "Mg.",
+   "D": "Zn."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C5_0167",
+  "stem": "(Đề TSĐH B - 2008) Tiến hành hai thí nghiệm sau:- Thí nghiệm 1: Cho m gam bột Fe (dư) vào V1 lít dung dịch Cu(NO3)2 1 M;- Thí nghiệm 2: Cho m gam bột Fe (dư) vào V2 lít dung dịch AgNO3 0,1 M.Sau khi các phản ứng xảy ra hoàn toàn, khối lượng chất rắn thu được ở hai thí nghiệm đều bằng nhau. Giá trị của V1 so với V2 là",
+  "options": {
+   "A": "V1 = V2.",
+   "B": "V1 = 10V2.",
+   "C": "V1 = 5V2.",
+   "D": "V1 = 2V2."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C5_0169",
+  "stem": "Nhúng một thanh Mg vào 200 mL dung dịch Fe(NO3)3 1 M, sau một thời gian lấy thanh kim loại ra cân lại thấy khối lượng tăng 0,8 gam. Số gam Mg đã tan vào dung dịch là",
+  "options": {
+   "A": "1,4 gam.",
+   "B": "4,8 gam.",
+   "C": "8,4 gam.",
+   "D": "4,1 gam."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C5_0170",
+  "stem": "(Đề TSCĐ - 2014) Nhúng thanh Fe vào dung dịch CuSO4. Sau một thời gian, khối lượng dung dịch giảm 0,8 gam so với khối lượng dung dịch ban đầu. Khối lượng Fe đã phản ứng là",
+  "options": {
+   "A": "8,4 gam.",
+   "B": "6,4 gam.",
+   "C": "11,2 gam.",
+   "D": "5,6 gam."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C5_0171",
+  "stem": "(Đề TSĐH B - 2011) Cho m gam bột Zn vào 500 mL dung dịch Fe2(SO4)3 0,24M. Sau khi các phản ứng xảy ra hoàn toàn, khối lượng dung dịch tăng thêm 9,6 gam so với khối lượng dung dịch ban đầu. Giá trị của m là",
+  "options": {
+   "A": "20,80.",
+   "B": "29,25.",
+   "C": "48,75.",
+   "D": "32,50."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C5_0172",
+  "stem": "Cho 16,25 gam Zn vào 200 mL dung dịch FeSO4 1 M, sau phản ứng thu được m gam hỗn hợp kim loại X. Hòa tan m gam X bằng dung dịch HCl dư thấy thoát ra a mol H2. Biết các phản ứng xảy ra hoàn toàn. Giá trị của a là",
+  "options": {
+   "A": "0,05.",
+   "B": "0,54.",
+   "C": "0,2.",
+   "D": "0,25."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C5_0174",
+  "stem": "(Đề TSĐH A - 2008) Cho hỗn hợp bột gồm 2,7 gam Al và 5,6 gam Fe vào 550 mL dung dịch AgNO3 1 M. Sau khi các phản ứng xảy ra hoàn toàn, thu được m gam chất rắn. Giá trị của m là (biết thứ tự trong dãy thế điện hoá: Fe3+/Fe2+ đứng trước Ag+/Ag)",
+  "options": {
+   "A": "59,4.",
+   "B": "64,8.",
+   "C": "32,4.",
+   "D": "54,0."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C5_0175",
+  "stem": "(Đề TSĐH A - 2010) Cho 19,3 gam hỗn hợp bột gồm Zn và Cu có tỉ lệ mol tương ứng là 1: 2 vào dung dịch chứa 0,2 mol Fe2(SO4)3. Sau khi các phản ứng xảy ra hoàn toàn, thu được m gam kim loại. Giá trị của m là",
+  "options": {
+   "A": "12,80.",
+   "B": "12,00.",
+   "C": "6,40.",
+   "D": "16,53."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C5_0176",
+  "stem": "Cho 4,825 gam hỗn hợp bột Al và Fe (có tỉ lệ mol nAl : nFe = 3 : 2) vào 350 mL dung dịch AgNO3 1 M. Khuấy kĩ cho phản ứng xảy ra hoàn toàn, thu được m gam chất rắn. Giá trị của m là",
+  "options": {
+   "A": "37,8.",
+   "B": "13,5.",
+   "C": "35,1.",
+   "D": "27,0."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C5_0177",
+  "stem": "(Đề TSĐH B - 2007) Cho m gam hỗn hợp bột Zn và Fe vào lượng dư dung dịch CuSO4. Sau khi kết thúc các phản ứng, lọc bỏ phần dung dịch thu được m gam bột rắn. Thành phần phần trăm theo khối lượng của Zn trong hỗn hợp bột ban đầu là",
+  "options": {
+   "A": "90,27%.",
+   "B": "85,30%.",
+   "C": "82,20%.",
+   "D": "12,67%."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C5_0178",
+  "stem": "(Đề TSCĐ - 2010) Cho 29,8 gam hỗn hợp bột gồm Zn và Fe vào 600 mL dung dịch CuSO4 0,5 M. Sau khi các phản ứng xảy ra hoàn toàn, thu được dung dịch X và 30,4 gam hỗn hợp kim loại. Phần trăm về khối lượng của Fe trong hỗn hợp ban đầu là",
+  "options": {
+   "A": "56,37%.",
+   "B": "64,42%.",
+   "C": "43,62%.",
+   "D": "37,58%."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C5_0179",
+  "stem": "(Đề TSĐH B - 2012) Cho 0,42 gam hỗn hợp bột Fe và Al vào 250 mL dung dịch AgNO3 0,12 M. Sau khi các phản ứng xảy ra hoàn toàn, thu được dung dịch X và 3,333 gam chất rắn. Khối lượng Fe trong hỗn hợp ban đầu là",
+  "options": {
+   "A": "0,168 gam.",
+   "B": "0,123 gam.",
+   "C": "0,177 gam.",
+   "D": "0,150 gam."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C5_0180",
+  "stem": "(Đề TSĐH A - 2011) Cho 2,7 gam hỗn hợp bột X gồm Fe và Zn tác dụng với dung dịch CuSO4. Sau một thời gian, thu được dung dịch Y và 2,84 gam chất rắn Z. Cho toàn bộ Z vào dung dịch H2SO4 (loãng, dư), sau khi các phản ứng kết thúc thì khối lượng chất rắn giảm 0,28 gam và dung dịch thu được chỉ chứa một muối duy nhất. Phần trăm khối lượng của Fe trong X là",
+  "options": {
+   "A": "41,48%.",
+   "B": "58,52%.",
+   "C": "48,15%.",
+   "D": "51,85%."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C5_0181",
+  "stem": "(Đề TSĐH A - 2013) Cho hỗn hợp X gồm 0,01 mol Al và a mol Fe vào dung dịch AgNO3 đến khi phản ứng hoàn toàn, thu được m gam chất rắn Y và dung dịch Z chứa 3 cation kim loại. Cho Z phản ứng với dung dịch NaOH dư trong điều kiện không có không khí, thu được 1,97 gam kết tủa T. Nung T trong không khí đến khối lượng không đổi, thu được 1,6 gam chất rắn chỉ chứa một chất duy nhất. Giá trị của m là",
+  "options": {
+   "A": "6,48.",
+   "B": "3,24.",
+   "C": "8,64.",
+   "D": "9,72."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C5_0182",
+  "stem": "Cho 5,6 gam gồm Mg và Cu tác dụng với 400 mL dung dịch AgNO3 1 M. Phản ứng hoàn toàn thu được 32,4 gam chất rắn A và dung dịch nước lọc B. Khối lượng mỗi kim loại trong hỗn hợp đầu lần lượt là",
+  "options": {
+   "A": "2,4 và 3,2.",
+   "B": "4,15 và 1,45.",
+   "C": "3,52 và 2,08.",
+   "D": "2,6 và 2,08."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C5_0183",
+  "stem": "(Đề TSĐH B - 2009) Cho 2,24 gam bột Fe vào 200 mL dung dịch chứa hỗn hợp gồm AgNO3 0,1 M và Cu(NO3)2 0,5 M. Sau khi các phản ứng xảy ra hoàn toàn, thu được dung dịch X và m gam chất rắn Y. Giá trị của m là",
+  "options": {
+   "A": "2,80.",
+   "B": "2,16.",
+   "C": "4,08.",
+   "D": "0,64."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C5_0184",
+  "stem": "Nhúng 19,5 gam thanh kim loại Zn vào dung dịch chứa 0,2 mol Cu(NO3)2 và 0,2 mol Pb(NO3)2. Chất rắn thu được sau khi phản ứng xảy ra hoàn toàn có khối lượng là",
+  "options": {
+   "A": "10,2 gam.",
+   "B": "12,5 gam.",
+   "C": "33,5 gam.",
+   "D": "46,5 gam."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C5_0185",
+  "stem": "(Đề TSĐH A - 2012) Cho 2,8 gam bột Fe vào 200 mL dung dịch gồm AgNO3 0,1 M và Cu(NO3)2 0,5 M; khi các phản ứng xảy ra hoàn toàn thu được m gam chất rắn X. Giá trị của m là",
+  "options": {
+   "A": "4,72.",
+   "B": "4,48.",
+   "C": "3,20.",
+   "D": "4,08."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C5_0186",
+  "stem": "Cho 4,8 gam bột kim loại Mg tác dụng hoàn toàn với 500 mL dung dịch chứa FeSO4 0,2 M và CuSO4 0,3 M, sau phản ứng thu được m gam chất rắn. Giá trị của m là",
+  "options": {
+   "A": "12,8.",
+   "B": "12,4.",
+   "C": "12,0.",
+   "D": "10,8."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C5_0187",
+  "stem": "(Đề TSĐH B - 2009) Nhúng một thanh Fe nặng 100 gam vào 100 mL dung dịch hỗn hợp gồm Cu(NO3)2 0,2 M và AgNO3 0,2 M. Sau một thời gian lấy thanh kim loại ra, rửa sạch làm khô cân được 101,72 gam (giả thiết các kim loại tạo thành đều bám hết vào thanh Fe). Khối lượng Fe đã phản ứng là",
+  "options": {
+   "A": "1,40 gam.",
+   "B": "2,16 gam.",
+   "C": "0,84 gam.",
+   "D": "1,72 gam."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C5_0188",
+  "stem": "(Đề TSĐH B - 2013) Nhúng một thanh Fe vào dung dịch hỗn hợp chứa 0,02 mol AgNO3 và 0,05 mol Cu(NO3)2. Sau khi các phản ứng xảy ra hoàn toàn, khối lượng thanh sắt tăng m gam (coi toàn bộ kim loại sinh ra bám vào thanh Fe). Giá trị của m là",
+  "options": {
+   "A": "2,00.",
+   "B": "3,60.",
+   "C": "1,44.",
+   "D": "5,36."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C5_0189",
+  "stem": "(Đề MH lần I - 2017) Cho m gam Fe vào dung dịch X chứa 0,1 mol Fe(NO3)3 và 0,4 mol Cu(NO3)2. Sau khi các phản ứng xảy ra hoàn toàn, thu được dung dịch Y và m gam chất rắn Z. Giá trị của m là",
+  "options": {
+   "A": "25,2.",
+   "B": "19,6.",
+   "C": "22,4.",
+   "D": "28,0."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C5_0190",
+  "stem": "(Đề TSĐH B - 2008) Cho một lượng bột Zn vào dung dịch X gồm FeCl2 và CuCl2. Khối lượng chất rắn sau khi các phản ứng xảy ra hoàn toàn nhỏ hơn khối lượng bột Zn ban đầu là 0,5 gam. Cô cạn phần dung dịch sau phản ứng thu được 13,6 gam muối khan. Tổng khối lượng các muối trong X là",
+  "options": {
+   "A": "13,1 gam.",
+   "B": "17,0 gam.",
+   "C": "19,5 gam.",
+   "D": "14,1 gam."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C5_0191",
+  "stem": "(Đề THPT QG - 2016) Cho m gam Mg vào dung dịch X gồm 0,03 mol Zn(NO3)2 và 0,05 mol Cu(NO3)2, sau một thời gian thu được 5,25 gam kim loại và dung dịch Y. Cho dung dịch NaOH vào Y, khối lượng kết tủa lớn nhất thu được là 6,67 gam. Giá trị của m là",
+  "options": {
+   "A": "3,60.",
+   "B": "2,02.",
+   "C": "4,05.",
+   "D": "2,86."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C5_0192",
+  "stem": "(Đề TSCĐ - 2009) Cho m1 gam Al vào 100 mL dung dịch gồm Cu(NO3)2 0,3 M và AgNO3 0,3 M. Sau khi các phản ứng xảy ra hoàn toàn thì thu được m2 gam chất rắn X. Nếu cho m2 gam X tác dụng với lượng dư dung dịch HCl thì thu được 0,015 mol khí H2. Giá trị của m1 và m2 lần lượt là",
+  "options": {
+   "A": "0,54 và 5,16.",
+   "B": "1,08 và 5,43.",
+   "C": "8,10 và 5,43.",
+   "D": "1,08 và 5,16."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C5_0194",
+  "stem": "Điện phân dung dịch AgNO3 trong thời gian 15 phút, cường độ dòng điện 5A. Khối lượng Ag thu được ở cathode là",
+  "options": {
+   "A": "6,037 gam.",
+   "B": "5,036 gam.",
+   "C": "7,001 gam.",
+   "D": "5,531 gam."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C5_0195",
+  "stem": "(Đề THPT QG - 2016) Điện phân nóng chảy hoàn toàn 5,96 gam MCln, thu được 0,04 mol Cl2. Kim loại M là",
+  "options": {
+   "A": "Ca.",
+   "B": "Na.",
+   "C": "Mg.",
+   "D": "K."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C5_0198",
+  "stem": "(SBT – KNTT) Điện phân 500 mL dung dịch CuSO4 0,2 M (điện cực trơ) cho đến khi ở cathode thu được 3,2 gam kim loại thì thể tích khí (đkc) thu được ở anode là",
+  "options": {
+   "A": "1,24 lít.",
+   "B": "2,48 lít.",
+   "C": "0,62 lít.",
+   "D": "3,72 lít."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C5_0200",
+  "stem": "(Đề TSĐH A - 2010) Điện phân (điện cực trơ) dung dịch X chứa 0,2 mol CuSO4 và 0,12 mol NaCl bằng dòng điện có cường độ 2A. Số mol khí thoát ra ở anode sau 9650 giây điện phân là",
+  "options": {
+   "A": "0,06.",
+   "B": "0,1.",
+   "C": "0,08.",
+   "D": "0,09."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C5_0201",
+  "stem": "(Đề TSĐH B - 2007) Điện phân dung dịch chứa a mol CuSO4 và b mol NaCl (với điện cực trơ, có màng ngăn xốp). Để dung dịch sau điện phân làm phenolphtalein chuyển sang màu hồng thì điều kiện của a và b là",
+  "options": {
+   "A": "b &gt; 2a.",
+   "B": "b = 2a.",
+   "C": "b &lt; 2a.",
+   "D": "2b = a."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L12_C5_0202",
+  "stem": "Điện phân có màng ngăn 500 mL dung dịch chứa hỗn hợp gồm CuCl2 0,1 M và NaCl 0,5 M (điện cực trơ, hiệu suất điện phân 100%) với cường độ dòng điện 5A trong 3860 giây. Dung dịch thu được sau điện phân có khả năng hoà tan m gam Al. Giá trị lớn nhất của m là",
+  "options": {
+   "A": "4,05.",
+   "B": "2,70.",
+   "C": "1,35.",
+   "D": "5,40."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C5_0203",
+  "stem": "Có 400 mL dung dịch chứa HCl và KCl đem điện phân trong bình điện phân có vách ngăn với cường độ dòng điện 9,65A trong 20 phút thì dung dịch chứa một chất tan có pH = 13 (coi thể tích dung dịch không đổi). Nồng độ mol/L của HCl và KCl trong dung dịch ban đầu lần lượt là",
+  "options": {
+   "A": "0,2 M và 0,2 M.",
+   "B": "0,1 M và 0,2 M.",
+   "C": "0,2 M và 0,1 M.",
+   "D": "0,1 M và 0,1 M."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C5_0204",
+  "stem": "Điện phân dung dịch X gồm 0,1 mol CuSO4 và 0,1 mol KCl. Khi ở cathode bắt đầu thoát khí thì ngừng điện phân. Khối lượng kim loại trên cathode và số mol khí thu được ở anode lần lượt là",
+  "options": {
+   "A": "10,3 gam; 0,15 mol.",
+   "B": "6,4 gam; 0,075 mol.",
+   "C": "6,4 gam; 0,2 mol.",
+   "D": "10,3 gam; 0,1 mol."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L12_C5_0205",
+  "stem": "Điện phân 500 mL dung dịch A chứa CuCl2 0,2 M, NaCl 0,1 M với cường độ dòng điện I= 4 A, thời gian t giây đến khi bắt đầu có khí thoát ra ở cathode thì dừng lại. Giá trị của t là",
+  "options": {
+   "A": "4250 giây.",
+   "B": "3425 giây.",
+   "C": "4825 giây.",
+   "D": "2225 giây."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L12_C5_0206",
+  "stem": "Điện phân 100 mL dung dịch A chứa đồng thời HCl 0,1M và NaCl 0,2M với điện cực trơ có màng ngăn xốp tới khi ở anode thoát ra 0,01 mol khí thì ngừng điện phân. Dung dịch sau khi điện phân có pH (coi thể tích dung dịch thay đổi không đáng kể) là",
+  "options": {
+   "A": "6.",
+   "B": "7.",
+   "C": "12.",
+   "D": "13."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L12_C5_0207",
+  "stem": "(Đề MH lần II - 2017) Hòa tan hoàn toàn hỗn hợp X gồm CuSO4 và KCl vào H2O, thu được dung dịch Y. Điện phân Y (có màng ngăn, điện cực trơ) đến khi H2O bắt đầu điện phân ở cả hai điện cực thì dừng điện phân. Số mol khí thoát ra ở anode bằng 4 lần số mol khí thoát ra từ cathode. Phần trăm khối lượng của CuSO4 trong X là",
+  "options": {
+   "A": "61,70%.",
+   "B": "44,61%.",
+   "C": "34,93%.",
+   "D": "50,63%."
+  },
+  "answer": "B"
+ }
+]

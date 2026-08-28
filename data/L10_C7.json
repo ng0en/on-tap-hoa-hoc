@@ -1,0 +1,1443 @@
+[
+ {
+  "id": "L10_C7_0001",
+  "stem": "Cấu hình electron nào của nguyên tử halogen?",
+  "options": {
+   "A": "1s22s22p6.",
+   "B": "1s22s22p63s2.",
+   "C": "1s22s22p63s23p5.",
+   "D": "1s22s22p63s23p64s23d7."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L10_C7_0002",
+  "stem": "Muối nào có nhiều nhất trong nước biển với nồng độ khoảng 3%?",
+  "options": {
+   "A": "NaCl.",
+   "B": "KCl.",
+   "C": "MgCl2.",
+   "D": "NaF."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L10_C7_0003",
+  "stem": "Khi đun nóng, chất thăng hoa chuyển từ thể rắn sang thể hơi màu tím là",
+  "options": {
+   "A": "F2.",
+   "B": "Br2.",
+   "C": "I2.",
+   "D": "Cl2."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L10_C7_0004",
+  "stem": "Trong dãy halogen, nguyên tử có độ âm điện nhỏ nhất là",
+  "options": {
+   "A": "fluorine.",
+   "B": "chlorine.",
+   "C": "bromine.",
+   "D": "iodine."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L10_C7_0006",
+  "stem": "Trong nhóm halogen, từ fluorine đến iodine, bán kính nguyên tử biến đổi như thế nào?",
+  "options": {
+   "A": "Giảm dần.",
+   "B": "Không đổi.",
+   "C": "Tăng dần.",
+   "D": "Tuần hoàn."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L10_C7_0007",
+  "stem": "Trong nhóm halogen, từ fluorine đến iodine, nhiệt độ nóng chảy biến đổi thế nào?",
+  "options": {
+   "A": "Giảm dần.",
+   "B": "Tăng dần.",
+   "C": "Không đổi.",
+   "D": "Tuần hoàn."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L10_C7_0008",
+  "stem": "Trong bảng tuần hoàn các nguyên tố hóa học, halogen thuộc nhóm",
+  "options": {
+   "A": "IA.",
+   "B": "IIA.",
+   "C": "VIIA.",
+   "D": "VIIIA."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L10_C7_0009",
+  "stem": "Halogen tồn tại thể lỏng ở điều kiện thường là",
+  "options": {
+   "A": "fluorine.",
+   "B": "bromine.",
+   "C": "iodine.",
+   "D": "chlorine."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L10_C7_0010",
+  "stem": "Đơn chất halogen ở thể khí, màu vàng lục là",
+  "options": {
+   "A": "fluorine.",
+   "B": "bromine.",
+   "C": "iodine.",
+   "D": "chlorine."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L10_C7_0011",
+  "stem": "Ở cùng điền kiện, giữa các phân tử đơn chất halogen nào sau đây có tương tác van der Walls mạnh nhất?",
+  "options": {
+   "A": "F2.",
+   "B": "I2.",
+   "C": "Br2.",
+   "D": "Cl2."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L10_C7_0014",
+  "stem": "Nguyên nhân dẫn tới nhiệt độ nóng chảy, nhiệt độ sôi của các đơn chất halogen tăng từ fluorine đến iodine là do từ fluorine đến iodine,",
+  "options": {
+   "A": "khối lượng phân tử và tương tác van der Walls đều tăng.",
+   "B": "tính phi kim giảm và tương tác van der Walls tăng.",
+   "C": "khối lượng phân tử tăng và tương tác van der Walls giảm.",
+   "D": "độ âm điện và tương tác van der Walls tăng giảm."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L10_C7_0015",
+  "stem": "Ứng dụng nào sau đây không phải của Cl2?",
+  "options": {
+   "A": "Xử lí nước bể bơi.",
+   "B": "Sát trùng vết thương trong y tế.",
+   "C": "Sản xuất nhựa PVC.",
+   "D": "Sản xuất bột tẩy trắng."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L10_C7_0016",
+  "stem": "Halogen nào được dùng trong sản xuất nhựa Teflon?",
+  "options": {
+   "A": "Fluorine.",
+   "B": "Bromine.",
+   "C": "Iodine.",
+   "D": "Chlorine."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L10_C7_0017",
+  "stem": "Nguyên tố halogen dùng làm gia vị, cần thiết cho tuyến giáp và phòng ngừa khuyết tật trí tuệ là",
+  "options": {
+   "A": "fluorine.",
+   "B": "bromine.",
+   "C": "iodine.",
+   "D": "chlorine."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L10_C7_0018",
+  "stem": "Trong y học, halogen nào sau đây được hòa tan trong cồn để dùng làm thuốc sát trùng ngoài da?",
+  "options": {
+   "A": "Fluorine.",
+   "B": "Chlorine.",
+   "C": "Bromine.",
+   "D": "Iodine."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L10_C7_0019",
+  "stem": "Liên kết trong phân tử đơn chất halogen là",
+  "options": {
+   "A": "liên kết van der Walls.",
+   "B": "liên kết cộng hóa trị.",
+   "C": "liên kết ion.",
+   "D": "liên kết cho nhận."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L10_C7_0020",
+  "stem": "Theo chiều từ F đến I, bán kính nguyên tử",
+  "options": {
+   "A": "tăng dần.",
+   "B": "giảm dần.",
+   "C": "không thay đổi.",
+   "D": "không có quy luật."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L10_C7_0021",
+  "stem": "Đặc điểm của halogen là",
+  "options": {
+   "A": "nguyên tử chỉ nhận thêm 1 electron trong các phản ứng hóa học.",
+   "B": "tạo liên kết cộng hóa trị với nguyên tử hydrogen.",
+   "C": "nguyên tử có số oxi hóa –1 trong tất cả hợp chất.",
+   "D": "nguyên tử có 5 electron hóa trị."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L10_C7_0022",
+  "stem": "Hít thở không khí có chứa khí nào sau đây vượt ngưỡng 30 μg/m3 không khí (QCVN 06: 2009/BTNMT) sẽ tiềm ẩn nguy cơ gây viêm đường hô hấp, co thắt phế quản, khó thở?",
+  "options": {
+   "A": "O2.",
+   "B": "Cl2.",
+   "C": "N2.",
+   "D": "O3."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L10_C7_0023",
+  "stem": "Số electron ở lớp ngoài cùng của mỗi nguyên nguyên tố halogen là",
+  "options": {
+   "A": "5.",
+   "B": "2.",
+   "C": "7.",
+   "D": "8."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L10_C7_0024",
+  "stem": "Tính chất hóa học đặc trưng của các đơn chất halogen là",
+  "options": {
+   "A": "tính khử.",
+   "B": "tính base.",
+   "C": "tính acid.",
+   "D": "tính oxi hóa."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L10_C7_0025",
+  "stem": "Số oxi hóa cao nhất mà nguyên tử chlorine thể hiện được trong các hợp chất là",
+  "options": {
+   "A": "–1.",
+   "B": "+7.",
+   "C": "+ 5.",
+   "D": "+1."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L10_C7_0026",
+  "stem": "Nguyên tử halogen nào sau đây chỉ thể hiện số oxi hóa –1 trong các hợp chất?",
+  "options": {
+   "A": "Fluorine.",
+   "B": "Chlorine.",
+   "C": "Bromine.",
+   "D": "Iodine."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L10_C7_0027",
+  "stem": "Nguyên tố có tính oxi hóa yếu nhất thuộc nhóm VIIA là",
+  "options": {
+   "A": "fluorine.",
+   "B": "bromine.",
+   "C": "iodine.",
+   "D": "chlorine."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L10_C7_0028",
+  "stem": "Halogen nào tạo liên kết ion bền nhất với sodium?",
+  "options": {
+   "A": "Fluorine.",
+   "B": "Bromine.",
+   "C": "Iodine.",
+   "D": "Chlorine."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L10_C7_0029",
+  "stem": "Trong nhóm halogen, đơn chất có tính oxi hóa mạnh nhất là",
+  "options": {
+   "A": "F2.",
+   "B": "Br2.",
+   "C": "I2.",
+   "D": "Cl2."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L10_C7_0030",
+  "stem": "Nước chlorine có tính tẩy màu là do",
+  "options": {
+   "A": "HCl có tính acid mạnh.",
+   "B": "Cl2 vừa có tính khử, vừa có tính oxi hóa.",
+   "C": "HClO có tính oxi hóa mạnh.",
+   "D": "Cl2 có tính oxi hóa mạnh."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L10_C7_0031",
+  "stem": "Cho khí Cl2 tác dụng với dung dịch KOH, đun nóng, thu được dung dịch chứa KCl và muối nào sau đây?",
+  "options": {
+   "A": "KClO.",
+   "B": "KClO3.",
+   "C": "KClO4.",
+   "D": "KClO2."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L10_C7_0032",
+  "stem": "Ở nhiệt độ cao và có xúc tác, phản ứng giữa hydrogen với halogen nào sau đây xảy ra thuận nghịch?",
+  "options": {
+   "A": "F2.",
+   "B": "I2.",
+   "C": "Br2.",
+   "D": "Cl2."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L10_C7_0033",
+  "stem": "Trong nhóm halogen, nguyên tử nguyên tố thể hiện khuynh hướng nhận 1 electron yếu nhất là",
+  "options": {
+   "A": "fluorine.",
+   "B": "chlorine.",
+   "C": "bromine.",
+   "D": "iodine."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L10_C7_0034",
+  "stem": "Halogen phản ứng mãnh liệt với hydrogen ngay cả trong bóng tối là",
+  "options": {
+   "A": "F2.",
+   "B": "Br2.",
+   "C": "I2.",
+   "D": "Cl2."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L10_C7_0035",
+  "stem": "Khi tác dụng với kim loại, các nguyên tử halogen thể hiện xu hướng nào sau đây?",
+  "options": {
+   "A": "Nhường 1 electron.",
+   "B": "Nhận 1 electron.",
+   "C": "Nhường 7 electron.",
+   "D": "Góp chung 1 electron."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L10_C7_0036",
+  "stem": "(Đề TSCĐ – 2007) Cho kim loại M tác dụng với Cl2 được muối X; cho kim loại M tác dụng với dung dịch HCl được muối Y. Nếu cho kim loại M tác dụng với dung dịch muối X ta cũng được muối Y. Kim loại M có thể là",
+  "options": {
+   "A": "Mg.",
+   "B": "Zn.",
+   "C": "Al.",
+   "D": "Fe."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L10_C7_0037",
+  "stem": "(Đề TSCĐ – 2014) Cho kim loại M phản ứng với Cl2, thu được muối X. Cho M tác dụng với dung dịch HCl, thu được muối Y. Cho Cl2 tác dụng với dung dịch muối Y, thu được muối X. Kim loại M là",
+  "options": {
+   "A": "Mg.",
+   "B": "Al.",
+   "C": "Zn.",
+   "D": "Fe."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L10_C7_0038",
+  "stem": "Chỉ thị nào sau đây thường dùng để nhận biết dung dịch I2?",
+  "options": {
+   "A": "Phenolphtalein.",
+   "B": "Hồ tinh bột.",
+   "C": "Quỳ tím.",
+   "D": "Nước vôi trong."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L10_C7_0039",
+  "stem": "Iodine là chất rắn, ít tan trong nước, nhưng lại tan khá dễ dàng trong dung dịch potassium iodide là do phản ứng sau: I2(s) + KI(aq) <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAlM4dmG5oAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> KI3(aq)Vai trò của KI trong phản ứng trên là gì?",
+  "options": {
+   "A": "Chất oxi hóa.",
+   "B": "Chất khử.",
+   "C": "Vừa là chất oxi hóa, vừa là chất khử.",
+   "D": "Không phải chất oxi hóa cũng không phải chất khử."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L10_C7_0040",
+  "stem": "Cho các phản ứng hóa học sau, phản ứng nào chứng minh Cl2 có tính oxi hoá mạnh hơn Br2?",
+  "options": {
+   "A": "Br2 + 2NaCl <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAlLuRgd0MAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> 2NaBr + Cl2.",
+   "B": "Cl2 + 2NaOH <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAlLuRgd0MAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> NaCl + NaClO + H2O.",
+   "C": "Cl2 + 2NaBr <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAlLuRgd0MAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> 2NaCl + Br2.",
+   "D": "Br2 + 2NaOH <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAlLuRgd0MAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> NaBr + NaBrO + H2O."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L10_C7_0041",
+  "stem": "Bromine có lẫn một ít tạp chất là chlorine. Một trong các hoá chất có thể loại bỏ chlorine ra khỏi hỗn hợp là",
+  "options": {
+   "A": "KBr.",
+   "B": "KCl.",
+   "C": "H2O.",
+   "D": "NaOH."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L10_C7_0042",
+  "stem": "Calcium chloride hypochlorite (CaOCl2) thường được sử dụng làm chất khử trùng bể bơi do có tính oxi hóa mạnh tương tự nước Javel. Tìm hiểu công thức cấu tạo của CaOCl2, biết được số oxi hóa của nguyên tử chlorine trong hợp chất trên là",
+  "options": {
+   "A": "+1 và –1.",
+   "B": "–1.",
+   "C": "0 và –1.",
+   "D": "0."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L10_C7_0043",
+  "stem": "Quá trình sản xuất khí chlorine trong công nghiệp hiện nay dựa trên phản ứng nào sau đây?",
+  "options": {
+   "A": "MnO2 + 4HCl <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAE0AAAAgCAAAAAByCKroAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAlLuRgd0MAAAEqSURBVEjHY/zPQEXARE3DiDZtT2CW5x7Cyv4TBV7zP/1/k+8VIWVEum23lBSDmvheKvn0JR8DA4PgS8pNW1nDwMAg8ZGBgeG9BMWm/W9jYGBgcHn+hOHOS2eCVhMI1xuuDPzyxf//7/LP8d5NMLIIxuljhmriop2EOCUSjJpGI9OYGP5R0TQRtr0PLhNS9AbGIJiGOnglEgko+Sd/m8jUSxTI1fxIRdNei3j+oZ5p/xcx5FPRtP/BDJP////PwsDwPhczkrwjUbglLxDspVC6BkUFP0O+ZDADw///T5gxQRmqzeoIGdzJxPP/f0Zy69N///8hg6WV6icEGMg2DRU81WE+oUJM6iUK+LAeoF6crmeY+596pumWQmiqlEj/gjogDCrFAhRQt7QEANWTdyq5RaZ+AAAAAElFTkSuQmCC\" style=\"height:25px\" alt=\"\"> MnCl2 + Cl2 + 2H2O.",
+   "B": "Cl2 + 2NaBr <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAlNBkCjjkAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> 2NaCl + Br2.",
+   "C": "2NaCl + 2H2O <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFIAAAAlCAAAAAD0YOE+AAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAlNBkCjjkAAAJSSURBVEjH1VVdSFNhGH6+c2w6F6JHV9sgVjScDtsSkVmBFLOQlkEX5dS7orqNCKILybBIIrOLICS7qTnICRIGEcvtorywHxupVEYNKsJWrYxJjXJvF9ucG+3suE6Ez83zcZ7zPrzv977f9zGC3OBkd0SeuBy8OBLJtx1ZlfzSUHArhZeapXdHlc/vMzeOyJbl5HGPGih0bN+lNku3FM3yWJ+6tnIjY6NvLcLhObgrC0yDwAJnAmVG0Eakd1MrBFetS9fsZbtvX1ujtSc4U5hY4c+r44Xsb3ms7XF4KoY4lNehI845FQ4AJ7RO7ARYI4X2coB1HY3FOCfLiicAzt4DBPiNRYAOAHShSIxzslQr/AAMB/Bogtd8AL4AQEjIj3FO7aGpmhnnKxpGqXWSLjBhGxEFeHt9nDNFiVqSz+KcowHAfKdL4fCy01+nt6jsCc7Nkj62b64B3HtWFh8M0w2jYv1lm32B09A9I8mSiGgYz7L/RET9myJERCTjTdSCQ9LmUjrY1YEuAGCEd/dTpa2a5Hp8OlXbxyWFNy/Thd5BZysAoiFVKjyL9udomvZjkfCnTE3zktojEdFfkaaSF9I6LhnX8+5KHCKp+FzWS0RETL4Xsj3cg3jH5cJoHS+3ZQL/4B3/D5YPLIa21WVn+qzK+tnxKmObrvh8Vs9so9FpCIRPwTf7tPAKnTR9mu9c8T1LRPbCVWtVzdAVbSh/DyhLuaafQTn2kkcU4KPJ9d9bLg3Lw5LvENenLr1W6rvHWHX/zW+CK6DRn3uoaGCiIcvjQP4GOrcMNs5RO+4AAAAASUVORK5CYII=\" style=\"height:25px\" alt=\"\"> 2NaOH + Cl2 + H2.",
+   "D": "2NaOH + Cl2 <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAlNBkCjjkAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> NaCl + NaClO + H2O."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L10_C7_0044",
+  "stem": "Halogen được điều chế bằng cách điện phân có màng ngăn dung dịch muối ăn là",
+  "options": {
+   "A": "fluorine.",
+   "B": "bromine.",
+   "C": "iodine.",
+   "D": "chlorine."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L10_C7_0045",
+  "stem": "Khi tiến hành điều chế và thu khí Cl2 vào bình, để ngăn khí Cl2 thoát ra ngoài gây độc, cần đậy miệng bình thu khí Cl2 bằng bông tẩm dung dịch",
+  "options": {
+   "A": "NaCl.",
+   "B": "HCl.",
+   "C": "NaOH.",
+   "D": "KCl."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L10_C7_0046",
+  "stem": "Phát biểu nào sau đây không đúng khi nói về nguyên tử các nguyên tố nhóm VIIA?",
+  "options": {
+   "A": "Có 7 electron hóa trị.",
+   "B": "Theo chiều tăng dần điện tích hạt nhân nguyên tử thì độ âm điện giảm.",
+   "C": "Theo chiều tăng dần điện tích hạt nhân nguyên tử thì khả năng hút cặp electron liên kết giảm.",
+   "D": "Theo chiều tăng dần điện tích hạt nhân nguyên tử thì bán kính nguyên tử giảm."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L10_C7_0047",
+  "stem": "Phát biểu nào sau đây là không đúng khi nói về đơn chất nhóm VIIA?",
+  "options": {
+   "A": "Tính chất đặc trưng là tính oxi hóa.",
+   "B": "Màu sắc đậm dần từ fluorine đến iodine.",
+   "C": "Từ fluorine đến bromine rồi iodine, trạng thái của các đơn chất chuyển từ khí đến lỏng rồi rắn.",
+   "D": "Khả năng phản ứng với nước tăng từ fluorine đến iodine."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L10_C7_0048",
+  "stem": "Phát biểu nào sau đây không đúng khi nói về phản ứng của đơn chất nhóm VIIA với dung dịch muối halide?",
+  "options": {
+   "A": "Bromine phản ứng dễ dàng với dung dịch sodium fluoride để tạo ra đơn chất fluorine.",
+   "B": "Khi cho vào dung dịch sodium chloride, fluorine sẽ ưu tiên phản ứng với nước.",
+   "C": "Có thể sục khí chlorine vào dung dịch chứa potassium iodide để thu được iodine.",
+   "D": "Iodine khó tan trong dung dịch sodium chloride."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L10_C7_0049",
+  "stem": "Phát biểu nào sau đây là không đúng khi nói về một số ứng dụng của đơn chất chlorine?",
+  "options": {
+   "A": "Khi chlorine có thể được dùng để tạo môi trường sát khuẩn cho nguồn nước cấp.",
+   "B": "Khí chlorine phản ứng với dung dịch sodium hydroxide tạo thành dung dịch nước Javel dùng để sát khuẩn trong công nghiệp và gia đình.",
+   "C": "Khí chlorine được sử dụng để sản xuất hydrogen chloride, từ đó tạo hydrochloric acid.",
+   "D": "Do có độc tính, khí chlorine được sử dụng để trừ sâu trong nông nghiệp."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L10_C7_0050",
+  "stem": "Phát biểu nào sau đây là không đúng?",
+  "options": {
+   "A": "Trong tự nhiên, không tồn tại đơn chất halogen.",
+   "B": "Tính oxi hóa của đơn chất halogen giảm dần từ F2 đến I2.",
+   "C": "Khí chlorine ẩm và nước chlorine đều có tính tẩy màu.",
+   "D": "Fluorine có tính oxi hóa mạnh hơn chlorine, oxi hóa Cl– trong dung dịch NaCl thành Cl2."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L10_C7_0051",
+  "stem": "Ở cùng điều kiện áp suất, hydrogen fluoride (HF) có nhiệt độ sôi cao vượt trội so với các hydrogen halide còn lại là do",
+  "options": {
+   "A": "fluorine có nguyên tử khối nhỏ nhất.",
+   "B": "năng lượng liên kết H–F bền vững làm cho HF khó bay hơi.",
+   "C": "các nhóm phân tử HF được tạo thành do có liên kết hydrogen giữa các phân tử.",
+   "D": "fluorine là phi kim mạnh nhất."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L10_C7_0052",
+  "stem": "Hydrogen halide có nhiệt độ sôi cao nhất là",
+  "options": {
+   "A": "HI.",
+   "B": "HCl.",
+   "C": "HBr.",
+   "D": "HF."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L10_C7_0053",
+  "stem": "Phân tử có tương tác van der Walls lớn nhất là",
+  "options": {
+   "A": "HI.",
+   "B": "HCl.",
+   "C": "HBr.",
+   "D": "HF."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L10_C7_0054",
+  "stem": "Hydrogen halide nào sau đây có nhiệt độ sôi cao nhất ở áp suất thường?",
+  "options": {
+   "A": "HCl.",
+   "B": "HI.",
+   "C": "HF.",
+   "D": "HBr."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L10_C7_0055",
+  "stem": "Trong dãy hydrogen halide, từ HF đến HI, độ bền liên kết biến đổi như thế nào?",
+  "options": {
+   "A": "Tăng dần.",
+   "B": "Giảm dần.",
+   "C": "Không đổi.",
+   "D": "Tuần hoàn."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L10_C7_0056",
+  "stem": "Trong dãy hydrogen halide, từ HCl đến HI, nhiệt độ sôi tăng dần chủ yếu do nguyên nhân nào sau đây?",
+  "options": {
+   "A": "Tương tác van der Walls tăng dần.",
+   "B": "Phân tử khối tăng dần.",
+   "C": "Độ bền liên kết giảm dần.",
+   "D": "Độ phân cực liên kết giảm dần."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L10_C7_0059",
+  "stem": "Trong dãy hydrogen halide, từ HF đến HI, độ phân cực của liên kết biến đổi như thế nào?",
+  "options": {
+   "A": "Tuần hoàn.",
+   "B": "Tăng dần.",
+   "C": "Giảm dần.",
+   "D": "Không đổi."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L10_C7_0060",
+  "stem": "Trong dãy hydrohalic acid, từ HF đến HI, tính acid tăng dần là do nguyên nhân chính là",
+  "options": {
+   "A": "tương tác van der Walls tăng dần.",
+   "B": "độ phân cực liên kết giảm dần.",
+   "C": "phân tử khối tăng dần.",
+   "D": "độ bền liên kết giảm dần."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L10_C7_0061",
+  "stem": "Ở trạng thái lỏng, giữa các phân tử hydrogen halide nào sau đây tạo được liên kết hydrogen mạnh?",
+  "options": {
+   "A": "HCl.",
+   "B": "HI.",
+   "C": "HF.",
+   "D": "HBr."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L10_C7_0062",
+  "stem": "Hydrogen halide có nhiều liên kết hydrogen nhất với nước là",
+  "options": {
+   "A": "HI.",
+   "B": "HCl.",
+   "C": "HBr.",
+   "D": "HF."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L10_C7_0063",
+  "stem": "Hydrohalic acid thường được dùng để đánh sạch bề mặt kim loại trước khi sơn, hàn, mạ điện là",
+  "options": {
+   "A": "HCl.",
+   "B": "HI.",
+   "C": "HF.",
+   "D": "HBr."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L10_C7_0064",
+  "stem": "Hydrohalic acid được dùng làm nguyên liệu để sản xuất hợp chất chống dính teflon là",
+  "options": {
+   "A": "HCl.",
+   "B": "HI.",
+   "C": "HF.",
+   "D": "HBr."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L10_C7_0065",
+  "stem": "Không sử dụng chai, lọ thủy tinh mà thường dùng chai nhựa để chứa, đựng, bảo quản hydohalic aicd nào sau đây?",
+  "options": {
+   "A": "HF.",
+   "B": "HCl.",
+   "C": "HBr.",
+   "D": "HI."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L10_C7_0066",
+  "stem": "Hydrohalic acid có tính acid mạnh nhất là",
+  "options": {
+   "A": "HI.",
+   "B": "HCl.",
+   "C": "HBr.",
+   "D": "HF."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L10_C7_0067",
+  "stem": "Hydrohalic acid có tính ăn mòn thủy tinh là",
+  "options": {
+   "A": "HI.",
+   "B": "HCl.",
+   "C": "HBr.",
+   "D": "HF."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L10_C7_0068",
+  "stem": "Dung dịch HF có khả năng ăn mòn thủy tinh là do xảy ra phản ứng hóa học nào sau đây?",
+  "options": {
+   "A": "SiO2 + 4HF <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAlM4dmG5oAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:18px\" alt=\"\"> SiF4 + 2H2O.",
+   "B": "NaOH + HF <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAlM4dmG5oAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:18px\" alt=\"\"> NaF + H2O.",
+   "C": "H2 + F2 <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAlM4dmG5oAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:18px\" alt=\"\"> 2HF.",
+   "D": "2F2 + 2H2O <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAlM4dmG5oAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:18px\" alt=\"\"> 4HF + O2."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L10_C7_0069",
+  "stem": "Rót 3 mL dung dịch HBr 1 M vào 2 mL dung dịch NaOH 1 M, cho quỳ tím vào dung dịch sau phản ứng, mẩu quỳ tím sẽ",
+  "options": {
+   "A": "hóa màu đỏ.",
+   "B": "hóa màu xanh.",
+   "C": "mất màu tím.",
+   "D": "không đổi màu."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L10_C7_0070",
+  "stem": "Dung dịch hydrohalic acid nào sau đây có tính acid yếu?",
+  "options": {
+   "A": "HCl.",
+   "B": "HI.",
+   "C": "HF.",
+   "D": "HBr."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L10_C7_0071",
+  "stem": "Hydrochloric acid loãng thể hiện tính oxi hóa khi tác dụng với chất nào sau đây?",
+  "options": {
+   "A": "FeCO3.",
+   "B": "Fe.",
+   "C": "Fe(OH)2.",
+   "D": "Fe2O3."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L10_C7_0072",
+  "stem": "Cho muối halide nào sau đây tác dụng với dung dịch H2SO4 đặc, nóng thì chỉ xảy ra phản ứng trao đổi?",
+  "options": {
+   "A": "KBr.",
+   "B": "KI.",
+   "C": "NaCl.",
+   "D": "NaBr."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L10_C7_0073",
+  "stem": "Trong điều kiện không có không khí, đinh iron (Fe) tác dụng với dung dịch HCl thu được các sản phẩm là",
+  "options": {
+   "A": "FeCl3 và H2.",
+   "B": "FeCl2 và Cl2.",
+   "C": "FeCl3 và Cl2.",
+   "D": "FeCl2 và H2."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L10_C7_0074",
+  "stem": "(Đề THPT QG – 2018) Chất nào sau đây tác dụng được với dung dịch KHCO3?",
+  "options": {
+   "A": "K2SO4.",
+   "B": "KNO3.",
+   "C": "HCl.",
+   "D": "KCl."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L10_C7_0075",
+  "stem": "(Đề TSĐH B – 2009) Cho các phản ứng sau:(a) 4HCl + PbO2 <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAlLuRgd0MAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:18px\" alt=\"\"> PbCl2 + Cl2 + 2H2O.(b) HCl + NH4HCO3 <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAlLuRgd0MAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:18px\" alt=\"\"> NH4Cl + CO2 + H2O.(c) 2HCl + 2HNO3 <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAlLuRgd0MAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:18px\" alt=\"\"> 2NO2 + Cl2 + 2H2O.(d) 2HCl + Zn <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAlLuRgd0MAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:18px\" alt=\"\"> ZnCl2 + H2.Số phản ứng trong đó HCl thể hiện tính khử là",
+  "options": {
+   "A": "2.",
+   "B": "3.",
+   "C": "1.",
+   "D": "4."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L10_C7_0076",
+  "stem": "(Đề TSĐH A – 2008) Cho các phản ứng sau:(a) 4HCl + MnO2 <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAlLuRgd0MAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:18px\" alt=\"\"> MnCl2 + Cl2 + 2H2O.(b) 2HCl + Fe <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAlLuRgd0MAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:18px\" alt=\"\"> FeCl2 + H2.(c) 14HCl + K2Cr2O7 <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAlLuRgd0MAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:18px\" alt=\"\"> 2KCl + 2CrCl3 + 3Cl2 + 7H2O.(d) 6HCl + 2Al <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAlLuRgd0MAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:18px\" alt=\"\"> 2AlCl3 + 3H2.(e) 16HCl + 2KMnO4 <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAlLuRgd0MAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:18px\" alt=\"\"> 2KCl + 2 MnCl2 + 5Cl2 + 8H2O.Số phản ứng trong đó HCl thể hiện tính oxi hóa là",
+  "options": {
+   "A": "2.",
+   "B": "1.",
+   "C": "4.",
+   "D": "3."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L10_C7_0077",
+  "stem": "Trong phản ứng: K2Cr2O7 + HCl <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAlLuRgd0MAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:18px\" alt=\"\"> CrCl3 + Cl2 + KCl + H2O. Số phân tử HCl đóng vai trò chất khử bằng k lần tổng số phân tử HCl tham gia phản ứng. Giá trị của k là",
+  "options": {
+   "A": "3/14.",
+   "B": "4/7.",
+   "C": "1/7.",
+   "D": "3/7."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L10_C7_0078",
+  "stem": "(Đề TSĐH A – 2013) Cho phản ứng: NaX(s) + H2SO4(đặc) <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAE0AAAAgCAAAAAByCKroAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAlL5NnR9UAAAEqSURBVEjHY/zPQEXARE3DiDZtT2CW5x7Cyv4TBV7zP/1/k+8VIWVEum23lBSDmvheKvn0JR8DA4PgS8pNW1nDwMAg8ZGBgeG9BMWm/W9jYGBgcHn+hOHOS2eCVhMI1xuuDPzyxf//7/LP8d5NMLIIxuljhmriop2EOCUSjJpGI9OYGP5R0TQRtr0PLhNS9AbGIJiGOnglEgko+Sd/m8jUSxTI1fxIRdNei3j+oZ5p/xcx5FPRtP/BDJP////PwsDwPhczkrwjUbglLxDspVC6BkUFP0O+ZDADw///T5gxQRmqzeoIGdzJxPP/f0Zy69N///8hg6WV6icEGMg2DRU81WE+oUJM6iUK+LAeoF6crmeY+596pumWQmiqlEj/gjogDCrFAhRQt7QEANWTdyq5RaZ+AAAAAElFTkSuQmCC\" style=\"height:18px\" alt=\"\"> NaHSO4 + HX(g). Các hydrogen halide (HX) có thể điều chế theo phản ứng trên là",
+  "options": {
+   "A": "HCl, HBr và HI.",
+   "B": "HF và HCl.",
+   "C": "HBr và HI.",
+   "D": "HF, HCl, HBr và HI."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L10_C7_0079",
+  "stem": "Ion halide được sắp xếp theo chiều giảm dần tính khử là",
+  "options": {
+   "A": "F–, Cl–, Br–, I–.",
+   "B": "I–, Br–, Cl–, F–.",
+   "C": "F–, Br–, Cl–, I–.",
+   "D": "I–, Br–, F–, Cl–."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L10_C7_0080",
+  "stem": "Chất hay ion nào có tính khử mạnh nhất?",
+  "options": {
+   "A": "Cl2.",
+   "B": "Cl–.",
+   "C": "I2.",
+   "D": "I–."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L10_C7_0081",
+  "stem": "KBr thể hiện tính khử khi đun nóng với dung dịch nào sau đây?",
+  "options": {
+   "A": "AgNO3.",
+   "B": "H2SO4 đặc.",
+   "C": "HCl.",
+   "D": "H2SO4 loãng."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L10_C7_0082",
+  "stem": "Hydrochloric acid đặc thể hiện tính khử khi tác dụng với chất nào sau đây?",
+  "options": {
+   "A": "NaHCO3.",
+   "B": "CaCO3.",
+   "C": "NaOH.",
+   "D": "MnO2."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L10_C7_0083",
+  "stem": "Dung dịch dùng để nhận biết các ion halide là",
+  "options": {
+   "A": "quỳ tím.",
+   "B": "AgNO3.",
+   "C": "NaOH.",
+   "D": "HCl."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L10_C7_0084",
+  "stem": "Thuốc thử nào sau đây phân biệt được hai dung dịch HCl và NaCl?",
+  "options": {
+   "A": "Phenolphtalein.",
+   "B": "Hồ tinh bột.",
+   "C": "Quỳ tím.",
+   "D": "nước bromine."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L10_C7_0085",
+  "stem": "Dung dịch nào sau đây có thể phân biết hai dung dịch NaF và NaCl?",
+  "options": {
+   "A": "HCl.",
+   "B": "HF.",
+   "C": "AgNO3.",
+   "D": "Br2."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L10_C7_0087",
+  "stem": "Cho các dung dịch hydrofluoric acid, potassium iodide, sodium chloride, kí hiệu ngẫu nhiên là X, Y, Z. Khi dùng thuốc thử silicon dioxide và silver nitrate để nhận biết Y, Z thu được kết quả trong bảng sau:Các dung dịch ban đầu được kí hiệu tương ứng là",
+  "options": {
+   "A": "Z, Y, X.",
+   "B": "Y, X, Z.",
+   "C": "Y, Z, X.",
+   "D": "X, Z, Y."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L10_C7_0088",
+  "stem": "Cho các dung dịch hydrochloric acid, sodium hydroxide, iodine, kí hiệu ngẫu nhiên là X, Y, Z. Mỗi kết quả thí nghiệm được ghi lại ở bảng sau:Các dung dịch ban đầu được kí hiệu tương ứng là",
+  "options": {
+   "A": "Z, Y, X.",
+   "B": "Y, X, Z.",
+   "C": "Y, Z, X.",
+   "D": "X, Z, Y."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L10_C7_0089",
+  "stem": "Trong muối NaCl có lẫn NaBr và NaI. Để loại hai muối này ra khỏi NaCl người ta có thể:",
+  "options": {
+   "A": "Sục từ từ khí Cl2 cho đến dư vào dung dịch sau đó cô cạn dung dịch.",
+   "B": "Tác dụng với dung dịch HCl đặc.",
+   "C": "Tác dụng với Br2 dư sau đó cô cạn dung dịch.",
+   "D": "Tác dụng với AgNO3 sau đó nhiệt phân kết tủa."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L10_C7_0090",
+  "stem": "Chọn phát biểu không đúng?",
+  "options": {
+   "A": "Các hydrogen halide tan tốt trong nước tạo thành dung dịch acid.",
+   "B": "Ion F– và Cl– không bị oxi hóa bởi dung dịch H2SO4 đặc.",
+   "C": "Các hydrogen halide làm quỳ tím hóa đỏ.",
+   "D": "Tính acid của các hydrohalic acid tăng dần từ HF đến HI."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L10_C7_0091",
+  "stem": "Phát biểu nào sau đây không đúng?",
+  "options": {
+   "A": "Dung dịch hydrofluoric acid có khả năng ăn mòn thủy tinh.",
+   "B": "NaCl rắn tác dụng với H2SO4 đặc, nóng, thu được hydrogen chloride.",
+   "C": "Hydrogen chloride tan nhiều trong nước.",
+   "D": "Lực acid trong dãy hydrohalic acid giảm dần từ HF đến HI."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L10_C7_0092",
+  "stem": "(Đề TSCĐ – 2010) Phát biểu nào sau đây đúng?",
+  "options": {
+   "A": "Iodine có bán kính nguyên tử lớn hơn bromine.",
+   "B": "Dung dịch NaF phản ứng với dung dịch AgNO3 sinh ra AgF kết tủa.",
+   "C": "Fluorine có tính oxi hoá yếu hơn chlorine.",
+   "D": "Acid HBr có tính acid yếu hơn acid HCl."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L10_C7_0093",
+  "stem": "(Đề TSCĐ – 2011) Phát biểu nào sau đây là sai?",
+  "options": {
+   "A": "Độ âm điện của bromine lớn hơn độ âm điện của iodine.",
+   "B": "Tính acid của HF mạnh hơn tính acid của HCl.",
+   "C": "Bán kính nguyên tử của chlorine lớn hơn bán kính nguyên tử của fluorine.",
+   "D": "Tính khử của ion Br− lớn hơn tính khử của ion Cl−."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L10_C7_0094",
+  "stem": "Cho các phát biểu sau khi nói về các hydrogen halide HX?(a) Ở điều kiện thường, đều là chất khí.(b) Các phân tử đều phân cực.(c) Nhiệt độ sôi tăng từ hydrogen chloride đến hydrogen iodide, phù hợp với xu hướng tăng tương tác van der Walls từ hydrogen chloride đến hydrogen iodide.(d) Đều tan tốt trong nước, tạo các dung dịch hydrohalic acid tương ứng.(e) Năng lượng liên kết tăng dần từ HF đến HI.Số phát biểu đúng là",
+  "options": {
+   "A": "2.",
+   "B": "3.",
+   "C": "4.",
+   "D": "5."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L10_C7_0095",
+  "stem": "Cho các phát biểu sau khi nói về các hydrohalic acid:(a) Đều là các acid mạnh.(b) Độ mạnh của acid tăng từ hydrofluoric acid đến hydroiodic acid, phù hợp với xu hướng giảm độ bền liên kết từ HF đến HI.(c) Hòa tan được các oxide của kim loại, phản ứng được với các hydroide kim loại.(d) Hòa tan được tất cả các kim loại.(e) Tạo môi trường có pH lớn hơn 7.Số phát biểu không đúng là",
+  "options": {
+   "A": "2.",
+   "B": "3.",
+   "C": "4.",
+   "D": "5."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L10_C7_0096",
+  "stem": "Cho các phát biểu sau khi nói về ion halide X–?(a) Dùng dung dịch silver nitrate sẽ phân biệt được các ion F–, Cl–, Br–, I–.(b) Với sulfuric acid đặc, các ion Cl–, Br–, I– thể hiện tính khử, ion F– không thể hiện tính khử.(c) Tính khử của các ion halide tăng theo dãy: Cl–, Br–, I–.(d) Ion Cl– kết hợp với ion Ag+ tạo AgCl là chất không tan, màu vàng.Số phát biểu đúng là",
+  "options": {
+   "A": "2.",
+   "B": "3.",
+   "C": "4.",
+   "D": "1."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L10_C7_0097",
+  "stem": "Cho các phát biểu sau khi nói về ứng dụng hiện nay của một số hydrogen halide và hydrohalic acid:(a) Hằng năm, cần hàng chục triệu tấn hydrogen chloride để sản xuất hydrochloric acid.(b) Lượng lớn hydrochloric acid sử dụng trong sản xuất nhựa, phân bón, thuốc nhuộm,…(c) Hydrochloric acid sử dụng cho quá trình thủy phân các chất trong sản xuất, chế biến thực phẩm.(d) Hydrofluoric acid hoặc hydrogen fluoride phản ứng với chlorine dùng để sản xuất fluorine.(e) Trong công nghiệp, hydrofluoric acid dùng tẩy rửa các oxide của iron trên bề mặt thép.(g) Hydrogen fluoride được dùng để sản xuất chất làm lạnh hydrochlorofluorocarbon HCFC (thay thế CFC), chất chảy cryolite,…Số phát biểu không đúng là",
+  "options": {
+   "A": "2.",
+   "B": "3.",
+   "C": "4.",
+   "D": "5."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L10_C7_0098",
+  "stem": "Cho các tính chất sau:(a) Phản ứng với hydroxide.(b) Hòa tan các oxide của kim loại.(c) Hòa tan một số kim loại.(d) Phản ứng với phi kim.(e) Làm quỳ tím hóa đỏ và tạo môi trường pH &gt; 7.(g) Phân li ra ion H+.Số tính chất thể hiện tính acid của hydrochloric acid là",
+  "options": {
+   "A": "2.",
+   "B": "3.",
+   "C": "4.",
+   "D": "5."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L10_C7_0099",
+  "stem": "Cho các phát biểu sau(a) Khi cho potassium bromide rắn phản ứng với sulfuric acid đặc thu được khí hydrogen bromide.(b) Hydrofluoric acid không nguy hiểm vì nó là một acid yếu.(c) Trong phản ứng điều chế nước Javel bằng chlorine và sodium hydroxide, chlorine vừa đóng vai trò chất oxi hóa, vừa đóng vai trò chất khử.(d) Fluorine có số oxi hóa bằng –1 trong các hợp chất.(e) Tất cả các muối halide của silver (AgF, AgCl, AgBr và AgI) đều là những chất không tan trong nước ở nhiệt độ thường.(g) Ở cùng điều kiện áp suất, hydrogen fluoride (HF) có nhiệt độ sôi cao nhất trong các hydrogen halide là do liên kết H–F bền nhất trong các liên kết H–X.Số phát biểu đúng là",
+  "options": {
+   "A": "2.",
+   "B": "3.",
+   "C": "4.",
+   "D": "5."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L10_C7_0100",
+  "stem": "(Đề TSĐH B – 2013) Cho các phát biểu sau:(a) Trong các phản ứng hóa học, fluorine chỉ thể hiện tính oxi hóa.(b) Hydrofluoric acid là acid yếu.(c) Dung dịch NaF loãng được dùng làm thuốc chống sâu răng.(d) Trong hợp chất, các halogen (F, Cl, Br, I) đều có số oxi hóa: –1, +1, +3, +5 và +7.(e) Tính khử của các ion halide tăng dần theo thứ tự: F−, Cl−, Br−, I−.Trong các phát biểu trên, số phát biểu đúng là",
+  "options": {
+   "A": "3.",
+   "B": "5.",
+   "C": "2.",
+   "D": "4."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L10_C7_0101",
+  "stem": "(Đề THPT QG – 2019) Hòa tan hoàn toàn 2,8 gam Fe trong dung dịch HCl dư, thu được V lít khí H2 (đkc) Giá trị của V là",
+  "options": {
+   "A": "2,479.",
+   "B": "1,2395.",
+   "C": "6,72.",
+   "D": "4,958."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L10_C7_0102",
+  "stem": "(Đề THPT QG – 2015) Cho 0,5 gam một kim loại hoá trị II phản ứng hết với dung dịch HCl dư, thu được 0,0125 mol khí H2. Kim loại đó là",
+  "options": {
+   "A": "Ba.",
+   "B": "Mg.",
+   "C": "Ca.",
+   "D": "Sr.8"
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L10_C7_0103",
+  "stem": "(Đề MH lần II – 2017) Hòa tan hoàn toàn 5,85 gam bột kim loại M vào dung dịch HCl, thu được 0,325 mol khí H2. Kim loại M là",
+  "options": {
+   "A": "Mg.",
+   "B": "Al.",
+   "C": "Zn.",
+   "D": "Fe."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L10_C7_0104",
+  "stem": "Cho 20 gam hỗn hợp bột Mg và Fe tác dụng với dung dịch HCl thấy có 1 gam khí H2 thoát ra. Khối lượng muối chlorine tạo ra trong dung dịch là",
+  "options": {
+   "A": "40,5 gam.",
+   "B": "45,5 gam.",
+   "C": "55,5 gam.",
+   "D": "65,5 gam."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L10_C7_0105",
+  "stem": "(Đề THPT QG – 2017) Cho 11,7 gam hỗn hợp Cr và Zn phản ứng hoàn toàn với dung dịch HCl dư, đun nóng, thu được dung dịch X và 4,958 lít khí H2 (đkc). Khối lượng muối trong X là",
+  "options": {
+   "A": "29,45 gam.",
+   "B": "33,00 gam.",
+   "C": "18,60 gam.",
+   "D": "25,90 gam."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L10_C7_0106",
+  "stem": "(Đề THPT QG – 2017) Cho 1,5 gam hỗn hợp X gồm Al và Mg phản ứng hết với dung dịch HCl dư, thu được 0,075 mol khí H2. Khối lượng của Mg trong X là",
+  "options": {
+   "A": "0,60 gam.",
+   "B": "0,90 gam.",
+   "C": "0,42 gam.",
+   "D": "0,48 gam."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L10_C7_0107",
+  "stem": "(Đề TSĐH B – 2010) Hòa tan hoàn toàn 2,45 gam hỗn hợp X gồm hai kim loại kiềm thổ vào 200 mL dung dịch HCl 1,25 M, thu được dung dịch Y chứa các chất tan có nồng độ mol bằng nhau. Hai kim loại trong X là",
+  "options": {
+   "A": "Mg và Ca.",
+   "B": "Be và Mg.",
+   "C": "Mg và Sr.",
+   "D": "Be và Ca."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L10_C7_0108",
+  "stem": "(Đề TSCĐ – 2011) Để hoà tan hoàn toàn 6,4 gam hỗn hợp gồm kim loại R (chỉ có hóa trị II) và oxide của nó cần vừa đủ 400 mL dung dịch HCl 1 M. Kim loại R là",
+  "options": {
+   "A": "Ba.",
+   "B": "Be.",
+   "C": "Mg.",
+   "D": "Ca."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L10_C7_0109",
+  "stem": "Cho 10,3 gam hỗn hợp Cu, Al, Fe vào dung dịch HCl thu được 6,1975 lít khí H2 (đkc) và 2 gam chất rắn không tan. Vậy % theo khối lượng của từng chất trong hỗn hợp ban đầu lần lượt là",
+  "options": {
+   "A": "26%, 54%, 20%.",
+   "B": "20%, 55%, 25%.",
+   "C": "19,4%, 50%, 30,6%.",
+   "D": "19,4%, 26,2%, 54,4%."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L10_C7_0110",
+  "stem": "Cho 9,14 gam hỗn hợp gồm Mg, Al, Cu bằng dung dịch HCl dư thu được 8,6765 lít khí H2 (đkc), dung dịch X và 2,54 gam chất rắn Y. Khối lượng muối trong X là",
+  "options": {
+   "A": "32,15 gam.",
+   "B": "31,45 gam.",
+   "C": "33,25 gam.",
+   "D": "30,35gam."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L10_C7_0111",
+  "stem": "Hoà tan hoàn toàn 7,8 gam hỗn hợp Mg và Al bằng dung dịch HCl dư. Sau phản ứng thấy khối lượng dung dịch tăng thêm 7,0 gam so với ban đầu. Số mol acid đã tham gia phản ứng là",
+  "options": {
+   "A": "0,8 mol.",
+   "B": "0,08 mol.",
+   "C": "0,04 mol.",
+   "D": "0,4 mol."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L10_C7_0112",
+  "stem": "(Đề MH – 2021) Hòa tan hoàn toàn 3,9 gam hỗn hợp Al và Mg trong dung dịch HCl dư, thu được 4,958 lít khí H2 (đkc) và dung dịch chứa m gam muối. Giá trị của m là",
+  "options": {
+   "A": "11,6.",
+   "B": "17,7.",
+   "C": "18,1.",
+   "D": "18,5."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L10_C7_0113",
+  "stem": "(Đề TN THPT QG – 2021) Hòa tan hoàn toàn 5,10 gam Al2O3 trong lượng dư dung dịch HCl, thu được dung dịch chứa m gam muối. Giá trị của m là",
+  "options": {
+   "A": "26,70.",
+   "B": "21,36.",
+   "C": "13,35.",
+   "D": "16,02."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L10_C7_0114",
+  "stem": "(Đề THPT QG – 2017) Cho 36 gam FeO phản ứng vừa đủ với dung dịch chứa a mol HCl. Giá trị của a là",
+  "options": {
+   "A": "1,00.",
+   "B": "0,50.",
+   "C": "0,75.",
+   "D": "1,25."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L10_C7_0115",
+  "stem": "Cho 37,6 gam hỗn hợp gồm CaO, CuO và Fe2O3 tác dụng vừa đủ với 0,6 lít dung dịch HCl 2 M, rồi cô cạn dung dịch sau phản ứng thì số gam muối khan thu được là",
+  "options": {
+   "A": "70,6.",
+   "B": "61,0.",
+   "C": "80,2.",
+   "D": "49,3."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L10_C7_0116",
+  "stem": "Cho một lượng hỗn hợp CuO và Fe2O3 tan hết trong dung dịch HCl thu được 2 muối có tỉ lệ mol là 1: 1. Phần trăm khối lượng của CuO và Fe2O3 trong hỗn hợp lần lượt là",
+  "options": {
+   "A": "30 và 70.",
+   "B": "40 và 60.",
+   "C": "50 và 50.",
+   "D": "60 và 40."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L10_C7_0117",
+  "stem": "(Đề THPT QG – 2017) Hòa tan hoàn toàn 3,2 gam một oxide kim loại cần vừ đủ 40 mL dung dịch HCl 2 M. Công thức của oxide là",
+  "options": {
+   "A": "MgO.",
+   "B": "Fe2O3.",
+   "C": "CuO.",
+   "D": "Fe3O4."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L10_C7_0118",
+  "stem": "(Đề TSĐH A – 2008) Cho 2,13 gam hỗn hợp X gồm ba kim loại Mg, Cu và Al ở dạng bột tác dụng hoàn toàn với oxygen thu được hỗn hợp Y gồm các oxide có khối lượng 3,33 gam. Thể tích dung dịch HCl 2 M vừa đủ để phản ứng hết với Y là",
+  "options": {
+   "A": "57 mL.",
+   "B": "50 mL.",
+   "C": "75 mL.",
+   "D": "90 mL."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L10_C7_0119",
+  "stem": "(Đề TSCĐ – 2009) Nung nóng 16,8 gam hỗn hợp gồm Au, Ag, Cu, Fe, Zn với một lượng dư khí O2, đến khi các phản ứng xảy ra hoàn toàn, thu được 23,2 gam chất rắn X. Thể tích dung dịch HCl 2 M vừa đủ để phản ứng với chất rắn X là",
+  "options": {
+   "A": "600 mL.",
+   "B": "400 mL.",
+   "C": "800 mL.",
+   "D": "200 mL."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L10_C7_0120",
+  "stem": "(Đề THPT QG – 2016) Đốt cháy 2,15 gam hỗn hợp gồm Zn, Al và Mg trong khí oxygen dư, thu được 3,43 gam hỗn hợp X. Toàn bộ X phản ứng vừa đủ với V mL dung dịch HCl 0,5 M. Biết các phản ứng xảy ra hoàn toàn. Giá trị của V là",
+  "options": {
+   "A": "160.",
+   "B": "320.",
+   "C": "240.",
+   "D": "480."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L10_C7_0121",
+  "stem": "(Đề MH - 2020) Nung 6 gam hỗn hợp Al và Fe trong không khí, thu được 8,4 gam hỗn hợp X chỉ chứa các oxide. Hòa tan hoàn toàn X cần vừa đủ V mL dung dịch HCl 1 M. Giá trị của V là",
+  "options": {
+   "A": "300.",
+   "B": "200.",
+   "C": "150.",
+   "D": "400."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L10_C7_0122",
+  "stem": "(Đề TSĐH B – 2008) Cho 9,12 gam hỗn hợp gồm FeO, Fe2O3, Fe3O4 tác dụng với dung dịch HCl (dư). Sau khi các phản ứng xảy ra hoàn toàn, được dung dịch Y; cô cạn Y thu được 7,62 gam FeCl2 và m gam FeCl3. Giá trị của m là",
+  "options": {
+   "A": "9,75.",
+   "B": "8,75.",
+   "C": "7,80.",
+   "D": "6,50."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L10_C7_0123",
+  "stem": "(Đề TSĐH A – 2008) Để hoà tan hoàn toàn 2,32 gam hỗn hợp gồm FeO, Fe3O4 và Fe2O3 (trong đó số mol FeO bằng số mol Fe2O3), cần dùng vừa đủ V lít dung dịch HCl 1 M. Giá trị của V là",
+  "options": {
+   "A": "0,23.",
+   "B": "0,18.",
+   "C": "0,08.",
+   "D": "0,16."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L10_C7_0124",
+  "stem": "(Đề TSCĐ – 2009) Cho m gam hỗn hợp X gồm FeO, Fe2O3, Fe3O4 vào một lượng vừa đủ dung dịch HCl 2 M, thu được dung dịch Y có tỉ lệ số mol Fe2+ và Fe3+ là 1: 2. Chia Y thành hai phần bằng nhau. Cô cạn phần một thu được m1 gam muối khan. Sục khí chlorine (dư) vào phần hai, cô cạn dung dịch sau phản ứng thu được m2 gam muối khan. Biết m2 – m1 = 0,71. Thể tích dung dịch HCl đã dùng là",
+  "options": {
+   "A": "160 mL.",
+   "B": "320 mL.",
+   "C": "80 mL.",
+   "D": "240 mL."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L10_C7_0125",
+  "stem": "Đốt hỗn hợp gồm 0,4 mol Fe và 0,2 mol Cu trong bình đựng khí O2, sau một thời gian thu được m gam chất rắn. Đem chất rắn này tác dụng với dung dịch HCl dư, sau khi phản ứng hoàn toàn có 3,36 lít khí (đktc) và 6,4 gam kim loại không tan. Giá trị m là",
+  "options": {
+   "A": "38,4.",
+   "B": "40,8.",
+   "C": "41,6.",
+   "D": "44,8."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L10_C7_0126",
+  "stem": "Hoà tan 10 gam hỗn hợp 2 muối carbonate của kim loại hoá trị I và hoá trị II bằng dung dịch HCl, ta thu được dung dịch Y và 0,03 mol khí thoát ra. Khi cô cạn dung dịch Y thì khối lượng muối khan thu được là",
+  "options": {
+   "A": "13,3 gam.",
+   "B": "9,33 gam.",
+   "C": "11,33 gam.",
+   "D": "12,33 gam."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L10_C7_0127",
+  "stem": "(Đề THPT QG – 2017) Cho 26,8 gam hỗn hợp KHCO3 và NaHCO3 tác dụng với dung dịch HCl dư, thu được 7,437 lít khí (đkc) và dung dịch chứa m gam muối. Giá trị của m là",
+  "options": {
+   "A": "19,15.",
+   "B": "20,75.",
+   "C": "24,55.",
+   "D": "30,10."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L10_C7_0128",
+  "stem": "(Đề TSĐH B – 2008) Cho 1,9 gam hỗn hợp muối carbonate và hydrocarbonate của kim loại kiềm M tác dụng hết với dung dịch HCl (dư), sinh ra 0,02 mol khí CO2. Kim loại M là",
+  "options": {
+   "A": "Na.",
+   "B": "K.",
+   "C": "Rb.",
+   "D": "Li."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L10_C7_0129",
+  "stem": "Cho lượng dư dung dịch AgNO3 tác dụng với 100 mL dung dịch hỗn hợp NaF 0,05 M và NaCl 0,1 M. Khối lượng kết tủa thu được là",
+  "options": {
+   "A": "1,345 gam.",
+   "B": "3,345 gam.",
+   "C": "2,875 gam.",
+   "D": "1,435 gam."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L10_C7_0130",
+  "stem": "(Đề TSCĐ – 2011) Hoà tan hoàn toàn 6,645 gam hỗn hợp muối chloride của hai kim loại kiềm thuộc hai chu kì kế tiếp nhau vào nước được dung dịch X. Cho toàn bộ dung dịch X tác dụng hoàn toàn với dung dịch AgNO3 (dư), thu được 18,655 gam kết tủa. Hai kim loại kiềm trên là",
+  "options": {
+   "A": "Rb và Cs.",
+   "B": "Na và K.",
+   "C": "Li và Na.",
+   "D": "K và Rb."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L10_C7_0131",
+  "stem": "Hoà tan 8,075 gam hỗn hợp A gồm NaX và NaY (X, Y là hai halogen kế tiếp) vào nước. Dung dịch thu được cho phản ứng vừa đủ với dung dịch AgNO3 thu được 16,575 gam kết tủa. Phần trăm khối lượng của NaX và NaY tương ứng là",
+  "options": {
+   "A": "36,22%; 63,88%.",
+   "B": "35,45%; 64,55%.",
+   "C": "35%; 65%.",
+   "D": "34,24%; 65,76%."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L10_C7_0132",
+  "stem": "(Đề TSĐH B – 2009) Cho dung dịch chứa 6,03 gam hỗn hợp gồm hai muối NaX và NaY (X, Y là hai nguyên tố có trong tự nhiên, ở hai chu kì liên tiếp thuộc nhóm VIIA, số hiệu nguyên tử ZX &lt; ZY) vào dung dịch AgNO3 (dư), thu được 8,61 gam kết tủa. Phần trăm khối lượng của NaX trong hỗn hợp ban đầu là",
+  "options": {
+   "A": "58,2%.",
+   "B": "41,8%.",
+   "C": "52,8%.",
+   "D": "47,2%."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L10_C7_0133",
+  "stem": "Cho X, Y là hai nguyên tố halogen có trong tự nhiên, ở hai chu kì liên tiếp, ZX &lt; ZY. Hòa tan hoàn toàn 0,402 gam hỗn hợp NaX và NaY vào nước, thu được dung dịch E. Cho từ từ E vào cốc đựng dung dịch AgNO3 dư, thu được 0,574 gam kết tủa. Kí hiệu của nguyên tố X và Y lần lượt là",
+  "options": {
+   "A": "F và Cl.",
+   "B": "Cl và Br.",
+   "C": "Br và I.",
+   "D": "Cl và I."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L10_C7_0134",
+  "stem": "",
+  "options": {
+   "A": "0,1 mol.",
+   "B": "0,05 mol.",
+   "C": "0,02 mol.",
+   "D": "0,01 mol."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L10_C7_0135",
+  "stem": "Cho 25 gam nước chlorine vào một dung dịch có chứa 2,5 gam KBr thấy dung dịch chuyển sang màu vàng đậm và KBr vẫn còn dư. Sau thí nghiệm, nếu cô cạn dung dịch thì còn lại 1,61 gam chất rắn khan. Biết hiệu suất phản ứng 100%, nồng độ % của nước chlorine là",
+  "options": {
+   "A": "2,51%.",
+   "B": "2,84%.",
+   "C": "3,15%.",
+   "D": "3,46%."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L10_C7_0136",
+  "stem": "Cho 6 gam bromine có lẫn tạp chất chlorine vào một dung dịch chứa 1,6 gam NaBr. Sau khi chlorine phản ứng hết, ta làm bay hơi hỗn hợp sau thí nghiệm và sấy khô chất rắn thu được. Khối lượng chất rắn sau khi sấy khô là 1,36 gam. Hàm lượng phần trăm của chlorine trong 6 gam bromine nói trên là",
+  "options": {
+   "A": "2,19%.",
+   "B": "3,19%.",
+   "C": "4,19%.",
+   "D": "1,19%."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L10_C7_0137",
+  "stem": "Hoà tan hoàn toàn 104,25 gam hỗn hợp X gồm NaCl và NaI vào nước được dung dịch Y. Sục khí chlorine dư vào dung dịch Y. Kết thúc thí nghiệm, cô cạn dung dịch, thu được 58,5 gam muối khan. Khối lượng NaCl có trong hỗn hợp X là",
+  "options": {
+   "A": "17,55 gam.",
+   "B": "29,25 gam.",
+   "C": "58,5 gam.",
+   "D": "55,8 gam."
+  },
+  "answer": "B"
+ }
+]

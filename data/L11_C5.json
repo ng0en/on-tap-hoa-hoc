@@ -1,0 +1,1322 @@
+[
+ {
+  "id": "L11_C5_0001",
+  "stem": "(SBT – KNTT) Chất nào sau đây không phải là dẫn xuất halogen của hydrocarbon?",
+  "options": {
+   "A": "CH3CH2Cl.",
+   "B": "CH2=CHBr.",
+   "C": "ClCH2COOH.",
+   "D": "CF3CH2Cl."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C5_0002",
+  "stem": "(SBT – CTST) Hợp chất thuộc loại dẫn xuất halogen của hydrocarbon là",
+  "options": {
+   "A": "HIO4.",
+   "B": "C3H3N.",
+   "C": "CH2BrCl.",
+   "D": "C6H6O."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C5_0003",
+  "stem": "Chất nào là dẫn xuất halogen của hydrocarbon?",
+  "options": {
+   "A": "Cl–CH2–COOH.",
+   "B": "C6H5–CH2–Cl.",
+   "C": "CH3–CH2–Mg–Br.",
+   "D": "CH3–CO–Cl."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C5_0004",
+  "stem": "(SGK – CTST) Cho các chất sau: CH3Br, Cl2O7, F2C=CF2, CH2Cl2, HCl, COCl2 (phosgene). Số chất thuộc dẫn xuất halogen của hydrocarbon là",
+  "options": {
+   "A": "5.",
+   "B": "2.",
+   "C": "3.",
+   "D": "4."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C5_0005",
+  "stem": "Số liên kết của nguyên tử halogen trong phân tử dẫn xuất halogen của hydrocarbon là",
+  "options": {
+   "A": "1.",
+   "B": "2.",
+   "C": "3.",
+   "D": "4."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C5_0006",
+  "stem": "(SBT – KNTT) Công thức tổng quát của dẫn xuất monochlorine no, mạch hở là",
+  "options": {
+   "A": "CnH2n–5Cl.",
+   "B": "CnH2n–3Cl.",
+   "C": "CnH2n–1Cl.",
+   "D": "CnH2n+1Cl."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C5_0007",
+  "stem": "Cho các hợp chất sau: CH3Cl, (CH3)2CHCl, CH3CH2CH2Cl, CH3CH2Cl. Công thức chung của các chất trên là",
+  "options": {
+   "A": "CnH2n – 7Cl.",
+   "B": "CnH2n – 3Cl.",
+   "C": "CnH2n – 1Cl.",
+   "D": "CnH2n + 1Cl."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C5_0008",
+  "stem": "Tên gọi theo danh pháp thay thế của dẫn xuất halogen có công thức cấu tạo CH3CHClCH3 là",
+  "options": {
+   "A": "1-chloropropane.",
+   "B": "2-chloropropane.",
+   "C": "3-chloropropane.",
+   "D": "propyl chloride."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C5_0009",
+  "stem": "Danh pháp IUPAC của dẫn xuất halogen có công thức cấu tạo: ClCH2CH(CH3)CHClCH3 là",
+  "options": {
+   "A": "1,3-dichloro-2-methylbutane.",
+   "B": "2,4- dichloro -3-methylbutane.",
+   "C": "1,3- dichloropentane.",
+   "D": "2,4- dichloro-2-methylbutane."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C5_0011",
+  "stem": "(SBT – CTST) Dẫn xuất halogen bậc II có tên và công thức cấu tạo phù hợp là",
+  "options": {
+   "A": "1,2-dichloroethane: ClCH2CH2Cl.",
+   "B": "2-iodopropane: CH3CHICH3.",
+   "C": "1-bromo-2-methylpropane: CH3CH(CH3)CH2Br.",
+   "D": "2-fluoro-2-methylpropane: (CH3)3CF."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C5_0012",
+  "stem": "Tên gọi của hợp chất có công thức cấu tạo (CH3)2C=CBrCH3 là",
+  "options": {
+   "A": "2-bromo-3,3-dimethylprop-2-ene.",
+   "B": "2-bromo-1,1-dimethylprop-1-ene.",
+   "C": "2-bromo-3-methylbut-2-ene.",
+   "D": "3-bromo-2-methylbut-2-ene."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C5_0013",
+  "stem": "(SBT – CTST) Công thức cấu tạo nào sau đây ứng với tên gọi không đúng?",
+  "options": {
+   "A": "CH3Cl: chloromethane.",
+   "B": "ClCH2Br: chlorobromomethane.",
+   "C": "CH3CH2I: iodoethane.",
+   "D": "CH3CH(F)CH3: 2-fluoropropane."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C5_0014",
+  "stem": "(SBT – CTST) Bậc của dẫn xuất halogen là bậc của nguyên tử carbon liên kết với nguyên tử halogen. Bậc của dẫn xuất halogen nào sau đây là không phù hợp?",
+  "options": {
+   "A": "Dẫn xuất halogen bậc I.",
+   "B": "Dẫn xuất halogen bậc II.",
+   "C": "Dẫn xuất halogen bậc III.",
+   "D": "Dẫn xuất halogen bậc IV."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C5_0015",
+  "stem": "(SBT – KNTT) Dẫn xuất halogen nào sau đây có đồng phân hình học?",
+  "options": {
+   "A": "CH2=CHCl.",
+   "B": "CH2=CHCH2Br.",
+   "C": "CH3CH=CFCH3.",
+   "D": "(CH3)2C-CH2I."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C5_0016",
+  "stem": "(SBT – Cánh Diều) Số đồng phân cấu tạo có cùng công thức phân tử C4H9Cl là",
+  "options": {
+   "A": "3.",
+   "B": "5.",
+   "C": "4.",
+   "D": "2."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C5_0017",
+  "stem": "Hợp chất nào dưới đây được dùng để tổng hợp ra PVC?",
+  "options": {
+   "A": "CH2=CHCH2Cl.",
+   "B": "CH2=CHBr.",
+   "C": "C6H5Cl.",
+   "D": "CH2=CHCl."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C5_0018",
+  "stem": "(SBT – CTST) Nhiệt độ sôi của các dẫn xuất halogen được sắp xếp theo thứ tự: CH3F &lt; CH3Cl &lt; CH3Br &lt; CH3I. Nguyên nhân dẫn đến sự tăng dần nhiệt độ sôi từ CH3F đến CH3I là do",
+  "options": {
+   "A": "sự phân cực của liên kết carbon – halogen giảm dần từ CH3F đến CH3I.",
+   "B": "độ âm điện của các halogen trong dẫn xuất giảm dần từ F đến I.",
+   "C": "tương tác van der Waals tăng dần từ CH3F đến CH3I.",
+   "D": "độ dài liên kết carbon – halogen tăng dần từ CH3F đến CH3I."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C5_0019",
+  "stem": "(SBT – KNTT) Cho các dẫn xuất halogen sau: (1) C2H5F; (2) C2H5Cl; (3) C2H5Br; (4) C2H5I. Thứ tự giảm dần nhiệt độ sôi là",
+  "options": {
+   "A": "(1) &gt; (2) &gt; (3) &gt; (4).",
+   "B": "(1) &gt; (4) &gt; (2) &gt; (3).",
+   "C": "(4) &gt; (3) &gt; (2) &gt; (1).",
+   "D": "(4) &gt; (2) &gt; (1) &gt; (3)."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C5_0020",
+  "stem": "Trong thể thao, khi các vận động viên bị chấn thương do va chạm, không gây ra vết thương hở, gãy xương,... thường được nhân viên y tế dùng loại thuốc xịt, xịt vào chỗ bị thương để gây tê cục bộ và vận động viên có thể quay trở lại thi đấu. Hợp chất chính có trong thuốc xịt là",
+  "options": {
+   "A": "carbon dioxide.",
+   "B": "hydrogen chloride.",
+   "C": "chloromethane.",
+   "D": "chloroethane."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C5_0021",
+  "stem": "(SBT – Cánh Diều) Cho vài giọt bromobenzene vào ống nghiệm đã chứa sẵn nước, lắc nhẹ rồi để yên trong vài phút. Phát biểu nào sau đây là đúng?",
+  "options": {
+   "A": "Chất lỏng trong ống nghiệm phân thành hai lớp.",
+   "B": "Xảy ra phản ứng thế halide, tạo ra hợp chất có công thức là C6H5OH.",
+   "C": "Bromobenzene tan vào nước tạo ra chất lỏng màu vàng nâu.",
+   "D": "Xảy ra phản ứng tách halide, tạo ra hợp chất có công thức là C6H4."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C5_0022",
+  "stem": "(SBT – Cánh Diều) Thực hiện phản ứng tách HCl từ dẫn xuất CH3CH2CH2Cl thu được alkene X. Đem alkene X cộng hợp bromine thu được sản phâm chính nào sau đây?",
+  "options": {
+   "A": "CH3CH2CH2Br.",
+   "B": "CH3CHBrCH3.",
+   "C": "CH3CH2CHBr2.",
+   "D": "CH3CHBrCH2Br."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C5_0023",
+  "stem": "Chất nào sau đây không bị thuỷ phân trong dung dịch kiềm loãng, đun nóng?",
+  "options": {
+   "A": "CH2=C(Cl)CH2CH3.",
+   "B": "CH2=CHCH2CH2Cl.",
+   "C": "CH2=CHCH(Cl)CH3.",
+   "D": "CH2=C(CH3)(CH2Cl)."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C5_0024",
+  "stem": "Đun nóng hỗn hợp gồm CH3CH2CH2Cl và dung dịch NaOH, sau đó gạn lấy lớp dung dịch và acid hoá bằng dung dịch HNO3, nhỏ tiếp vào đó dung dịch AgNO3. Hiện tượng quan sát được là",
+  "options": {
+   "A": "xuất hiện kết tủa màu trắng.",
+   "B": "sủi bọt khí không màu, không mùi.",
+   "C": "xuất hiện khí màu nâu đỏ.",
+   "D": "xuất hiện kết tủa màu trắng, lắc nhẹ thì kết tủa tan dần."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C5_0025",
+  "stem": "(SBT – KNTT) Cho phản ứng hoá học sau: C2H5Br + NaOH <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAE0AAAAgCAAAAAByCKroAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAmJC+YzZ4AAAEqSURBVEjHY/zPQEXARE3DiDZtT2CW5x7Cyv4TBV7zP/1/k+8VIWVEum23lBSDmvheKvn0JR8DA4PgS8pNW1nDwMAg8ZGBgeG9BMWm/W9jYGBgcHn+hOHOS2eCVhMI1xuuDPzyxf//7/LP8d5NMLIIxuljhmriop2EOCUSjJpGI9OYGP5R0TQRtr0PLhNS9AbGIJiGOnglEgko+Sd/m8jUSxTI1fxIRdNei3j+oZ5p/xcx5FPRtP/BDJP////PwsDwPhczkrwjUbglLxDspVC6BkUFP0O+ZDADw///T5gxQRmqzeoIGdzJxPP/f0Zy69N///8hg6WV6icEGMg2DRU81WE+oUJM6iUK+LAeoF6crmeY+596pumWQmiqlEj/gjogDCrFAhRQt7QEANWTdyq5RaZ+AAAAAElFTkSuQmCC\" style=\"height:22px\" alt=\"\"> C2H5OH + NaBr. Phản ứng trên thuộc loại phản ứng nào sau đây?",
+  "options": {
+   "A": "Phản ứng thế.",
+   "B": "Phản ứng cộng.",
+   "C": "Phản ứng tách.",
+   "D": "Phản ứng oxi hoá – khử."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C5_0026",
+  "stem": "(SBT – KNTT) Cho sơ đồ phản ứng hoá học sau: CH3CHClCH2CH3 <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGsAAAARCAAAAAD/bQ13AAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAmICj1CYcAAAIgSURBVDjLvVVdSFNhGH6OFQWxZKVNBOtKXJZXISUdGVkRIxh4IUFmHBgsGPQDQRddrAvNMdKkHwiqwWJEqMwuCroYjWiBPxhkQ5eK5AobkU7mpmuV5+nizHCeQ+Kg81y93/t+3/N87w/fJxC6oUg/qf+m5XnlXl8refZgZsERAgD0dfZ2vkDQNJBxNM4BT7+FbvT4bgHAXKMjM2AKKrTenusf4RJjMdH1l+bTsWn1BbgW7nsXeTdDkjMNJBvirCL9rSS7voskoyTJVj9ZRZIMXCMTRxi2k/awQuEiPcF2FfNmtbrzRAjAnWzJzmoA+4ZsOX9i12ANAPOa7WERMCYXVnm+Bg5br+K4ilhDS/CeOoP0tuK3NgKQi5Dyob8CeG4LC6skfiOldIEAZAGTPkwqofIyq2YPtWZj74Wb6C22sDYKIFoLgyTVA5g31o0QGMSTQDtQL0kGwN723jIMJIwGVEpS5b/nRZVXcqy/7nwfzJ7UZ+Oljj2xK6bRpamK8Xh6sQylbW5zdupQczaUns7+/LI0uv/o1i22iUc7Il5E4rOIR8Rnb7qA3f6WfNKXVu3ZWB8/HszmLHmZLfmxd91aJwIdJCkU8G40HSh1KtZ8d0kmP4XF7ZpHTjfbAIFYtqx47tcAAJwfcmvHOQBQbxi+vNKB19B2PHwMID0C4KQsyzJnOLGpoBpuHL/EoQJruHHcLm8CoI/WWDV001Kg55/yB2pfyAMO1T58AAAAAElFTkSuQmCC\" style=\"height:22px\" alt=\"\">? Sản phẩm chính theo quy tắc Zaitsev của phản ứng trên là",
+  "options": {
+   "A": "but-1-ene.",
+   "B": "but-2-ene.",
+   "C": "but-1-yne.",
+   "D": "but-2-yne."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C5_0027",
+  "stem": "Phản ứng thuỷ phân dẫn xuất halogen trong môi trường kiềm thuộc loại phản ứng gì?R–X + OH− <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAmJVif/QgAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> R–OH + X−",
+  "options": {
+   "A": "Phản ứng thế.",
+   "B": "Phản ứng cộng.",
+   "C": "Phản ứng tách.",
+   "D": "Phản ứng oxi hoá."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C5_0028",
+  "stem": "Sản phẩm chính của phản ứng tách HBr của CH3CH(CH3)CHBrCH3 là",
+  "options": {
+   "A": "2-methylbut-2-ene.",
+   "B": "3-methylbut-2-ene.",
+   "C": "3-methyl-but-1-ene.",
+   "D": "2-methylbut-1-ene."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C5_0029",
+  "stem": "Sản phẩm chính tạo thành khi cho 2-bromobutane tác dụng với dung dịch KOH/alcohol, đun nóng là",
+  "options": {
+   "A": "methylcyclopropane.",
+   "B": "butan-2-ol.",
+   "C": "but-1-ene.",
+   "D": "but-2-ene."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C5_0030",
+  "stem": "(SBT – KNTT) Sản phẩm chính theo quy tắc Zaitsev của phản ứng tách HCl ra khỏi phân tử 2-chloro-3-methylbutane là",
+  "options": {
+   "A": "2-methylbut-2-ene.",
+   "B": "3-methylbut-2-ene.",
+   "C": "3-methylbut-3-ene.",
+   "D": "2-methylbut-3-ene."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C5_0031",
+  "stem": "(SBT – CTST) Alcohol no, đơn chức, mạch hở có công thức chung là",
+  "options": {
+   "A": "CnH2n+1OH (n ≥ 1).",
+   "B": "CnH2n+2O (n ≥ 2).",
+   "C": "CnH2nOH (n ≥ 1).",
+   "D": "CnH2n–1OH (n ≥ 2)."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C5_0032",
+  "stem": "(SBT – CTST) Hợp chất thuộc loại polyalcohol là",
+  "options": {
+   "A": "CH3OH.",
+   "B": "CH3CH2OH.",
+   "C": "CH2=CHCH2OH.",
+   "D": "HOCH2CH2OH."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C5_0034",
+  "stem": "(SBT – KNTT) Nhiều vụ ngộ độc rượu do sử dụng rượu được pha chế từ cồn công nghiệp có lẫn methanol. Công thức phân tử của methanol là",
+  "options": {
+   "A": "CH3OH",
+   "B": "C2H5OH.",
+   "C": "C3H7OH.",
+   "D": "C2H4(OH)2."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C5_0035",
+  "stem": "(SBT – KNTT) Đồ uống có cồn là loại đồ uống có chứa chất nào sau đây?",
+  "options": {
+   "A": "Methanol.",
+   "B": "Ethanol.",
+   "C": "Methanol và ethanol.",
+   "D": "Glycerol."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C5_0036",
+  "stem": "(Đề TSĐH B - 2014) Alcohol nào sau đây có số nguyên tử carbon bằng số nhóm –OH?",
+  "options": {
+   "A": "Ethyl alcohol.",
+   "B": "Glycerol.",
+   "C": "Propan-1,2-diol.",
+   "D": "Benzyl alcohol."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C5_0037",
+  "stem": "(SBT – CTST) Ethyl alcohol có công thức cấu tạo là",
+  "options": {
+   "A": "CH3OCH3.",
+   "B": "CH3CH2OH.",
+   "C": "HOCH2CH2OH.",
+   "D": "CH3CH2CH2OH."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C5_0038",
+  "stem": "(SBT – CTST) Tên của alcohol có công thức cấu tạo CH3CH(CH3)CH(OH)CH3 là",
+  "options": {
+   "A": "isobutan-2-ol.",
+   "B": "2-methylbutan-2-ol.",
+   "C": "3-methylbutan-2-ol.",
+   "D": "2-methylbutan-3-ol."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C5_0039",
+  "stem": "(SBT – KNTT) Alcohol CH3CH=CHCH2OH có danh pháp thay thế là",
+  "options": {
+   "A": "but-2-en-4-ol.",
+   "B": "but-2-en-1-ol.",
+   "C": "4-hydroxybut-2-ene.",
+   "D": "1-hydroxybut-2-ene."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C5_0041",
+  "stem": "(SBT – KNTT) Cho alcohol có công thức cấu tạo sau: CH3CH(CH3)CH2CH2CH2OH. Tên theo danh pháp thay thế của alcohol đó là",
+  "options": {
+   "A": "4-methylpentan-1-ol.",
+   "B": "2-methylbutan-3-ol.",
+   "C": "3-methylbutan-2-ol.",
+   "D": "1,1-dimethylpropan-3-ol."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C5_0042",
+  "stem": "Isoamyl alcohol có trong thành phần thuốc thử Kovax (loại thuốc thử dùng để xác định vi khuẩn). Isoamyl alcohol có công thức cấu tạo là (CH3)2CHCH2CH2OH. Tên thay thế của hợp chất này là",
+  "options": {
+   "A": "3-methylbutan-1-ol.",
+   "B": "isobutyl alcohol.",
+   "C": "3,3-dimethylpropan-1-ol.",
+   "D": "2-methylbutan-4-ol."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C5_0043",
+  "stem": "(SBT – KNTT) Hai ancol nào sau đây cùng bậc?",
+  "options": {
+   "A": "Methanol và ethanol.",
+   "B": "Propan-1-ol và propan-2-ol.",
+   "C": "Ethanol và propan-2-ol.",
+   "D": "Propan-2-ol và 2-methylpropan-2-ol."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C5_0044",
+  "stem": "(SBT – KNTT) Chất nào sau đây là alcohol bậc II?",
+  "options": {
+   "A": "propan-1-ol.",
+   "B": "propan-2-ol.",
+   "C": "2-methylpropan-1-ol.",
+   "D": "2-methylpropan-2-ol."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C5_0045",
+  "stem": "(SBT – KNTT) Số đồng phân cấu tạo alcohol có công thức C4H9OH là",
+  "options": {
+   "A": "2.",
+   "B": "3.",
+   "C": "4.",
+   "D": "5."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C5_0046",
+  "stem": "Số alcohol bậc I là đồng phân cấu tạo của nhau có công thức phân tử C5H12O là",
+  "options": {
+   "A": "8.",
+   "B": "1.",
+   "C": "4.",
+   "D": "3."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C5_0047",
+  "stem": "(SBT – CTST) Trong các alcohol sau, alcohol nào có nhiệt độ sôi cao nhất?",
+  "options": {
+   "A": "CH3CH2OH.",
+   "B": "HOCH2CH2OH.",
+   "C": "CH3CH2CH2OH.",
+   "D": "CH3CH2CH2CH2OH."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C5_0048",
+  "stem": "(SBT – CTST) Methyl alcohol, ethyl alcohol tan vô hạn trong nước là do",
+  "options": {
+   "A": "khối lượng phân tử của các alcohol nhỏ.",
+   "B": "hình thành tương tác van der Waals với nước.",
+   "C": "hình thành liên kết hydrogen với nước.",
+   "D": "hình thành liên kết cộng hoá trị với nước."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C5_0049",
+  "stem": "(SBT – CTST) Trong số các chất sau, chất tan trong nước ở điều kiện thường là",
+  "options": {
+   "A": "C2H5OH.",
+   "B": "C2H5Cl.",
+   "C": "C6H5OH.",
+   "D": "C6H5Cl."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C5_0050",
+  "stem": "(SBT – Cánh Diều) Cồn 70° là dung dịch ethyl alcohol, được dùng để sát trùng vết thương. Mô tả nào sau đây về cồn 70° là đúng?",
+  "options": {
+   "A": "100 gam dung dịch có 70 mL ethyl alcohol nguyên chất.",
+   "B": "100 mL dung dịch có 70 mL ethyl alcohol nguyên chất.",
+   "C": "1 000 gam dung dịch có 70 mol ethyl alcohol nguyên chất.",
+   "D": "1 000 mL dung dịch có 70 mol ethyl alcohol nguyên chất."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C5_0051",
+  "stem": "Để pha chế một loại cồn sát trùng sử dụng trong y tế, người ta cho 700 mL ethanol nguyên chất vào bình định mức rồi thêm nước cất vào, thu được 1 000 mL cồn. Hỗn hợp trên có độ cồn là",
+  "options": {
+   "A": "17o.",
+   "B": "7o.",
+   "C": "70o.",
+   "D": "170o."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C5_0052",
+  "stem": "(SBT – KNTT) Cho các hợp chất hữu cơ sau: (1) C3H8; (2) CH3Cl; (3) C2H5OH; (4) CH3OH. Thứ tự giảm dần nhiệt độ sôi của các chất trên là",
+  "options": {
+   "A": "(1) &gt; (2) &gt; (3) &gt; (4).",
+   "B": "(1) &gt; (4) &gt; (2) &gt; (3).",
+   "C": "(3) &gt; (4) &gt; (2) &gt; (1).",
+   "D": "(4) &gt; (2) &gt; (1) &gt; (3)."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C5_0053",
+  "stem": "Để phân biệt cồn 90° và cồn tuyệt đối (ethanol nguyên chất), có thể dùng hoá chất nào sau đây?",
+  "options": {
+   "A": "Na.",
+   "B": "CuSO4 khan.",
+   "C": "CuO, to.",
+   "D": "Cu(OH)2."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C5_0054",
+  "stem": "(SBT – KNTT) Xăng E5 chứa 5% thể tích ethanol hiện đang được sử dụng phổ biến ở nước ta để thay thế một phần xăng thông thường. Một người đi xe máy mua 2 L xăng E5 để đổ vào bình chứa nhiên liệu. Thể tích ethanol có trong lượng xăng trên là",
+  "options": {
+   "A": "50 mL.",
+   "B": "92 mL.",
+   "C": "46 mL.",
+   "D": "100 mL."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C5_0055",
+  "stem": "(SBT – CTST) Nhóm chức alcohol không bị phá vỡ bởi tác nhân nào?",
+  "options": {
+   "A": "Na.",
+   "B": "H2SO4 đặc, 170 °C.",
+   "C": "Cu.",
+   "D": "CuO, to."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C5_0056",
+  "stem": "(Đề TN THPT - 2020) Cho mẩu sodium vào ống nghiệm đựng 3 mL chất lỏng X, thấy sodium tan dần và có khí thoát ra. Chất X là",
+  "options": {
+   "A": "pentane.",
+   "B": "ethanol.",
+   "C": "hexane.",
+   "D": "benzene."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C5_0057",
+  "stem": "(SBT – KNTT) Một học sinh sau khi tiến hành thí nghiệm thì vẫn còn dư mẩu Na. Để tiêu huỷ mẩu Na dư này một cách an toàn, học sinh đó nên cho mẩu Na vào",
+  "options": {
+   "A": "nước.",
+   "B": "cồn 96°.",
+   "C": "thùng rác.",
+   "D": "dầu hoả."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C5_0058",
+  "stem": "(SBT – KNTT) Số hợp chất hữu cơ có công thức phân tử C3H8O phản ứng được với Na là",
+  "options": {
+   "A": "1.",
+   "B": "2.",
+   "C": "3.",
+   "D": "4."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C5_0059",
+  "stem": "(SBT – CTST) Alcohol có phản ứng đặc trưng với Cu(OH)2 là",
+  "options": {
+   "A": "propane-1,2-diol, CH3CH(OH)CH2OH.",
+   "B": "propan-2-ol, CH3CH(OH)CH3.",
+   "C": "propane-1,3-diol, HOCH2CH2CH2OH.",
+   "D": "ethanol, CH3CH2OH."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C5_0060",
+  "stem": "(SBT – KNTT) Cho các alcohol sau: CH3OH; C2H5OH; CH2OHCH2OH; CH2OHCHOHCH2OH; CH2OHCH2CH2OH. Số alcohol không hoà tan được Cu(OH)2 là",
+  "options": {
+   "A": "1.",
+   "B": "2.",
+   "C": "3.",
+   "D": "4."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C5_0061",
+  "stem": "(SBT – Cánh Diều) Chất X có công thức đơn giản nhất là C2H5O, hoà tan được Cu(OH)2 tạo thành dung dịch màu xanh đậm. Số đồng phân cấu tạo thoả mãn tính chất của X là",
+  "options": {
+   "A": "2.",
+   "B": "5.",
+   "C": "4.",
+   "D": "3."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C5_0062",
+  "stem": "(Đề TSCĐ - 2007) Cho các chất có công thức cấu tạo như sau: HOCH2-CH2OH (X); HOCH2-CH2-CH2OH (Y); HOCH2-CHOH-CH2OH (Z); CH3-CH2-O-CH2-CH3 (R); CH3-CHOH-CH2OH (T). Những chất tác dụng được với Cu(OH)2 tạo thành dung dịch màu xanh lam là",
+  "options": {
+   "A": "X, Y, R, T.",
+   "B": "X, Z, T.",
+   "C": "Z, R, T.",
+   "D": "X, Y, Z, T."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C5_0063",
+  "stem": "(Đề TSCĐ - 2008) Khi đun nóng hỗn hợp alcohol gồm CH3OH và C2H5OH (xúc tác H2SO4 đặc, ở 140 oC) thì số ether thu được tối đa là",
+  "options": {
+   "A": "4.",
+   "B": "2.",
+   "C": "1.",
+   "D": "3."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C5_0064",
+  "stem": "(SBT – Cánh Diều) Alcohol nào sau đây không có phản ứng tách nước tạo ra alkene?",
+  "options": {
+   "A": "CH3CH(OH)CH3.",
+   "B": "CH3OH.",
+   "C": "CH3CH2CH2OH.",
+   "D": "CH3CH2OH."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C5_0065",
+  "stem": "(SBT – KNTT) Cho phản ứng hoá học sau: CH3CHOHCH2CH3 <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFcAAAAVCAAAAAAWMy3XAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAmIsb7aKsAAAHGSURBVDjLY/zPQBPARBtjKTa3YWUlLcx9+Cn8911sEixYxFaFL426ni3aI8vAwMDwv46L8/BCnu9tXAJv2YqwKP/PiNXG/5jgN8P3//+zuyGcs97//x/5+r+o6f///8VtKOr6r///X7ei4j82QNDc54IND////y9+6f///0dVkZU91am59x8XYMHqiR4WhnMKEKbEvh5d74VMr4QZGBiEnyIrkhKPVsQd8vjc2700+/f////fm634L3nh////h9X///+feRmmzvk6Tuf+x5seYqNY7xy+xCBgxcqQsJaBgWFVIgPDhQdwaUY8eQqbuRsZNjLcunHuCYM4wzt54eaOLqYAhnrm5sl10sUM/0+bMTAwHNH4y8DAYFdzHlPznyc4wwEBzs5DF1nzqv7y////AnFq+eP+EVd6gINbczGEstKNM///P3gFt6ZVnn/+///P+J/hKyKYWNmhjB9/GBgYGLwlGbINmbhgshCFbQFaSAqx6A4Vm8rAwPifQf0tXCZ0OpSRtAmRnC7BWNgUQgShEiL//v379+/375NmeOOUPPDf1bSdFuXkLJ5WgumBDPDD5ct/SLxRF/z7KMjAwECD8IUAWtVDAJKXQBDg2TFzAAAAAElFTkSuQmCC\" style=\"height:22px\" alt=\"\">? Sản phẩm chính theo quy tắc Zaitsev trong phản ứng trên là",
+  "options": {
+   "A": "but-l-ene.",
+   "B": "but-2-ene.",
+   "C": "but-l-yne.",
+   "D": "but-2-yne."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C5_0066",
+  "stem": "(SBT – KNTT) Sản phẩm chính thu được khi tách nước từ 3-methylbutan-2-ol là",
+  "options": {
+   "A": "3-metylbut-1-ene.",
+   "B": "2-methylbut-2-ene.",
+   "C": "3-methylbut-2-ene.",
+   "D": "2-methylbut-3-ene."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C5_0067",
+  "stem": "(Đề TSĐH A - 2008) Khi tách nước từ alcohol 3-methylbutan-2-ol, sản phẩm chính thu được là",
+  "options": {
+   "A": "3-methylbut-1-ene.",
+   "B": "2-methylbut-2-ene.",
+   "C": "3-methylbut-2-ene.",
+   "D": "2-methylbut-3-ene."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C5_0068",
+  "stem": "(Đề TSĐH A - 2007) Khi tách nước từ một chất X có công thức phân tử C4H10O tạo thành 3 alkene là đồng phân của nhau (tính cả đồng phân hình học). Công thức cấu tạo thu gọn của X là",
+  "options": {
+   "A": "CH3CH(OH)CH2CH3.",
+   "B": "(CH3)3COH.",
+   "C": "CH3OCH2CH2CH3.",
+   "D": "CH3CH(CH3)CH2OH."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C5_0069",
+  "stem": "(Đề TSĐH B - 2013) Tên gọi của anken (sản phẩm chính) thu được khi đun nóng alcohol có công thức (CH3)2CHCH(OH)CH3 với dung dịch H2SO4 đặc là",
+  "options": {
+   "A": "3-methylbut-2-ene.",
+   "B": "2-methylbut-1-ene.",
+   "C": "2-methylbut-2-ene.",
+   "D": "3-methylbut-1-ene."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C5_0070",
+  "stem": "(SBT – KNTT) Oxi hoá alcohol nào sau đây thu được sản phẩm là ketone?",
+  "options": {
+   "A": "C2H5OH.",
+   "B": "CH3CH2CH2OH.",
+   "C": "CH3CH(OH)CH3.",
+   "D": "(CH3)2C(OH)CH3."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C5_0071",
+  "stem": "(SBT – KNTT) Oxi hoá propan-2-ol bằng CuO nung nóng, thu được sản phẩm nào sau đây?",
+  "options": {
+   "A": "CH3CHO.",
+   "B": "CH3CH2CHO.",
+   "C": "CH3COCH3.",
+   "D": "CH3COOH."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C5_0072",
+  "stem": "(SBT – KNTT) Nhận xét nào sau đây không đúng?",
+  "options": {
+   "A": "Oxi hoá không hoàn toàn alcohol bậc I, thu được aldehyde.",
+   "B": "Oxi hoá hoàn toàn alcohol bậc I, thu được aldehyde.",
+   "C": "Oxi hoá alcohol bậc II, thu được ketone.",
+   "D": "Alcohol bậc III không bị oxi hoá bởi tác nhân thông thường."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C5_0073",
+  "stem": "(SBT – CTST) Alcohol bị oxi hoá bởi CuO, t° tạo thành ketone là",
+  "options": {
+   "A": "CH3CH(OH)CH3.",
+   "B": "CH3CH2CH2OH.",
+   "C": "CH3CH2OH.",
+   "D": "CH3OH."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C5_0074",
+  "stem": "(SBT – KNTT) Thuốc thử Cu(OH)2 có thể dùng để nhận biết alcohol nào sau đây?",
+  "options": {
+   "A": "Alcohol bậc I.",
+   "B": "Alcohol bậc II.",
+   "C": "Alcohol bậc II.",
+   "D": "Alcohol đa chức."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C5_0075",
+  "stem": "(SBT – KNTT) Khi đốt cháy hoàn toàn ethanol, thu được tỉ lệ mol <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAF0AAAAXCAAAAABM2RwVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAmJC+YzZ4AAAIOSURBVEjH5VVNSFRRGD1XJjUNouaFY1NG0Sxm4Q81IRESuMzIFrVIVFpEJbPIH0RKYdqoINS4aKAwKCiIICLoZ9EPVJB/lAUS2MxCU0dRZCRrXjY577R4Y8y8ke6NmFVn8zjvfudw7/m+d58gMoisTJojCxjziIq2snztTExePrSlCoC6huR37Lzx8nkFApTCj+xlUlljuh8k+R51cne99wUT7ioa2+9DOLAkT2b9uRQq02S8q/+L+3Lg1d+U26wvwj6hrYxVn4r7h3cYU0dqU1evNuV8ybFK3nXMXq6c9Pf1nTD5Yofu0GdbygGQE/Wwe5cGjqOwnVzYdoskL7LpcIz86rHM86B2iKRFw7Zqkg/tiZq4p5tkUBsx5z0ZXW6SpBHNfkqS153yb8Dq/swWJcnamuR5N/HWDQAQodhuAHCFI5sV8h1tBMZXyceteQDgupeeu7HOfAoQAAih0r3iXuDRmwQR5rVLke6+9w4AYN6VG9oFILh9091oZMNZxRm55Bg5tr9kJpoPIFgKWHNfKLpJkq08XxUjv+25xmmyTDX3afY30DjQRTKofUjP3T7k6y9YmSxF55WTRcbnlho4MVHy5x2/Hph/cDR0Xw94nfi0D+KJ73SBHn68xt7XgNE8ozI4JMmIN55M5e4/e6aUzee6f6RwIf2vXhjdiNuKXa0sFO72JC53/xdk9o78BX0voRSfewYcAAAAAElFTkSuQmCC\" style=\"height:22px\" alt=\"\"> là",
+  "options": {
+   "A": "l: l.",
+   "B": "1: 2.",
+   "C": "2: 3.",
+   "D": "3: 2."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C5_0076",
+  "stem": "(SBT – KNTT) Chất nào sau đây dùng để điều chế ethanol theo phương pháp sinh hoá?",
+  "options": {
+   "A": "Ethylene.",
+   "B": "Acetylene.",
+   "C": "Methane.",
+   "D": "Tinh bột."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C5_0077",
+  "stem": "(SBT – KNTT) Phương pháp nào sau đây dùng để sản xuất ethanol sinh học?",
+  "options": {
+   "A": "Cho hỗn hợp khí ethylene và hơi nước đi qua tháp chứa H3PO4.",
+   "B": "Cộng nước vào ethylene với xúc tác là H2SO4.",
+   "C": "Lên men tinh bột.",
+   "D": "Thuỷ phân dẫn xuất C2H5Br trong môi trường kiềm."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C5_0078",
+  "stem": "(SBT – KNTT) Trong phương pháp nấu rượu gạo truyền thống, gạo được nấu chín, để nguội, rắc men rồi trộn đều, ủ kín 3 – 5 ngày. Khi ngửi thấy mùi thơm, thêm nước và tủ kín 1 – 2 tuần, thu được hỗn hợp chủ yếu gồm: ethanol, nước và bã rượu. Để tách rượu (hỗn hợp ethanol và nước) ra khỏi hỗn hợp trên, người ta sử dụng phương pháp nào sau đây là phù hợp nhất?",
+  "options": {
+   "A": "Kết tinh.",
+   "B": "Chiết.",
+   "C": "Chưng cất.",
+   "D": "Lọc."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C5_0079",
+  "stem": "(Đề TSĐH B - 2007) Các đồng phân ứng với công thức phân tử C8H10O (đều là dẫn xuất của benzene) có tính chất: tách nước thu được sản phẩm có thể trùng hợp tạo polymer, không tác dụng được với NaOH. Số lượng đồng phân ứng với công thức phân tử C8H10O, thoả mãn tính chất trên là",
+  "options": {
+   "A": "1.",
+   "B": "4.",
+   "C": "3.",
+   "D": "2."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C5_0080",
+  "stem": "(SBT – Cánh Diều) Cho các loại hợp chất hữu cơ:(1) alkane; \t\t(2) alcohol no, đơn chức, mạch hở;(3) alkene; \t\t(4) alcohol không no (có một liên kết đôi C=C), mạch hở;(5) alkyne;\t\t(6) alkadiene.Dãy nào sau đây gồm các loại chất khi đốt cháy hoàn toàn đều cho số mol CO2 bằng số mol H2O?",
+  "options": {
+   "A": "(1) và (3).",
+   "B": "(2) và (6).",
+   "C": "(3) và (4).",
+   "D": "(4) và (5)."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C5_0081",
+  "stem": "(SBT – KNTT) Phenol là hợp chất hữu cơ, trong phân tử có",
+  "options": {
+   "A": "nhóm –OH và vòng benzene.",
+   "B": "nhóm –OH liên kết trực tiếp với nguyên tử carbon của vòng benzene.",
+   "C": "nhóm –OH liên kết trực tiếp với nguyên tử carbon no.",
+   "D": "nhóm –OH liên kết trực tiếp với nguyên tử carbon no và có chứa vòng benzene."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C5_0085",
+  "stem": "(SBT – KNTT) Hợp chất hữu cơ X có chứa vòng benzene, có công thức phân tử là C7H8O. Số đồng phân cấu tạo của X là",
+  "options": {
+   "A": "2.",
+   "B": "3.",
+   "C": "4.",
+   "D": "5."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C5_0086",
+  "stem": "(Đề TSĐH B - 2014) Số đồng phân cấu tạo có công thức phân tử C8H10O, chứa vòng benzene, tác dụng được với Na, không tác dụng với dung dịch NaOH là",
+  "options": {
+   "A": "5.",
+   "B": "6.",
+   "C": "3.",
+   "D": "4."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C5_0087",
+  "stem": "(SBT – Cánh Diều) Chất nào sau đây là chất rắn ở điều kiện thường?",
+  "options": {
+   "A": "Phenol.",
+   "B": "Ethanol.",
+   "C": "Toluene.",
+   "D": "Glycerol."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C5_0088",
+  "stem": "(SBT – KNTT) Chất nào sau đây có nhiệt độ sôi cao nhất?",
+  "options": {
+   "A": "Chloroethane.",
+   "B": "Methanol.",
+   "C": "Ethanol.",
+   "D": "Phenol."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C5_0089",
+  "stem": "(SBT – Cánh Diều) Khi bị bỏng do tiếp xúc với phenol, cách sơ cứu đúng là rửa vết thương bằng dung dịch nào sau đây?",
+  "options": {
+   "A": "Giám (dung địch có acetic acid).",
+   "B": "Dung dịch NaCl.",
+   "C": "Nước chanh (dung dịch có citric acid).",
+   "D": "Xà phòng có tính kiềm nhẹ."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C5_0090",
+  "stem": "(SBT – CTST) Trong đặc điểm cấu tạo của phenol, cặp electron trên nguyên tử oxygen bị hút một phần vào hệ thống vòng benzene, làm giàu mật độ electron ở các vị trí",
+  "options": {
+   "A": "ortho, meta.",
+   "B": "meta, para.",
+   "C": "ortho, meta, para.",
+   "D": "ortho, para."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C5_0091",
+  "stem": "(SBT – Cánh Diều) Phenol không phản ứng với chất nào sau đây?",
+  "options": {
+   "A": "NaHCO3.",
+   "B": "Na.",
+   "C": "NaOH.",
+   "D": "Br2."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C5_0092",
+  "stem": "(SBT – KNTT) Phenol là hợp chất hữu cơ có tính",
+  "options": {
+   "A": "acid yếu.",
+   "B": "base yếu.",
+   "C": "acid mạnh.",
+   "D": "base mạnh."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C5_0093",
+  "stem": "(SBT – CTST) Chất, dung dịch tác dụng với phenol sinh ra chất khí là",
+  "options": {
+   "A": "dung dịch KOH.",
+   "B": "dung dịch K2CO3.",
+   "C": "kim loại Na.",
+   "D": "kim loại Ag."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C5_0094",
+  "stem": "(SBT – CTST) Trường hợp nào sau đây không xảy ra phản ứng hoá học?",
+  "options": {
+   "A": "C6H5OH + KOH.",
+   "B": "C6H5OH + K2CO3.",
+   "C": "C6H5ONa + HCl.",
+   "D": "C6H5OH + HCl."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C5_0095",
+  "stem": "(Đề TSĐH A - 2013) Phenol phản ứng được với dung dịch nào sau đây?",
+  "options": {
+   "A": "NaCl.",
+   "B": "HCl.",
+   "C": "NaHCO3.",
+   "D": "KOH."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C5_0096",
+  "stem": "(SBT – KNTT) Phản ứng với chất/dung dịch nào sau đây chứng minh tính acid của phenol (C6H5OH) mạnh hơn ethanol?",
+  "options": {
+   "A": "Na.",
+   "B": "Dung dịch NaOH.",
+   "C": "Nước bromine.",
+   "D": "HNO3 đặc/H2SO4 đặc."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C5_0097",
+  "stem": "(SBT – KNTT) Phản ứng với chất/dung dịch nào sau đây chứng minh phenol (C6H5OH) có tính acid mạnh hơn nấc 2 của carbonic acid?",
+  "options": {
+   "A": "Na.",
+   "B": "Dung dịch NaOH.",
+   "C": "Dung dịch Na2CO3.",
+   "D": "Dung dịch Br2."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C5_0099",
+  "stem": "(Đề TSĐH B - 2007) Số chất ứng với công thức phân tử C7H8O (là dẫn xuất của benzene) đều tác dụng được với dung dịch NaOH là",
+  "options": {
+   "A": "2.",
+   "B": "4.",
+   "C": "3.",
+   "D": "1."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C5_0100",
+  "stem": "(Đề TSCĐ - 2011) Số hợp chất đồng phân cấu tạo của nhau có công thức phân tử C8H10O, trong phân tử có vòng benzene, tác dụng được với Na, không tác dụng được với NaOH là",
+  "options": {
+   "A": "7.",
+   "B": "6.",
+   "C": "4.",
+   "D": "5."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C5_0101",
+  "stem": "(Đề TSĐH A - 2012) Cho dãy các hợp chất thơm: p-HO-CH2-C6H4-OH, p-HO-C6H4-COOC2H5, p-HO-C6H4-COOH, p-HCOO-C6H4-OH, p-CH3O-C6H4-OH. Có bao nhiêu chất trong dãy thỏa mãn đồng thời 2 điều kiện sau?(a) Chỉ tác dụng với NaOH theo tỉ lệ mol 1: 1.(b) Tác dụng được với Na (dư) tạo ra số mol H2 bằng số mol chất phản ứng.",
+  "options": {
+   "A": "3.",
+   "B": "4.",
+   "C": "1.",
+   "D": "2."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C5_0102",
+  "stem": "(Đề TSĐH B - 2008) Ảnh hưởng của nhóm –OH đến gốc C6H5– trong phân tử phenol thể hiện qua phản ứng giữa phenol với",
+  "options": {
+   "A": "dung dịch NaOH.",
+   "B": "Na kim loại.",
+   "C": "nước Br2.",
+   "D": "H2 (Ni, nung nóng)."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C5_0103",
+  "stem": "(SBT – KNTT) Nguyên nhân phản ứng thế bromine vào vòng thơm của phenol xảy ra dễ dàng hơn so với benzene là do",
+  "options": {
+   "A": "phenol tan một phần trong nước.",
+   "B": "phenol có tính acid yếu.",
+   "C": "ảnh hưởng của nhóm –OH đến vòng benzene trong phân tử phenol.",
+   "D": "ảnh hưởng của vòng benzene đến nhóm –OH trong phân tử phenol."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C5_0104",
+  "stem": "(SBT – CTST) Sản phẩm tạo thành chất kết tủa khi cho phenol tác dụng với chất nào sau đây?",
+  "options": {
+   "A": "Dung dịch NaOH.",
+   "B": "Nước bromine.",
+   "C": "Qùy tím.",
+   "D": "Phenolphthalein."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C5_0105",
+  "stem": "(SBT – CTST) Để nhận biết 2 chất lỏng phenol và ethanol, có thể dùng",
+  "options": {
+   "A": "dung dịch Br2.",
+   "B": "quỳ tím.",
+   "C": "kim loại Na.",
+   "D": "dung dịch NaOH."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C5_0106",
+  "stem": "(Đề TN THPT - 2020) Nhỏ vài giọt nước bromine vào ống nghiệm đựng 2 mL dung dịch chất X, lắc nhẹ, thấy có kết tủa trắng. Chất X là",
+  "options": {
+   "A": "glycerol.",
+   "B": "acetic acid.",
+   "C": "ethanol.",
+   "D": "phenol."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C5_0107",
+  "stem": "(SBT – KNTT) Phenol và ethanol đều phản ứng được với",
+  "options": {
+   "A": "Na.",
+   "B": "dung dịch NaOH.",
+   "C": "nước bromine loãng.",
+   "D": "dung dịch Na2CO3."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C5_0108",
+  "stem": "(SBT – KNTT) Cho hai phản ứng sau:(1) C6H5OH + Na2CO3 <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAmIsb7aKsAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:18px\" alt=\"\"> C6H5ONa + NaHCO3(2) C6H5ONa + CO2 + H2O <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAmIsb7aKsAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:18px\" alt=\"\"> C6H5OH + NaHCO3Hai phản ứng trên chứng tỏ phenol",
+  "options": {
+   "A": "là một acid mạnh.",
+   "B": "là một base mạnh.",
+   "C": "có tính acid mạnh hơn nấc 1 của H2CO3.",
+   "D": "có tính acid mạnh hơn nấc 2 của H2CO3."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C5_0109",
+  "stem": "(SBT – KNTT) Khi nhỏ từ từ nước bromine vào ống nghiệm chứa dung dịch phenol, hiện tượng quan sát được trong ống nghiệm là",
+  "options": {
+   "A": "nước bromine bị mất màu và xuất hiện kết tủa trắng.",
+   "B": "dung dịch trong suốt.",
+   "C": "xuất hiện kết tủa trắng.",
+   "D": "không xảy ra hiện tượng gì."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C5_0110",
+  "stem": "Phản ứng với chất/dung dịch nào sau đây của phenol chứng minh phenol có tính acid?",
+  "options": {
+   "A": "Na.",
+   "B": "Dung dịch NaOH.",
+   "C": "Nước bromine.",
+   "D": "HNO3 đặc/H2SO4 đặc."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C5_0111",
+  "stem": "(Đề TSCĐ - 2013) Dung dịch phenol (C6H5OH) không phản ứng được với chất nào sau đây?",
+  "options": {
+   "A": "NaOH.",
+   "B": "NaCl.",
+   "C": "Br2.",
+   "D": "Na."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C5_0112",
+  "stem": "(SBT – KNTT) Trong công nghiệp, phenol được điều chế chủ yếu từ chất nào sau đây?",
+  "options": {
+   "A": "Benzene.",
+   "B": "Cumene.",
+   "C": "Chlorobenzene.",
+   "D": "Than đá."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C5_0113",
+  "stem": "(SBT – CTST) Keo dán phenol formaldehyde (PF) có độ kết dính cao, chịu nhiệt và nước, thường được dùng để ép gỗ, dán gỗ trong xây dựng (gỗ coppha). PF là sản phẩm của phản ứng trùng ngưng giữa formaldehyde (H-CHO) với",
+  "options": {
+   "A": "ethanol (C2H5OH).",
+   "B": "phenol (C6H5OH).",
+   "C": "benzene (C6H6).",
+   "D": "toluene (C6H5CH3)."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C5_0114",
+  "stem": "(SBT – CTST) Liều lượng được tính toán phù hợp của một số hợp chất phenol như: 4-hexylresorcinol được dùng trong thuốc giảm ho, chất trị nám; butyl paraben (HOC6H4COO[CH2]3CH3), BHA, BHT,... được ứng dụng làm chất bảo quản trong chế biến thực phẩm, mĩ phẩm, dược phẩm. Vì đặc điểm của các hợp chất này là",
+  "options": {
+   "A": "có hoạt tính sinh học.",
+   "B": "chi phí thấp.",
+   "C": "dễ bảo quản.",
+   "D": "không gây độc nếu dùng dư liều lượng."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C5_0115",
+  "stem": "(Đề TSCĐ - 2007) Hợp chất hữu cơ X (phân tử có vòng benzene) có công thức phân tử là C7H8O2, tác dụng được với Na và với NaOH. Biết rằng khi cho X tác dụng với Na dư, số mol H2 thu được bằng số mol X tham gia phản ứng và X chỉ tác dụng được với NaOH theo tỉ lệ số mol 1: 1. Công thức cấu tạo thu gọn của X là",
+  "options": {
+   "A": "C6H5CH(OH)2.",
+   "B": "HOC6H4CH2OH.",
+   "C": "CH3C6H3(OH)2.",
+   "D": "CH3OC6H4OH."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C5_0117",
+  "stem": "(SBT – KNTT) Có ba ống nghiệm (1), (2), (3) chứa riêng biệt ba hoá chất sau: ethanol, glycerol, phenol (không theo thứ tự). Một học sinh tiến hành thí nghiệm để nhận biết các chất trên, thu được kết quả như ở bảng sau đây:Thứ tự hoá chất trong các ống nghiệm (1), (2), (3) lần lượt là",
+  "options": {
+   "A": "ethanol, glycerol, phenol.",
+   "B": "glycerol, ethanol, phenol.",
+   "C": "glycerol, phenol, ethanol.",
+   "D": "phenol, glycerol, ethanol."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C5_0118",
+  "stem": "(SBT – KNTT) Phát biểu nào sau đây không đúng?",
+  "options": {
+   "A": "Alcohol và phenol đều tham gia phản ứng với Na.",
+   "B": "Cho phenol phản ứng với dung dịch NaOH, sau đó nhỏ vài giọt HCl vào dung dịch thì lại thu được phenol.",
+   "C": "Alcohol đa chức có nhóm –OH liền kề phản ứng được với Cu(OH)2, còn alcohol đơn chức thì không phản ứng.",
+   "D": "Đun nóng alcohol với H2SO4 đặc chỉ thu được alkene."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "L11_C5_0119",
+  "stem": "(SBT – CTST) Phát biểu nào sau đây không đúng khi nói về tính chất của phenol?",
+  "options": {
+   "A": "Phenol là chất rắn, không màu hoặc màu hồng nhạt.",
+   "B": "Phenol gây bỏng khi tiếp xúc với da, gây ngộ độc qua đường miệng.",
+   "C": "Phenol không tan trong nước, nhưng tan trong ethanol.",
+   "D": "Phenol có tính acid mạnh hơn ethanol."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C5_0120",
+  "stem": "(Đề TSCĐ - 2014) Phát biểu nào sau đây là sai khi nói về phenol (C6H5OH)?",
+  "options": {
+   "A": "Phenol thuộc loại alcohol thơm, đơn chức.",
+   "B": "Dung dịch phenol không làm đổi màu quỳ tím.",
+   "C": "Phenol ít tan trong nước lạnh nhưng tan nhiều trong nước nóng.",
+   "D": "Phenol tác dụng với nước bromine tạo kết tủa."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C5_0122",
+  "stem": "(Chuyên KHTN Hà Nội - 2018) Từ 16,2 kg gạo có chứa 81% tinh bột có thể sản xuất được V lít ethyl alcohol 23o, biết hiệu suất của cả quá trình lên men đạt 75%, khối lượng riêng của ethyl alcohol nguyên chất là 0,8 gam/mL. Giá trị của V là",
+  "options": {
+   "A": "30,375 lít.",
+   "B": "37,5 lít.",
+   "C": "40,5 lít.",
+   "D": "24,3 lít."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C5_0125",
+  "stem": "(SBT – Cánh Diều) CFC (chlorofluorocarbon) là kí hiệu chung chỉ nhóm các hợp chất hữu cơ mà trong phân tử có chứa ba loại nguyên tố Cl, F và C. Ưu điểm của chúng là rất bền, không cháy, không mùi, không độc, không gây ra sự ăn mòn, dễ bay hơi,… nên được dùng làm chất sinh hàn trong tủ lạnh, điều hoà không khí, dùng trong các bình xịt để tạo bọt xốp,…Tuy nhiên, do có nhược điểm lớn là phá huỷ tầng ozone bảo vệ Trái Đất nên từ những năm 1990, CFC bị hạn chế sử dụng theo các quy định của các công ước về bảo vệ môi trường và chống biến đổi khí hậu.Freon-12 là một loại chất CFC được sử dụng khá phố biến, có chứa 31,40% fluorine và 58,68% chlorine về khối lượng. Công thức phân tử của freon-12 là",
+  "options": {
+   "A": "CCl3F.",
+   "B": "CCl2F2.",
+   "C": "CClF3.",
+   "D": "C2Cl4F2."
+  },
+  "answer": "B"
+ },
+ {
+  "id": "L11_C5_0126",
+  "stem": "(Đề TSCĐ - 2011) Cho m gam hỗn hợp X gồm phenol và ethanol phản ứng hoàn toàn với Na (dư), thu được 2,479 lít khí H2 (đkc). Mặt khác, để phản ứng hoàn toàn với m gam X cần 100 mL dung dịch NaOH 1 M. Giá trị của m là",
+  "options": {
+   "A": "7,0.",
+   "B": "21,0.",
+   "C": "14,0.",
+   "D": "10,5."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C5_0127",
+  "stem": "Cho 14 gam hỗn hợp A gồm phenol và ethanol tác dụng với Na dư thu được 2,479 lít khí H2 (đkc). Phần trăm khối lượng phenol trong hỗn hợp A là",
+  "options": {
+   "A": "67,14%.",
+   "B": "32,86%.",
+   "C": "12,5%.",
+   "D": "7,5%."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C5_0128",
+  "stem": "Cho hỗn hợp A gồm ethanol và phenol tác dụng với Na dư thu được 3,7185 lít H2 (đkc). Nếu cho hỗn hợp trên tác dụng với nước bromine vừa đủ thu được 19,86 gam kết tủa trắng. Phần trăm khối lượng phenol trong hỗn hợp A là",
+  "options": {
+   "A": "33,80%.",
+   "B": "66,2%.",
+   "C": "46,94%.",
+   "D": "53,06%."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C5_0129",
+  "stem": "Cho 12,2 gam hỗn hợp X gồm ethanol và propan-1-ol tác dụng với Na dư thu được 0,125 mol khí H2. Phần trăm khối lượng của của ethanol trong hỗn hợp là",
+  "options": {
+   "A": "75,4.",
+   "B": "24,6.",
+   "C": "94,26.",
+   "D": "5,74."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "L11_C5_0130",
+  "stem": "Cho X là hợp chất thơm; a mol X phản ứng vừa hết với a lít dung dịch NaOH 1 M. Mặt khác nếu cho a mol X phản ứng với Na (dư) thì sau phản ứng thu được 22,4a lít H2 (ở đkc). Công thức cấu tạo thu gọn của X là",
+  "options": {
+   "A": "CH3 – C6H3(OH)2.",
+   "B": "HO – C6H4 – COOCH3",
+   "C": "HO – CH2 – C6H4 – OH.",
+   "D": "HO – C6H4 – COOH."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "L11_C5_0131",
+  "stem": "Cho 6,04 gam hỗn hợp X gồm phenol và ethyl alcohol tác dụng với Na dư thu được 0,05 mol khí H2. Hãy cho biết khi cho hỗn hợp X vào dung dịch Br2 dư thì thu được bao nhiêu gam kết tủa?",
+  "options": {
+   "A": "11,585 gam.",
+   "B": "6,62 gam.",
+   "C": "9,93 gam.",
+   "D": "13,24 gam."
+  },
+  "answer": "C"
+ }
+]
