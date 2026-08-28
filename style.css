@@ -85,6 +85,23 @@ input[type="text"]:focus, select:focus{outline:2px solid var(--brand);outline-of
 .btn-primary:disabled{background:#b9c3d6;cursor:not-allowed}
 .btn-primary:not(:disabled):active{background:var(--brand-dark)}
 
+.btn-retry{background:#d97706}
+.btn-retry:active{background:#b45309}
+
+.btn-secondary{
+  width:100%;
+  padding:14px;
+  border:1.5px solid var(--border);
+  border-radius:12px;
+  background:#fff;
+  color:var(--ink);
+  font-size:1rem;
+  font-weight:600;
+  cursor:pointer;
+  margin-top:10px;
+}
+.btn-secondary:active{background:#f2f4f7}
+
 .btn-back{
   background:none;border:none;color:var(--brand);
   font-size:0.95rem;font-weight:600;cursor:pointer;padding:6px 0;

@@ -189,8 +189,12 @@
 
   function startQuiz() {
     var mode = document.querySelector('input[name="mode"]:checked').value;
+    runQuiz(buildQuizQuestions(), mode);
+  }
+
+  function runQuiz(questionList, mode) {
     quiz = {
-      questions: buildQuizQuestions(),
+      questions: shuffle(questionList),
       index: 0,
       mode: mode,
       answers: []
@@ -267,6 +271,12 @@
       results: quiz.answers
     });
 
+    // Câu hỏi (đối tượng đầy đủ) mà học sinh vừa làm sai, để có thể "Làm lại những câu sai"
+    var wrongIdSet = {};
+    quiz.answers.forEach(function (a) { if (!a.correct) wrongIdSet[a.id] = true; });
+    var wrongQuestionObjs = quiz.questions.filter(function (q) { return wrongIdSet[q.id]; });
+    var quizModeForRetry = quiz.mode;
+
     show("#screen-result");
     var pct = Math.round((correctCount / quiz.answers.length) * 100);
     $("#result-score").innerHTML = correctCount + " / " + quiz.answers.length +
@@ -279,6 +289,15 @@
       d.title = "Câu " + (i + 1);
       grid.appendChild(d);
     });
+
+    var retryBtn = $("#btn-retry-wrong");
+    if (wrongQuestionObjs.length > 0) {
+      retryBtn.classList.remove("hidden");
+      retryBtn.textContent = "Làm lại " + wrongQuestionObjs.length + " câu sai";
+      retryBtn.onclick = function () { runQuiz(wrongQuestionObjs, quizModeForRetry); };
+    } else {
+      retryBtn.classList.add("hidden");
+    }
 
     var resultStatsBox = $("#result-stats");
     resultStatsBox.classList.remove("hidden");
