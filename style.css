@@ -19,8 +19,63 @@ body{
   background:var(--bg);
   color:var(--ink);
 }
-#app{max-width:640px;margin:0 auto;padding:16px 16px 40px}
 .hidden{display:none !important}
+
+.layout{
+  max-width:1180px;
+  margin:0 auto;
+  padding:16px 16px 40px;
+  display:flex;
+  flex-direction:column;
+  gap:22px;
+}
+#app{max-width:640px;width:100%;margin:0 auto;padding:0}
+
+.side-panel{
+  background:var(--card);
+  border:1px solid var(--border);
+  border-radius:var(--radius);
+  padding:20px 22px;
+  box-shadow:0 1px 3px rgba(20,30,50,0.04);
+  width:100%;
+}
+.panel-title{font-size:1.05rem;margin:0 0 4px;font-weight:700}
+.panel-sub{font-size:0.8rem;color:var(--muted);margin:0 0 14px;line-height:1.4}
+.panel-empty{font-size:0.85rem;color:var(--muted);margin:0}
+
+@media (min-width:980px){
+  .layout{flex-direction:row;align-items:flex-start;gap:26px}
+  #app{flex:1 1 640px;margin:0}
+  #panel-teacher{flex:0 0 260px;order:-1;position:sticky;top:16px}
+  #panel-leaderboard{flex:0 0 280px;order:1;position:sticky;top:16px}
+}
+
+/* ---- Bảng xếp hạng ---- */
+.leaderboard-list{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:6px}
+.lb-item{display:flex;align-items:center;gap:10px;padding:8px 10px;border-radius:10px;background:#f7f9fc}
+.lb-item.me{background:#eef3ff;border:1px solid var(--brand)}
+.lb-rank{flex:0 0 24px;text-align:center;font-weight:700;color:var(--muted);font-size:0.95rem}
+.lb-name{flex:1;min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;font-weight:600;color:var(--ink);font-size:0.9rem}
+.lb-score{flex:0 0 auto;font-weight:700;color:var(--brand);font-size:0.9rem}
+
+/* ---- Thông tin người dạy ---- */
+.teacher-name{font-size:1.08rem;font-weight:700;margin-bottom:2px}
+.teacher-role{font-size:0.82rem;color:var(--muted);margin-bottom:14px}
+.teacher-bio{margin:0 0 14px;padding-left:1.15em;display:flex;flex-direction:column;gap:6px;font-size:0.87rem;line-height:1.5;color:var(--ink)}
+.teacher-fun{display:flex;flex-direction:column;gap:8px;font-size:0.85rem;margin-bottom:14px;color:var(--ink);line-height:1.5}
+.teacher-fun a{color:var(--brand);font-weight:600}
+.teacher-quote{
+  margin:0 0 14px;padding:12px 14px;
+  background:#f7f9fc;border-left:3px solid var(--brand);border-radius:8px;
+  font-size:0.82rem;font-style:italic;color:var(--muted);line-height:1.55;
+}
+.teacher-contact{
+  font-size:0.88rem;padding-top:12px;border-top:1px solid var(--border);
+  display:flex;align-items:center;gap:8px;flex-wrap:wrap;
+}
+.teacher-contact a{color:var(--brand);font-weight:700;text-decoration:none}
+.teacher-contact a:active{text-decoration:underline}
+.teacher-contact-note{color:var(--muted);font-size:0.8rem;width:100%}
 
 .topbar{display:flex;align-items:center;justify-content:space-between;padding:10px 2px 16px;gap:10px}
 .topbar h1{font-size:1.3rem;margin:0}

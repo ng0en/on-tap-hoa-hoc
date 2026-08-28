@@ -11,6 +11,7 @@
   var selectedCount = null;
 
   var quiz = null; // {questions, index, mode, answers:[{id,correct}]}
+  var lastLeaderboardData = null; // cache dữ liệu bảng xếp hạng gần nhất, để tô đậm tên của em khi gõ tên
 
   // ---------- Helpers ----------
   function $(sel) { return document.querySelector(sel); }
@@ -31,6 +32,11 @@
   function show(id) {
     document.querySelectorAll(".screen").forEach(function (s) { s.classList.add("hidden"); });
     $(id).classList.remove("hidden");
+  }
+  function escapeHtml(s) {
+    return String(s == null ? "" : s).replace(/[&<>"']/g, function (c) {
+      return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c];
+    });
   }
   function apiGet(params) {
     if (!API_URL) return Promise.resolve(null);
@@ -292,6 +298,50 @@
     });
   }
 
+  // ---------- Bảng xếp hạng ----------
+  function refreshLeaderboard() {
+    if (!API_URL) {
+      $("#leaderboard-list").innerHTML = "";
+      $("#leaderboard-empty").classList.add("hidden");
+      $("#leaderboard-offline").classList.remove("hidden");
+      return;
+    }
+    $("#leaderboard-offline").classList.add("hidden");
+    apiGet({ action: "leaderboard" }).then(function (res) {
+      lastLeaderboardData = res && res.leaderboard;
+      renderLeaderboard(lastLeaderboardData);
+    });
+  }
+  function renderLeaderboard(list) {
+    var listEl = $("#leaderboard-list");
+    var emptyEl = $("#leaderboard-empty");
+    if (!API_URL) return; // #leaderboard-offline đã tự hiển thị trong refreshLeaderboard()
+    if (!list || !list.length) {
+      listEl.innerHTML = "";
+      emptyEl.classList.remove("hidden");
+      return;
+    }
+    emptyEl.classList.add("hidden");
+    var myKey = $("#inp-name").value.trim().toLowerCase();
+    var medals = ["🥇", "🥈", "🥉"];
+    listEl.innerHTML = "";
+    list.forEach(function (item, i) {
+      var isMe = myKey && String(item.name || "").trim().toLowerCase() === myKey;
+      var li = el("li", "lb-item" + (isMe ? " me" : ""));
+      li.innerHTML =
+        '<span class="lb-rank">' + (medals[i] || (i + 1)) + '</span>' +
+        '<span class="lb-name">' + escapeHtml(item.name) + '</span>' +
+        '<span class="lb-score">' + item.score + '%</span>';
+      listEl.appendChild(li);
+    });
+  }
+  function startLeaderboardPolling() {
+    refreshLeaderboard();
+    setInterval(function () {
+      if (document.visibilityState === "visible") refreshLeaderboard();
+    }, 20000);
+  }
+
   function nextQuestion() {
     quiz.answered = false;
     if (quiz.index < quiz.questions.length - 1) {
@@ -313,6 +363,8 @@
       chapter: chap,
       mode: quiz.mode,
       results: quiz.answers
+    }).then(function () {
+      refreshLeaderboard(); // "ngay khi có sự thay đổi" cho chính học sinh vừa nộp bài
     });
 
     // Câu hỏi (đối tượng đầy đủ) mà học sinh vừa làm sai, để có thể "Làm lại những câu sai"
@@ -362,6 +414,8 @@
 
   // ---------- Init ----------
   function init() {
+    startLeaderboardPolling();
+
     fetch("data/manifest.json").then(function (r) { return r.json(); }).then(function (m) {
       manifest = m;
       populateGrades();
@@ -391,6 +445,7 @@
       $("#inp-name").addEventListener("input", function () {
         localStorage.setItem("hs_ten", $("#inp-name").value.trim());
         validateStart();
+        renderLeaderboard(lastLeaderboardData); // chỉ để cập nhật highlight "của em", không gọi lại API
       });
       $("#inp-name").addEventListener("change", refreshStats);
       $("#inp-name").addEventListener("blur", refreshStats);

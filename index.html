@@ -7,6 +7,8 @@
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
+<div class="layout">
+
 <div id="app">
 
   <!-- MÀN HÌNH 1: CHỌN CHƯƠNG -->
@@ -102,6 +104,39 @@
       <button id="btn-restart" class="btn-secondary">Làm lại / Chọn chương khác</button>
     </div>
   </section>
+
+</div>
+
+  <aside id="panel-leaderboard" class="side-panel">
+    <h2 class="panel-title">🏆 Bảng xếp hạng</h2>
+    <p class="panel-sub">Top 10 · điểm = trung bình % làm đúng của 5 lần gần nhất</p>
+    <ol id="leaderboard-list" class="leaderboard-list"></ol>
+    <p id="leaderboard-empty" class="panel-empty hidden">Chưa có dữ liệu xếp hạng.</p>
+    <p id="leaderboard-offline" class="panel-empty hidden">Bảng xếp hạng cần kết nối backend.</p>
+  </aside>
+
+  <aside id="panel-teacher" class="side-panel">
+    <div class="teacher-name">Nguyễn Bình Nguyên</div>
+    <div class="teacher-role">Người dạy</div>
+    <ul class="teacher-bio">
+      <li>Cựu học sinh THPT Nguyễn Thượng Hiền</li>
+      <li>Tốt nghiệp Cử nhân Đại học Sư phạm TPHCM</li>
+      <li>Thạc sĩ Đại học Bách khoa TPHCM</li>
+      <li>Tiến sĩ Đại học Soongsil (Hàn Quốc)</li>
+      <li>Hiện là giảng viên Khoa Hóa học, Đại học Sư phạm TPHCM</li>
+      <li>Giáo viên các trung tâm bồi dưỡng văn hóa nổi tiếng trong TPHCM, dạy hóa học lớp 10, 11, 12 và chương trình chuyên THPT</li>
+    </ul>
+    <div class="teacher-fun">
+      <p>⚽ Fan Arsenal, rất thích phản ứng hòa tan kết tủa CaCO3 bằng CO2 và H2O để tạo hang động ^^.</p>
+      <p>😄 Không có thích món "canh chua chiên giòn": <a href="https://vnexpress.net/ky-thi-cuoi-cung-4763321.html" target="_blank" rel="noopener">đọc thêm</a>.</p>
+    </div>
+    <blockquote class="teacher-quote">Giáo dục truyền thống xem người học như những chiếc bình rỗng đang đợi chờ đong đầy lý thuyết. Với giáo dục hiện đại, thay vì đổ liên tục, hãy chưng cất và chắt lọc tri thức tinh túy từ trải nghiệm, quan sát và phản tư. Khi ấy, người giáo viên không còn là người rót nước, mà trở thành chất xúc tác — kích hoạt, khơi gợi và định hướng dòng chảy tri thức cho mỗi người học.</blockquote>
+    <div class="teacher-contact">
+      <span>Liên hệ Zalo:</span>
+      <a href="https://zalo.me/0708681192" target="_blank" rel="noopener">0708 681 192</a>
+      <span class="teacher-contact-note">(trao đổi chuyên môn / đăng ký học)</span>
+    </div>
+  </aside>
 
 </div>
 <script src="config.js"></script>
