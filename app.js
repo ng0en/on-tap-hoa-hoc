@@ -301,21 +301,28 @@
   // ---------- Bảng xếp hạng ----------
   function refreshLeaderboard() {
     if (!API_URL) {
-      $("#leaderboard-list").innerHTML = "";
-      $("#leaderboard-empty").classList.add("hidden");
+      renderLeaderboardList("#leaderboard-list", "#leaderboard-empty", null, "score");
+      renderLeaderboardList("#leaderboard-active-list", "#leaderboard-active-empty", null, "count");
       $("#leaderboard-offline").classList.remove("hidden");
+      $("#leaderboard-active-offline").classList.remove("hidden");
       return;
     }
     $("#leaderboard-offline").classList.add("hidden");
+    $("#leaderboard-active-offline").classList.add("hidden");
     apiGet({ action: "leaderboard" }).then(function (res) {
-      lastLeaderboardData = res && res.leaderboard;
+      lastLeaderboardData = res || null;
       renderLeaderboard(lastLeaderboardData);
     });
   }
-  function renderLeaderboard(list) {
-    var listEl = $("#leaderboard-list");
-    var emptyEl = $("#leaderboard-empty");
-    if (!API_URL) return; // #leaderboard-offline đã tự hiển thị trong refreshLeaderboard()
+  // Chỉ vẽ lại giao diện từ dữ liệu đã có (dùng khi gõ tên, để tô đậm "của em" mà không gọi lại API)
+  function renderLeaderboard(res) {
+    renderLeaderboardList("#leaderboard-list", "#leaderboard-empty", res && res.leaderboard, "score");
+    renderLeaderboardList("#leaderboard-active-list", "#leaderboard-active-empty", res && res.mostActive, "count");
+  }
+  function renderLeaderboardList(listSel, emptySel, list, kind) {
+    var listEl = $(listSel);
+    var emptyEl = $(emptySel);
+    if (!API_URL) return; // ô "offline" tương ứng đã tự hiển thị trong refreshLeaderboard()
     if (!list || !list.length) {
       listEl.innerHTML = "";
       emptyEl.classList.remove("hidden");
@@ -328,10 +335,13 @@
     list.forEach(function (item, i) {
       var isMe = myKey && String(item.name || "").trim().toLowerCase() === myKey;
       var li = el("li", "lb-item" + (isMe ? " me" : ""));
+      var scoreHtml = kind === "count"
+        ? item.totalDone + " câu"
+        : item.score + "%";
       li.innerHTML =
         '<span class="lb-rank">' + (medals[i] || (i + 1)) + '</span>' +
         '<span class="lb-name">' + escapeHtml(item.name) + '</span>' +
-        '<span class="lb-score">' + item.score + '%</span>';
+        '<span class="lb-score">' + scoreHtml + '</span>';
       listEl.appendChild(li);
     });
   }

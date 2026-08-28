@@ -39,6 +39,7 @@ body{
   box-shadow:0 1px 3px rgba(20,30,50,0.04);
   width:100%;
 }
+.side-col{display:flex;flex-direction:column;gap:22px;width:100%}
 .panel-title{font-size:1.05rem;margin:0 0 4px;font-weight:700}
 .panel-sub{font-size:0.8rem;color:var(--muted);margin:0 0 14px;line-height:1.4}
 .panel-empty{font-size:0.85rem;color:var(--muted);margin:0}
@@ -47,7 +48,7 @@ body{
   .layout{flex-direction:row;align-items:flex-start;gap:26px}
   #app{flex:1 1 640px;margin:0}
   #panel-teacher{flex:0 0 260px;order:-1;position:sticky;top:16px}
-  #panel-leaderboard{flex:0 0 280px;order:1;position:sticky;top:16px}
+  #col-leaderboard{flex:0 0 280px;order:1;position:sticky;top:16px}
 }
 
 /* ---- Bảng xếp hạng ---- */
