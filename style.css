@@ -158,6 +158,32 @@ input[type="text"]:focus, select:focus{outline:2px solid var(--brand);outline-of
 .q-feedback.correct{color:var(--green)}
 .q-feedback.wrong{color:var(--red)}
 
+.report-row{margin-top:16px;padding-top:12px;border-top:1px dashed var(--border);display:flex;align-items:center;gap:12px;flex-wrap:wrap}
+.btn-report-toggle{
+  background:none;border:none;color:var(--muted);
+  font-size:0.85rem;cursor:pointer;padding:2px 0;
+  text-decoration:underline;text-underline-offset:2px;
+}
+.btn-report-toggle:active{color:var(--red)}
+.report-sent-msg{font-size:0.85rem;color:var(--green);font-weight:600}
+
+.report-panel{margin-top:10px}
+.report-panel textarea{
+  width:100%;border:1px solid var(--border);border-radius:10px;
+  padding:10px 12px;font-size:0.92rem;font-family:inherit;
+  resize:vertical;color:var(--ink);background:#fff;
+}
+.report-panel textarea:focus{outline:2px solid var(--brand);outline-offset:1px}
+.report-actions{display:flex;gap:8px;margin-top:8px;justify-content:flex-end}
+.btn-mini{
+  padding:8px 14px;border-radius:8px;font-size:0.88rem;font-weight:600;
+  cursor:pointer;border:1px solid var(--border);
+}
+.btn-mini-secondary{background:#fff;color:var(--ink)}
+.btn-mini-primary{background:var(--red);border-color:var(--red);color:#fff}
+.btn-mini-primary:active{background:#b91c1c}
+.btn-mini:disabled{opacity:0.6;cursor:not-allowed}
+
 .result-score{font-size:2rem;font-weight:800;text-align:center;margin-bottom:6px}
 .result-score .sub{display:block;font-size:0.95rem;font-weight:500;color:var(--muted);margin-top:4px}
 

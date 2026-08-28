@@ -72,6 +72,18 @@
       <div id="q-stem" class="q-stem"></div>
       <div id="q-options" class="q-options"></div>
       <div id="q-feedback" class="q-feedback hidden"></div>
+
+      <div class="report-row">
+        <button id="btn-report" type="button" class="btn-report-toggle">⚠️ Báo lỗi câu này</button>
+        <span id="report-sent-msg" class="report-sent-msg hidden">Đã gửi, cảm ơn em!</span>
+      </div>
+      <div id="report-panel" class="report-panel hidden">
+        <textarea id="report-note" rows="2" placeholder="Mô tả lỗi (không bắt buộc): sai đáp án, đề thiếu dữ kiện, lỗi chính tả..."></textarea>
+        <div class="report-actions">
+          <button id="btn-report-cancel" type="button" class="btn-mini btn-mini-secondary">Hủy</button>
+          <button id="btn-report-send" type="button" class="btn-mini btn-mini-primary">Gửi báo lỗi</button>
+        </div>
+      </div>
     </div>
 
     <button id="btn-next" class="btn-primary" disabled>Câu tiếp theo</button>

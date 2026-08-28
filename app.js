@@ -213,6 +213,7 @@
     $("#q-feedback").className = "q-feedback hidden";
     $("#btn-next").disabled = true;
     $("#btn-next").textContent = (quiz.index === quiz.questions.length - 1) ? "Nộp bài" : "Câu tiếp theo";
+    resetReportUI();
 
     ["A", "B", "C", "D"].forEach(function (letter) {
       var b = el("button", "opt-btn");
@@ -246,6 +247,49 @@
       btnEl.classList.add("selected");
     }
     $("#btn-next").disabled = false;
+  }
+
+  // ---------- Báo lỗi câu hỏi ----------
+  function resetReportUI() {
+    $("#report-panel").classList.add("hidden");
+    $("#report-note").value = "";
+    $("#report-sent-msg").classList.add("hidden");
+    var btn = $("#btn-report-send");
+    btn.disabled = false;
+    btn.textContent = "Gửi báo lỗi";
+    $("#btn-report").classList.remove("hidden");
+  }
+  function toggleReportPanel() {
+    var panel = $("#report-panel");
+    panel.classList.toggle("hidden");
+    if (!panel.classList.contains("hidden")) $("#report-note").focus();
+  }
+  function hideReportPanel() {
+    $("#report-panel").classList.add("hidden");
+    $("#report-note").value = "";
+  }
+  function sendReport() {
+    var q = quiz.questions[quiz.index];
+    var name = $("#inp-name").value.trim();
+    var chap = currentChapterId();
+    var note = $("#report-note").value.trim();
+    var btn = $("#btn-report-send");
+    btn.disabled = true;
+    btn.textContent = "Đang gửi...";
+    apiPost({
+      action: "reportError",
+      name: name,
+      chapter: chap,
+      questionId: q.id,
+      stem: q.stem,
+      note: note
+    }).then(function () {
+      hideReportPanel();
+      btn.disabled = false;
+      btn.textContent = "Gửi báo lỗi";
+      $("#btn-report").classList.add("hidden");
+      $("#report-sent-msg").classList.remove("hidden");
+    });
   }
 
   function nextQuestion() {
@@ -359,6 +403,9 @@
 
     $("#btn-start").addEventListener("click", startQuiz);
     $("#btn-next").addEventListener("click", nextQuestion);
+    $("#btn-report").addEventListener("click", toggleReportPanel);
+    $("#btn-report-cancel").addEventListener("click", hideReportPanel);
+    $("#btn-report-send").addEventListener("click", sendReport);
     $("#btn-quit").addEventListener("click", function () {
       if (confirm("Thoát làm bài? Kết quả lần này sẽ không được lưu.")) show("#screen-setup");
     });
