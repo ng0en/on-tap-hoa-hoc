@@ -447,7 +447,7 @@
   function startHeartbeat() {
     sendHeartbeat();
     stopHeartbeat();
-    heartbeatTimer = setInterval(sendHeartbeat, 15000);
+    heartbeatTimer = setInterval(sendHeartbeat, 8000);
   }
   function stopHeartbeat() {
     clearInterval(heartbeatTimer);
@@ -492,7 +492,7 @@
     refreshPresence();
     setInterval(function () {
       if (document.visibilityState === "visible") refreshPresence();
-    }, 20000);
+    }, 8000);
   }
 
   function nextQuestion() {
