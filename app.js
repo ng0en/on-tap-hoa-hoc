@@ -15,6 +15,8 @@
   var pinVerified = false;   // tên + mã hiện tại đã được backend xác nhận khớp (hoặc đăng ký mới) chưa
   var pinCheckToken = 0;     // chống việc phản hồi cũ (gõ nhanh) ghi đè kết quả của lần kiểm tra mới hơn
   var pinDebounceTimer = null;
+  var sessionId = "s" + Date.now().toString(36) + Math.random().toString(36).slice(2, 8); // 1 lần mở trang = 1 id
+  var heartbeatTimer = null; // đang "đang luyện tập" -> gửi tín hiệu định kỳ cho backend
 
   // ---------- Helpers ----------
   function $(sel) { return document.querySelector(sel); }
@@ -265,6 +267,7 @@
     };
     show("#screen-quiz");
     renderQuestion();
+    startHeartbeat();
   }
 
   function renderQuestion() {
@@ -431,6 +434,67 @@
     }, 20000);
   }
 
+  // ---------- Đang có bao nhiêu bạn luyện tập (heartbeat) ----------
+  function sendHeartbeat() {
+    if (!API_URL || !quiz) return;
+    apiPost({
+      action: "heartbeat",
+      sessionId: sessionId,
+      name: $("#inp-name").value.trim(),
+      chapter: currentChapterId()
+    });
+  }
+  function startHeartbeat() {
+    sendHeartbeat();
+    stopHeartbeat();
+    heartbeatTimer = setInterval(sendHeartbeat, 15000);
+  }
+  function stopHeartbeat() {
+    clearInterval(heartbeatTimer);
+    heartbeatTimer = null;
+  }
+
+  function chapterDisplayName(chapterId) {
+    if (!manifest) return chapterId;
+    for (var i = 0; i < manifest.grades.length; i++) {
+      var g = manifest.grades[i];
+      for (var j = 0; j < g.chapters.length; j++) {
+        if (g.chapters[j].id === chapterId) return g.name + " – " + g.chapters[j].name;
+      }
+    }
+    return chapterId;
+  }
+
+  function refreshPresence() {
+    if (!API_URL) return;
+    apiGet({ action: "presence" }).then(renderPresence);
+  }
+  function renderPresence(res) {
+    var box = $("#panel-presence");
+    if (!box) return;
+    if (!API_URL || !res || !res.total) {
+      $("#presence-total").textContent = "Hiện chưa có bạn nào đang luyện tập.";
+      $("#presence-list").innerHTML = "";
+      return;
+    }
+    $("#presence-total").innerHTML = "🟢 Đang có <b>" + res.total + "</b> bạn đang luyện tập:";
+    var listEl = $("#presence-list");
+    listEl.innerHTML = "";
+    (res.byChapter || []).forEach(function (item) {
+      var li = el("li", "presence-item");
+      li.innerHTML =
+        '<span class="presence-count">' + item.count + '</span>' +
+        '<span class="presence-chapter">' + escapeHtml(chapterDisplayName(item.chapter)) + '</span>';
+      listEl.appendChild(li);
+    });
+  }
+  function startPresencePolling() {
+    refreshPresence();
+    setInterval(function () {
+      if (document.visibilityState === "visible") refreshPresence();
+    }, 20000);
+  }
+
   function nextQuestion() {
     if (quiz.index < quiz.questions.length - 1) {
       quiz.index++;
@@ -441,6 +505,7 @@
   }
 
   function finishQuiz() {
+    stopHeartbeat();
     var name = $("#inp-name").value.trim();
     var chap = currentChapterId();
     var correctCount = quiz.answers.filter(function (a) { return a.correct; }).length;
@@ -504,6 +569,7 @@
   // ---------- Init ----------
   function init() {
     startLeaderboardPolling();
+    startPresencePolling();
 
     fetch("data/manifest.json").then(function (r) { return r.json(); }).then(function (m) {
       manifest = m;
@@ -564,7 +630,10 @@
     $("#btn-report-cancel").addEventListener("click", hideReportPanel);
     $("#btn-report-send").addEventListener("click", sendReport);
     $("#btn-quit").addEventListener("click", function () {
-      if (confirm("Thoát làm bài? Kết quả lần này sẽ không được lưu.")) show("#screen-setup");
+      if (confirm("Thoát làm bài? Kết quả lần này sẽ không được lưu.")) {
+        stopHeartbeat();
+        show("#screen-setup");
+      }
     });
     $("#btn-restart").addEventListener("click", function () {
       show("#screen-setup");
