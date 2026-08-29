@@ -18,6 +18,22 @@
   var lastChapterProgressData = null; // {chapters:[{chapter,uniqueDone,wrongCount}]} - cache để vẽ lại khi đổi Lớp mà không cần gọi API lại
   var streakCelebratedThisVisit = false; // tránh hiện lại banner chúc mừng nhiều lần trong cùng 1 lượt ghé trang
 
+  // ---------- Chế độ Đối đầu 1vs1 ----------
+  var DUEL_QUESTION_COUNT = 10;
+  var DUEL_WAIT_SECONDS = 60;
+  var DUEL_TIME_LIMIT_SECONDS = 300;
+  var appMode = "solo";          // "solo" | "duel" — tab đang chọn ở màn hình chính
+  var duelMatchId = null;
+  var duelOpponentName = null;
+  var duelWaitDeadlineMs = null; // mốc hết hạn phòng chờ (60s) — để vẽ đồng hồ đếm ngược
+  var duelWaitTickTimer = null;  // interval vẽ lại đồng hồ đếm ngược phòng chờ mỗi giây
+  var duelWaitPollTimer = null;  // interval hỏi lại server xem đã có ai ghép chưa
+  var duelPickPollTimer = null;  // interval làm mới danh sách "chọn đối thủ"
+  var duelQuizStartMs = null;    // mốc server ghi nhận trận đấu bắt đầu (dùng tính "làm mất bao lâu")
+  var duelQuizTickTimer = null;  // interval vẽ lại đồng hồ đếm ngược 5 phút trong lúc làm bài
+  var duelResultPollTimer = null; // interval hỏi lại xem đối thủ đã nộp bài chưa
+  var lastDuelLeaderboardData = null;
+
   // ---------- Helpers ----------
   function $(sel) { return document.querySelector(sel); }
   function el(tag, cls, html) {
@@ -131,6 +147,35 @@
     }
     if (box.firstChild) box.firstChild.classList.add("selected");
     validateStart();
+  }
+
+  // ---------- Chuyển đổi Tự luyện tập / Đối đầu 1vs1 ----------
+  function setAppMode(mode) {
+    appMode = mode;
+    $("#tab-mode-solo").classList.toggle("selected", mode === "solo");
+    $("#tab-mode-duel").classList.toggle("selected", mode === "duel");
+    $("#solo-panel").classList.toggle("hidden", mode !== "solo");
+    $("#duel-panel").classList.toggle("hidden", mode !== "duel");
+    $("#duel-msg").textContent = "";
+    refreshDuelControls();
+  }
+
+  // Bật/tắt 2 nút "Thách thức" / "Đồng ý thử thách" tuỳ đã xác minh tên+mã và chương đủ ít nhất 10 câu chưa.
+  function refreshDuelControls() {
+    var btnChallenge = $("#btn-challenge");
+    var btnAccept = $("#btn-accept-challenge");
+    if (!btnChallenge || !btnAccept) return;
+    var name = $("#inp-name").value.trim();
+    var readyBase = !!API_URL && !!name && pinVerified && !!currentChapterId();
+    var poolSize = staticQuestions.length + extraQuestions.length;
+    btnChallenge.disabled = !readyBase || poolSize < DUEL_QUESTION_COUNT;
+    btnAccept.disabled = !readyBase;
+    var msgEl = $("#duel-msg");
+    if (msgEl && readyBase && poolSize < DUEL_QUESTION_COUNT) {
+      msgEl.textContent = "Chương này chưa đủ " + DUEL_QUESTION_COUNT + " câu để đấu, hãy chọn chương khác.";
+    } else if (msgEl && msgEl.textContent.indexOf("chưa đủ") !== -1) {
+      msgEl.textContent = "";
+    }
   }
 
   function renderStats() {
@@ -357,6 +402,7 @@
         msgEl.className = "msg pin-err";
       }
       validateStart();
+      refreshDuelControls();
     });
   }
 
@@ -371,6 +417,7 @@
     apiGet({ action: "extra", chapter: chap }).then(function (res) {
       extraQuestions = (res && res.questions) || [];
       refreshCountOptions();
+      refreshDuelControls();
     });
   }
 
@@ -429,6 +476,7 @@
     $("#q-feedback").className = "q-feedback hidden";
     quiz.answered = false;
     quiz.selectedLetter = null;
+    $("#btn-next").classList.remove("hidden"); // phòng trường hợp trước đó vừa ở chế độ Đối đầu (nút này bị ẩn đi)
     $("#btn-next").disabled = true;
     $("#btn-next").textContent = "Gửi đáp án";
     resetReportUI();
@@ -566,8 +614,8 @@
     list.forEach(function (item, i) {
       var isMe = myKey && String(item.name || "").trim().toLowerCase() === myKey;
       var li = el("li", "lb-item" + (isMe ? " me" : ""));
-      var scoreHtml = kind === "count"
-        ? item.totalDone + " câu"
+      var scoreHtml = kind === "count" ? item.totalDone + " câu"
+        : kind === "duel" ? item.wins + " thắng"
         : item.score + "%";
       li.innerHTML =
         '<span class="lb-rank">' + (medals[i] || (i + 1)) + '</span>' +
@@ -578,8 +626,9 @@
   }
   function startLeaderboardPolling() {
     refreshLeaderboard();
+    refreshDuelLeaderboard();
     setInterval(function () {
-      if (document.visibilityState === "visible") refreshLeaderboard();
+      if (document.visibilityState === "visible") { refreshLeaderboard(); refreshDuelLeaderboard(); }
     }, 20000);
   }
 
@@ -665,6 +714,339 @@
 
   }
 
+  // ---------- Chế độ Đối đầu 1vs1: tiện ích chung ----------
+  function formatMMSS(totalSeconds) {
+    var s = Math.max(0, Math.round(totalSeconds));
+    var m = Math.floor(s / 60);
+    var ss = s % 60;
+    return m + ":" + (ss < 10 ? "0" : "") + ss;
+  }
+  // Đổi 1 chuỗi "yyyy-MM-dd HH:mm:ss" (giờ Việt Nam, do server trả về) thành mốc UTC tuyệt đối (ms) —
+  // tương tự parseVNDateTimeMs_ ở backend, cần cho đồng hồ đếm ngược 5 phút dùng chung mốc với server.
+  function parseVNDateTimeMsClient(s) {
+    var m = String(s || "").match(/^(\d{4})-(\d{2})-(\d{2})[ T](\d{2}):(\d{2}):(\d{2})/);
+    if (!m) return Date.now();
+    return Date.UTC(+m[1], +m[2] - 1, +m[3], +m[4], +m[5], +m[6]) - 7 * 60 * 60 * 1000;
+  }
+  function buildDuelQuestionIds() {
+    var pool = shuffle(staticQuestions.concat(extraQuestions));
+    return pool.slice(0, DUEL_QUESTION_COUNT).map(function (q) { return q.id; });
+  }
+  function clearDuelTimers() {
+    clearInterval(duelWaitTickTimer); duelWaitTickTimer = null;
+    clearInterval(duelWaitPollTimer); duelWaitPollTimer = null;
+    clearInterval(duelPickPollTimer); duelPickPollTimer = null;
+    clearInterval(duelQuizTickTimer); duelQuizTickTimer = null;
+    clearInterval(duelResultPollTimer); duelResultPollTimer = null;
+  }
+
+  // ---------- Đối đầu: bước 1 (người thách đấu) — tạo lời thách + phòng chờ 60s ----------
+  function startChallenge() {
+    var name = $("#inp-name").value.trim();
+    var pin = currentPin();
+    var chapObj = currentChapterObj();
+    if (!name || !pinVerified || !chapObj) return;
+    if (staticQuestions.length + extraQuestions.length < DUEL_QUESTION_COUNT) return;
+    var questionIds = buildDuelQuestionIds();
+    $("#btn-challenge").disabled = true;
+    $("#duel-msg").textContent = "Đang tạo lời thách đấu...";
+    apiPost({
+      action: "createChallenge", name: name, pin: pin,
+      chapter: chapObj.id, chapterName: chapObj.name, questionIds: questionIds
+    }).then(function (res) {
+      $("#btn-challenge").disabled = false;
+      if (!res || !res.ok) {
+        $("#duel-msg").textContent = "Không tạo được lời thách đấu, thử lại nhé.";
+        return;
+      }
+      $("#duel-msg").textContent = "";
+      duelMatchId = res.matchId;
+      openDuelWaitScreen(chapObj.name);
+    });
+  }
+
+  function openDuelWaitScreen(chapterName) {
+    clearDuelTimers();
+    $("#duel-wait-chapter").textContent = chapterName || "";
+    duelWaitDeadlineMs = Date.now() + DUEL_WAIT_SECONDS * 1000;
+    updateDuelWaitTimerDisplay();
+    show("#screen-duel-wait");
+    duelWaitTickTimer = setInterval(updateDuelWaitTimerDisplay, 1000);
+    duelWaitPollTimer = setInterval(pollChallengeStatus, 2000);
+    pollChallengeStatus();
+  }
+  function updateDuelWaitTimerDisplay() {
+    var remain = Math.max(0, Math.round((duelWaitDeadlineMs - Date.now()) / 1000));
+    var el2 = $("#duel-wait-timer");
+    if (el2) el2.textContent = String(remain);
+  }
+  function pollChallengeStatus() {
+    if (!duelMatchId) return;
+    apiGet({ action: "challengeStatus", matchId: duelMatchId, name: $("#inp-name").value.trim(), pin: currentPin() })
+      .then(function (res) {
+        if (!res || !duelMatchId) return; // đã hủy/thoát trong lúc chờ phản hồi
+        if (res.status === "matched") {
+          clearDuelTimers();
+          enterDuelQuiz(res.chapter, res.chapterName, res.questionIds, res.opponent, res.startTime);
+        } else if (res.status === "expired" || res.status === "not_found") {
+          clearDuelTimers();
+          duelMatchId = null;
+          show("#screen-setup");
+          $("#duel-msg").textContent = "Không có ai nhận thử thách trong 1 phút, thử lại nhé!";
+        }
+      });
+  }
+  function cancelDuelWait() {
+    var mid = duelMatchId;
+    clearDuelTimers();
+    duelMatchId = null;
+    show("#screen-setup");
+    if (mid) apiPost({ action: "cancelChallenge", matchId: mid, name: $("#inp-name").value.trim(), pin: currentPin() });
+  }
+
+  // ---------- Đối đầu: bước 1 (người đồng ý thử thách) — chọn 1 lời thách đang chờ để vào đấu ----------
+  function openAcceptChallengeScreen() {
+    clearDuelTimers();
+    $("#duel-pick-msg").textContent = "";
+    show("#screen-duel-pick");
+    refreshChallengeList();
+    duelPickPollTimer = setInterval(refreshChallengeList, 3000);
+  }
+  function refreshChallengeList() {
+    apiGet({ action: "listChallenges", name: $("#inp-name").value.trim(), pin: currentPin() }).then(function (res) {
+      var listEl = $("#duel-pick-list");
+      var emptyEl = $("#duel-pick-empty");
+      var challenges = (res && res.challenges) || [];
+      if (!challenges.length) { listEl.innerHTML = ""; emptyEl.classList.remove("hidden"); return; }
+      emptyEl.classList.add("hidden");
+      listEl.innerHTML = "";
+      challenges.forEach(function (c) {
+        var li = el("li", "duel-pick-item");
+        var info = el("div", "duel-pick-info");
+        info.innerHTML =
+          '<div class="duel-pick-name">' + escapeHtml(c.challenger) + '</div>' +
+          '<div class="duel-pick-chapter">' + escapeHtml(c.chapterName || c.chapter) + '</div>' +
+          '<div class="duel-pick-timer">còn ' + c.secondsLeft + 's</div>';
+        var btn = el("button", "btn-duel-join", "Vào đấu");
+        btn.type = "button";
+        btn.addEventListener("click", function () { acceptChallengeClick(c.matchId, btn); });
+        li.appendChild(info);
+        li.appendChild(btn);
+        listEl.appendChild(li);
+      });
+    });
+  }
+  function acceptChallengeClick(matchId, btnEl) {
+    btnEl.disabled = true;
+    apiPost({ action: "acceptChallenge", matchId: matchId, name: $("#inp-name").value.trim(), pin: currentPin() })
+      .then(function (res) {
+        if (!res || !res.ok) {
+          $("#duel-pick-msg").textContent = (res && res.error === "already_taken")
+            ? "Bạn khác vừa nhận lời thách này rồi, chọn người khác nhé."
+            : "Không vào được trận này (có thể đã hết hạn), thử lại nhé.";
+          refreshChallengeList();
+          if (btnEl) btnEl.disabled = false;
+          return;
+        }
+        $("#duel-pick-msg").textContent = "";
+        clearDuelTimers();
+        duelMatchId = matchId;
+        enterDuelQuiz(res.chapter, res.chapterName, res.questionIds, res.opponent, res.startTime);
+      });
+  }
+
+  // ---------- Đối đầu: bước 2 — cả 2 học sinh vào làm bài (10 câu, tối đa 5 phút) ----------
+  function enterDuelQuiz(chapter, chapterName, questionIds, opponent, startTimeStr) {
+    duelOpponentName = opponent;
+    duelQuizStartMs = parseVNDateTimeMsClient(startTimeStr);
+    Promise.all([
+      loadStaticQuestions(chapter).catch(function () { return []; }),
+      apiGet({ action: "extra", chapter: chapter })
+    ]).then(function (results) {
+      var staticQs = results[0] || [];
+      var extraRes = results[1];
+      var pool = staticQs.concat((extraRes && extraRes.questions) || []);
+      var byId = {};
+      pool.forEach(function (q) { byId[q.id] = q; });
+      var duelQuestions = questionIds.map(function (id) { return byId[id]; }).filter(Boolean);
+      runDuelQuiz(duelQuestions, chapter, chapterName);
+    });
+  }
+
+  function runDuelQuiz(questions, chapter, chapterName) {
+    if (!questions.length) {
+      show("#screen-setup");
+      $("#duel-msg").textContent = "Không tải được câu hỏi cho trận này, thử thách đấu lại nhé.";
+      return;
+    }
+    quiz = {
+      questions: shuffle(questions),
+      index: 0,
+      isDuel: true,
+      chapter: chapter,
+      chapterName: chapterName,
+      answers: [],
+      locked: false,
+      finished: false
+    };
+    show("#screen-quiz");
+    $("#duel-timer-box").classList.remove("hidden");
+    updateDuelQuizTimerDisplay();
+    duelQuizTickTimer = setInterval(updateDuelQuizTimerDisplay, 500);
+    renderDuelQuestion();
+  }
+
+  function updateDuelQuizTimerDisplay() {
+    var remain = DUEL_TIME_LIMIT_SECONDS - Math.round((Date.now() - duelQuizStartMs) / 1000);
+    var box = $("#duel-timer-box");
+    var txt = $("#duel-timer-text");
+    if (txt) txt.textContent = formatMMSS(Math.max(0, remain));
+    if (box) box.classList.toggle("urgent", remain <= 30);
+    if (remain <= 0 && quiz && quiz.isDuel && !quiz.finished) {
+      clearInterval(duelQuizTickTimer); duelQuizTickTimer = null;
+      finishDuelQuiz();
+    }
+  }
+
+  function renderDuelQuestion() {
+    var q = quiz.questions[quiz.index];
+    $("#quiz-progress").textContent = "⚔️ Câu " + (quiz.index + 1) + "/" + quiz.questions.length;
+    $("#progress-bar").style.width = Math.round((quiz.index / quiz.questions.length) * 100) + "%";
+    $("#q-stem").innerHTML = q.stem;
+    var optsBox = $("#q-options");
+    optsBox.innerHTML = "";
+    $("#q-feedback").className = "q-feedback hidden";
+    $("#btn-report").classList.add("hidden"); // đối đầu: bỏ bớt báo lỗi để tập trung tốc độ, giáo viên vẫn nhận báo lỗi ở chế độ tự luyện
+    $("#btn-next").classList.add("hidden");   // đối đầu: bấm đáp án là qua câu luôn, không cần nút xác nhận riêng
+    quiz.locked = false;
+    ["A", "B", "C", "D"].forEach(function (letter) {
+      var b = el("button", "opt-btn");
+      b.innerHTML = '<span class="opt-label">' + letter + '</span><span>' + q.options[letter] + '</span>';
+      b.addEventListener("click", function () { selectDuelOption(letter, b); });
+      optsBox.appendChild(b);
+    });
+  }
+  function selectDuelOption(letter, btnEl) {
+    if (quiz.locked) return;
+    quiz.locked = true;
+    var q = quiz.questions[quiz.index];
+    var correct = letter === q.answer;
+    quiz.answers.push({ id: q.id, correct: correct });
+    document.querySelectorAll("#q-options .opt-btn").forEach(function (b) { b.disabled = true; });
+    btnEl.classList.add("selected");
+    setTimeout(function () {
+      if (!quiz || !quiz.isDuel || quiz.finished) return; // đã hết giờ / thoát trong lúc chờ
+      if (quiz.index < quiz.questions.length - 1) {
+        quiz.index++;
+        renderDuelQuestion();
+      } else {
+        finishDuelQuiz();
+      }
+    }, 200);
+  }
+
+  // ---------- Đối đầu: bước 3 — nộp kết quả, chờ đối thủ, hiện thắng/thua/hòa ----------
+  function finishDuelQuiz() {
+    if (!quiz || !quiz.isDuel || quiz.finished) return;
+    quiz.finished = true;
+    clearInterval(duelQuizTickTimer); duelQuizTickTimer = null;
+    $("#duel-timer-box").classList.add("hidden");
+    var name = $("#inp-name").value.trim();
+    var elapsedSeconds = Math.min(DUEL_TIME_LIMIT_SECONDS, Math.round((Date.now() - duelQuizStartMs) / 1000));
+    show("#screen-duel-result");
+    renderDuelWaitingState();
+    apiPost({
+      action: "submitChallengeResult", matchId: duelMatchId, name: name, pin: currentPin(),
+      results: quiz.answers, elapsedSeconds: elapsedSeconds
+    }).then(function (res) {
+      if (!res || !res.ok) {
+        $("#duel-waiting-opponent").textContent = "Có lỗi khi nộp kết quả, thử tải lại trang.";
+        $("#duel-waiting-opponent").classList.remove("hidden");
+        return;
+      }
+      renderDuelResult(res);
+      if (res.status !== "xong") {
+        duelResultPollTimer = setInterval(pollDuelResult, 2500);
+      } else {
+        onDuelFinished();
+      }
+    });
+  }
+  function renderDuelWaitingState() {
+    var name = $("#inp-name").value.trim();
+    $("#duel-you-name").textContent = name + " (em)";
+    $("#duel-opp-name").textContent = duelOpponentName || "Đối thủ";
+    $("#duel-you-score").textContent = "…";
+    $("#duel-you-time").textContent = "";
+    $("#duel-opp-score").textContent = "…";
+    $("#duel-opp-time").textContent = "";
+    $("#duel-result-banner").classList.add("hidden");
+    var waitBox = $("#duel-waiting-opponent");
+    waitBox.textContent = "Đang nộp bài...";
+    waitBox.classList.remove("hidden");
+  }
+  function pollDuelResult() {
+    if (!duelMatchId) return;
+    apiGet({ action: "challengeResult", matchId: duelMatchId, name: $("#inp-name").value.trim(), pin: currentPin() })
+      .then(function (res) {
+        if (!res || !res.ok) return;
+        renderDuelResult(res);
+        if (res.status === "xong") {
+          clearInterval(duelResultPollTimer); duelResultPollTimer = null;
+          onDuelFinished();
+        }
+      });
+  }
+  function renderDuelResult(res) {
+    var name = $("#inp-name").value.trim();
+    $("#duel-you-name").textContent = name + " (em)";
+    $("#duel-opp-name").textContent = (res.opponent && res.opponent.name) || duelOpponentName || "Đối thủ";
+    $("#duel-you-score").textContent = res.you.correct == null ? "…" : res.you.correct + "/" + DUEL_QUESTION_COUNT + " đúng";
+    $("#duel-you-time").textContent = res.you.timeSec == null ? "" : "⏱ " + formatMMSS(res.you.timeSec);
+    var banner = $("#duel-result-banner");
+    var waitBox = $("#duel-waiting-opponent");
+    if (res.status !== "xong") {
+      $("#duel-opp-score").textContent = "Đang làm bài...";
+      $("#duel-opp-time").textContent = "";
+      waitBox.textContent = "Đang chờ đối thủ hoàn thành bài làm...";
+      waitBox.classList.remove("hidden");
+      banner.classList.add("hidden");
+      return;
+    }
+    waitBox.classList.add("hidden");
+    $("#duel-opp-score").textContent = (res.opponent.correct == null ? "–" : res.opponent.correct + "/" + DUEL_QUESTION_COUNT + " đúng");
+    $("#duel-opp-time").textContent = res.opponent.timeSec == null ? "" : "⏱ " + formatMMSS(res.opponent.timeSec);
+    banner.classList.remove("hidden");
+    if (res.outcome === "thang") { banner.textContent = "🏆 Em đã THẮNG!"; banner.className = "duel-result-banner win"; }
+    else if (res.outcome === "thua") { banner.textContent = "😅 Em thua lần này, cố lên nhé!"; banner.className = "duel-result-banner lose"; }
+    else { banner.textContent = "🤝 Hòa!"; banner.className = "duel-result-banner draw"; }
+  }
+  function onDuelFinished() {
+    refreshLeaderboard();
+    refreshDuelLeaderboard();
+    refreshProfile(); // trận đấu cũng tính vào chuỗi ngày + tiến độ chương, cập nhật lại cho lần quay về màn hình chính
+  }
+  function exitDuelResult() {
+    clearDuelTimers();
+    duelMatchId = null;
+    duelOpponentName = null;
+    show("#screen-setup");
+  }
+
+  // ---------- Bảng 1vs1 (số trận thắng) ----------
+  function refreshDuelLeaderboard() {
+    if (!API_URL) {
+      renderLeaderboardList("#leaderboard-duel-list", "#leaderboard-duel-empty", null, "duel");
+      $("#leaderboard-duel-offline").classList.remove("hidden");
+      return;
+    }
+    $("#leaderboard-duel-offline").classList.add("hidden");
+    apiGet({ action: "duelLeaderboard" }).then(function (res) {
+      lastDuelLeaderboardData = res || null;
+      renderLeaderboardList("#leaderboard-duel-list", "#leaderboard-duel-empty", res && res.leaderboard, "duel");
+    });
+  }
+
   // ---------- Init ----------
   function init() {
     startLeaderboardPolling();
@@ -705,6 +1087,7 @@
         $("#pin-msg").textContent = "";
         $("#pin-msg").className = "msg";
         validateStart();
+        refreshDuelControls();
         renderLeaderboard(lastLeaderboardData); // chỉ để cập nhật highlight "của em", không gọi lại API
         debouncedMaybeVerifyPin();
       });
@@ -714,6 +1097,7 @@
         localStorage.setItem("hs_pin", digits);
         pinVerified = false;
         validateStart();
+        refreshDuelControls();
         debouncedMaybeVerifyPin();
       });
 
@@ -729,6 +1113,12 @@
     $("#btn-report-cancel").addEventListener("click", hideReportPanel);
     $("#btn-report-send").addEventListener("click", sendReport);
     $("#btn-quit").addEventListener("click", function () {
+      if (quiz && quiz.isDuel) {
+        if (confirm("Thoát trận đối đầu? Kết quả các câu đã làm sẽ được nộp luôn, em có thể sẽ thua nếu chưa làm xong.")) {
+          finishDuelQuiz();
+        }
+        return;
+      }
       if (confirm("Thoát làm bài? Kết quả lần này sẽ không được lưu.")) show("#screen-setup");
     });
     $("#btn-restart").addEventListener("click", function () {
@@ -736,6 +1126,18 @@
       refreshExtraQuestions();
       refreshStats();
     });
+
+    // ---- Chế độ Đối đầu 1vs1 ----
+    $("#tab-mode-solo").addEventListener("click", function () { setAppMode("solo"); });
+    $("#tab-mode-duel").addEventListener("click", function () { setAppMode("duel"); });
+    $("#btn-challenge").addEventListener("click", startChallenge);
+    $("#btn-accept-challenge").addEventListener("click", openAcceptChallengeScreen);
+    $("#btn-cancel-wait").addEventListener("click", cancelDuelWait);
+    $("#btn-pick-back").addEventListener("click", function () {
+      clearDuelTimers();
+      show("#screen-setup");
+    });
+    $("#btn-duel-restart").addEventListener("click", exitDuelResult);
   }
 
   document.addEventListener("DOMContentLoaded", init);
