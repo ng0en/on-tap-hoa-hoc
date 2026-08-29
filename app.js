@@ -385,6 +385,34 @@
     msgEl.textContent = "Đang kiểm tra mã...";
     msgEl.className = "msg";
     validateStart();
+    attemptVerifyPin(name, pin, myToken, msgEl, false);
+  }
+
+  // Diễn giải rõ từng mã lỗi trả về từ verifyName, thay vì gộp chung 1 câu "không xác minh được"
+  // khó chẩn đoán — để nếu lỗi tái diễn, giáo viên/học sinh biết ngay hướng xử lý.
+  function errMsgForVerify(err) {
+    if (err === "wrong_pin") {
+      return "✘ Sai mã cho tên này. Nếu đây là tên của em, hãy nhập đúng mã cũ. Nếu trùng tên bạn khác, hãy đổi cách viết tên (ví dụ thêm tên lớp).";
+    }
+    if (err === "missing_sheet") {
+      return "✘ Hệ thống chưa sẵn sàng để lưu tên (thiếu thiết lập phía thầy/cô) — báo thầy/cô kiểm tra giúp nhé.";
+    }
+    if (err === "busy") {
+      return "✘ Hệ thống đang bận, đợi vài giây rồi thử lại nhé.";
+    }
+    if (err === "invalid_pin") {
+      return "✘ Mã bảo vệ phải là đúng 4 chữ số.";
+    }
+    if (err === "missing_name") {
+      return "✘ Em nhập tên trước đã nhé.";
+    }
+    return "✘ Không xác minh được (có thể do mạng chập chờn). Thử lại — nếu vẫn lỗi, thử tải lại trang.";
+  }
+
+  // Xác minh tên+mã; nếu lần đầu KHÔNG nhận được phản hồi nào (mạng chập chờn, hoặc Apps Script vừa
+  // "thức dậy" sau khi thầy/cô mới Deploy lại nên phản hồi chậm) thì tự thử lại thêm 1 lần trước khi
+  // báo lỗi cho học sinh, để không hiện lỗi oan vì 1 trục trặc mạng thoáng qua.
+  function attemptVerifyPin(name, pin, myToken, msgEl, isRetry) {
     apiPost({ action: "verifyName", name: name, pin: pin }).then(function (res) {
       if (myToken !== pinCheckToken) return; // đã có lần kiểm tra mới hơn, bỏ qua kết quả cũ này
       if (res && res.ok) {
@@ -394,13 +422,21 @@
           : "✔ Mã đúng, chào mừng quay lại!";
         msgEl.className = "msg pin-ok";
         refreshProfile();
-      } else {
-        pinVerified = false;
-        msgEl.textContent = (res && res.error === "wrong_pin")
-          ? "✘ Sai mã cho tên này. Nếu đây là tên của em, hãy nhập đúng mã cũ. Nếu trùng tên bạn khác, hãy đổi cách viết tên (ví dụ thêm tên lớp)."
-          : "✘ Không xác minh được, thử lại.";
-        msgEl.className = "msg pin-err";
+        validateStart();
+        refreshDuelControls();
+        return;
       }
+      if (!res && !isRetry) {
+        msgEl.textContent = "Đang kiểm tra mã... (thử lại)";
+        setTimeout(function () {
+          if (myToken !== pinCheckToken) return;
+          attemptVerifyPin(name, pin, myToken, msgEl, true);
+        }, 1200);
+        return;
+      }
+      pinVerified = false;
+      msgEl.textContent = errMsgForVerify(res && res.error);
+      msgEl.className = "msg pin-err";
       validateStart();
       refreshDuelControls();
     });
