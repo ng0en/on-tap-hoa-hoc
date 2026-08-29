@@ -197,12 +197,6 @@
     return { icon: "💎", label: "Huyền thoại phòng thí nghiệm" }; // chuỗi cực dài, hết cả bảng nguyên tố thường gặp
   }
 
-  function refreshStreak() {
-    var box = $("#streak-box");
-    if (!box) return;
-    if (!API_URL || !pinVerified) { box.classList.add("hidden"); return; }
-    apiGet({ action: "streak", name: $("#inp-name").value.trim(), pin: currentPin() }).then(renderStreak);
-  }
   function renderStreak(res) {
     var box = $("#streak-box");
     if (!box) return;
@@ -241,16 +235,6 @@
   }
 
   // ---------- Tiến độ theo từng chương của Lớp đang chọn + gợi ý nên ôn chương nào ----------
-  function refreshChapterProgress() {
-    var box = $("#chapter-progress-box");
-    if (!box) return;
-    if (!API_URL || !pinVerified) { box.classList.add("hidden"); lastChapterProgressData = null; return; }
-    apiGet({ action: "chapterProgress", name: $("#inp-name").value.trim(), pin: currentPin() }).then(function (res) {
-      if (!res || res.error) { lastChapterProgressData = null; box.classList.add("hidden"); return; }
-      lastChapterProgressData = res;
-      renderChapterProgress();
-    });
-  }
   // Chỉ vẽ lại từ dữ liệu đã có (dùng khi đổi Lớp, không cần gọi lại API vì dữ liệu đã có đủ mọi chương)
   function renderChapterProgress() {
     var box = $("#chapter-progress-box");
@@ -297,6 +281,38 @@
     }
   }
 
+  // ---------- Gộp 3 API (stats + streak + tiến độ theo chương) thành 1 lượt gọi cho nhanh ----------
+  // Trước đây xác minh PIN xong hoặc nộp bài xong phải gọi riêng 3 lần (mỗi lần backend tự quét lại
+  // toàn bộ tab KetQua từ đầu) khiến trang tải chậm. Giờ gộp lại còn 1 lượt gọi action "profile".
+  // Trả về 1 Promise (resolve ra dữ liệu profile, hoặc null nếu chưa xác minh/không lấy được).
+  function refreshProfile() {
+    var name = $("#inp-name").value.trim();
+    var chap = currentChapterId();
+    var cpBox = $("#chapter-progress-box");
+    if (!API_URL || !pinVerified || !name) {
+      currentStats = null; renderStats();
+      renderStreak(null);
+      lastChapterProgressData = null;
+      if (cpBox) cpBox.classList.add("hidden");
+      return Promise.resolve(null);
+    }
+    return apiGet({ action: "profile", name: name, chapter: chap, pin: currentPin() }).then(function (res) {
+      if (!res || res.error) {
+        currentStats = null; renderStats();
+        renderStreak(null);
+        lastChapterProgressData = null;
+        if (cpBox) cpBox.classList.add("hidden");
+        return null;
+      }
+      currentStats = res.stats || null;
+      renderStats();
+      renderStreak(res.streak);
+      lastChapterProgressData = res.chapterProgress || null;
+      renderChapterProgress();
+      return res;
+    });
+  }
+
   // ---------- Mã bảo vệ tên (chống mạo danh) ----------
   function currentPin() { return $("#inp-pin").value.trim(); }
 
@@ -332,9 +348,7 @@
           ? "✔ Đã đặt mã bảo vệ mới cho tên này — nhớ mã để dùng lại cho lần sau."
           : "✔ Mã đúng, chào mừng quay lại!";
         msgEl.className = "msg pin-ok";
-        refreshStats();
-        refreshStreak();
-        refreshChapterProgress();
+        refreshProfile();
       } else {
         pinVerified = false;
         msgEl.textContent = (res && res.error === "wrong_pin")
@@ -585,6 +599,10 @@
     var badgeBanner = $("#result-badge");
     if (badgeBanner) badgeBanner.classList.add("hidden"); // xoá banner của lần trước, tránh nháy nội dung cũ
 
+    var resultStatsBox = $("#result-stats");
+    resultStatsBox.classList.remove("hidden");
+    resultStatsBox.innerHTML = "Đang cập nhật tiến độ...";
+
     apiPost({
       action: "submit",
       name: name,
@@ -594,10 +612,26 @@
       results: quiz.answers
     }).then(function () {
       refreshLeaderboard(); // "ngay khi có sự thay đổi" cho chính học sinh vừa nộp bài
-      refreshChapterProgress();
-      apiGet({ action: "streak", name: name, pin: currentPin() }).then(function (res) {
-        renderStreak(res); // cập nhật luôn ô "Chuỗi luyện tập" ở màn hình chọn chương cho lần quay lại
-        showBadgeCelebrationIfAny(res);
+      // Gộp 3 API (stats + streak + tiến độ theo chương) thành 1 lượt gọi duy nhất cho nhanh,
+      // và dùng luôn kết quả này để cập nhật ô "tiến độ" ở màn hình kết quả bên dưới.
+      refreshProfile().then(function (res) {
+        if (!res) {
+          resultStatsBox.classList.add("hidden");
+          resultStatsBox.innerHTML = "";
+          return;
+        }
+        showBadgeCelebrationIfAny(res.streak); // cập nhật luôn ô "Chuỗi luyện tập" cho lần quay lại + banner chúc mừng
+        var statRes = res.stats;
+        if (!statRes || !statRes.attempts) {
+          resultStatsBox.classList.add("hidden");
+          resultStatsBox.innerHTML = "";
+          return;
+        }
+        var last5b = statRes.last5 || [];
+        resultStatsBox.innerHTML =
+          "Tổng số câu đã làm ở chương này: <b>" + statRes.totalDone + "</b><br>" +
+          "Tỉ lệ đúng " + last5b.length + " lần gần nhất: <b>" +
+          last5b.map(function (p) { return p + "%"; }).join(" · ") + "</b>";
       });
     });
 
@@ -629,21 +663,6 @@
       retryBtn.classList.add("hidden");
     }
 
-    var resultStatsBox = $("#result-stats");
-    resultStatsBox.classList.remove("hidden");
-    resultStatsBox.innerHTML = "Đang cập nhật tiến độ...";
-    apiGet({ action: "stats", name: name, chapter: chap, pin: currentPin() }).then(function (res) {
-      if (!res || res.error || !res.attempts) {
-        resultStatsBox.classList.add("hidden");
-        resultStatsBox.innerHTML = "";
-        return;
-      }
-      var last5 = res.last5 || [];
-      resultStatsBox.innerHTML =
-        "Tổng số câu đã làm ở chương này: <b>" + res.totalDone + "</b><br>" +
-        "Tỉ lệ đúng " + last5.length + " lần gần nhất: <b>" +
-        last5.map(function (p) { return p + "%"; }).join(" · ") + "</b>";
-    });
   }
 
   // ---------- Init ----------
