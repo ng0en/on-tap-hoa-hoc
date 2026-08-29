@@ -29,10 +29,20 @@
       </label>
       <div id="pin-msg" class="msg"></div>
 
+      <div id="streak-box" class="stats-box streak-box hidden">
+        <div id="streak-content"></div>
+      </div>
+
       <label class="field">
         <span>Lớp</span>
         <select id="sel-grade"></select>
       </label>
+
+      <div id="chapter-progress-box" class="stats-box hidden">
+        <div class="stats-title" id="chapter-progress-title">📊 Tiến độ</div>
+        <ul id="chapter-progress-list" class="chprog-list"></ul>
+        <div id="chapter-progress-suggest" class="chprog-suggest"></div>
+      </div>
 
       <label class="field">
         <span>Chương</span>
@@ -104,6 +114,7 @@
     </header>
     <div class="card">
       <div id="result-score" class="result-score"></div>
+      <div id="result-badge" class="badge-banner hidden"></div>
       <div id="result-grid" class="result-grid"></div>
       <div id="result-stats" class="stats-box"></div>
       <button id="btn-retry-wrong" class="btn-primary btn-retry hidden"></button>
@@ -114,12 +125,6 @@
 </div>
 
   <div id="col-leaderboard" class="side-col">
-    <aside id="panel-presence" class="side-panel">
-      <h2 class="panel-title">🟢 Đang luyện tập</h2>
-      <p id="presence-total" class="panel-sub">Hiện chưa có bạn nào đang luyện tập.</p>
-      <ul id="presence-list" class="presence-list"></ul>
-    </aside>
-
     <aside id="panel-leaderboard" class="side-panel">
       <h2 class="panel-title">🏆 Bảng xếp hạng</h2>
       <p class="panel-sub">Top 10 học sinh có điểm trung bình cao nhất</p>

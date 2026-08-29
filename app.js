@@ -15,8 +15,8 @@
   var pinVerified = false;   // tên + mã hiện tại đã được backend xác nhận khớp (hoặc đăng ký mới) chưa
   var pinCheckToken = 0;     // chống việc phản hồi cũ (gõ nhanh) ghi đè kết quả của lần kiểm tra mới hơn
   var pinDebounceTimer = null;
-  var sessionId = "s" + Date.now().toString(36) + Math.random().toString(36).slice(2, 8); // 1 lần mở trang = 1 id
-  var heartbeatTimer = null; // đang "đang luyện tập" -> gửi tín hiệu định kỳ cho backend
+  var lastChapterProgressData = null; // {chapters:[{chapter,uniqueDone,wrongCount}]} - cache để vẽ lại khi đổi Lớp mà không cần gọi API lại
+  var streakCelebratedThisVisit = false; // tránh hiện lại banner chúc mừng nhiều lần trong cùng 1 lượt ghé trang
 
   // ---------- Helpers ----------
   function $(sel) { return document.querySelector(sel); }
@@ -163,6 +163,140 @@
     });
   }
 
+  // ---------- Huy hiệu theo chuỗi ngày luyện tập (cứ 7 ngày liên tục = 1 bậc huy hiệu) ----------
+  // Hết dụng cụ thí nghiệm thì chuyển sang huy hiệu ký hiệu nguyên tố hoá học (không lo hết bậc).
+  var LAB_BADGES = [
+    { icon: "🧪", label: "Ống nghiệm" },
+    { icon: "⚗️", label: "Bình cầu chưng cất" },
+    { icon: "🧫", label: "Đĩa petri" },
+    { icon: "🔬", label: "Kính hiển vi" },
+    { icon: "🧲", label: "Nam châm phòng thí nghiệm" },
+    { icon: "⚛️", label: "Nguyên tử" },
+    { icon: "🔥", label: "Ngọn lửa thí nghiệm" },
+    { icon: "💧", label: "Giọt dung dịch" },
+    { icon: "🌡️", label: "Nhiệt kế" }
+  ];
+  var ELEMENT_BADGES = [
+    ["H", "Hydro"], ["He", "Heli"], ["Li", "Lithi"], ["Be", "Beryli"], ["B", "Bo"],
+    ["C", "Carbon"], ["N", "Nitơ"], ["O", "Oxy"], ["F", "Flo"], ["Ne", "Neon"],
+    ["Na", "Natri"], ["Mg", "Magie"], ["Al", "Nhôm"], ["Si", "Silic"], ["P", "Photpho"],
+    ["S", "Lưu huỳnh"], ["Cl", "Clo"], ["Ar", "Argon"], ["K", "Kali"], ["Ca", "Canxi"],
+    ["Fe", "Sắt"], ["Cu", "Đồng"], ["Zn", "Kẽm"], ["Ag", "Bạc"], ["Au", "Vàng"],
+    ["I", "Iot"], ["Pb", "Chì"], ["Br", "Brom"], ["Mn", "Mangan"], ["Ni", "Niken"]
+  ];
+  function badgeForLevel(level) { // level = số bậc 7-ngày đã đạt (>=1)
+    if (level <= LAB_BADGES.length) {
+      var b = LAB_BADGES[level - 1];
+      return { icon: b.icon, label: b.label };
+    }
+    var idx = level - LAB_BADGES.length - 1;
+    if (idx < ELEMENT_BADGES.length) {
+      var e = ELEMENT_BADGES[idx];
+      return { icon: e[0], label: "Nguyên tố " + e[0] + " – " + e[1] };
+    }
+    return { icon: "💎", label: "Huyền thoại phòng thí nghiệm" }; // chuỗi cực dài, hết cả bảng nguyên tố thường gặp
+  }
+
+  function refreshStreak() {
+    var box = $("#streak-box");
+    if (!box) return;
+    if (!API_URL || !pinVerified) { box.classList.add("hidden"); return; }
+    apiGet({ action: "streak", name: $("#inp-name").value.trim(), pin: currentPin() }).then(renderStreak);
+  }
+  function renderStreak(res) {
+    var box = $("#streak-box");
+    if (!box) return;
+    if (!res || res.error || typeof res.streak !== "number") { box.classList.add("hidden"); return; }
+    box.classList.remove("hidden");
+    var streak = res.streak;
+    var level = Math.floor(streak / 7);
+    var daysToNext = streak === 0 ? 7 : (7 - (streak % 7)) || 7;
+    var html = "🔥 Chuỗi luyện tập: <b>" + streak + " ngày liên tiếp</b>";
+    if (level >= 1) {
+      var cur = badgeForLevel(level);
+      html += "<br>Huy hiệu hiện tại: <span class=\"badge-chip\">" + cur.icon + " " + escapeHtml(cur.label) + "</span>";
+    }
+    var next = badgeForLevel(level + 1);
+    html += "<br><span class=\"small\">Còn " + daysToNext + " ngày nữa để nhận huy hiệu tiếp theo: " +
+      next.icon + " " + escapeHtml(next.label) + "</span>";
+    if (!res.practicedToday) {
+      html += "<br><span class=\"streak-warn\">⚠️ Hôm nay em chưa luyện tập — làm ngay để giữ chuỗi!</span>";
+    }
+    $("#streak-content").innerHTML = html;
+  }
+  // Hiện banner chúc mừng trên màn hình kết quả nếu lượt nộp bài này vừa giúp đạt 1 mốc 7-ngày mới.
+  function showBadgeCelebrationIfAny(res) {
+    var banner = $("#result-badge");
+    if (!banner) return;
+    if (!res || res.error || !res.practicedToday || !res.streak || res.streak % 7 !== 0 || streakCelebratedThisVisit) {
+      banner.classList.add("hidden");
+      return;
+    }
+    var level = res.streak / 7;
+    var badge = badgeForLevel(level);
+    banner.innerHTML = "🎉 Chúc mừng! Bạn vừa đạt chuỗi <b>" + res.streak + " ngày liên tiếp</b> và nhận huy hiệu " +
+      '<span class="badge-chip">' + badge.icon + " " + escapeHtml(badge.label) + "</span>";
+    banner.classList.remove("hidden");
+    streakCelebratedThisVisit = true;
+  }
+
+  // ---------- Tiến độ theo từng chương của Lớp đang chọn + gợi ý nên ôn chương nào ----------
+  function refreshChapterProgress() {
+    var box = $("#chapter-progress-box");
+    if (!box) return;
+    if (!API_URL || !pinVerified) { box.classList.add("hidden"); lastChapterProgressData = null; return; }
+    apiGet({ action: "chapterProgress", name: $("#inp-name").value.trim(), pin: currentPin() }).then(function (res) {
+      if (!res || res.error) { lastChapterProgressData = null; box.classList.add("hidden"); return; }
+      lastChapterProgressData = res;
+      renderChapterProgress();
+    });
+  }
+  // Chỉ vẽ lại từ dữ liệu đã có (dùng khi đổi Lớp, không cần gọi lại API vì dữ liệu đã có đủ mọi chương)
+  function renderChapterProgress() {
+    var box = $("#chapter-progress-box");
+    if (!box) return;
+    if (!manifest || !lastChapterProgressData) { box.classList.add("hidden"); return; }
+    var g = currentGradeObj();
+    if (!g) { box.classList.add("hidden"); return; }
+    box.classList.remove("hidden");
+    $("#chapter-progress-title").textContent = "📊 Tiến độ " + g.name;
+
+    var progressByChapter = {};
+    lastChapterProgressData.chapters.forEach(function (p) { progressByChapter[p.chapter] = p; });
+
+    var rows = g.chapters.map(function (c) {
+      var p = progressByChapter[c.id] || { uniqueDone: 0, wrongCount: 0 };
+      var percentDone = c.count > 0 ? Math.min(100, Math.round((p.uniqueDone / c.count) * 100)) : 0;
+      return { id: c.id, name: c.name, percentDone: percentDone, uniqueDone: p.uniqueDone, wrongCount: p.wrongCount };
+    });
+
+    var listEl = $("#chapter-progress-list");
+    listEl.innerHTML = "";
+    rows.forEach(function (r) {
+      var li = el("li", "chprog-item");
+      li.innerHTML =
+        '<span class="chprog-name">' + escapeHtml(r.name) +
+        (r.wrongCount > 0 ? ' <span class="chprog-wrong-badge">' + r.wrongCount + ' câu sai</span>' : '') + '</span>' +
+        '<span class="chprog-bar-wrap"><span class="chprog-bar" style="width:' + r.percentDone + '%"></span></span>' +
+        '<span class="chprog-pct">' + r.percentDone + '%</span>';
+      listEl.appendChild(li);
+    });
+
+    // Gợi ý: ưu tiên chương còn nhiều câu sai nhất; nếu không có câu nào sai thì gợi ý chương làm ít/chưa làm nhất.
+    var suggestEl = $("#chapter-progress-suggest");
+    var withWrong = rows.filter(function (r) { return r.wrongCount > 0; })
+      .sort(function (a, b) { return b.wrongCount - a.wrongCount; });
+    var notDone = rows.filter(function (r) { return r.percentDone < 100; })
+      .sort(function (a, b) { return a.percentDone - b.percentDone || a.uniqueDone - b.uniqueDone; });
+    if (withWrong.length) {
+      suggestEl.innerHTML = "🔁 Nên ôn lại: <b>" + escapeHtml(withWrong[0].name) + "</b> — còn " + withWrong[0].wrongCount + " câu đang sai";
+    } else if (notDone.length) {
+      suggestEl.innerHTML = "▶️ Nên bắt đầu/tiếp tục: <b>" + escapeHtml(notDone[0].name) + "</b> — mới làm " + notDone[0].percentDone + "%";
+    } else {
+      suggestEl.innerHTML = "🎉 Bạn đã ôn gần đủ các chương " + escapeHtml(g.name) + " rồi, tiếp tục duy trì phong độ nhé!";
+    }
+  }
+
   // ---------- Mã bảo vệ tên (chống mạo danh) ----------
   function currentPin() { return $("#inp-pin").value.trim(); }
 
@@ -199,6 +333,8 @@
           : "✔ Mã đúng, chào mừng quay lại!";
         msgEl.className = "msg pin-ok";
         refreshStats();
+        refreshStreak();
+        refreshChapterProgress();
       } else {
         pinVerified = false;
         msgEl.textContent = (res && res.error === "wrong_pin")
@@ -267,7 +403,6 @@
     };
     show("#screen-quiz");
     renderQuestion();
-    startHeartbeat();
   }
 
   function renderQuestion() {
@@ -434,67 +569,6 @@
     }, 20000);
   }
 
-  // ---------- Đang có bao nhiêu bạn luyện tập (heartbeat) ----------
-  function sendHeartbeat() {
-    if (!API_URL || !quiz) return;
-    apiPost({
-      action: "heartbeat",
-      sessionId: sessionId,
-      name: $("#inp-name").value.trim(),
-      chapter: currentChapterId()
-    });
-  }
-  function startHeartbeat() {
-    sendHeartbeat();
-    stopHeartbeat();
-    heartbeatTimer = setInterval(sendHeartbeat, 8000);
-  }
-  function stopHeartbeat() {
-    clearInterval(heartbeatTimer);
-    heartbeatTimer = null;
-  }
-
-  function chapterDisplayName(chapterId) {
-    if (!manifest) return chapterId;
-    for (var i = 0; i < manifest.grades.length; i++) {
-      var g = manifest.grades[i];
-      for (var j = 0; j < g.chapters.length; j++) {
-        if (g.chapters[j].id === chapterId) return g.name + " – " + g.chapters[j].name;
-      }
-    }
-    return chapterId;
-  }
-
-  function refreshPresence() {
-    if (!API_URL) return;
-    apiGet({ action: "presence" }).then(renderPresence);
-  }
-  function renderPresence(res) {
-    var box = $("#panel-presence");
-    if (!box) return;
-    if (!API_URL || !res || !res.total) {
-      $("#presence-total").textContent = "Hiện chưa có bạn nào đang luyện tập.";
-      $("#presence-list").innerHTML = "";
-      return;
-    }
-    $("#presence-total").innerHTML = "🟢 Đang có <b>" + res.total + "</b> bạn đang luyện tập:";
-    var listEl = $("#presence-list");
-    listEl.innerHTML = "";
-    (res.byChapter || []).forEach(function (item) {
-      var li = el("li", "presence-item");
-      li.innerHTML =
-        '<span class="presence-count">' + item.count + '</span>' +
-        '<span class="presence-chapter">' + escapeHtml(chapterDisplayName(item.chapter)) + '</span>';
-      listEl.appendChild(li);
-    });
-  }
-  function startPresencePolling() {
-    refreshPresence();
-    setInterval(function () {
-      if (document.visibilityState === "visible") refreshPresence();
-    }, 8000);
-  }
-
   function nextQuestion() {
     if (quiz.index < quiz.questions.length - 1) {
       quiz.index++;
@@ -505,10 +579,11 @@
   }
 
   function finishQuiz() {
-    stopHeartbeat();
     var name = $("#inp-name").value.trim();
     var chap = currentChapterId();
     var correctCount = quiz.answers.filter(function (a) { return a.correct; }).length;
+    var badgeBanner = $("#result-badge");
+    if (badgeBanner) badgeBanner.classList.add("hidden"); // xoá banner của lần trước, tránh nháy nội dung cũ
 
     apiPost({
       action: "submit",
@@ -519,6 +594,11 @@
       results: quiz.answers
     }).then(function () {
       refreshLeaderboard(); // "ngay khi có sự thay đổi" cho chính học sinh vừa nộp bài
+      refreshChapterProgress();
+      apiGet({ action: "streak", name: name, pin: currentPin() }).then(function (res) {
+        renderStreak(res); // cập nhật luôn ô "Chuỗi luyện tập" ở màn hình chọn chương cho lần quay lại
+        showBadgeCelebrationIfAny(res);
+      });
     });
 
     // Câu hỏi (đối tượng đầy đủ) mà học sinh vừa làm sai, để có thể "Làm lại những câu sai"
@@ -569,7 +649,6 @@
   // ---------- Init ----------
   function init() {
     startLeaderboardPolling();
-    startPresencePolling();
 
     fetch("data/manifest.json").then(function (r) { return r.json(); }).then(function (m) {
       manifest = m;
@@ -589,6 +668,7 @@
 
       $("#sel-grade").addEventListener("change", function () {
         populateChapters();
+        renderChapterProgress(); // đã có sẵn dữ liệu mọi chương, chỉ cần vẽ lại theo Lớp mới, không cần gọi API lại
         loadStaticQuestions(currentChapterId()).then(function (qs) {
           staticQuestions = qs;
           onChapterChange();
@@ -630,10 +710,7 @@
     $("#btn-report-cancel").addEventListener("click", hideReportPanel);
     $("#btn-report-send").addEventListener("click", sendReport);
     $("#btn-quit").addEventListener("click", function () {
-      if (confirm("Thoát làm bài? Kết quả lần này sẽ không được lưu.")) {
-        stopHeartbeat();
-        show("#screen-setup");
-      }
+      if (confirm("Thoát làm bài? Kết quả lần này sẽ không được lưu.")) show("#screen-setup");
     });
     $("#btn-restart").addEventListener("click", function () {
       show("#screen-setup");
