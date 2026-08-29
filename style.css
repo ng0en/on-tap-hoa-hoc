@@ -164,6 +164,9 @@ input[type="text"]:focus, select:focus{outline:2px solid var(--brand);outline-of
 }
 
 .msg{margin-top:10px;font-size:0.88rem;color:var(--muted);min-height:1.2em}
+.msg.pin-ok{color:var(--green)}
+.msg.pin-err{color:var(--red);font-weight:600}
+#pin-msg{margin-top:-6px;margin-bottom:8px}
 
 .stats-box{
   background:#f7f9fc;

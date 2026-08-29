@@ -12,6 +12,9 @@
 
   var quiz = null; // {questions, index, mode, answers:[{id,correct}]}
   var lastLeaderboardData = null; // cache dữ liệu bảng xếp hạng gần nhất, để tô đậm tên của em khi gõ tên
+  var pinVerified = false;   // tên + mã hiện tại đã được backend xác nhận khớp (hoặc đăng ký mới) chưa
+  var pinCheckToken = 0;     // chống việc phản hồi cũ (gõ nhanh) ghi đè kết quả của lần kiểm tra mới hơn
+  var pinDebounceTimer = null;
 
   // ---------- Helpers ----------
   function $(sel) { return document.querySelector(sel); }
@@ -150,11 +153,64 @@
   function refreshStats() {
     var name = $("#inp-name").value.trim();
     var chap = currentChapterId();
-    if (!name || !chap) { currentStats = null; renderStats(); return; }
-    apiGet({ action: "stats", name: name, chapter: chap }).then(function (res) {
+    if (!name || !chap || !pinVerified) { currentStats = null; renderStats(); return; }
+    apiGet({ action: "stats", name: name, chapter: chap, pin: currentPin() }).then(function (res) {
+      if (!res || res.error) { currentStats = null; renderStats(); return; }
       currentStats = res;
       renderStats();
     });
+  }
+
+  // ---------- Mã bảo vệ tên (chống mạo danh) ----------
+  function currentPin() { return $("#inp-pin").value.trim(); }
+
+  function maybeVerifyPin() {
+    var name = $("#inp-name").value.trim();
+    var pin = currentPin();
+    var msgEl = $("#pin-msg");
+    if (!API_URL) {
+      // chưa nối backend (đang test cục bộ) -> bỏ qua bước xác minh để không chặn phát triển/thử nghiệm
+      pinVerified = true;
+      msgEl.textContent = "";
+      msgEl.className = "msg";
+      validateStart();
+      return;
+    }
+    if (!name || !/^\d{4}$/.test(pin)) {
+      pinVerified = false;
+      msgEl.textContent = "";
+      msgEl.className = "msg";
+      validateStart();
+      return;
+    }
+    var myToken = ++pinCheckToken;
+    pinVerified = false;
+    msgEl.textContent = "Đang kiểm tra mã...";
+    msgEl.className = "msg";
+    validateStart();
+    apiPost({ action: "verifyName", name: name, pin: pin }).then(function (res) {
+      if (myToken !== pinCheckToken) return; // đã có lần kiểm tra mới hơn, bỏ qua kết quả cũ này
+      if (res && res.ok) {
+        pinVerified = true;
+        msgEl.textContent = res.isNew
+          ? "✔ Đã đặt mã bảo vệ mới cho tên này — nhớ mã để dùng lại cho lần sau."
+          : "✔ Mã đúng, chào mừng quay lại!";
+        msgEl.className = "msg pin-ok";
+        refreshStats();
+      } else {
+        pinVerified = false;
+        msgEl.textContent = (res && res.error === "wrong_pin")
+          ? "✘ Sai mã cho tên này. Nếu đây là tên của em, hãy nhập đúng mã cũ. Nếu trùng tên bạn khác, hãy đổi cách viết tên (ví dụ thêm tên lớp)."
+          : "✘ Không xác minh được, thử lại.";
+        msgEl.className = "msg pin-err";
+      }
+      validateStart();
+    });
+  }
+
+  function debouncedMaybeVerifyPin() {
+    clearTimeout(pinDebounceTimer);
+    pinDebounceTimer = setTimeout(maybeVerifyPin, 400);
   }
 
   function refreshExtraQuestions() {
@@ -173,7 +229,9 @@
 
   function validateStart() {
     var name = $("#inp-name").value.trim();
-    var ok = name.length > 0 && !!currentChapterId() && !!selectedCount;
+    var pin = currentPin();
+    var pinOk = !API_URL || (/^\d{4}$/.test(pin) && pinVerified);
+    var ok = name.length > 0 && pinOk && !!currentChapterId() && !!selectedCount;
     $("#btn-start").disabled = !ok;
   }
 
@@ -217,22 +275,36 @@
     var optsBox = $("#q-options");
     optsBox.innerHTML = "";
     $("#q-feedback").className = "q-feedback hidden";
+    quiz.answered = false;
+    quiz.selectedLetter = null;
     $("#btn-next").disabled = true;
-    $("#btn-next").textContent = (quiz.index === quiz.questions.length - 1) ? "Nộp bài" : "Câu tiếp theo";
+    $("#btn-next").textContent = "Gửi đáp án";
     resetReportUI();
 
     ["A", "B", "C", "D"].forEach(function (letter) {
       var b = el("button", "opt-btn");
       b.innerHTML = '<span class="opt-label">' + letter + '</span><span>' + q.options[letter] + '</span>';
-      b.addEventListener("click", function () { answerQuestion(letter, b); });
+      b.addEventListener("click", function () { selectOption(letter, b); });
       optsBox.appendChild(b);
     });
   }
 
-  function answerQuestion(letter, btnEl) {
+  // Chọn / đổi đáp án — chưa ghi nhận, học sinh có thể bấm lại đáp án khác thoải mái.
+  function selectOption(letter, btnEl) {
     if (quiz.answered) return;
+    quiz.selectedLetter = letter;
+    document.querySelectorAll("#q-options .opt-btn").forEach(function (b) {
+      b.classList.remove("selected");
+    });
+    btnEl.classList.add("selected");
+    $("#btn-next").disabled = false;
+  }
+
+  // Ghi nhận đáp án đã chọn (bấm nút "Gửi đáp án") — sau bước này mới tính điểm và khoá lựa chọn.
+  function confirmAnswer() {
     quiz.answered = true;
     var q = quiz.questions[quiz.index];
+    var letter = quiz.selectedLetter;
     var correct = letter === q.answer;
     quiz.answers.push({ id: q.id, correct: correct });
 
@@ -249,10 +321,17 @@
       fb.classList.remove("hidden");
       if (correct) { fb.textContent = "✔ Chính xác!"; fb.classList.add("correct"); }
       else { fb.textContent = "✘ Sai rồi. Đáp án đúng là " + q.answer + "."; fb.classList.add("wrong"); }
-    } else {
-      btnEl.classList.add("selected");
     }
-    $("#btn-next").disabled = false;
+    $("#btn-next").textContent = (quiz.index === quiz.questions.length - 1) ? "Nộp bài" : "Câu tiếp theo";
+  }
+
+  // Nút dưới cùng dùng chung 2 việc: lần bấm đầu = ghi nhận đáp án, lần bấm sau = sang câu tiếp theo.
+  function handleNextClick() {
+    if (!quiz.answered) {
+      if (quiz.selectedLetter) confirmAnswer();
+      return;
+    }
+    nextQuestion();
   }
 
   // ---------- Báo lỗi câu hỏi ----------
@@ -353,7 +432,6 @@
   }
 
   function nextQuestion() {
-    quiz.answered = false;
     if (quiz.index < quiz.questions.length - 1) {
       quiz.index++;
       renderQuestion();
@@ -371,6 +449,7 @@
       action: "submit",
       name: name,
       chapter: chap,
+      pin: currentPin(),
       mode: quiz.mode,
       results: quiz.answers
     }).then(function () {
@@ -408,8 +487,8 @@
     var resultStatsBox = $("#result-stats");
     resultStatsBox.classList.remove("hidden");
     resultStatsBox.innerHTML = "Đang cập nhật tiến độ...";
-    apiGet({ action: "stats", name: name, chapter: chap }).then(function (res) {
-      if (!res || !res.attempts) {
+    apiGet({ action: "stats", name: name, chapter: chap, pin: currentPin() }).then(function (res) {
+      if (!res || res.error || !res.attempts) {
         resultStatsBox.classList.add("hidden");
         resultStatsBox.innerHTML = "";
         return;
@@ -433,6 +512,9 @@
 
       var savedName = localStorage.getItem("hs_ten");
       if (savedName) $("#inp-name").value = savedName;
+      var savedPin = localStorage.getItem("hs_pin");
+      if (savedPin) $("#inp-pin").value = savedPin;
+      if (savedName && savedPin) maybeVerifyPin(); // tự xác minh luôn nếu trình duyệt đã nhớ từ lần trước
 
       loadStaticQuestions(currentChapterId()).then(function (qs) {
         staticQuestions = qs;
@@ -454,11 +536,21 @@
       });
       $("#inp-name").addEventListener("input", function () {
         localStorage.setItem("hs_ten", $("#inp-name").value.trim());
+        pinVerified = false;
+        $("#pin-msg").textContent = "";
+        $("#pin-msg").className = "msg";
         validateStart();
         renderLeaderboard(lastLeaderboardData); // chỉ để cập nhật highlight "của em", không gọi lại API
+        debouncedMaybeVerifyPin();
       });
-      $("#inp-name").addEventListener("change", refreshStats);
-      $("#inp-name").addEventListener("blur", refreshStats);
+      $("#inp-pin").addEventListener("input", function () {
+        var digits = $("#inp-pin").value.replace(/\D/g, "").slice(0, 4);
+        $("#inp-pin").value = digits;
+        localStorage.setItem("hs_pin", digits);
+        pinVerified = false;
+        validateStart();
+        debouncedMaybeVerifyPin();
+      });
 
       if (!API_URL) {
         $("#setup-msg").textContent =
@@ -467,7 +559,7 @@
     });
 
     $("#btn-start").addEventListener("click", startQuiz);
-    $("#btn-next").addEventListener("click", nextQuestion);
+    $("#btn-next").addEventListener("click", handleNextClick);
     $("#btn-report").addEventListener("click", toggleReportPanel);
     $("#btn-report-cancel").addEventListener("click", hideReportPanel);
     $("#btn-report-send").addEventListener("click", sendReport);
