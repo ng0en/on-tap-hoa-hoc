@@ -21,7 +21,9 @@
   // ---------- Chế độ Đối đầu 1vs1 ----------
   var DUEL_QUESTION_COUNT = 10;
   var DUEL_WAIT_SECONDS = 60;
-  var DUEL_TIME_LIMIT_SECONDS = 300;
+  var DUEL_ANSWER_TIMEOUT_MS = 20000; // mỗi câu chờ tối đa 20s, không ai bấm kịp thì tự bỏ qua (không ai được/mất điểm)
+  var DUEL_POLL_MS = 1000;            // hỏi lại server ~1 giây/lần trong lúc thi đấu + oẳn tù tì
+  var DUEL_RPS_LABELS = { keo: "✌️ Kéo", bua: "✊ Búa", bao: "✋ Bao" };
   var appMode = "solo";          // "solo" | "duel" — tab đang chọn ở màn hình chính
   var duelMatchId = null;
   var duelOpponentName = null;
@@ -29,10 +31,14 @@
   var duelWaitTickTimer = null;  // interval vẽ lại đồng hồ đếm ngược phòng chờ mỗi giây
   var duelWaitPollTimer = null;  // interval hỏi lại server xem đã có ai ghép chưa
   var duelPickPollTimer = null;  // interval làm mới danh sách "chọn đối thủ"
-  var duelQuizStartMs = null;    // mốc server ghi nhận trận đấu bắt đầu (dùng tính "làm mất bao lâu")
-  var duelQuizTickTimer = null;  // interval vẽ lại đồng hồ đếm ngược 5 phút trong lúc làm bài
-  var duelResultPollTimer = null; // interval hỏi lại xem đối thủ đã nộp bài chưa
+  var duelPollTimer = null;      // interval hỏi lại server trong suốt lúc thi đấu (câu bị khóa chưa/oẳn tù tì tới đâu)
+  var duelAnswerTimeoutTimer = null; // hẹn giờ 20s tự bỏ qua câu hiện tại nếu không ai bấm kịp
+  var duelAnsweredLocally = false;   // đã bấm 1 đáp án cho câu hiện tại (đang chờ server xác nhận) hay chưa
+  var duelPhase = null;          // "quiz" | "tie_break" | "done" — đang ở màn nào trong lúc thi đấu
+  var duelYou = { score: 0, correct: 0, wrong: 0 };
+  var duelOpp = { score: 0, correct: 0, wrong: 0, name: "" };
   var lastDuelLeaderboardData = null;
+  var lastEloLeaderboardData = null;
 
   // ---------- Helpers ----------
   function $(sel) { return document.querySelector(sel); }
@@ -279,6 +285,25 @@
     streakCelebratedThisVisit = true;
   }
 
+  // ---------- ELO (đẳng cấp cộng dồn vĩnh viễn — không reset hàng tuần, khác Bảng 1vs1) ----------
+  function renderElo(elo) {
+    var box = $("#elo-box");
+    if (!box) return;
+    if (typeof elo !== "number") { box.classList.add("hidden"); return; }
+    box.classList.remove("hidden");
+    $("#elo-content").innerHTML = "⭐ Điểm ELO của em: <b>" + elo + "</b>" +
+      '<br><span class="small">Tăng dần khi tự luyện tập hoặc đối đầu 1vs1 — không giới hạn, không reset!</span>';
+  }
+  // Hiện 1 dòng nhỏ "+X ELO" (feedback tức thời) ở màn hình kết quả tự luyện tập, hoặc ẩn đi nếu lượt này
+  // không được cộng thêm ELO (ví dụ đã luyện tập nhiều lần trong ngày nên điểm cộng đã giảm về 0).
+  function renderResultElo(eloGain, elo) {
+    var box = $("#result-elo");
+    if (!box) return;
+    if (!eloGain || typeof elo !== "number") { box.classList.add("hidden"); box.innerHTML = ""; return; }
+    box.classList.remove("hidden");
+    box.innerHTML = "⭐ +" + eloGain + " ELO — tổng hiện tại: <b>" + elo + "</b>";
+  }
+
   // ---------- Tiến độ theo từng chương của Lớp đang chọn + gợi ý nên ôn chương nào ----------
   // Chỉ vẽ lại từ dữ liệu đã có (dùng khi đổi Lớp, không cần gọi lại API vì dữ liệu đã có đủ mọi chương)
   function renderChapterProgress() {
@@ -337,6 +362,7 @@
     if (!API_URL || !pinVerified || !name) {
       currentStats = null; renderStats();
       renderStreak(null);
+      renderElo(null);
       lastChapterProgressData = null;
       if (cpBox) cpBox.classList.add("hidden");
       return Promise.resolve(null);
@@ -345,6 +371,7 @@
       if (!res || res.error) {
         currentStats = null; renderStats();
         renderStreak(null);
+        renderElo(null);
         lastChapterProgressData = null;
         if (cpBox) cpBox.classList.add("hidden");
         return null;
@@ -352,6 +379,7 @@
       currentStats = res.stats || null;
       renderStats();
       renderStreak(res.streak);
+      renderElo(typeof res.elo === "number" ? res.elo : null);
       lastChapterProgressData = res.chapterProgress || null;
       renderChapterProgress();
       return res;
@@ -652,6 +680,7 @@
       var li = el("li", "lb-item" + (isMe ? " me" : ""));
       var scoreHtml = kind === "count" ? item.totalDone + " câu"
         : kind === "duel" ? item.wins + " thắng"
+        : kind === "elo" ? item.elo + " ELO"
         : item.score + "%";
       li.innerHTML =
         '<span class="lb-rank">' + (medals[i] || (i + 1)) + '</span>' +
@@ -663,8 +692,11 @@
   function startLeaderboardPolling() {
     refreshLeaderboard();
     refreshDuelLeaderboard();
+    refreshEloLeaderboard();
     setInterval(function () {
-      if (document.visibilityState === "visible") { refreshLeaderboard(); refreshDuelLeaderboard(); }
+      if (document.visibilityState === "visible") {
+        refreshLeaderboard(); refreshDuelLeaderboard(); refreshEloLeaderboard();
+      }
     }, 20000);
   }
 
@@ -683,6 +715,7 @@
     var correctCount = quiz.answers.filter(function (a) { return a.correct; }).length;
     var badgeBanner = $("#result-badge");
     if (badgeBanner) badgeBanner.classList.add("hidden"); // xoá banner của lần trước, tránh nháy nội dung cũ
+    renderResultElo(0, null); // ẩn tạm ô "+X ELO" của lần trước, chờ phản hồi server lượt này
 
     var resultStatsBox = $("#result-stats");
     resultStatsBox.classList.remove("hidden");
@@ -695,8 +728,10 @@
       pin: currentPin(),
       mode: quiz.mode,
       results: quiz.answers
-    }).then(function () {
+    }).then(function (submitRes) {
+      renderResultElo(submitRes && submitRes.eloGain, submitRes && submitRes.elo);
       refreshLeaderboard(); // "ngay khi có sự thay đổi" cho chính học sinh vừa nộp bài
+      refreshEloLeaderboard();
       // Gộp 3 API (stats + streak + tiến độ theo chương) thành 1 lượt gọi duy nhất cho nhanh,
       // và dùng luôn kết quả này để cập nhật ô "tiến độ" ở màn hình kết quả bên dưới.
       refreshProfile().then(function (res) {
@@ -751,18 +786,9 @@
   }
 
   // ---------- Chế độ Đối đầu 1vs1: tiện ích chung ----------
-  function formatMMSS(totalSeconds) {
-    var s = Math.max(0, Math.round(totalSeconds));
-    var m = Math.floor(s / 60);
-    var ss = s % 60;
-    return m + ":" + (ss < 10 ? "0" : "") + ss;
-  }
-  // Đổi 1 chuỗi "yyyy-MM-dd HH:mm:ss" (giờ Việt Nam, do server trả về) thành mốc UTC tuyệt đối (ms) —
-  // tương tự parseVNDateTimeMs_ ở backend, cần cho đồng hồ đếm ngược 5 phút dùng chung mốc với server.
-  function parseVNDateTimeMsClient(s) {
-    var m = String(s || "").match(/^(\d{4})-(\d{2})-(\d{2})[ T](\d{2}):(\d{2}):(\d{2})/);
-    if (!m) return Date.now();
-    return Date.UTC(+m[1], +m[2] - 1, +m[3], +m[4], +m[5], +m[6]) - 7 * 60 * 60 * 1000;
+  function formatDuelScore(n) {
+    var r = Math.round((n || 0) * 10) / 10; // phòng sai số dấu phẩy động (điểm luôn là bội số của 0,5)
+    return (r % 1 === 0 ? r : r.toFixed(1)) + "đ";
   }
   function buildDuelQuestionIds() {
     var pool = shuffle(staticQuestions.concat(extraQuestions));
@@ -772,8 +798,8 @@
     clearInterval(duelWaitTickTimer); duelWaitTickTimer = null;
     clearInterval(duelWaitPollTimer); duelWaitPollTimer = null;
     clearInterval(duelPickPollTimer); duelPickPollTimer = null;
-    clearInterval(duelQuizTickTimer); duelQuizTickTimer = null;
-    clearInterval(duelResultPollTimer); duelResultPollTimer = null;
+    clearInterval(duelPollTimer); duelPollTimer = null;
+    clearTimeout(duelAnswerTimeoutTimer); duelAnswerTimeoutTimer = null;
   }
 
   // ---------- Đối đầu: bước 1 (người thách đấu) — tạo lời thách + phòng chờ 60s ----------
@@ -823,7 +849,7 @@
         if (!res || !duelMatchId) return; // đã hủy/thoát trong lúc chờ phản hồi
         if (res.status === "matched") {
           clearDuelTimers();
-          enterDuelQuiz(res.chapter, res.chapterName, res.questionIds, res.opponent, res.startTime);
+          enterDuelQuiz(res.chapter, res.chapterName, res.questionIds, res.opponent);
         } else if (res.status === "expired" || res.status === "not_found") {
           clearDuelTimers();
           duelMatchId = null;
@@ -887,14 +913,13 @@
         $("#duel-pick-msg").textContent = "";
         clearDuelTimers();
         duelMatchId = matchId;
-        enterDuelQuiz(res.chapter, res.chapterName, res.questionIds, res.opponent, res.startTime);
+        enterDuelQuiz(res.chapter, res.chapterName, res.questionIds, res.opponent);
       });
   }
 
-  // ---------- Đối đầu: bước 2 — cả 2 học sinh vào làm bài (10 câu, tối đa 5 phút) ----------
-  function enterDuelQuiz(chapter, chapterName, questionIds, opponent, startTimeStr) {
+  // ---------- Đối đầu: bước 2 — cả 2 học sinh cùng vào làm bài, câu hỏi hiện song song ----------
+  function enterDuelQuiz(chapter, chapterName, questionIds, opponent) {
     duelOpponentName = opponent;
-    duelQuizStartMs = parseVNDateTimeMsClient(startTimeStr);
     Promise.all([
       loadStaticQuestions(chapter).catch(function () { return []; }),
       apiGet({ action: "extra", chapter: chapter })
@@ -904,44 +929,36 @@
       var pool = staticQs.concat((extraRes && extraRes.questions) || []);
       var byId = {};
       pool.forEach(function (q) { byId[q.id] = q; });
+      // QUAN TRỌNG: giữ NGUYÊN thứ tự questionIds (không shuffle) — 2 học sinh phải thấy đúng CÙNG 1
+      // câu ở CÙNG 1 vị trí (index) thì cơ chế "ai bấm trước khóa câu" mới đồng bộ đúng cho cả 2 bên.
       var duelQuestions = questionIds.map(function (id) { return byId[id]; }).filter(Boolean);
       runDuelQuiz(duelQuestions, chapter, chapterName);
     });
   }
 
   function runDuelQuiz(questions, chapter, chapterName) {
-    if (!questions.length) {
+    if (questions.length < DUEL_QUESTION_COUNT) {
       show("#screen-setup");
-      $("#duel-msg").textContent = "Không tải được câu hỏi cho trận này, thử thách đấu lại nhé.";
+      $("#duel-msg").textContent = "Không tải được đủ câu hỏi cho trận này, thử thách đấu lại nhé.";
       return;
     }
-    quiz = {
-      questions: shuffle(questions),
-      index: 0,
-      isDuel: true,
-      chapter: chapter,
-      chapterName: chapterName,
-      answers: [],
-      locked: false,
-      finished: false
-    };
+    quiz = { questions: questions, index: 0, isDuel: true, chapter: chapter, chapterName: chapterName, finished: false };
+    duelYou = { score: 0, correct: 0, wrong: 0 };
+    duelOpp = { score: 0, correct: 0, wrong: 0, name: duelOpponentName };
+    duelAnsweredLocally = false;
+    duelPhase = "quiz";
     show("#screen-quiz");
+    $("#duel-score-box").classList.remove("hidden");
     $("#duel-timer-box").classList.remove("hidden");
-    updateDuelQuizTimerDisplay();
-    duelQuizTickTimer = setInterval(updateDuelQuizTimerDisplay, 500);
+    updateDuelScoreDisplay();
     renderDuelQuestion();
+    duelPollTimer = setInterval(pollDuelState, DUEL_POLL_MS);
   }
 
-  function updateDuelQuizTimerDisplay() {
-    var remain = DUEL_TIME_LIMIT_SECONDS - Math.round((Date.now() - duelQuizStartMs) / 1000);
-    var box = $("#duel-timer-box");
-    var txt = $("#duel-timer-text");
-    if (txt) txt.textContent = formatMMSS(Math.max(0, remain));
-    if (box) box.classList.toggle("urgent", remain <= 30);
-    if (remain <= 0 && quiz && quiz.isDuel && !quiz.finished) {
-      clearInterval(duelQuizTickTimer); duelQuizTickTimer = null;
-      finishDuelQuiz();
-    }
+  function updateDuelScoreDisplay() {
+    var youEl = $("#duel-score-you"), oppEl = $("#duel-score-opp");
+    if (youEl) youEl.textContent = "Bạn: " + formatDuelScore(duelYou.score);
+    if (oppEl) oppEl.textContent = (duelOpp.name || "Đối thủ") + ": " + formatDuelScore(duelOpp.score);
   }
 
   function renderDuelQuestion() {
@@ -953,113 +970,217 @@
     optsBox.innerHTML = "";
     $("#q-feedback").className = "q-feedback hidden";
     $("#btn-report").classList.add("hidden"); // đối đầu: bỏ bớt báo lỗi để tập trung tốc độ, giáo viên vẫn nhận báo lỗi ở chế độ tự luyện
-    $("#btn-next").classList.add("hidden");   // đối đầu: bấm đáp án là qua câu luôn, không cần nút xác nhận riêng
-    quiz.locked = false;
+    $("#btn-next").classList.add("hidden");   // đối đầu: bấm đáp án là gửi luôn, không cần nút xác nhận riêng
+    duelAnsweredLocally = false;
     ["A", "B", "C", "D"].forEach(function (letter) {
       var b = el("button", "opt-btn");
       b.innerHTML = '<span class="opt-label">' + letter + '</span><span>' + q.options[letter] + '</span>';
       b.addEventListener("click", function () { selectDuelOption(letter, b); });
       optsBox.appendChild(b);
     });
-  }
-  function selectDuelOption(letter, btnEl) {
-    if (quiz.locked) return;
-    quiz.locked = true;
-    var q = quiz.questions[quiz.index];
-    var correct = letter === q.answer;
-    quiz.answers.push({ id: q.id, correct: correct });
-    document.querySelectorAll("#q-options .opt-btn").forEach(function (b) { b.disabled = true; });
-    btnEl.classList.add("selected");
-    setTimeout(function () {
-      if (!quiz || !quiz.isDuel || quiz.finished) return; // đã hết giờ / thoát trong lúc chờ
-      if (quiz.index < quiz.questions.length - 1) {
-        quiz.index++;
-        renderDuelQuestion();
-      } else {
-        finishDuelQuiz();
-      }
-    }, 200);
+    startDuelAnswerCountdown();
   }
 
-  // ---------- Đối đầu: bước 3 — nộp kết quả, chờ đối thủ, hiện thắng/thua/hòa ----------
-  function finishDuelQuiz() {
-    if (!quiz || !quiz.isDuel || quiz.finished) return;
-    quiz.finished = true;
-    clearInterval(duelQuizTickTimer); duelQuizTickTimer = null;
-    $("#duel-timer-box").classList.add("hidden");
-    var name = $("#inp-name").value.trim();
-    var elapsedSeconds = Math.min(DUEL_TIME_LIMIT_SECONDS, Math.round((Date.now() - duelQuizStartMs) / 1000));
-    show("#screen-duel-result");
-    renderDuelWaitingState();
-    apiPost({
-      action: "submitChallengeResult", matchId: duelMatchId, name: name, pin: currentPin(),
-      results: quiz.answers, elapsedSeconds: elapsedSeconds
-    }).then(function (res) {
-      if (!res || !res.ok) {
-        $("#duel-waiting-opponent").textContent = "Có lỗi khi nộp kết quả, thử tải lại trang.";
-        $("#duel-waiting-opponent").classList.remove("hidden");
+  // Đếm ngược riêng cho MỖI câu (không đồng bộ với đồng hồ máy chủ — chỉ để "nhắc" chứ không quyết định
+  // đúng/sai/thắng-thua): hết giờ mà chưa ai bấm thì tự báo server bỏ qua câu này (mode "skip").
+  function startDuelAnswerCountdown() {
+    clearTimeout(duelAnswerTimeoutTimer);
+    var deadlineMs = Date.now() + DUEL_ANSWER_TIMEOUT_MS;
+    var myIndex = quiz.index;
+    (function tick() {
+      if (!quiz || !quiz.isDuel || quiz.finished || quiz.index !== myIndex) return;
+      var remain = Math.max(0, Math.round((deadlineMs - Date.now()) / 1000));
+      var txt = $("#duel-timer-text");
+      if (txt) txt.textContent = remain + "s";
+      var box = $("#duel-timer-box");
+      if (box) box.classList.toggle("urgent", remain <= 5);
+      if (remain <= 0) {
+        if (!duelAnsweredLocally) submitDuelAnswerToServer(myIndex, "skip", false);
         return;
       }
-      renderDuelResult(res);
-      if (res.status !== "xong") {
-        duelResultPollTimer = setInterval(pollDuelResult, 2500);
-      } else {
-        onDuelFinished();
-      }
+      duelAnswerTimeoutTimer = setTimeout(tick, 250);
+    })();
+  }
+
+  function selectDuelOption(letter, btnEl) {
+    if (duelAnsweredLocally) return;
+    duelAnsweredLocally = true;
+    clearTimeout(duelAnswerTimeoutTimer);
+    var q = quiz.questions[quiz.index];
+    var correct = letter === q.answer;
+    document.querySelectorAll("#q-options .opt-btn").forEach(function (b) { b.disabled = true; });
+    btnEl.classList.add("selected");
+    submitDuelAnswerToServer(quiz.index, "answer", correct);
+  }
+
+  function submitDuelAnswerToServer(index, mode, correct) {
+    apiPost({
+      action: "submitDuelAnswer", matchId: duelMatchId, name: $("#inp-name").value.trim(), pin: currentPin(),
+      index: index, mode: mode, correct: !!correct
+    }).then(function () { pollDuelState(); }); // hỏi lại ngay để biết ai khóa được câu + điểm mới nhất
+  }
+
+  // Tô sáng đáp án đúng + thông báo "ai bấm trước" cho câu VỪA bị khóa (so điểm trước/sau để biết chính
+  // mình hay đối thủ vừa được/mất điểm câu đó, vì client không biết trực tiếp mình là "người thách" hay
+  // "đối thủ" trong dữ liệu QState phía server).
+  function showDuelLockedFeedback(entry, iAnsweredThis, iWasCorrect) {
+    var fb = $("#q-feedback");
+    fb.classList.remove("hidden");
+    document.querySelectorAll("#q-options .opt-btn").forEach(function (b) { b.disabled = true; });
+    if (!entry || entry.by === "timeout") {
+      fb.textContent = "⏳ Hết giờ, không ai trả lời kịp — bỏ qua câu này, không ai được/mất điểm.";
+      fb.className = "q-feedback";
+      return;
+    }
+    var q = quiz.questions[quiz.index];
+    document.querySelectorAll("#q-options .opt-btn").forEach(function (b, i) {
+      var L = ["A", "B", "C", "D"][i];
+      if (L === q.answer) b.classList.add("correct");
+      else if (b.classList.contains("selected") && iAnsweredThis && !iWasCorrect) b.classList.add("wrong");
     });
+    if (iAnsweredThis) {
+      fb.textContent = iWasCorrect
+        ? "✔ Em nhanh tay và ĐÚNG! +1 điểm."
+        : "✘ Em nhanh tay nhưng bị SAI, đáp án đúng là " + q.answer + ". −0,5 điểm.";
+      fb.className = "q-feedback " + (iWasCorrect ? "correct" : "wrong");
+    } else {
+      var oppLabel = (duelOpp && duelOpp.name) || "Đối thủ";
+      fb.textContent = entry.correct
+        ? "⚡ " + oppLabel + " bấm trước và ĐÚNG rồi! Đáp án đúng là " + q.answer + "."
+        : "⚡ " + oppLabel + " bấm trước nhưng bị SAI. Đáp án đúng là " + q.answer + ".";
+      fb.className = "q-feedback";
+    }
   }
-  function renderDuelWaitingState() {
-    var name = $("#inp-name").value.trim();
-    $("#duel-you-name").textContent = name + " (em)";
-    $("#duel-opp-name").textContent = duelOpponentName || "Đối thủ";
-    $("#duel-you-score").textContent = "…";
-    $("#duel-you-time").textContent = "";
-    $("#duel-opp-score").textContent = "…";
-    $("#duel-opp-time").textContent = "";
-    $("#duel-result-banner").classList.add("hidden");
-    var waitBox = $("#duel-waiting-opponent");
-    waitBox.textContent = "Đang nộp bài...";
-    waitBox.classList.remove("hidden");
-  }
-  function pollDuelResult() {
+
+  // ---------- Đối đầu: polling chính trong lúc thi đấu (câu bị khóa chưa/oẳn tù tì/đã xong chưa) ----------
+  function pollDuelState() {
     if (!duelMatchId) return;
-    apiGet({ action: "challengeResult", matchId: duelMatchId, name: $("#inp-name").value.trim(), pin: currentPin() })
+    apiGet({ action: "duelState", matchId: duelMatchId, name: $("#inp-name").value.trim(), pin: currentPin() })
       .then(function (res) {
-        if (!res || !res.ok) return;
-        renderDuelResult(res);
+        if (!res || !res.ok || duelPhase === "done") return;
+        var prevYouAnswered = duelYou.correct + duelYou.wrong;
+        var prevYouCorrect = duelYou.correct;
+        duelYou = res.you;
+        duelOpp = res.opponent;
+        updateDuelScoreDisplay();
+
         if (res.status === "xong") {
-          clearInterval(duelResultPollTimer); duelResultPollTimer = null;
-          onDuelFinished();
+          finishDuelQuiz(res);
+          return;
+        }
+        if (res.status === "tie_break") {
+          if (duelPhase !== "tie_break") {
+            duelPhase = "tie_break";
+            clearTimeout(duelAnswerTimeoutTimer);
+            show("#screen-duel-rps");
+          }
+          renderDuelRpsState(res.rps);
+          return;
+        }
+        // status "da_ghep": nếu server đã xử lý xong câu hiện tại (đối thủ khóa trước, hoặc mình vừa
+        // khóa xong, hoặc hết giờ bỏ qua) -> hiện phản hồi rồi CẢ 2 BÊN cùng chuyển sang câu res.index
+        // (nguồn "đúng" chung, không chỉ dựa vào việc riêng mình vừa bấm hay chưa).
+        if (quiz && quiz.isDuel && !quiz.finished && res.index > quiz.index) {
+          var iAnsweredThis = (res.you.correct + res.you.wrong) > prevYouAnswered;
+          var iWasCorrect = res.you.correct > prevYouCorrect;
+          showDuelLockedFeedback(res.qstate[quiz.index], iAnsweredThis, iWasCorrect);
+          clearTimeout(duelAnswerTimeoutTimer);
+          var nextIndex = res.index;
+          setTimeout(function () {
+            if (!quiz || !quiz.isDuel || quiz.finished) return;
+            quiz.index = nextIndex;
+            if (quiz.index < quiz.questions.length) renderDuelQuestion();
+          }, 1200);
         }
       });
+  }
+
+  // ---------- Đối đầu: bằng điểm cuối trận -> phân định bằng Oẳn tù tì ----------
+  function renderDuelRpsState(rps) {
+    if (!rps) return;
+    var choseAlready = !!rps.yourChoice;
+    document.querySelectorAll(".duel-rps-btn").forEach(function (b) {
+      b.disabled = choseAlready;
+      b.classList.toggle("selected", choseAlready && b.getAttribute("data-choice") === rps.yourChoice);
+    });
+    $("#duel-rps-info").textContent = rps.round > 1
+      ? "Ra kèo giống nhau, chơi lại! (Vòng " + rps.round + ")"
+      : "Bằng điểm nhau! Ai thắng ván Oẳn tù tì này sẽ thắng chung cuộc.";
+    var msgEl = $("#duel-rps-msg");
+    var revealEl = $("#duel-rps-reveal");
+    if (!choseAlready) {
+      msgEl.textContent = "";
+      revealEl.classList.add("hidden");
+      return;
+    }
+    if (!rps.opponentChoice) {
+      msgEl.textContent = "Em đã chọn " + DUEL_RPS_LABELS[rps.yourChoice] + " — đang chờ đối thủ chọn...";
+      revealEl.classList.add("hidden");
+    } else {
+      msgEl.textContent = "";
+      revealEl.classList.remove("hidden");
+      revealEl.innerHTML = "Em: <b>" + DUEL_RPS_LABELS[rps.yourChoice] + "</b> &nbsp;—&nbsp; Đối thủ: <b>" +
+        DUEL_RPS_LABELS[rps.opponentChoice] + "</b>";
+    }
+  }
+  function chooseDuelRps(choice) {
+    apiPost({
+      action: "submitDuelRps", matchId: duelMatchId, name: $("#inp-name").value.trim(), pin: currentPin(), choice: choice
+    }).then(function () { pollDuelState(); });
+  }
+
+  // ---------- Đối đầu: bước 3 — hiện thắng/thua/hòa (đã tự động chốt ở phía server) ----------
+  function finishDuelQuiz(res) {
+    if (quiz) quiz.finished = true;
+    duelPhase = "done";
+    clearInterval(duelPollTimer); duelPollTimer = null;
+    clearTimeout(duelAnswerTimeoutTimer); duelAnswerTimeoutTimer = null;
+    $("#duel-score-box").classList.add("hidden");
+    $("#duel-timer-box").classList.add("hidden");
+    show("#screen-duel-result");
+    renderDuelResult(res);
+    onDuelFinished();
   }
   function renderDuelResult(res) {
     var name = $("#inp-name").value.trim();
     $("#duel-you-name").textContent = name + " (em)";
     $("#duel-opp-name").textContent = (res.opponent && res.opponent.name) || duelOpponentName || "Đối thủ";
-    $("#duel-you-score").textContent = res.you.correct == null ? "…" : res.you.correct + "/" + DUEL_QUESTION_COUNT + " đúng";
-    $("#duel-you-time").textContent = res.you.timeSec == null ? "" : "⏱ " + formatMMSS(res.you.timeSec);
+    $("#duel-you-score").textContent = formatDuelScore(res.you.score);
+    $("#duel-you-time").textContent = "✔ " + res.you.correct + "  ✘ " + res.you.wrong;
+    $("#duel-opp-score").textContent = formatDuelScore(res.opponent.score);
+    $("#duel-opp-time").textContent = "✔ " + res.opponent.correct + "  ✘ " + res.opponent.wrong;
+    $("#duel-waiting-opponent").classList.add("hidden");
     var banner = $("#duel-result-banner");
-    var waitBox = $("#duel-waiting-opponent");
-    if (res.status !== "xong") {
-      $("#duel-opp-score").textContent = "Đang làm bài...";
-      $("#duel-opp-time").textContent = "";
-      waitBox.textContent = "Đang chờ đối thủ hoàn thành bài làm...";
-      waitBox.classList.remove("hidden");
-      banner.classList.add("hidden");
-      return;
-    }
-    waitBox.classList.add("hidden");
-    $("#duel-opp-score").textContent = (res.opponent.correct == null ? "–" : res.opponent.correct + "/" + DUEL_QUESTION_COUNT + " đúng");
-    $("#duel-opp-time").textContent = res.opponent.timeSec == null ? "" : "⏱ " + formatMMSS(res.opponent.timeSec);
     banner.classList.remove("hidden");
     if (res.outcome === "thang") { banner.textContent = "🏆 Em đã THẮNG!"; banner.className = "duel-result-banner win"; }
     else if (res.outcome === "thua") { banner.textContent = "😅 Em thua lần này, cố lên nhé!"; banner.className = "duel-result-banner lose"; }
     else { banner.textContent = "🤝 Hòa!"; banner.className = "duel-result-banner draw"; }
+
+    var rpsNote = $("#duel-rps-note");
+    if (res.rps && res.rps.yourChoice && res.rps.opponentChoice) {
+      rpsNote.classList.remove("hidden");
+      rpsNote.textContent = "Bằng điểm nên phân định bằng Oẳn tù tì: em ra " + DUEL_RPS_LABELS[res.rps.yourChoice] +
+        ", đối thủ ra " + DUEL_RPS_LABELS[res.rps.opponentChoice] + ".";
+    } else {
+      rpsNote.classList.add("hidden");
+    }
+
+    var eloNote = $("#duel-elo-note");
+    if (eloNote) {
+      if (res.you && typeof res.you.eloChange === "number" && typeof res.you.eloNow === "number") {
+        var sign = res.you.eloChange > 0 ? "+" : "";
+        eloNote.classList.remove("hidden");
+        eloNote.className = "duel-elo-note" + (res.you.eloChange > 0 ? " up" : res.you.eloChange < 0 ? " down" : "");
+        eloNote.innerHTML = "⭐ ELO: " + sign + res.you.eloChange + " — tổng hiện tại: <b>" + res.you.eloNow + "</b>";
+      } else {
+        eloNote.classList.add("hidden");
+      }
+    }
   }
   function onDuelFinished() {
     refreshLeaderboard();
     refreshDuelLeaderboard();
+    refreshEloLeaderboard();
     refreshProfile(); // trận đấu cũng tính vào chuỗi ngày + tiến độ chương, cập nhật lại cho lần quay về màn hình chính
   }
   function exitDuelResult() {
@@ -1067,6 +1188,18 @@
     duelMatchId = null;
     duelOpponentName = null;
     show("#screen-setup");
+  }
+  // Thoát giữa chừng (đang làm bài hoặc đang oẳn tù tì): không có "nộp bài" riêng nữa vì mỗi câu đã tự
+  // ghi nhận ngay khi bị khóa — thoát coi như bỏ cuộc, đối thủ cứ tiếp tục bấm là tự thắng các câu còn lại.
+  function exitDuelMidMatch(confirmMsg) {
+    if (!confirm(confirmMsg)) return false;
+    if (quiz) quiz.finished = true;
+    duelPhase = "done";
+    clearDuelTimers();
+    duelMatchId = null;
+    duelOpponentName = null;
+    show("#screen-setup");
+    return true;
   }
 
   // ---------- Bảng 1vs1 (số trận thắng) ----------
@@ -1080,6 +1213,20 @@
     apiGet({ action: "duelLeaderboard" }).then(function (res) {
       lastDuelLeaderboardData = res || null;
       renderLeaderboardList("#leaderboard-duel-list", "#leaderboard-duel-empty", res && res.leaderboard, "duel");
+    });
+  }
+
+  // ---------- Bảng ELO (đẳng cấp cộng dồn vĩnh viễn, không reset hàng tuần) ----------
+  function refreshEloLeaderboard() {
+    if (!API_URL) {
+      renderLeaderboardList("#leaderboard-elo-list", "#leaderboard-elo-empty", null, "elo");
+      $("#leaderboard-elo-offline").classList.remove("hidden");
+      return;
+    }
+    $("#leaderboard-elo-offline").classList.add("hidden");
+    apiGet({ action: "eloLeaderboard" }).then(function (res) {
+      lastEloLeaderboardData = res || null;
+      renderLeaderboardList("#leaderboard-elo-list", "#leaderboard-elo-empty", res && res.leaderboard, "elo");
     });
   }
 
@@ -1149,10 +1296,8 @@
     $("#btn-report-cancel").addEventListener("click", hideReportPanel);
     $("#btn-report-send").addEventListener("click", sendReport);
     $("#btn-quit").addEventListener("click", function () {
-      if (quiz && quiz.isDuel) {
-        if (confirm("Thoát trận đối đầu? Kết quả các câu đã làm sẽ được nộp luôn, em có thể sẽ thua nếu chưa làm xong.")) {
-          finishDuelQuiz();
-        }
+      if (quiz && quiz.isDuel && !quiz.finished) {
+        exitDuelMidMatch("Thoát trận đối đầu? Đối thủ sẽ tự thắng các câu còn lại vì em không trả lời nữa.");
         return;
       }
       if (confirm("Thoát làm bài? Kết quả lần này sẽ không được lưu.")) show("#screen-setup");
@@ -1174,6 +1319,12 @@
       show("#screen-setup");
     });
     $("#btn-duel-restart").addEventListener("click", exitDuelResult);
+    document.querySelectorAll(".duel-rps-btn").forEach(function (b) {
+      b.addEventListener("click", function () { chooseDuelRps(b.getAttribute("data-choice")); });
+    });
+    $("#btn-rps-quit").addEventListener("click", function () {
+      exitDuelMidMatch("Thoát khi đang oẳn tù tì? Đối thủ sẽ được xử thắng luôn.");
+    });
   }
 
   document.addEventListener("DOMContentLoaded", init);

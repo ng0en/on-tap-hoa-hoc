@@ -33,6 +33,10 @@
         <div id="streak-content"></div>
       </div>
 
+      <div id="elo-box" class="stats-box elo-box hidden">
+        <div id="elo-content"></div>
+      </div>
+
       <label class="field">
         <span>Lớp</span>
         <select id="sel-grade"></select>
@@ -83,7 +87,7 @@
       </div>
 
       <div id="duel-panel" class="hidden">
-        <div class="duel-info">⚔️ Đối đầu 1vs1: 10 câu ngẫu nhiên trong chương đã chọn ở trên, làm trong tối đa 5 phút. Ai đúng nhiều hơn thắng — bằng điểm thì ai nhanh hơn thắng.</div>
+        <div class="duel-info">⚔️ Đối đầu 1vs1: 10 câu ngẫu nhiên trong chương đã chọn ở trên, cả 2 bạn cùng thấy 1 câu — ai bấm trả lời TRƯỚC thì câu đó bị khóa lại (đúng +1 điểm, sai −0,5 điểm), bạn còn lại không được trả lời câu đó nữa. Hết 10 câu ai điểm cao hơn thắng, bằng điểm thì Oẳn tù tì phân định. Thắng/thua đều ảnh hưởng ELO — thắng đối thủ ELO cao hơn mình thì được cộng nhiều hơn!</div>
         <div class="duel-btn-row">
           <button id="btn-challenge" type="button" class="btn-primary" disabled>⚔️ Thách thức</button>
           <button id="btn-accept-challenge" type="button" class="btn-secondary" disabled>🤝 Đồng ý thử thách</button>
@@ -120,6 +124,24 @@
     </div>
   </section>
 
+  <!-- MÀN HÌNH ĐỐI ĐẦU: OẲN TÙ TÌ (bằng điểm cuối trận) -->
+  <section id="screen-duel-rps" class="screen hidden">
+    <header class="topbar">
+      <button id="btn-rps-quit" class="btn-back">&larr; Thoát</button>
+      <h1>🤜🤛 Oẳn tù tì!</h1>
+    </header>
+    <div class="card duel-rps-card">
+      <p id="duel-rps-info" class="duel-rps-info">Bằng điểm nhau! Ai thắng ván Oẳn tù tì này sẽ thắng chung cuộc.</p>
+      <div class="duel-rps-choices">
+        <button type="button" class="duel-rps-btn" data-choice="keo">✌️<span>Kéo</span></button>
+        <button type="button" class="duel-rps-btn" data-choice="bua">✊<span>Búa</span></button>
+        <button type="button" class="duel-rps-btn" data-choice="bao">✋<span>Bao</span></button>
+      </div>
+      <div id="duel-rps-msg" class="msg"></div>
+      <div id="duel-rps-reveal" class="duel-rps-reveal hidden"></div>
+    </div>
+  </section>
+
   <!-- MÀN HÌNH ĐỐI ĐẦU: KẾT QUẢ -->
   <section id="screen-duel-result" class="screen hidden">
     <header class="topbar">
@@ -140,6 +162,8 @@
           <div class="duel-vs-time" id="duel-opp-time"></div>
         </div>
       </div>
+      <div id="duel-rps-note" class="duel-rps-note hidden"></div>
+      <div id="duel-elo-note" class="duel-elo-note hidden"></div>
       <div id="duel-waiting-opponent" class="msg hidden">Đang chờ đối thủ hoàn thành bài làm...</div>
       <button id="btn-duel-restart" class="btn-secondary">Về màn hình chính</button>
     </div>
@@ -150,9 +174,14 @@
     <header class="topbar">
       <button id="btn-quit" class="btn-back">&larr; Thoát</button>
       <div id="quiz-progress" class="progress-text"></div>
-      <div id="duel-timer-box" class="duel-timer-box hidden">⏱ <span id="duel-timer-text">5:00</span></div>
+      <div id="duel-timer-box" class="duel-timer-box hidden">⏳ <span id="duel-timer-text">20s</span></div>
     </header>
     <div class="progress-bar-wrap"><div id="progress-bar" class="progress-bar"></div></div>
+    <div id="duel-score-box" class="duel-score-box hidden">
+      <span id="duel-score-you">Bạn: 0đ</span>
+      <span class="duel-score-sep">–</span>
+      <span id="duel-score-opp">Đối thủ: 0đ</span>
+    </div>
 
     <div class="card" id="question-card">
       <div id="q-stem" class="q-stem"></div>
@@ -182,6 +211,7 @@
     </header>
     <div class="card">
       <div id="result-score" class="result-score"></div>
+      <div id="result-elo" class="result-elo hidden"></div>
       <div id="result-badge" class="badge-banner hidden"></div>
       <div id="result-grid" class="result-grid"></div>
       <div id="result-stats" class="stats-box"></div>
@@ -193,6 +223,14 @@
 </div>
 
   <div id="col-leaderboard" class="side-col">
+    <aside id="panel-leaderboard-elo" class="side-panel panel-elo">
+      <h2 class="panel-title">🏅 Bảng ELO</h2>
+      <p class="panel-sub">Đẳng cấp cộng dồn vĩnh viễn — không giới hạn, không reset!</p>
+      <ol id="leaderboard-elo-list" class="leaderboard-list"></ol>
+      <p id="leaderboard-elo-empty" class="panel-empty hidden">Chưa có dữ liệu ELO.</p>
+      <p id="leaderboard-elo-offline" class="panel-empty hidden">Bảng xếp hạng cần kết nối backend.</p>
+    </aside>
+
     <aside id="panel-leaderboard" class="side-panel">
       <h2 class="panel-title">🏆 Bảng xếp hạng</h2>
       <p class="panel-sub">Top 10 học sinh có điểm trung bình cao nhất</p>
