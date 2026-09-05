@@ -693,11 +693,13 @@
     refreshLeaderboard();
     refreshDuelLeaderboard();
     refreshEloLeaderboard();
+    // 8 giây/lần — khớp với thời gian cache 8 giây ở backend (LB_CACHE_TTL_SECONDS trong AppsScript_Code.gs),
+    // nên dù hỏi lại nhanh hơn cũng không làm sheet bị quét lại nhiều lần không cần thiết.
     setInterval(function () {
       if (document.visibilityState === "visible") {
         refreshLeaderboard(); refreshDuelLeaderboard(); refreshEloLeaderboard();
       }
-    }, 20000);
+    }, 8000);
   }
 
   function nextQuestion() {
