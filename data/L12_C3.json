@@ -1,1476 +1,1476 @@
 [
- {
-  "id": "L12_C3_0001",
-  "stem": "(Đề TN THPT QG - 2020) Chất nào sau đây là amine?",
-  "options": {
-   "A": "C2H5NH2.",
-   "B": "HCOOH.",
-   "C": "C2H5OH.",
-   "D": "CH3COOC2H5."
-  },
-  "answer": "A"
- },
- {
-  "id": "L12_C3_0002",
-  "stem": "(Đề MH – 2022) Phân tử chất nào sau đây chứa nguyên tử nitrogen?",
-  "options": {
-   "A": "Acetic acid.",
-   "B": "Methylamine.",
-   "C": "Tinh bột.",
-   "D": "Glucose."
-  },
-  "answer": "B"
- },
- {
-  "id": "L12_C3_0003",
-  "stem": "(Đề TSCĐ - 2012) Công thức chung của amine no, đơn chức, mạch hở là",
-  "options": {
-   "A": "CnH2n-5N (n ≥ 6).",
-   "B": "CnH2n+1N (n ≥ 2).",
-   "C": "CnH2n-1N (n ≥ 2).",
-   "D": "CnH2n+3N (n ≥1)."
-  },
-  "answer": "D"
- },
- {
-  "id": "L12_C3_0004",
-  "stem": "Công thức tổng quát của amine no, mạch hở có dạng là",
-  "options": {
-   "A": "CnH2n+3N.",
-   "B": "CnH2n+2+kNk.",
-   "C": "CnH2n+2-2a+kNk.",
-   "D": "CnH2n+1N."
-  },
-  "answer": "B"
- },
- {
-  "id": "L12_C3_0005",
-  "stem": "Công thức chung của amine không no (có 1C=C), đơn chức, mạch hở là",
-  "options": {
-   "A": "CnH2n-5N (n ≥ 6).",
-   "B": "CnH2n+1N (n ≥ 2).",
-   "C": "CnH2n-1N (n ≥ 2).",
-   "D": "CnH2n+3N (n ≥1)."
-  },
-  "answer": "B"
- },
- {
-  "id": "L12_C3_0006",
-  "stem": "(Đề TSĐH A - 2011) Alcohol và amine nào sau đây cùng bậc?",
-  "options": {
-   "A": "(CH3)3COH và (CH3)3CNH2.",
-   "B": "(C6H5)2NH và C6H5CH2OH.",
-   "C": "(CH3)2CHOH và (CH3)2CHNH2.",
-   "D": "C6H5NHCH3 và C6H5CH(OH)CH3."
-  },
-  "answer": "D"
- },
- {
-  "id": "L12_C3_0007",
-  "stem": "(Đề THPT QG - 2016) Chất nào sau đây thuộc loại amine bậc ba?",
-  "options": {
-   "A": "C2H5-NH2.",
-   "B": "(CH3)3N.",
-   "C": "CH3-NH-CH3.",
-   "D": "CH3-NH2."
-  },
-  "answer": "B"
- },
- {
-  "id": "L12_C3_0008",
-  "stem": "(SBT Hóa học 12 – CB) Trong các chất dưới đây, chất nào là amine bậc hai?",
-  "options": {
-   "A": "H2N[CH2]6NH2.",
-   "B": "(CH3)2CHNH2.",
-   "C": "CH3NHCH3.",
-   "D": "C6H5NH2."
-  },
-  "answer": "C"
- },
- {
-  "id": "L12_C3_0009",
-  "stem": "(Đề MH – 2023) Chất nào sau đây là amine bậc một?",
-  "options": {
-   "A": "CH3NHC2H5.",
-   "B": "(CH3)2NH.",
-   "C": "(C2H5)3N.",
-   "D": "C6H5NH2."
-  },
-  "answer": "D"
- },
- {
-  "id": "L12_C3_0010",
-  "stem": "(Đề MH - 2024) Chất nào sau đây thuộc loại amine bậc một?",
-  "options": {
-   "A": "Triolein.",
-   "B": "Trimethylamine.",
-   "C": "Dimethylamine.",
-   "D": "Methylamine."
-  },
-  "answer": "D"
- },
- {
-  "id": "L12_C3_0011",
-  "stem": "(Đề TSCĐ - 2010) Số amine thơm bậc một ứng với công thức phân tử C7H9N là",
-  "options": {
-   "A": "3.",
-   "B": "2.",
-   "C": "5.",
-   "D": "4."
-  },
-  "answer": "D"
- },
- {
-  "id": "L12_C3_0012",
-  "stem": "(Đề TSCĐ - 2009) Số đồng phân cấu tạo của amine bậc một có cùng công thức phân tử C4H11N là",
-  "options": {
-   "A": "4.",
-   "B": "5.",
-   "C": "2.",
-   "D": "3."
-  },
-  "answer": "A"
- },
- {
-  "id": "L12_C3_0013",
-  "stem": "(Đề MH lần II - 2017) Số amine có công thức phân tử C3H9N là",
-  "options": {
-   "A": "2.",
-   "B": "3.",
-   "C": "4.",
-   "D": "5."
-  },
-  "answer": "C"
- },
- {
-  "id": "L12_C3_0014",
-  "stem": "(Đề TSĐH A - 2012) Số amine bậc một có cùng công thức phân tử C3H9N là",
-  "options": {
-   "A": "3.",
-   "B": "1.",
-   "C": "2.",
-   "D": "4."
-  },
-  "answer": "C"
- },
- {
-  "id": "L12_C3_0015",
-  "stem": "(SGK – KNTT) Trong các đồng phân cấu tạo của các amine có công thức C3H9N, số amine bậc hai là",
-  "options": {
-   "A": "0.",
-   "B": "1.",
-   "C": "2.",
-   "D": "3."
-  },
-  "answer": "B"
- },
- {
-  "id": "L12_C3_0016",
-  "stem": "(Đề TSĐH A - 2010) Trong số các chất: C3H8, C3H7Cl, C3H8O và C3H9N; chất có nhiều đồng phân cấu tạo nhất là",
-  "options": {
-   "A": "C3H9N.",
-   "B": "C3H7Cl.",
-   "C": "C3H8O.",
-   "D": "C3H8."
-  },
-  "answer": "A"
- },
- {
-  "id": "L12_C3_0017",
-  "stem": "(Đề TSĐH A - 2014) Có bao nhiêu amine bậc ba là đồng phân cấu tạo của nhau ứng với công thức phân tử C5H13N?",
-  "options": {
-   "A": "4.",
-   "B": "2.",
-   "C": "5.",
-   "D": "3."
-  },
-  "answer": "D"
- },
- {
-  "id": "L12_C3_0018",
-  "stem": "(SGK – CTST) Số đồng phân amine bậc hai có công thức phân tử C5H13N là",
-  "options": {
-   "A": "6.",
-   "B": "3.",
-   "C": "4.",
-   "D": "5."
-  },
-  "answer": "A"
- },
- {
-  "id": "L12_C3_0019",
-  "stem": "(Đề THPT QG - 2017) Công thức phân tử của dimethylamine là",
-  "options": {
-   "A": "C2H8N2.",
-   "B": "C2H7N.",
-   "C": "C4H11N",
-   "D": "C2H6N2."
-  },
-  "answer": "B"
- },
- {
-  "id": "L12_C3_0020",
-  "stem": "(Đề TNTHPT – 2022) Công thức phân tử của ethylamine là",
-  "options": {
-   "A": "C4H11N.",
-   "B": "CH5N.",
-   "C": "C3H9N.",
-   "D": "C2H7N."
-  },
-  "answer": "D"
- },
- {
-  "id": "L12_C3_0021",
-  "stem": "(Đề TNTHPT – 2022) Chất X có công thức CH3NH2. Tên gọi của X là",
-  "options": {
-   "A": "trimethylamine.",
-   "B": "ethylamine.",
-   "C": "methylamine.",
-   "D": "dimethylamine."
-  },
-  "answer": "C"
- },
- {
-  "id": "L12_C3_0022",
-  "stem": "(Đề TNTHPT – 2023) Hợp chất C2H5NHC2H5 có tên là",
-  "options": {
-   "A": "ethylmethylamine.",
-   "B": "dimethylamine.",
-   "C": "propylamine.",
-   "D": "diethylamine."
-  },
-  "answer": "D"
- },
- {
-  "id": "L12_C3_0023",
-  "stem": "(Đề TNTHPT – 2023) Hợp chất CH3NHCH3 có tên là",
-  "options": {
-   "A": "propylamine.",
-   "B": "diethylamine.",
-   "C": "ethylmethylamine.",
-   "D": "dimethylamine."
-  },
-  "answer": "D"
- },
- {
-  "id": "L12_C3_0024",
-  "stem": "(SGK – CTST) Tên gọi và bậc của amine có công thức cấu tạo CH3CH2CH(CH3)CH2-NH2 là",
-  "options": {
-   "A": "3-methylbutan-4-amine, bậc một.",
-   "B": "2-methylbutan-l-amine, bậc hai.",
-   "C": "3-methylbutan-4-amine, bậc hai.",
-   "D": "2-methylbutan-l-amine, bậc một."
-  },
-  "answer": "D"
- },
- {
-  "id": "L12_C3_0025",
-  "stem": "(SBT Hóa học 12 – CB) Trong các tên gọi dưới đây, tên nào phù hợp với chất (CH3)2CHNH2?",
-  "options": {
-   "A": "Methylethylamine.",
-   "B": "Ethylmethylamine.",
-   "C": "Isopropanamine.",
-   "D": "Isopropylamine."
-  },
-  "answer": "D"
- },
- {
-  "id": "L12_C3_0026",
-  "stem": "(SBT Hóa học 12 – CB) Trong các tên gọi sau tên gọi nào phù hợp với chất C6H5CH2NH2?",
-  "options": {
-   "A": "Benzylamine.",
-   "B": "Benzenamine.",
-   "C": "Phenylamine.",
-   "D": "Aniline."
-  },
-  "answer": "A"
- },
- {
-  "id": "L12_C3_0027",
-  "stem": "(Đề MH lần III - 2017) Dung dịch chất nào sau đây không làm quỳ tím chuyển màu?",
-  "options": {
-   "A": "Ethylamine.",
-   "B": "Aniline.",
-   "C": "Methylamine.",
-   "D": "Trimethylamine."
-  },
-  "answer": "B"
- },
- {
-  "id": "L12_C3_0028",
-  "stem": "(Đề TSĐH B - 2008) Chất phản ứng với dung dịch FeCl3 cho kết tủa là",
-  "options": {
-   "A": "CH3NH2.",
-   "B": "CH3COOCH3.",
-   "C": "CH3OH.",
-   "D": "CH3COOH."
-  },
-  "answer": "A"
- },
- {
-  "id": "L12_C3_0029",
-  "stem": "(Đề THPT QG - 2019) Ethylamine tác dụng được với chất nào sau đây trong dung dịch?",
-  "options": {
-   "A": "K2SO4.",
-   "B": "NaOH.",
-   "C": "HCl.",
-   "D": "KCl."
-  },
-  "answer": "C"
- },
- {
-  "id": "L12_C3_0030",
-  "stem": "Aniline và phenol đều có phản ứng với",
-  "options": {
-   "A": "dung dịch NaCl.",
-   "B": "nước Br2.",
-   "C": "dung dịch HCl.",
-   "D": "dung dịch NaOH."
-  },
-  "answer": "B"
- },
- {
-  "id": "L12_C3_0031",
-  "stem": "(Đề THPT QG - 2017) Nhỏ vài giọt nước bromine vào ống nghiệm chứa aniline, hiện tượng quan sát được là",
-  "options": {
-   "A": "xuất hiện màu xanh.",
-   "B": "xuất hiện màu tím.",
-   "C": "có kết tủa màu trắng.",
-   "D": "có bọt khí thoát ra."
-  },
-  "answer": "C"
- },
- {
-  "id": "L12_C3_0032",
-  "stem": "(Đề TSĐH B - 2007) Có 3 chất lỏng benzene, aniline, styrene, đựng riêng biệt trong 3 lọ mất nhãn. Thuốc thử để phân biệt 3 chất lỏng trên là",
-  "options": {
-   "A": "dung dịch phenolphthalein.",
-   "B": "nước bromine.",
-   "C": "dung dịch NaOH.",
-   "D": "giấy quì tím."
-  },
-  "answer": "B"
- },
- {
-  "id": "L12_C3_0033",
-  "stem": "Chất hữu cơ X có công thức phân tử là C3H9O2N. X tác dụng với NaOH đun nóng thu được muối Y có phân tử khối nhỏ hơn phân tử khối của X. X không thể là chất nào?",
-  "options": {
-   "A": "CH3CH2COONH4.",
-   "B": "CH3COONH3CH3.",
-   "C": "HCOONH2(CH3)2.",
-   "D": "HCOONH3CH2CH3."
-  },
-  "answer": "A"
- },
- {
-  "id": "L12_C3_0034",
-  "stem": "(Đề THPT QG - 2018) Kết quả thí nghiệm của các chất X, Y, Z với các thuốc thử được ghi ở bảng sau:Các chất X, Y, Z lần lượt là:",
-  "options": {
-   "A": "Aniline, glucose, ethylamine.",
-   "B": "Ethylamine, glucose, aniline.",
-   "C": "Ethylamine, aniline, glucose.",
-   "D": "Glucose, ethylamine, aniline."
-  },
-  "answer": "B"
- },
- {
-  "id": "L12_C3_0035",
-  "stem": "(Đề THPT QG - 2018) Kết quả thí nghiệm của các chất X, Y, Z với các thuốc thử được ghi ở bảng sau:Các chất X, Y, Z lần lượt là:",
-  "options": {
-   "A": "Tinh bột, aniline, ethyl formate.",
-   "B": "Ethyl formate, tinh bột, aniline.",
-   "C": "Tinh bột, ethyl formate, aniline.",
-   "D": "Aniline, ethyl formate, tinh bột."
-  },
-  "answer": "C"
- },
- {
-  "id": "L12_C3_0036",
-  "stem": "(Đề TSĐH A - 2007) Phát biểu nào sau đây không đúng?",
-  "options": {
-   "A": "Acetic acid phản ứng với dung dịch NaOH, lấy dung dịch muối vừa tạo ra cho tác dụng với khí CO2 lại thu được acetic acid.",
-   "B": "Phenol phản ứng với dung dịch NaOH, lấy muối vừa tạo ra cho tác dụng với dung dịch HCl lại thu được phenol.",
-   "C": "Aniline phản ứng với dung dịch HCl, lấy muối vừa tạo ra cho tác dụng với dung dịch NaOH lại thu được aniline.",
-   "D": "Dung dịch sodium phenolate phản ứng với khí CO2, lấy kết tủa vừa tạo ra cho tác dụng với dung dịch NaOH lại thu được sodium phenolate."
-  },
-  "answer": "A"
- },
- {
-  "id": "L12_C3_0037",
-  "stem": "(Đề MH lần I - 2017) Phát biểu nào sau đây đúng?",
-  "options": {
-   "A": "Tất cả các amine đều làm quỳ tím ẩm chuyển màu xanh.",
-   "B": "Ở nhiệt độ thường, tất cả các amine đều tan nhiều trong nước.",
-   "C": "Để rửa sạch ống nghiệm có dính aniline, có thể dùng dung dịch HCl.",
-   "D": "Các amine đều không độc, được sử dụng trong chế biến thực phẩm."
-  },
-  "answer": "C"
- },
- {
-  "id": "L12_C3_0038",
-  "stem": "(TSĐH A – 2009) Phát biểu nào sau đây là đúng?",
-  "options": {
-   "A": "Aniline tác dụng với nitrous acid (HNO2) khi đun nóng, thu được muối diazonium.",
-   "B": "Benzene làm mất màu nước bromine ở nhiệt độ thường.",
-   "C": "Ethylamine phản ứng với nitrous acid (HNO2) ở nhiệt độ thường, sinh ra bọt khí.",
-   "D": "Các alcohol đa chức đều phản ứng với Cu(OH)2 tạo dung dịch màu xanh lam."
-  },
-  "answer": "C"
- },
- {
-  "id": "L12_C3_0039",
-  "stem": "(SGK – Cánh Diều) Phát biểu nào dưới đây không đúng?",
-  "options": {
-   "A": "Phân tử ethylamine chứa nhóm chức –NH2.",
-   "B": "Ethylamine tan tốt trong nước.",
-   "C": "Ethylamine tác dụng với nitrous acid thu được muối diazonium.",
-   "D": "Dung dịch ethylamine trong nước làm quỳ tím hóa xanh."
-  },
-  "answer": "C"
- },
- {
-  "id": "L12_C3_0040",
-  "stem": "(SGK – KNTT) Cho các phát biểu sau:(1) Dung dịch ethylamine và dung dịch aniline đều làm xanh giấy quỳ tím.(2) Nhỏ từ từ đến dư dung dịch methylamine vào dung dịch copper(II) sulfate, ban đầu thấy xuất hiện kết tủa màu xanh nhạt, sau đó kết tủa tan tạo thành dung dịch màu xanh lam.(3) Cho dung dịch methylamine vào ống nghiệm đựng dung dịch iron(III) chloride thấy xuất hiện kết tủa nâu đỏ.(4) Nhỏ vài giọt dung dịch aniline vào ống nghiệm đựng nước bromine thấy xuất hiện kết tủa trắng.Số phát biểu đúng là",
-  "options": {
-   "A": "1.",
-   "B": "2.",
-   "C": "3.",
-   "D": "4."
-  },
-  "answer": "C"
- },
- {
-  "id": "L12_C3_0041",
-  "stem": "(Đề TNTHPT – 2023) Chất nào sau đây có chứa nguyên tố nitrogen trong phân tử?",
-  "options": {
-   "A": "Ethyl formate.",
-   "B": "Saccharose.",
-   "C": "Tristearin.",
-   "D": "Alanine."
-  },
-  "answer": "D"
- },
- {
-  "id": "L12_C3_0043",
-  "stem": "(SBT – CTST) Có bao nhiêu amino acid cần thiết phải cung cấp cho cơ thể thông qua thực phẩm, dinh dưỡng?",
-  "options": {
-   "A": "9.",
-   "B": "20.",
-   "C": "10.",
-   "D": "18."
-  },
-  "answer": "C"
- },
- {
-  "id": "L12_C3_0044",
-  "stem": "(Đề TSCĐ - 2012) Số nhóm amino và số nhóm carboxyl có trong một phân tử glutamic acid tương ứng là",
-  "options": {
-   "A": "1 và 2.",
-   "B": "1 và 1.",
-   "C": "2 và 1.",
-   "D": "2 và 2."
-  },
-  "answer": "C"
- },
- {
-  "id": "L12_C3_0045",
-  "stem": "(Đề TN THPT QG – 2020) Số nhóm carboxyl (COOH) trong phân tử alanine là",
-  "options": {
-   "A": "3.",
-   "B": "4.",
-   "C": "2.",
-   "D": "1."
-  },
-  "answer": "D"
- },
- {
-  "id": "L12_C3_0046",
-  "stem": "(Đề THPT QG - 2017) Hợp chất H2NCH2COOH có tên là",
-  "options": {
-   "A": "valine.",
-   "B": "lysine.",
-   "C": "alanine.",
-   "D": "glycine."
-  },
-  "answer": "D"
- },
- {
-  "id": "L12_C3_0047",
-  "stem": "(Đề TN THPT QG – 2020) Số nhóm amino (NH2) trong phân tử alanine là",
-  "options": {
-   "A": "4.",
-   "B": "2.",
-   "C": "3.",
-   "D": "1."
-  },
-  "answer": "D"
- },
- {
-  "id": "L12_C3_0048",
-  "stem": "(Đề MH lần II - 2017) Amino acid có phân tử khối nhỏ nhất là",
-  "options": {
-   "A": "Glycine.",
-   "B": "Alanine.",
-   "C": "Valine.",
-   "D": "Lysine."
-  },
-  "answer": "A"
- },
- {
-  "id": "L12_C3_0049",
-  "stem": "(SBT Hóa học 12 – CB) Trong các tên gọi dưới đây, tên nào không phù hợp với hợp chất CH3CH(NH2)COOH?",
-  "options": {
-   "A": "2-aminopropanoic acid.",
-   "B": "α-aminopropionic acid.",
-   "C": "Aniline.",
-   "D": "Alanine."
-  },
-  "answer": "C"
- },
- {
-  "id": "L12_C3_0050",
-  "stem": "(SBT Hóa học 12 – CB) Trong các chất dưới đây, tên nào không phù hợp với chất H2N[CH2]4CH(NH2)COOH?",
-  "options": {
-   "A": "1,5-diaminohexanoic acid.",
-   "B": "2,6-diaminohexanoic acid.",
-   "C": "α,ε-diaminocaproic acid.",
-   "D": "Lysine."
-  },
-  "answer": "A"
- },
- {
-  "id": "L12_C3_0051",
-  "stem": "(Đề TSCĐ - 2012) Cho các chất hữu cơ: CH3CH(CH3)NH2(X) và CH3CH(NH2)COOH (Y). Tên thay thế của X và Y lần lượt là",
-  "options": {
-   "A": "propan-1-amine và 2-aminopropanoic acid.",
-   "B": "propan-1-amine và aminoethanoic acid.",
-   "C": "propan-2-amine và aminoethanoic acid.",
-   "D": "propan-2-amine và 2-aminopropanoic acid."
-  },
-  "answer": "D"
- },
- {
-  "id": "L12_C3_0052",
-  "stem": "(Đề MH – 2023) Ở điều kiện thường, chất nào sau đây là chất rắn?",
-  "options": {
-   "A": "Dimethylamine.",
-   "B": "Ethylamine.",
-   "C": "Glycine.",
-   "D": "Methylamine."
-  },
-  "answer": "D"
- },
- {
-  "id": "L12_C3_0053",
-  "stem": "(SBT – CTST) Nguyên nhân chủ yếu dẫn đến tính tan của amino acid trong nước là do",
-  "options": {
-   "A": "phân tử phân cực mạnh nên dễ tan trong nước.",
-   "B": "cấu tạo lưỡng cực của phân tử, có tính kị nước nên ít tan trong nước.",
-   "C": "năng lượng liên kết của phân tử lớn, khó phá vỡ nên ít tan trong nước.",
-   "D": "hình thành liên kết hydrogen với nước nên dễ tan trong nước."
-  },
-  "answer": "A"
- },
- {
-  "id": "L12_C3_0054",
-  "stem": "(SBT – CTST) Ở điều kiện thường, trạng thái tồn tại của amino acid là",
-  "options": {
-   "A": "thể lỏng.",
-   "B": "thể khí.",
-   "C": "thể rắn.",
-   "D": "thể rắn và lỏng."
-  },
-  "answer": "C"
- },
- {
-  "id": "L12_C3_0055",
-  "stem": "(SBT – CTST) Amino acid không có loại phản ứng nào sau đây?",
-  "options": {
-   "A": "Phản ứng với acid và base.",
-   "B": "Phản ứng ester hoá.",
-   "C": "Phản ứng trùng ngưng.",
-   "D": "Phản ứng thuỷ phân."
-  },
-  "answer": "D"
- },
- {
-  "id": "L12_C3_0056",
-  "stem": "(SBT – CTST) Tính lưỡng tính của amino acid thể hiện qua phản ứng với",
-  "options": {
-   "A": "acid mạnh, base mạnh.",
-   "B": "acid, kim loại kiềm.",
-   "C": "alcohol trong môi trường acid mạnh.",
-   "D": "Cu(OH)2, loại phản ứng màu biuret."
-  },
-  "answer": "A"
- },
- {
-  "id": "L12_C3_0057",
-  "stem": "(Đề THPT QG - 2019) Dung dịch nào sau đây không làm đổi màu quỳ tím?",
-  "options": {
-   "A": "NaOH.",
-   "B": "H2NCH2COOH.",
-   "C": "HCl.",
-   "D": "CH3NH2."
-  },
-  "answer": "B"
- },
- {
-  "id": "L12_C3_0060",
-  "stem": "(Đề TSĐH A - 2011) Dung dịch nào sau đây làm quỳ tím đổi thành màu xanh?",
-  "options": {
-   "A": "Dung dịch glycine.",
-   "B": "Dung dịch lysine.",
-   "C": "Dung dịch alanine.",
-   "D": "Dung dịch valine."
-  },
-  "answer": "B"
- },
- {
-  "id": "L12_C3_0061",
-  "stem": "(Đề TSĐH A - 2011) Cho ba dung dịch có cùng nồng độ mol: (1) H2NCH2COOH, (2) CH3COOH, (3) CH3CH2NH2. Dãy xếp theo thứ tự pH tăng dần là:",
-  "options": {
-   "A": "(2), (1), (3).",
-   "B": "(3), (1), (2).",
-   "C": "(1), (2), (3).",
-   "D": "(2), (3), (1)."
-  },
-  "answer": "A"
- },
- {
-  "id": "L12_C3_0062",
-  "stem": "(Đề TN THPT QG - 2020) Dung dịch nào sau đây làm xanh giấy quỳ tím?",
-  "options": {
-   "A": "Glutamic acid.",
-   "B": "Methylamine.",
-   "C": "Alanine.",
-   "D": "Glycine."
-  },
-  "answer": "B"
- },
- {
-  "id": "L12_C3_0063",
-  "stem": "(Đề TSĐH A - 2012) Dung dịch chất nào sau đây làm quỳ tím chuyển thành màu hồng?",
-  "options": {
-   "A": "Aminoacetic acid.",
-   "B": "α-aminopropionic acid.",
-   "C": "α-aminoglutaric acid.",
-   "D": "α,ε-diaminocaproic acid."
-  },
-  "answer": "C"
- },
- {
-  "id": "L12_C3_0064",
-  "stem": "(Đề MH - 2021) Dung dịch nào sau đây làm quỳ tím chuyển sang màu xanh?",
-  "options": {
-   "A": "Glycine.",
-   "B": "Methylamine.",
-   "C": "Aniline.",
-   "D": "Glucose."
-  },
-  "answer": "B"
- },
- {
-  "id": "L12_C3_0065",
-  "stem": "(Đề TN THPT QG – 2021) Dung dịch chất nào sau đây làm quỳ tím chuyển thành màu hồng?",
-  "options": {
-   "A": "Glutamic acid.",
-   "B": "Glycine.",
-   "C": "Alanine.",
-   "D": "Valine."
-  },
-  "answer": "A"
- },
- {
-  "id": "L12_C3_0066",
-  "stem": "(SBT Hóa học 12 – CB) Để phân biệt 3 dung dịch: H2NCH2COOH; CH3COOH; C2H5NH2, chỉ cần dùng một thuốc thử là",
-  "options": {
-   "A": "dung dịch NaOH.",
-   "B": "dung dịch HCl.",
-   "C": "sodium kim loại.",
-   "D": "quỳ tím."
-  },
-  "answer": "D"
- },
- {
-  "id": "L12_C3_0067",
-  "stem": "(Đề THPT QG - 2019) Aminoacetic acid (H2N-CH2-COOH) tác dụng được với dung dịch nào sau đây?",
-  "options": {
-   "A": "NaNO3.",
-   "B": "NaCl.",
-   "C": "HCl.",
-   "D": "Na2SO4."
-  },
-  "answer": "C"
- },
- {
-  "id": "L12_C3_0068",
-  "stem": "(Đề TSĐH B - 2007) Cho các loại hợp chất: amino acid (X), muối ammonium của carboxylic acid (Y), amine (Z), ester của amino acid (T). Dãy gồm các loại hợp chất đều tác dụng với dung dịch NaOH và dung dịch HCl là",
-  "options": {
-   "A": "Y, Z, T.",
-   "B": "X, Y, T.",
-   "C": "X, Y, Z, T.",
-   "D": "X, Y, Z."
-  },
-  "answer": "B"
- },
- {
-  "id": "L12_C3_0069",
-  "stem": "(Đề TSĐH B - 2010) Hai hợp chất hữu cơ X và Y có cùng công thức phân tử là C3H7NO2, đều là chất rắn ở điều kiện thường. Chất X phản ứng với dung dịch NaOH, giải phóng khí. Chất Y có phản ứng trùng ngưng. Các chất X và Y lần lượt là",
-  "options": {
-   "A": "vinylammonium formate và ammonium acrylate.",
-   "B": "ammonium acrylate và 2-aminopropionic acid.",
-   "C": "2-aminopropionic acid và ammonium acrylate.",
-   "D": "2-aminopropionic acid và 3-aminopropionic acid."
-  },
-  "answer": "B"
- },
- {
-  "id": "L12_C3_0070",
-  "stem": "(Đề TSCĐ - 2009) Chất X có công thức phân tử C3H7O2N và làm mất màu nước bromine. Tên gọi của X là",
-  "options": {
-   "A": "methyl aminoacetate.",
-   "B": "α-aminopropionic acid.",
-   "C": "ammonium acrylate.",
-   "D": "β-aminopropionic acid."
-  },
-  "answer": "C"
- },
- {
-  "id": "L12_C3_0071",
-  "stem": "(Đề TSCĐ - 2011) Hai chất nào sau đây đều tác dụng được với dung dịch NaOH loãng?",
-  "options": {
-   "A": "CH3NH3Cl và CH3NH2.",
-   "B": "CH3NH3Cl và H2NCH2COONa.",
-   "C": "CH3NH2 và H2NCH2COOH.",
-   "D": "ClH3NCH2COOC2H5 và H2NCH2COOC2H5."
-  },
-  "answer": "D"
- },
- {
-  "id": "L12_C3_0072",
-  "stem": "(Đề THPT QG - 2017) Kết quả thí nghiệm của các dung dịch X, Y, Z, T với thuốc thử được ghi ở bảng sau:Các dung dịch X, Y, Z, T lần lượt là:",
-  "options": {
-   "A": "Glutamic acid, tinh bột, aniline, glucose.",
-   "B": "Glutamic acid, tinh bột, glucose, aniline.",
-   "C": "Glutamic acid, glucose, tinh bột, aniline.",
-   "D": "Aniline, tinh bột, glucose, glutamic acid."
-  },
-  "answer": "B"
- },
- {
-  "id": "L12_C3_0073",
-  "stem": "(Đề THPT QG - 2015) Bảng dưới đây ghi lại hiện tượng khi làm thí nghiệm với các chất sau ở dạng dung dịch nước: X, Y, Z, T và Q.Các chất X, Y, Z, T và Q lần lượt là:",
-  "options": {
-   "A": "Glycerol, glucose, ethylene glycol, methanol, acetaldehyde.",
-   "B": "Phenol, glucose, glycerol, ethanol, aldehyde formic.",
-   "C": "Aniline, glucose, glycerol, aldehyde formic, methanol.",
-   "D": "Fructose, glucose, acetaldehyde, ethanol, aldehyde formic."
-  },
-  "answer": "B"
- },
- {
-  "id": "L12_C3_0074",
-  "stem": "(Đề THPT QG - 2018) Kết quả thí nghiệm của các chất X, Y, Z với các thuốc thử được ghi ở bảng sau:Các chất X, Y, Z lần lượt là:",
-  "options": {
-   "A": "Ethyl formate, glutamic acid, aniline.",
-   "B": "Glutamic acid, ethyl formate, aniline.",
-   "C": "Aniline, ethyl formate, glutamic acid.",
-   "D": "Glutamic acid, aniline, ethyl formate."
-  },
-  "answer": "B"
- },
- {
-  "id": "L12_C3_0075",
-  "stem": "(Đề TSĐH A - 2008) Phát biểu nào sau đây không đúng?",
-  "options": {
-   "A": "Trong dung dịch, H2N-CH2-COOH còn tồn tại ở dạng ion lưỡng cực H3N+-CH2-COO–.",
-   "B": "Amino acid là hợp chất hữu cơ tạp chức, phân tử chứa đồng thời nhóm -NH2 và nhóm -COOH.",
-   "C": "Amino acid là những chất rắn, kết tinh, tan tốt trong nước và có vị ngọt.",
-   "D": "Hợp chất H2N-CH2-COOH3N-CH3 là ester của glycine."
-  },
-  "answer": "D"
- },
- {
-  "id": "L12_C3_0076",
-  "stem": "(Đề THPT QG - 2017) Phát biểu nào sau đây sai?",
-  "options": {
-   "A": "Dung dịch glutamic acid làm quỳ tím chuyển màu hồng.",
-   "B": "Amino acid là hợp chất hữu cơ tạp chức.",
-   "C": "Dung dịch glycine không làm đổi màu phenolphthalein.",
-   "D": "Aniline tác dụng với nước bromine tạo thành kết tủa màu vàng."
-  },
-  "answer": "D"
- },
- {
-  "id": "L12_C3_0077",
-  "stem": "(Đề THPT QG - 2015) Cho các phát biểu sau:(a) Ở nhiệt độ thường, Cu(OH)2 tan được trong dung dịch glycerol.(b) Ở nhiệt độ thường, C2H4 phản ứng được với nước bromine.(c) Đốt cháy hoàn toàn CH3COOCH3 thu được số mol CO2 bằng số mol H2O.(d) Glycine (H2NCH2COOH) phản ứng được với dung dịch NaOH.Số phát biểu đúng là",
-  "options": {
-   "A": "3.",
-   "B": "4.",
-   "C": "1.",
-   "D": "2."
-  },
-  "answer": "B"
- },
- {
-  "id": "L12_C3_0078",
-  "stem": "(Đề THPT QG - 2018) Cho các phát biểu sau:(a) Phản ứng thế bromine vào vòng thơm của aniline dễ hơn benzene.(b) Có hai chất hữu cơ đơn chức, mạch hở có cùng công thức C2H4O2.(c) Trong phân tử, các amino acid đều chỉ có một nhóm NH2 và một nhóm COOH.(d) Hợp chất H2N-CH2-COO-CH3 tác dụng được với dung dịch NaOH và dung dịch HCl.(e) Thủy phân hoàn toàn tinh bột và cellulose đều thu được glucose.(g) Mỡ động vật và dầu thực vật chứa nhiều chất béo.Số phát biểu đúng là",
-  "options": {
-   "A": "6.",
-   "B": "3.",
-   "C": "4.",
-   "D": "5."
-  },
-  "answer": "D"
- },
- {
-  "id": "L12_C3_0079",
-  "stem": "(Đề THPT QG - 2018) Cho các phát biểu sau:(a) Thủy phân triolein, thu được ethylene glycol.(b) Tinh bột bị thủy phân khi có xúc tác acid hoặc enzyme.(c) Thủy phân vinyl formate, thu được hai sản phẩm đều có phản ứng tráng bạc.(d) Trùng ngưng ε-aminocaproic acid, thu được polycaproamide.(e) Chỉ dùng quỳ tím có thể phân biệt ba dung dịch: alanine, lysine, glutamic acid.(g) Phenylamine tan ít trong nước nhưng tan tốt trong dung dịch HCl.Số phát biểu đúng là",
-  "options": {
-   "A": "4.",
-   "B": "3.",
-   "C": "5.",
-   "D": "2."
-  },
-  "answer": "C"
- },
- {
-  "id": "L12_C3_0080",
-  "stem": "(Đề THPT QG - 2018) Thực hiện các thí nghiệm sau:(a) Sục khí CH3NH2 vào dung dịch CH3COOH.(b) Đun nóng tinh bột trong dung dịch H2SO4 loãng.(c) Sục khí H2 vào nồi kín chứa triolein (xúc tác Ni), đun nóng.(d) Nhỏ vài giọt nước bromine vào dung dịch aniline.(e) Cho dung dịch HCl vào dung dịch glutamic acid.(g) Cho dung dịch methyl formate vào dung dịch AgNO3 trong NH3, đun nóng.Số thí nghiệm xảy ra phản ứng là",
-  "options": {
-   "A": "5.",
-   "B": "4.",
-   "C": "6.",
-   "D": "3."
-  },
-  "answer": "C"
- },
- {
-  "id": "L12_C3_0081",
-  "stem": "Phát biểu nào sau đây đúng?",
-  "options": {
-   "A": "Phân tử dipeptide có 2 liên kết peptide.",
-   "B": "Phân tử tripeptide có 3 liên kết peptide.",
-   "C": "Trong phân tử peptide mạch hở, số liên kết peptide bao giờ cũng bằng gốc α-amino acid.",
-   "D": "Trong phân tử peptide mạch hở chứa n gốc α-amino acid, số liên kết peptide bằng (n-1)."
-  },
-  "answer": "D"
- },
- {
-  "id": "L12_C3_0082",
-  "stem": "Hợp chất nào sau đây thuộc loại dipeptide?",
-  "options": {
-   "A": "H2NCH2CONHCH2CONHCH2COOH.",
-   "B": "H2NCH2CONHCH(CH3)COOH.",
-   "C": "H2NCH2CH2CONHCH2CH2COOH.",
-   "D": "H2NCH2CH2CONHCH2COOH."
-  },
-  "answer": "B"
- },
- {
-  "id": "L12_C3_0083",
-  "stem": "(Đề TNTHPT – 2023) Chất nào sau đây thuộc loại tripeptide?",
-  "options": {
-   "A": "Glucose.",
-   "B": "Saccharose.",
-   "C": "Gly-Ala.",
-   "D": "Gly-Ala-Gly."
-  },
-  "answer": "D"
- },
- {
-  "id": "L12_C3_0084",
-  "stem": "(Đề TN THPT QG – 2021) Chất nào sau đây là dipeptide?",
-  "options": {
-   "A": "Gly-Ala-Gly.",
-   "B": "Ala-Gly-Gly.",
-   "C": "Gly-Ala-Ala.",
-   "D": "Gly-Ala."
-  },
-  "answer": "D"
- },
- {
-  "id": "L12_C3_0085",
-  "stem": "(Đề TNTHPT – 2022) Số liên kết peptide trong phân tử peptide Gly-Ala-Val-Gly là",
-  "options": {
-   "A": "2.",
-   "B": "4.",
-   "C": "3.",
-   "D": "1."
-  },
-  "answer": "C"
- },
- {
-  "id": "L12_C3_0086",
-  "stem": "(Đề TNTHPT – 2022) Số liên kết peptide trong phân tử peptide Gly-Ala-Gly là",
-  "options": {
-   "A": "4.",
-   "B": "3.",
-   "C": "1.",
-   "D": "2."
-  },
-  "answer": "D"
- },
- {
-  "id": "L12_C3_0087",
-  "stem": "Trong phân tử Ala-Gly, amino acid đầu N chứa nhóm",
-  "options": {
-   "A": "NH2.",
-   "B": "COOH.",
-   "C": "NO2.",
-   "D": "CHO."
-  },
-  "answer": "A"
- },
- {
-  "id": "L12_C3_0088",
-  "stem": "Amino acid đầu N và amino acid đầu C trong phân tử peptide Ala-Gly-Val-Gly-Val lần lượt là",
-  "options": {
-   "A": "Val và Ala.",
-   "B": "Ala và Gly.",
-   "C": "Val và Gly.",
-   "D": "Ala và Val."
-  },
-  "answer": "D"
- },
- {
-  "id": "L12_C3_0089",
-  "stem": "Peptide X có công thức cấu tạo như sau: H2N-[CH2]4-CH(NH2)CO-NHCH2-CO-NH-CH(CH3)-COOH. Amino acid đầu N và đầu C tương ứng là",
-  "options": {
-   "A": "Lys và Gly.",
-   "B": "Gly và Ala.",
-   "C": "Ala và Gly.",
-   "D": "Lys và Ala."
-  },
-  "answer": "D"
- },
- {
-  "id": "L12_C3_0090",
-  "stem": "(Đề MH - 2024) Số nguyên tử carbon trong phân tử Gly-Ala là",
-  "options": {
-   "A": "7.",
-   "B": "5.",
-   "C": "4.",
-   "D": "6."
-  },
-  "answer": "B"
- },
- {
-  "id": "L12_C3_0091",
-  "stem": "Dipeptide có công thức: H2NCH2CONHCH(CH3)COOH. Tên viết tắt của X là",
-  "options": {
-   "A": "Gly-Val.",
-   "B": "Gly-Ala.",
-   "C": "Ala-Gly.",
-   "D": "Ala-Val."
-  },
-  "answer": "B"
- },
- {
-  "id": "L12_C3_0092",
-  "stem": "Peptide X có công thức: H2NCH2CONHCH(CH3)CONHCH(CH3)COOH. Tên viết tắt của X là",
-  "options": {
-   "A": "Ala-Gly-Gly.",
-   "B": "Gly-Ala-Ala.",
-   "C": "Gly-Val-Val.",
-   "D": "Ala-Val-Val."
-  },
-  "answer": "B"
- },
- {
-  "id": "L12_C3_0093",
-  "stem": "Phân tử peptide nào sau đây có 4 nguyên tử oxygen?",
-  "options": {
-   "A": "Gly-Ala-Ala.",
-   "B": "Gly-Ala.",
-   "C": "Gly-Gly-Ala-Val.",
-   "D": "Gly-Ala-Glu."
-  },
-  "answer": "A"
- },
- {
-  "id": "L12_C3_0094",
-  "stem": "(SBT – CTST) Tính chất hoá học nào không đặc trưng với loại hợp chất peptide?",
-  "options": {
-   "A": "Phản ứng thủy phân trong môi trường acid.",
-   "B": "Phản ứng màu biuret.",
-   "C": "Phản ứng ester hoá.",
-   "D": "Phản ứng thủy phân trong môi trường base."
-  },
-  "answer": "C"
- },
- {
-  "id": "L12_C3_0095",
-  "stem": "Dung dịch Ala-Gly phản ứng được với dung dịch nào sau đây?",
-  "options": {
-   "A": "HCl.",
-   "B": "KNO3.",
-   "C": "NaCl.",
-   "D": "NaNO3."
-  },
-  "answer": "A"
- },
- {
-  "id": "L12_C3_0096",
-  "stem": "Peptide nào sau đây không có phản ứng màu biuret?",
-  "options": {
-   "A": "Ala-Gly.",
-   "B": "Ala-Ala-Gly-Gly.",
-   "C": "Ala-Gly-Gly.",
-   "D": "Gly-Ala-Gly."
-  },
-  "answer": "A"
- },
- {
-  "id": "L12_C3_0097",
-  "stem": "Tripeptide Gly-Ala-Gly không tác dụng với chất nào sau đây?",
-  "options": {
-   "A": "Cu(OH)2 trong môi trường kiềm.",
-   "B": "Dung dịch Na2SO4.",
-   "C": "Dung dịch HCl.",
-   "D": "Dung dịch NaOH."
-  },
-  "answer": "B"
- },
- {
-  "id": "L12_C3_0098",
-  "stem": "(Đề MH lần III - 2017) Chất nào sau đây không phản ứng với NaOH trong dung dịch?",
-  "options": {
-   "A": "Gly-Ala.",
-   "B": "Glycine.",
-   "C": "Methylamine.",
-   "D": "Methyl formate."
-  },
-  "answer": "C"
- },
- {
-  "id": "L12_C3_0099",
-  "stem": "Thủy phân hoàn toàn H2N-CH2-CO-NH-CH(CH3)-CO-NH-CH(CH3)-CO-NH-CH2-COOH thu được bao nhiêu loại α-amino acid khác nhau?",
-  "options": {
-   "A": "4.",
-   "B": "3.",
-   "C": "5.",
-   "D": "2."
-  },
-  "answer": "D"
- },
- {
-  "id": "L12_C3_0100",
-  "stem": "Thủy phân một peptide có cấu tạo như sau:H2N–CH2–CONH–CH(CH3)–CONH–CH(COOH)–CH2CH2COOHSản phẩm nào sau đây là không thể có sau khi thủy phân?",
-  "options": {
-   "A": "Glu-Gly.",
-   "B": "Ala-Glu.",
-   "C": "Ala.",
-   "D": "Gly-Ala."
-  },
-  "answer": "A"
- },
- {
-  "id": "L12_C3_0101",
-  "stem": "(Đề TSĐH B - 2008) Đun nóng chất H2N-CH2-CONH-CH(CH3)-CONH-CH2-COOH trong dung dịch HCl (dư), sau khi các phản ứng kết thúc thu được sản phẩm là:",
-  "options": {
-   "A": "H2N-CH2-COOH, H2N-CH2-CH2-COOH.",
-   "B": "H3N+-CH2-COOHCl–, H3N+-CH2-CH2-COOHCl–.",
-   "C": "H3N+-CH2-COOHCl–, H3N+-CH(CH3)-COOHCl–.",
-   "D": "H2N-CH2-COOH, H2N-CH(CH3)-COOH."
-  },
-  "answer": "C"
- },
- {
-  "id": "L12_C3_0102",
-  "stem": "(Đề THPT QG - 2017) Thủy phân hoàn toàn 1 mol pentapeptide X mạch hở, thu được 3 mol glycine, 1 mol alanine và 1 mol valine. Mặt khác, thủy phân không hoàn toàn X, thu được hỗn hợp sản phẩm trong đó có Ala-Gly, Gly-Ala, Gly-Gly-Val. Cấu tạo của X là",
-  "options": {
-   "A": "Gly-Ala-Gly-Gly-Val.",
-   "B": "Ala-Gly-Gly-Val-Gly.",
-   "C": "Gly-Gly-Val-Gly-Ala.",
-   "D": "Gly-Gly-Ala-Gly-Val."
-  },
-  "answer": "A"
- },
- {
-  "id": "L12_C3_0103",
-  "stem": "(Đề THPT QG - 2017) Thủy phân không hoàn toàn tetrepeptide X mạch hở, thu được hỗn hợp sản phẩm trong đó có Gly-Ala, Phe-Val và Ala-Phe. Cấu tạo của X là",
-  "options": {
-   "A": "Gly-Ala-Val-Phe.",
-   "B": "Val-Phe-Gly-Ala.",
-   "C": "Ala-Val-Phe-Gly.",
-   "D": "Gly-Ala-Phe-Val."
-  },
-  "answer": "D"
- },
- {
-  "id": "L12_C3_0104",
-  "stem": "(Đề TSĐH B - 2010) Thủy phân hoàn toàn 1 mol pentapeptide X, thu được 2 mol Gly, 1 mol Ala, 1 mol Val và 1 mol Phe. Thủy phân không hoàn toàn X thu được dipeptide Val-Phe và tripeptide Gly-Ala-Val nhưng không thu được dipeptide Gly-Gly. Chất X có công thức là",
-  "options": {
-   "A": "Gly-Phe-Gly-Ala-Val.",
-   "B": "Gly-Ala-Val-Val-Phe.",
-   "C": "Gly-Ala-Val-Phe-Gly.",
-   "D": "Val-Phe-Gly-Ala-Gly."
-  },
-  "answer": "C"
- },
- {
-  "id": "L12_C3_0105",
-  "stem": "(Đề THPT QG - 2018) Kết quả thí nghiệm của các chất X, Y, Z với các thuốc thử được ghi ở bảng sau:Các chất X, Y, Z lần lượt là:",
-  "options": {
-   "A": "Gly-Ala-Gly, ethyl formate, aniline.",
-   "B": "Gly-Ala-Gly, aniline, ethyl formate.",
-   "C": "Ethyl formate, Gly-Ala-Gly, aniline.",
-   "D": "Aniline, ethyl formate, Gly-Ala-Gly."
-  },
-  "answer": "A"
- },
- {
-  "id": "L12_C3_0106",
-  "stem": "(Đề THPT QG - 2019) Phát biểu nào sau đây đúng?",
-  "options": {
-   "A": "Glycine là hợp chất có tính lưỡng tính.",
-   "B": "Dimethylamine có công thức CH3CH2NH2.",
-   "C": "Phân tử Gly-Ala-Val có 6 nguyên tử oxygen.",
-   "D": "Valine tác dụng với dung dịch Br2 tạo kết tủa."
-  },
-  "answer": "A"
- },
- {
-  "id": "L12_C3_0107",
-  "stem": "(Đề THPT QG - 2019) Phát biểu nào sau đây đúng?",
-  "options": {
-   "A": "Ở điều kiện thường, glycine là chất lỏng.",
-   "B": "Aniline tác dụng với nước bromine tạo kết tủa.",
-   "C": "Phân tử Gly-Ala có một nguyên tử nitrogen.",
-   "D": "Phân tử glutamic acid có hai nguyên tử oxygen."
-  },
-  "answer": "B"
- },
- {
-  "id": "L12_C3_0108",
-  "stem": "(Đề TSĐH A - 2012) Phát biểu nào sau đây là đúng?",
-  "options": {
-   "A": "Tất cả các peptide đều có phản ứng màu biuret.",
-   "B": "H2N-CH2-CH2-CO-NH-CH2-COOH là một dipeptide.",
-   "C": "Muối phenylammonium chloride không tan trong nước.",
-   "D": "Ở điều kiện thường, methylamine và dimethylamine là những chất khí có mùi khai."
-  },
-  "answer": "D"
- },
- {
-  "id": "L12_C3_0109",
-  "stem": "(Đề MH lần III - 2017) Cho các phát biểu sau:(a) Tất cả các peptide đều có phản ứng màu biuret.(b) Muối phenylammonium chloride không tan trong nước.(c) Ở điều kiện thường, methylamine và dimethylamine là những chất khí.(d) Trong phân tử peptide mạch hở Gly-Ala-Gly có 4 nguyên tử oxygen.(e) Ở điều kiện thường, amino acid là những chất lỏng.Số phát biểu đúng là",
-  "options": {
-   "A": "2.",
-   "B": "4.",
-   "C": "5.",
-   "D": "3."
-  },
-  "answer": "A"
- },
- {
-  "id": "L12_C3_0110",
-  "stem": "(Đề THPT QG - 2018) Cho các phát biểu sau:(a) Dipeptide Gly-Ala có phản ứng màu biuret.(b) Dung dịch glutamic acid đổi màu quỳ tím thành xanh.(c) Methyl formate và glucose có cùng công thức đơn giản nhất.(d) Methylamine có lực base mạnh hơn ammonia.(e) Saccharose có phản ứng thủy phân trong môi trường acid.(g) Methyl methacrylate làm mất màu nước bromine.Số phát biểu đúng là",
-  "options": {
-   "A": "6.",
-   "B": "4.",
-   "C": "5.",
-   "D": "3."
-  },
-  "answer": "B"
- },
- {
-  "id": "L12_C3_0111",
-  "stem": "(SGK – CTST) Chất cơ sở để hình thành nên các phân tử protein đơn giản là",
-  "options": {
-   "A": "α-amino acid.",
-   "B": "acid béo.",
-   "C": "các loại đường.",
-   "D": "tinh bột."
-  },
-  "answer": "A"
- },
- {
-  "id": "L12_C3_0112",
-  "stem": "Protein nào sau đây có trong lòng trắng trứng?",
-  "options": {
-   "A": "Fibroin.",
-   "B": "Albumin.",
-   "C": "Fibroin.",
-   "D": "Hemoglobin."
-  },
-  "answer": "B"
- },
- {
-  "id": "L12_C3_0113",
-  "stem": "Sản phẩm cuối cùng của quá trình thủy phân các protein đơn giản nhờ chất xúc tác thích hợp là",
-  "options": {
-   "A": "ester.",
-   "B": "α-amino acid.",
-   "C": "carboxylic acid.",
-   "D": "β-amino acid."
-  },
-  "answer": "B"
- },
- {
-  "id": "L12_C3_0114",
-  "stem": "Đốt cháy hoàn toàn chất hữu cơ nào sau đây thu được sản phẩm có chứa N2?",
-  "options": {
-   "A": "Chất béo.",
-   "B": "Tinh bột.",
-   "C": "Cellulose.",
-   "D": "Protein."
-  },
-  "answer": "D"
- },
- {
-  "id": "L12_C3_0115",
-  "stem": "(Đề MH lần I - 2017) Chất có phản ứng màu biuret là",
-  "options": {
-   "A": "chất béo.",
-   "B": "protein.",
-   "C": "tinh bột.",
-   "D": "saccharose."
-  },
-  "answer": "B"
- },
- {
-  "id": "L12_C3_0116",
-  "stem": "Sự kết tủa protein bằng nhiệt độ được gọi là",
-  "options": {
-   "A": "sự trùng ngưng protein.",
-   "B": "sự ngưng tụ protein.",
-   "C": "sự phân hủy protein.",
-   "D": "sự đông tụ protein."
-  },
-  "answer": "D"
- },
- {
-  "id": "L12_C3_0117",
-  "stem": "Khi nhỏ acid HNO3 đậm đặc vào dd lòng trắng trứng đun nóng hỗn hợp thấy xuất hiện: ..(1).., cho copper(II) hydroxide vào dung dịch lòng trắng trứng thấy màu ..(2).. xuất hiện",
-  "options": {
-   "A": "(1) kết tủa màu vàng, (2) xanh.",
-   "B": "(1) kết tủa màu xanh, (2) vàng.",
-   "C": "(1) kết tủa màu trắng, (2) tím.",
-   "D": "(1) kết tủa màu vàng, (2) tím."
-  },
-  "answer": "D"
- },
- {
-  "id": "L12_C3_0118",
-  "stem": "Khi đun nóng protein trong dung dịch acid hoặc kiềm hoặc dưới tác dụng của các enzyme, protein bị thủy phân thành ..(1).., cuối cùng thành ..(2)..",
-  "options": {
-   "A": "(1) phân tử protein nhỏ hơn; (2) amino acid.",
-   "B": "(1) chuỗi polypeptide; (2) hỗn hợp các α-amino acid.",
-   "C": "(1) chuỗi polypeptide; (2) amino acid.",
-   "D": "(1) amino acid; (2) chuỗi polypeptide."
-  },
-  "answer": "B"
- },
- {
-  "id": "L12_C3_0121",
-  "stem": "Thuốc thử nào dưới đây dùng để phân biệt các dung dịch: ethylene glycol, albumin, glucose?",
-  "options": {
-   "A": "Cu(OH)2/OH–.",
-   "B": "Dung dịch I2.",
-   "C": "HNO3.",
-   "D": "AgNO3/NH3."
-  },
-  "answer": "A"
- },
- {
-  "id": "L12_C3_0122",
-  "stem": "(Đề THPT QG - 2017) Kết quả thí nghiệm của các dung dịch X, Y, Z, T với thuốc thử được ghi ở bảng sau:Các dung dịch X, Y, Z, T lần lượt là:",
-  "options": {
-   "A": "Glucose, lòng trắng trứng, hồ tinh bột, acetic acid.",
-   "B": "Acetic acid, glucose, hồ tinh bột, lòng trắng trứng.",
-   "C": "Acetic acid, hồ tinh bột, glucose, lòng trắng trứng.",
-   "D": "Acetic acid, glucose, lòng trắng trứng, hồ tinh bột."
-  },
-  "answer": "B"
- },
- {
-  "id": "L12_C3_0123",
-  "stem": "(Đề MH lần II - 2017) Tiến hành thí nghiệm với các chất X, Y, Z, T. Kết quả được ghi ở bảng sau:Các chất X, Y, Z, T lần lượt là:",
-  "options": {
-   "A": "Lòng trắng trứng, triolein, vinyl acetate, hồ tinh bột.",
-   "B": "Triolein, vinyl acetate, hồ tinh bột, lòng trắng trứng.",
-   "C": "Lòng trắng trứng, triolein, hồ tinh bột, vinyl acetate.",
-   "D": "Vinyl acetate, lòng trắng trứng, triolein, hồ tinh bột."
-  },
-  "answer": "A"
- },
- {
-  "id": "L12_C3_0124",
-  "stem": "(SGK Hóa học 12 – KNTT) Phát biểu nào sau đây sai khi nói về enzyme?",
-  "options": {
-   "A": "Phần lớn enzyme là những protein xúc tác cho các phản ứng hóa học và sinh hóa.",
-   "B": "Enzyme có tính chọn lọc cao, mỗi enzyme chỉ xúc tác cho một hoặc một số phản ứng nhất định.",
-   "C": "Tốc độ phản ứng có xúc tác enzyme thường nhanh hơn nhiều lần so với với xúc tác hóa học.",
-   "D": "Tốc độ phản ứng có xúc tác enzyme thường chậm hơn nhiều lần so với với xúc tác hóa học."
-  },
-  "answer": "D"
- },
- {
-  "id": "L12_C3_0126",
-  "stem": "(SBT – CTST) Phát biểu nào sau đây đúng khi nói về phản ứng màu biuret?",
-  "options": {
-   "A": "Các amino acid có thể cho phản ứng màu biuret với Cu(OH)2.",
-   "B": "Dung dịch của các polypeptide hoà tan Cu(OH)2 cho dung dịch có màu tím.",
-   "C": "Các peptide (trừ dipeptide) cho phản ứng màu biuret với Cu(OH)2, HNO3.",
-   "D": "Phản ứng màu biuret dùng để nhận biết sự có mặt của tinh bột và protein."
-  },
-  "answer": "B"
- },
- {
-  "id": "L12_C3_0127",
-  "stem": "(SGV – KNTT) Phát biểu nào sau đây sai?",
-  "options": {
-   "A": "Polypeptide có phản ứng màu biuret trong môi trường kiềm.",
-   "B": "Aminoacetic acid làm đổi màu giấy quỳ tím ẩm.",
-   "C": "Protein là hợp phần quan trọng trong thức ăn của người và động vật.",
-   "D": "Trùng ngưng ε-aminocaproic acid thu được polymer."
-  },
-  "answer": "B"
- },
- {
-  "id": "L12_C3_0128",
-  "stem": "(SGK – KNTT) Phát biểu nào sau đây không đúng?",
-  "options": {
-   "A": "Thuỷ phân hoàn toàn polypeptide thu được các phân tử α-amino acid.",
-   "B": "Protein tác dụng với Cu(OH)2 trong môi trường kiềm tạo dung dịch màu xanh lam.",
-   "C": "Protein có thể bị đông tụ dưới tác dụng của nhiệt, acid hoặc base.",
-   "D": "Protein tác dụng với dung dịch nitric acid đặc tạo thành sản phẩm rắn có màu vàng."
-  },
-  "answer": "B"
- },
- {
-  "id": "L12_C3_0129",
-  "stem": "(Đề TSCĐ - 2012) Phát biểu nào sau đây là sai?",
-  "options": {
-   "A": "Protein đơn giản được tạo thành từ các gốc α-amino acid.",
-   "B": "Tất cả các peptide đều có khả năng tham gia phản ứng thủy phân.",
-   "C": "Trong phân tử dipeptide mạch hở có hai liên kết peptide.",
-   "D": "Tripeptide Gly–Ala–Gly có phản ứng màu biuret với Cu(OH)2."
-  },
-  "answer": "C"
- },
- {
-  "id": "L12_C3_0130",
-  "stem": "(Đề TSĐH A - 2011) Khi nói về peptide và protein, phát biểu nào sau đây là sai?",
-  "options": {
-   "A": "Protein có phản ứng màu biuret với Cu(OH)2.",
-   "B": "Tất cả các protein đều tan trong nước tạo thành dung dịch keo.",
-   "C": "Thủy phân hoàn toàn protein đơn giản thu được các α-amino acid.",
-   "D": "Liên kết của nhóm CO với nhóm NH giữa hai đơn vị α-amino acid được gọi là liên kết peptide."
-  },
-  "answer": "B"
- },
- {
-  "id": "L12_C3_0131",
-  "stem": "(Đề TN THPT QG - 2020) Phát biểu nào sau đây là sai?",
-  "options": {
-   "A": "Protein bị thủy phân nhờ xúc tác acid.",
-   "B": "Protein được tạo nên từ chuỗi các peptide kết hợp lại với nhau.",
-   "C": "Amino acid có tính chất lưỡng tính.",
-   "D": "Dipeptide có phản ứng màu biuret."
-  },
-  "answer": "D"
- },
- {
-  "id": "L12_C3_0132",
-  "stem": "(Đề MH lần III - 2017) Phát biểu nào sau đây sai?",
-  "options": {
-   "A": "Protein là cơ sở tạo nên sự sống.",
-   "B": "Protein đơn giản là những chất có tối đa 10 liên kết peptide.",
-   "C": "Protein bị thủy phân nhờ xúc tác acid, base hoặc enzyme.",
-   "D": "Protein có phản ứng màu biuret."
-  },
-  "answer": "B"
- },
- {
-  "id": "L12_C3_0133",
-  "stem": "(Đề TN THPT QG - 2020) Phát biểu nào sau đây sai?",
-  "options": {
-   "A": "Protein bị thủy phân nhờ xúc tác enzyme.",
-   "B": "Dung dịch valine làm quỳ tím chuyển sang màu xanh.",
-   "C": "Amino acid có tính chất lưỡng tính.",
-   "D": "Dung dịch protein có phản ứng màu biuret."
-  },
-  "answer": "B"
- },
- {
-  "id": "L12_C3_0134",
-  "stem": "(Đề THPT QG - 2019) Phát biểu nào sau đây đúng?",
-  "options": {
-   "A": "Phân tử lysine có một nguyên tử nitrogen.",
-   "B": "Dung dịch protein có phản ứng màu biuret.",
-   "C": "Aniline là chất lỏng tan nhiều trong nước.",
-   "D": "Phân tử Gly-Ala-Ala có ba nguyên tử oxygen."
-  },
-  "answer": "B"
- },
- {
-  "id": "L12_C3_0135",
-  "stem": "Phát biểu nào sau đây là sai?",
-  "options": {
-   "A": "Vắt chanh vào một cốc sữa, ta thấy hiện tượng đông tụ protein xuất hiện.",
-   "B": "Phân tử protein được cấu tạo từ một hay nhiều chuổi polypeptide.",
-   "C": "Khi cho Cu(OH)2/OH– vào dung dịch lòng trắng trứng, ta thấy có phức chất màu tím.",
-   "D": "Protein rất ít tan trong nước lạnh nhưng lại dễ tan trong nước nóng."
-  },
-  "answer": "D"
- },
- {
-  "id": "L12_C3_0136",
-  "stem": "Cho các phát biểu sau về protein:(1) Protein là hợp chất cao phân tử thiên nhiên có cấu trúc phức tạp.(2) Protein chỉ có trong cơ thể người và động vật.(3) Protein bền đối với nhiệt, đối với acid và kiềm.(4) Chỉ các protein có cấu trúc dạng hình cầu mới có khả năng tan trong nước tạo dung dịch keo.Số phát biểu đúng là",
-  "options": {
-   "A": "1.",
-   "B": "2.",
-   "C": "3.",
-   "D": "4."
-  },
-  "answer": "C"
- },
- {
-  "id": "L12_C3_0137",
-  "stem": "(Đề MH lần III - 2017) Cho các phát biểu sau:(a) Thủy phân vinyl acetate bằng NaOH đun nóng, thu được sodium acetate và formaldehyde.(b) Polyethylene được điều chế bằng phản ứng trùng ngưng.(c) Ở điều kiện thường, aniline là chất khí.(d) Cellulose thuộc loại polysaccharide.(e) Thủy phân hoàn toàn albumin thu được hỗn hợp α-amino acid.(g) Ở điều kiện thích hợp, triolein tham gia phản ứng cộng H2.Số phát biểu đúng là",
-  "options": {
-   "A": "3.",
-   "B": "2.",
-   "C": "4.",
-   "D": "5."
-  },
-  "answer": "A"
- },
- {
-  "id": "L12_C3_0138",
-  "stem": "(Đề THPT QG - 2017) Cho các phát biểu sau:(a) Trong dung dịch, glycine tồn tại chủ yếu ở dạng ion lưỡng cực.(b) Amino acid là chất rắn kết tinh, dễ tan trong nước.(c) Saccharose và glucose đều có phản ứng tráng bạc.(d) Hydrogen hóa hoàn toàn triolein (xúc tác Ni, to) thu được tripalmitin.(e) Triolein và protein có cùng thành phần nguyên tố.(f) Cellulose trinitrate được dùng làm thuốc súng không khói.Số phát biểu đúng là",
-  "options": {
-   "A": "4.",
-   "B": "5.",
-   "C": "3.",
-   "D": "6."
-  },
-  "answer": "C"
- },
- {
-  "id": "L12_C3_0139",
-  "stem": "(Đề THPT QG - 2017) Cho các phát biểu sau:(a) Dung dịch lòng trắng trứng bị đông tụ khi đun nóng.(b) Trong phân tử lysine có một nguyên tử nitrogen.(c) Dung dịch alanine làm đổi màu quỳ tím.(d) Triolein có phản ứng cộng H2 (xúc tác Ni, to).(e) Tinh bột là đồng phân của cellulose.(g) Aniline là chất rắn, tan tốt trong nước.Số phát biểu đúng là",
-  "options": {
-   "A": "4.",
-   "B": "2.",
-   "C": "1.",
-   "D": "3."
-  },
-  "answer": "B"
- },
- {
-  "id": "L12_C3_0140",
-  "stem": "(SGK – CTST) Cho các phát biểu sau:a) Protein dạng hình cầu và dạng hình sợi tan tốt trong nước.b) Một trong những tính chất hoá học đặc trưng của protein là phản ứng thuỷ phân.c) Phản ứng của protein với nitric acid cho sản phẩm có màu tím.d) Khi đun nóng lòng trắng trứng sẽ xảy ra hiện tượng đông tụ.e) Trong cơ thể, enzyme đóng vai trò là chất xúc tác sinh học.Số phát biểu đúng là",
-  "options": {
-   "A": "4.",
-   "B": "3.",
-   "C": "5.",
-   "D": "2."
-  },
-  "answer": "B"
- }
+  {
+    "id": "L12_C3_0001",
+    "stem": "(Đề TN THPT QG - 2020) Chất nào sau đây là amine?",
+    "options": {
+      "A": "C₂H₅NH₂.",
+      "B": "HCOOH.",
+      "C": "C₂H₅OH.",
+      "D": "CH₃COOC₂H₅."
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L12_C3_0002",
+    "stem": "(Đề MH – 2022) Phân tử chất nào sau đây chứa nguyên tử nitrogen?",
+    "options": {
+      "A": "Acetic acid.",
+      "B": "Methylamine.",
+      "C": "Tinh bột.",
+      "D": "Glucose."
+    },
+    "answer": "B"
+  },
+  {
+    "id": "L12_C3_0003",
+    "stem": "(Đề TSCĐ - 2012) Công thức chung của amine no, đơn chức, mạch hở là",
+    "options": {
+      "A": "CₙH₂ₙ₋₅N (n ≥ 6).",
+      "B": "CₙH₂ₙ₊₁N (n ≥ 2).",
+      "C": "CₙH₂ₙ₋₁N (n ≥ 2).",
+      "D": "CₙH₂ₙ₊₃N (n ≥1)."
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L12_C3_0004",
+    "stem": "Công thức tổng quát của amine no, mạch hở có dạng là",
+    "options": {
+      "A": "CₙH₂ₙ₊₃N.",
+      "B": "CₙH₂ₙ₊₂+kNk.",
+      "C": "CₙH₂ₙ₊₂-2a+kNk.",
+      "D": "CₙH₂ₙ₊₁N."
+    },
+    "answer": "B"
+  },
+  {
+    "id": "L12_C3_0005",
+    "stem": "Công thức chung của amine không no (có 1C=C), đơn chức, mạch hở là",
+    "options": {
+      "A": "CₙH₂ₙ₋₅N (n ≥ 6).",
+      "B": "CₙH₂ₙ₊₁N (n ≥ 2).",
+      "C": "CₙH₂ₙ₋₁N (n ≥ 2).",
+      "D": "CₙH₂ₙ₊₃N (n ≥1)."
+    },
+    "answer": "B"
+  },
+  {
+    "id": "L12_C3_0006",
+    "stem": "(Đề TSĐH A - 2011) Alcohol và amine nào sau đây cùng bậc?",
+    "options": {
+      "A": "(CH₃)₃COH và (CH₃)₃CNH₂.",
+      "B": "(C₆H₅)₂NH và C₆H₅CH₂OH.",
+      "C": "(CH₃)₂CHOH và (CH₃)₂CHNH₂.",
+      "D": "C₆H₅NHCH₃ và C₆H₅CH(OH)CH₃."
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L12_C3_0007",
+    "stem": "(Đề THPT QG - 2016) Chất nào sau đây thuộc loại amine bậc ba?",
+    "options": {
+      "A": "C₂H₅-NH₂.",
+      "B": "(CH₃)₃N.",
+      "C": "CH₃-NH-CH₃.",
+      "D": "CH₃-NH₂."
+    },
+    "answer": "B"
+  },
+  {
+    "id": "L12_C3_0008",
+    "stem": "(SBT Hóa học 12 – CB) Trong các chất dưới đây, chất nào là amine bậc hai?",
+    "options": {
+      "A": "H₂N[CH₂]₆NH₂.",
+      "B": "(CH₃)₂CHNH₂.",
+      "C": "CH₃NHCH₃.",
+      "D": "C₆H₅NH₂."
+    },
+    "answer": "C"
+  },
+  {
+    "id": "L12_C3_0009",
+    "stem": "(Đề MH – 2023) Chất nào sau đây là amine bậc một?",
+    "options": {
+      "A": "CH₃NHC₂H₅.",
+      "B": "(CH₃)₂NH.",
+      "C": "(C₂H₅)₃N.",
+      "D": "C₆H₅NH₂."
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L12_C3_0010",
+    "stem": "(Đề MH - 2024) Chất nào sau đây thuộc loại amine bậc một?",
+    "options": {
+      "A": "Triolein.",
+      "B": "Trimethylamine.",
+      "C": "Dimethylamine.",
+      "D": "Methylamine."
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L12_C3_0011",
+    "stem": "(Đề TSCĐ - 2010) Số amine thơm bậc một ứng với công thức phân tử C₇H₉N là",
+    "options": {
+      "A": "3.",
+      "B": "2.",
+      "C": "5.",
+      "D": "4."
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L12_C3_0012",
+    "stem": "(Đề TSCĐ - 2009) Số đồng phân cấu tạo của amine bậc một có cùng công thức phân tử C₄H₁₁N là",
+    "options": {
+      "A": "4.",
+      "B": "5.",
+      "C": "2.",
+      "D": "3."
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L12_C3_0013",
+    "stem": "(Đề MH lần II - 2017) Số amine có công thức phân tử C₃H₉N là",
+    "options": {
+      "A": "2.",
+      "B": "3.",
+      "C": "4.",
+      "D": "5."
+    },
+    "answer": "C"
+  },
+  {
+    "id": "L12_C3_0014",
+    "stem": "(Đề TSĐH A - 2012) Số amine bậc một có cùng công thức phân tử C₃H₉N là",
+    "options": {
+      "A": "3.",
+      "B": "1.",
+      "C": "2.",
+      "D": "4."
+    },
+    "answer": "C"
+  },
+  {
+    "id": "L12_C3_0015",
+    "stem": "(SGK – KNTT) Trong các đồng phân cấu tạo của các amine có công thức C₃H₉N, số amine bậc hai là",
+    "options": {
+      "A": "0.",
+      "B": "1.",
+      "C": "2.",
+      "D": "3."
+    },
+    "answer": "B"
+  },
+  {
+    "id": "L12_C3_0016",
+    "stem": "(Đề TSĐH A - 2010) Trong số các chất: C₃H₈, C₃H₇Cl, C₃H₈O và C₃H₉N; chất có nhiều đồng phân cấu tạo nhất là",
+    "options": {
+      "A": "C₃H₉N.",
+      "B": "C₃H₇Cl.",
+      "C": "C₃H₈O.",
+      "D": "C₃H₈."
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L12_C3_0017",
+    "stem": "(Đề TSĐH A - 2014) Có bao nhiêu amine bậc ba là đồng phân cấu tạo của nhau ứng với công thức phân tử C₅H₁₃N?",
+    "options": {
+      "A": "4.",
+      "B": "2.",
+      "C": "5.",
+      "D": "3."
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L12_C3_0018",
+    "stem": "(SGK – CTST) Số đồng phân amine bậc hai có công thức phân tử C₅H₁₃N là",
+    "options": {
+      "A": "6.",
+      "B": "3.",
+      "C": "4.",
+      "D": "5."
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L12_C3_0019",
+    "stem": "(Đề THPT QG - 2017) Công thức phân tử của dimethylamine là",
+    "options": {
+      "A": "C₂H₈N₂.",
+      "B": "C₂H₇N.",
+      "C": "C₄H₁₁N",
+      "D": "C₂H₆N₂."
+    },
+    "answer": "B"
+  },
+  {
+    "id": "L12_C3_0020",
+    "stem": "(Đề TNTHPT – 2022) Công thức phân tử của ethylamine là",
+    "options": {
+      "A": "C₄H₁₁N.",
+      "B": "CH₅N.",
+      "C": "C₃H₉N.",
+      "D": "C₂H₇N."
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L12_C3_0021",
+    "stem": "(Đề TNTHPT – 2022) Chất X có công thức CH₃NH₂. Tên gọi của X là",
+    "options": {
+      "A": "trimethylamine.",
+      "B": "ethylamine.",
+      "C": "methylamine.",
+      "D": "dimethylamine."
+    },
+    "answer": "C"
+  },
+  {
+    "id": "L12_C3_0022",
+    "stem": "(Đề TNTHPT – 2023) Hợp chất C₂H₅NHC₂H₅ có tên là",
+    "options": {
+      "A": "ethylmethylamine.",
+      "B": "dimethylamine.",
+      "C": "propylamine.",
+      "D": "diethylamine."
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L12_C3_0023",
+    "stem": "(Đề TNTHPT – 2023) Hợp chất CH₃NHCH₃ có tên là",
+    "options": {
+      "A": "propylamine.",
+      "B": "diethylamine.",
+      "C": "ethylmethylamine.",
+      "D": "dimethylamine."
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L12_C3_0024",
+    "stem": "(SGK – CTST) Tên gọi và bậc của amine có công thức cấu tạo CH₃CH₂CH(CH₃)CH₂-NH₂ là",
+    "options": {
+      "A": "3-methylbutan-4-amine, bậc một.",
+      "B": "2-methylbutan-l-amine, bậc hai.",
+      "C": "3-methylbutan-4-amine, bậc hai.",
+      "D": "2-methylbutan-l-amine, bậc một."
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L12_C3_0025",
+    "stem": "(SBT Hóa học 12 – CB) Trong các tên gọi dưới đây, tên nào phù hợp với chất (CH₃)₂CHNH₂?",
+    "options": {
+      "A": "Methylethylamine.",
+      "B": "Ethylmethylamine.",
+      "C": "Isopropanamine.",
+      "D": "Isopropylamine."
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L12_C3_0026",
+    "stem": "(SBT Hóa học 12 – CB) Trong các tên gọi sau tên gọi nào phù hợp với chất C₆H₅CH₂NH₂?",
+    "options": {
+      "A": "Benzylamine.",
+      "B": "Benzenamine.",
+      "C": "Phenylamine.",
+      "D": "Aniline."
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L12_C3_0027",
+    "stem": "(Đề MH lần III - 2017) Dung dịch chất nào sau đây không làm quỳ tím chuyển màu?",
+    "options": {
+      "A": "Ethylamine.",
+      "B": "Aniline.",
+      "C": "Methylamine.",
+      "D": "Trimethylamine."
+    },
+    "answer": "B"
+  },
+  {
+    "id": "L12_C3_0028",
+    "stem": "(Đề TSĐH B - 2008) Chất phản ứng với dung dịch FeCl₃ cho kết tủa là",
+    "options": {
+      "A": "CH₃NH₂.",
+      "B": "CH₃COOCH₃.",
+      "C": "CH₃OH.",
+      "D": "CH₃COOH."
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L12_C3_0029",
+    "stem": "(Đề THPT QG - 2019) Ethylamine tác dụng được với chất nào sau đây trong dung dịch?",
+    "options": {
+      "A": "K₂SO₄.",
+      "B": "NaOH.",
+      "C": "HCl.",
+      "D": "KCl."
+    },
+    "answer": "C"
+  },
+  {
+    "id": "L12_C3_0030",
+    "stem": "Aniline và phenol đều có phản ứng với",
+    "options": {
+      "A": "dung dịch NaCl.",
+      "B": "nước Br₂.",
+      "C": "dung dịch HCl.",
+      "D": "dung dịch NaOH."
+    },
+    "answer": "B"
+  },
+  {
+    "id": "L12_C3_0031",
+    "stem": "(Đề THPT QG - 2017) Nhỏ vài giọt nước bromine vào ống nghiệm chứa aniline, hiện tượng quan sát được là",
+    "options": {
+      "A": "xuất hiện màu xanh.",
+      "B": "xuất hiện màu tím.",
+      "C": "có kết tủa màu trắng.",
+      "D": "có bọt khí thoát ra."
+    },
+    "answer": "C"
+  },
+  {
+    "id": "L12_C3_0032",
+    "stem": "(Đề TSĐH B - 2007) Có 3 chất lỏng benzene, aniline, styrene, đựng riêng biệt trong 3 lọ mất nhãn. Thuốc thử để phân biệt 3 chất lỏng trên là",
+    "options": {
+      "A": "dung dịch phenolphthalein.",
+      "B": "nước bromine.",
+      "C": "dung dịch NaOH.",
+      "D": "giấy quì tím."
+    },
+    "answer": "B"
+  },
+  {
+    "id": "L12_C3_0033",
+    "stem": "Chất hữu cơ X có công thức phân tử là C₃H₉O₂N. X tác dụng với NaOH đun nóng thu được muối Y có phân tử khối nhỏ hơn phân tử khối của X. X không thể là chất nào?",
+    "options": {
+      "A": "CH₃CH₂COONH₄.",
+      "B": "CH₃COONH₃CH₃.",
+      "C": "HCOONH₂(CH₃)₂.",
+      "D": "HCOONH₃CH₂CH₃."
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L12_C3_0034",
+    "stem": "(Đề THPT QG - 2018) Kết quả thí nghiệm của các chất X, Y, Z với các thuốc thử được ghi ở bảng sau:Các chất X, Y, Z lần lượt là:",
+    "options": {
+      "A": "Aniline, glucose, ethylamine.",
+      "B": "Ethylamine, glucose, aniline.",
+      "C": "Ethylamine, aniline, glucose.",
+      "D": "Glucose, ethylamine, aniline."
+    },
+    "answer": "B"
+  },
+  {
+    "id": "L12_C3_0035",
+    "stem": "(Đề THPT QG - 2018) Kết quả thí nghiệm của các chất X, Y, Z với các thuốc thử được ghi ở bảng sau:Các chất X, Y, Z lần lượt là:",
+    "options": {
+      "A": "Tinh bột, aniline, ethyl formate.",
+      "B": "Ethyl formate, tinh bột, aniline.",
+      "C": "Tinh bột, ethyl formate, aniline.",
+      "D": "Aniline, ethyl formate, tinh bột."
+    },
+    "answer": "C"
+  },
+  {
+    "id": "L12_C3_0036",
+    "stem": "(Đề TSĐH A - 2007) Phát biểu nào sau đây không đúng?",
+    "options": {
+      "A": "Acetic acid phản ứng với dung dịch NaOH, lấy dung dịch muối vừa tạo ra cho tác dụng với khí CO₂ lại thu được acetic acid.",
+      "B": "Phenol phản ứng với dung dịch NaOH, lấy muối vừa tạo ra cho tác dụng với dung dịch HCl lại thu được phenol.",
+      "C": "Aniline phản ứng với dung dịch HCl, lấy muối vừa tạo ra cho tác dụng với dung dịch NaOH lại thu được aniline.",
+      "D": "Dung dịch sodium phenolate phản ứng với khí CO₂, lấy kết tủa vừa tạo ra cho tác dụng với dung dịch NaOH lại thu được sodium phenolate."
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L12_C3_0037",
+    "stem": "(Đề MH lần I - 2017) Phát biểu nào sau đây đúng?",
+    "options": {
+      "A": "Tất cả các amine đều làm quỳ tím ẩm chuyển màu xanh.",
+      "B": "Ở nhiệt độ thường, tất cả các amine đều tan nhiều trong nước.",
+      "C": "Để rửa sạch ống nghiệm có dính aniline, có thể dùng dung dịch HCl.",
+      "D": "Các amine đều không độc, được sử dụng trong chế biến thực phẩm."
+    },
+    "answer": "C"
+  },
+  {
+    "id": "L12_C3_0038",
+    "stem": "(TSĐH A – 2009) Phát biểu nào sau đây là đúng?",
+    "options": {
+      "A": "Aniline tác dụng với nitrous acid (HNO₂) khi đun nóng, thu được muối diazonium.",
+      "B": "Benzene làm mất màu nước bromine ở nhiệt độ thường.",
+      "C": "Ethylamine phản ứng với nitrous acid (HNO₂) ở nhiệt độ thường, sinh ra bọt khí.",
+      "D": "Các alcohol đa chức đều phản ứng với Cu(OH)₂ tạo dung dịch màu xanh lam."
+    },
+    "answer": "C"
+  },
+  {
+    "id": "L12_C3_0039",
+    "stem": "(SGK – Cánh Diều) Phát biểu nào dưới đây không đúng?",
+    "options": {
+      "A": "Phân tử ethylamine chứa nhóm chức –NH₂.",
+      "B": "Ethylamine tan tốt trong nước.",
+      "C": "Ethylamine tác dụng với nitrous acid thu được muối diazonium.",
+      "D": "Dung dịch ethylamine trong nước làm quỳ tím hóa xanh."
+    },
+    "answer": "C"
+  },
+  {
+    "id": "L12_C3_0040",
+    "stem": "(SGK – KNTT) Cho các phát biểu sau:(1) Dung dịch ethylamine và dung dịch aniline đều làm xanh giấy quỳ tím.(2) Nhỏ từ từ đến dư dung dịch methylamine vào dung dịch copper(II) sulfate, ban đầu thấy xuất hiện kết tủa màu xanh nhạt, sau đó kết tủa tan tạo thành dung dịch màu xanh lam.(3) Cho dung dịch methylamine vào ống nghiệm đựng dung dịch iron(III) chloride thấy xuất hiện kết tủa nâu đỏ.(4) Nhỏ vài giọt dung dịch aniline vào ống nghiệm đựng nước bromine thấy xuất hiện kết tủa trắng.Số phát biểu đúng là",
+    "options": {
+      "A": "1.",
+      "B": "2.",
+      "C": "3.",
+      "D": "4."
+    },
+    "answer": "C"
+  },
+  {
+    "id": "L12_C3_0041",
+    "stem": "(Đề TNTHPT – 2023) Chất nào sau đây có chứa nguyên tố nitrogen trong phân tử?",
+    "options": {
+      "A": "Ethyl formate.",
+      "B": "Saccharose.",
+      "C": "Tristearin.",
+      "D": "Alanine."
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L12_C3_0043",
+    "stem": "(SBT – CTST) Có bao nhiêu amino acid cần thiết phải cung cấp cho cơ thể thông qua thực phẩm, dinh dưỡng?",
+    "options": {
+      "A": "9.",
+      "B": "20.",
+      "C": "10.",
+      "D": "18."
+    },
+    "answer": "C"
+  },
+  {
+    "id": "L12_C3_0044",
+    "stem": "(Đề TSCĐ - 2012) Số nhóm amino và số nhóm carboxyl có trong một phân tử glutamic acid tương ứng là",
+    "options": {
+      "A": "1 và 2.",
+      "B": "1 và 1.",
+      "C": "2 và 1.",
+      "D": "2 và 2."
+    },
+    "answer": "C"
+  },
+  {
+    "id": "L12_C3_0045",
+    "stem": "(Đề TN THPT QG – 2020) Số nhóm carboxyl (COOH) trong phân tử alanine là",
+    "options": {
+      "A": "3.",
+      "B": "4.",
+      "C": "2.",
+      "D": "1."
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L12_C3_0046",
+    "stem": "(Đề THPT QG - 2017) Hợp chất H₂NCH₂COOH có tên là",
+    "options": {
+      "A": "valine.",
+      "B": "lysine.",
+      "C": "alanine.",
+      "D": "glycine."
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L12_C3_0047",
+    "stem": "(Đề TN THPT QG – 2020) Số nhóm amino (NH₂) trong phân tử alanine là",
+    "options": {
+      "A": "4.",
+      "B": "2.",
+      "C": "3.",
+      "D": "1."
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L12_C3_0048",
+    "stem": "(Đề MH lần II - 2017) Amino acid có phân tử khối nhỏ nhất là",
+    "options": {
+      "A": "Glycine.",
+      "B": "Alanine.",
+      "C": "Valine.",
+      "D": "Lysine."
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L12_C3_0049",
+    "stem": "(SBT Hóa học 12 – CB) Trong các tên gọi dưới đây, tên nào không phù hợp với hợp chất CH₃CH(NH₂)COOH?",
+    "options": {
+      "A": "2-aminopropanoic acid.",
+      "B": "α-aminopropionic acid.",
+      "C": "Aniline.",
+      "D": "Alanine."
+    },
+    "answer": "C"
+  },
+  {
+    "id": "L12_C3_0050",
+    "stem": "(SBT Hóa học 12 – CB) Trong các chất dưới đây, tên nào không phù hợp với chất H₂N[CH₂]₄CH(NH₂)COOH?",
+    "options": {
+      "A": "1,5-diaminohexanoic acid.",
+      "B": "2,6-diaminohexanoic acid.",
+      "C": "α,ε-diaminocaproic acid.",
+      "D": "Lysine."
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L12_C3_0051",
+    "stem": "(Đề TSCĐ - 2012) Cho các chất hữu cơ: CH₃CH(CH₃)NH₂(X) và CH₃CH(NH₂)COOH (Y). Tên thay thế của X và Y lần lượt là",
+    "options": {
+      "A": "propan-1-amine và 2-aminopropanoic acid.",
+      "B": "propan-1-amine và aminoethanoic acid.",
+      "C": "propan-2-amine và aminoethanoic acid.",
+      "D": "propan-2-amine và 2-aminopropanoic acid."
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L12_C3_0052",
+    "stem": "(Đề MH – 2023) Ở điều kiện thường, chất nào sau đây là chất rắn?",
+    "options": {
+      "A": "Dimethylamine.",
+      "B": "Ethylamine.",
+      "C": "Glycine.",
+      "D": "Methylamine."
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L12_C3_0053",
+    "stem": "(SBT – CTST) Nguyên nhân chủ yếu dẫn đến tính tan của amino acid trong nước là do",
+    "options": {
+      "A": "phân tử phân cực mạnh nên dễ tan trong nước.",
+      "B": "cấu tạo lưỡng cực của phân tử, có tính kị nước nên ít tan trong nước.",
+      "C": "năng lượng liên kết của phân tử lớn, khó phá vỡ nên ít tan trong nước.",
+      "D": "hình thành liên kết hydrogen với nước nên dễ tan trong nước."
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L12_C3_0054",
+    "stem": "(SBT – CTST) Ở điều kiện thường, trạng thái tồn tại của amino acid là",
+    "options": {
+      "A": "thể lỏng.",
+      "B": "thể khí.",
+      "C": "thể rắn.",
+      "D": "thể rắn và lỏng."
+    },
+    "answer": "C"
+  },
+  {
+    "id": "L12_C3_0055",
+    "stem": "(SBT – CTST) Amino acid không có loại phản ứng nào sau đây?",
+    "options": {
+      "A": "Phản ứng với acid và base.",
+      "B": "Phản ứng ester hoá.",
+      "C": "Phản ứng trùng ngưng.",
+      "D": "Phản ứng thuỷ phân."
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L12_C3_0056",
+    "stem": "(SBT – CTST) Tính lưỡng tính của amino acid thể hiện qua phản ứng với",
+    "options": {
+      "A": "acid mạnh, base mạnh.",
+      "B": "acid, kim loại kiềm.",
+      "C": "alcohol trong môi trường acid mạnh.",
+      "D": "Cu(OH)₂, loại phản ứng màu biuret."
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L12_C3_0057",
+    "stem": "(Đề THPT QG - 2019) Dung dịch nào sau đây không làm đổi màu quỳ tím?",
+    "options": {
+      "A": "NaOH.",
+      "B": "H₂NCH₂COOH.",
+      "C": "HCl.",
+      "D": "CH₃NH₂."
+    },
+    "answer": "B"
+  },
+  {
+    "id": "L12_C3_0060",
+    "stem": "(Đề TSĐH A - 2011) Dung dịch nào sau đây làm quỳ tím đổi thành màu xanh?",
+    "options": {
+      "A": "Dung dịch glycine.",
+      "B": "Dung dịch lysine.",
+      "C": "Dung dịch alanine.",
+      "D": "Dung dịch valine."
+    },
+    "answer": "B"
+  },
+  {
+    "id": "L12_C3_0061",
+    "stem": "(Đề TSĐH A - 2011) Cho ba dung dịch có cùng nồng độ mol: (1) H₂NCH₂COOH, (2) CH₃COOH, (3) CH₃CH₂NH₂. Dãy xếp theo thứ tự pH tăng dần là:",
+    "options": {
+      "A": "(2), (1), (3).",
+      "B": "(3), (1), (2).",
+      "C": "(1), (2), (3).",
+      "D": "(2), (3), (1)."
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L12_C3_0062",
+    "stem": "(Đề TN THPT QG - 2020) Dung dịch nào sau đây làm xanh giấy quỳ tím?",
+    "options": {
+      "A": "Glutamic acid.",
+      "B": "Methylamine.",
+      "C": "Alanine.",
+      "D": "Glycine."
+    },
+    "answer": "B"
+  },
+  {
+    "id": "L12_C3_0063",
+    "stem": "(Đề TSĐH A - 2012) Dung dịch chất nào sau đây làm quỳ tím chuyển thành màu hồng?",
+    "options": {
+      "A": "Aminoacetic acid.",
+      "B": "α-aminopropionic acid.",
+      "C": "α-aminoglutaric acid.",
+      "D": "α,ε-diaminocaproic acid."
+    },
+    "answer": "C"
+  },
+  {
+    "id": "L12_C3_0064",
+    "stem": "(Đề MH - 2021) Dung dịch nào sau đây làm quỳ tím chuyển sang màu xanh?",
+    "options": {
+      "A": "Glycine.",
+      "B": "Methylamine.",
+      "C": "Aniline.",
+      "D": "Glucose."
+    },
+    "answer": "B"
+  },
+  {
+    "id": "L12_C3_0065",
+    "stem": "(Đề TN THPT QG – 2021) Dung dịch chất nào sau đây làm quỳ tím chuyển thành màu hồng?",
+    "options": {
+      "A": "Glutamic acid.",
+      "B": "Glycine.",
+      "C": "Alanine.",
+      "D": "Valine."
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L12_C3_0066",
+    "stem": "(SBT Hóa học 12 – CB) Để phân biệt 3 dung dịch: H₂NCH₂COOH; CH₃COOH; C₂H₅NH₂, chỉ cần dùng một thuốc thử là",
+    "options": {
+      "A": "dung dịch NaOH.",
+      "B": "dung dịch HCl.",
+      "C": "sodium kim loại.",
+      "D": "quỳ tím."
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L12_C3_0067",
+    "stem": "(Đề THPT QG - 2019) Aminoacetic acid (H₂N-CH₂-COOH) tác dụng được với dung dịch nào sau đây?",
+    "options": {
+      "A": "NaNO₃.",
+      "B": "NaCl.",
+      "C": "HCl.",
+      "D": "Na₂SO₄."
+    },
+    "answer": "C"
+  },
+  {
+    "id": "L12_C3_0068",
+    "stem": "(Đề TSĐH B - 2007) Cho các loại hợp chất: amino acid (X), muối ammonium của carboxylic acid (Y), amine (Z), ester của amino acid (T). Dãy gồm các loại hợp chất đều tác dụng với dung dịch NaOH và dung dịch HCl là",
+    "options": {
+      "A": "Y, Z, T.",
+      "B": "X, Y, T.",
+      "C": "X, Y, Z, T.",
+      "D": "X, Y, Z."
+    },
+    "answer": "B"
+  },
+  {
+    "id": "L12_C3_0069",
+    "stem": "(Đề TSĐH B - 2010) Hai hợp chất hữu cơ X và Y có cùng công thức phân tử là C₃H₇NO₂, đều là chất rắn ở điều kiện thường. Chất X phản ứng với dung dịch NaOH, giải phóng khí. Chất Y có phản ứng trùng ngưng. Các chất X và Y lần lượt là",
+    "options": {
+      "A": "vinylammonium formate và ammonium acrylate.",
+      "B": "ammonium acrylate và 2-aminopropionic acid.",
+      "C": "2-aminopropionic acid và ammonium acrylate.",
+      "D": "2-aminopropionic acid và 3-aminopropionic acid."
+    },
+    "answer": "B"
+  },
+  {
+    "id": "L12_C3_0070",
+    "stem": "(Đề TSCĐ - 2009) Chất X có công thức phân tử C₃H₇O₂N và làm mất màu nước bromine. Tên gọi của X là",
+    "options": {
+      "A": "methyl aminoacetate.",
+      "B": "α-aminopropionic acid.",
+      "C": "ammonium acrylate.",
+      "D": "β-aminopropionic acid."
+    },
+    "answer": "C"
+  },
+  {
+    "id": "L12_C3_0071",
+    "stem": "(Đề TSCĐ - 2011) Hai chất nào sau đây đều tác dụng được với dung dịch NaOH loãng?",
+    "options": {
+      "A": "CH₃NH₃Cl và CH₃NH₂.",
+      "B": "CH₃NH₃Cl và H₂NCH₂COONa.",
+      "C": "CH₃NH₂ và H₂NCH₂COOH.",
+      "D": "ClH₃NCH₂COOC₂H₅ và H₂NCH₂COOC₂H₅."
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L12_C3_0072",
+    "stem": "(Đề THPT QG - 2017) Kết quả thí nghiệm của các dung dịch X, Y, Z, T với thuốc thử được ghi ở bảng sau:Các dung dịch X, Y, Z, T lần lượt là:",
+    "options": {
+      "A": "Glutamic acid, tinh bột, aniline, glucose.",
+      "B": "Glutamic acid, tinh bột, glucose, aniline.",
+      "C": "Glutamic acid, glucose, tinh bột, aniline.",
+      "D": "Aniline, tinh bột, glucose, glutamic acid."
+    },
+    "answer": "B"
+  },
+  {
+    "id": "L12_C3_0073",
+    "stem": "(Đề THPT QG - 2015) Bảng dưới đây ghi lại hiện tượng khi làm thí nghiệm với các chất sau ở dạng dung dịch nước: X, Y, Z, T và Q.Các chất X, Y, Z, T và Q lần lượt là:",
+    "options": {
+      "A": "Glycerol, glucose, ethylene glycol, methanol, acetaldehyde.",
+      "B": "Phenol, glucose, glycerol, ethanol, aldehyde formic.",
+      "C": "Aniline, glucose, glycerol, aldehyde formic, methanol.",
+      "D": "Fructose, glucose, acetaldehyde, ethanol, aldehyde formic."
+    },
+    "answer": "B"
+  },
+  {
+    "id": "L12_C3_0074",
+    "stem": "(Đề THPT QG - 2018) Kết quả thí nghiệm của các chất X, Y, Z với các thuốc thử được ghi ở bảng sau:Các chất X, Y, Z lần lượt là:",
+    "options": {
+      "A": "Ethyl formate, glutamic acid, aniline.",
+      "B": "Glutamic acid, ethyl formate, aniline.",
+      "C": "Aniline, ethyl formate, glutamic acid.",
+      "D": "Glutamic acid, aniline, ethyl formate."
+    },
+    "answer": "B"
+  },
+  {
+    "id": "L12_C3_0075",
+    "stem": "(Đề TSĐH A - 2008) Phát biểu nào sau đây không đúng?",
+    "options": {
+      "A": "Trong dung dịch, H₂N-CH₂-COOH còn tồn tại ở dạng ion lưỡng cực H₃N⁺-CH₂-COO–.",
+      "B": "Amino acid là hợp chất hữu cơ tạp chức, phân tử chứa đồng thời nhóm -NH₂ và nhóm -COOH.",
+      "C": "Amino acid là những chất rắn, kết tinh, tan tốt trong nước và có vị ngọt.",
+      "D": "Hợp chất H₂N-CH₂-COOH₃N-CH₃ là ester của glycine."
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L12_C3_0076",
+    "stem": "(Đề THPT QG - 2017) Phát biểu nào sau đây sai?",
+    "options": {
+      "A": "Dung dịch glutamic acid làm quỳ tím chuyển màu hồng.",
+      "B": "Amino acid là hợp chất hữu cơ tạp chức.",
+      "C": "Dung dịch glycine không làm đổi màu phenolphthalein.",
+      "D": "Aniline tác dụng với nước bromine tạo thành kết tủa màu vàng."
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L12_C3_0077",
+    "stem": "(Đề THPT QG - 2015) Cho các phát biểu sau:(a) Ở nhiệt độ thường, Cu(OH)₂ tan được trong dung dịch glycerol.(b) Ở nhiệt độ thường, C₂H₄ phản ứng được với nước bromine.(c) Đốt cháy hoàn toàn CH₃COOCH₃ thu được số mol CO₂ bằng số mol H₂O.(d) Glycine (H₂NCH₂COOH) phản ứng được với dung dịch NaOH.Số phát biểu đúng là",
+    "options": {
+      "A": "3.",
+      "B": "4.",
+      "C": "1.",
+      "D": "2."
+    },
+    "answer": "B"
+  },
+  {
+    "id": "L12_C3_0078",
+    "stem": "(Đề THPT QG - 2018) Cho các phát biểu sau:(a) Phản ứng thế bromine vào vòng thơm của aniline dễ hơn benzene.(b) Có hai chất hữu cơ đơn chức, mạch hở có cùng công thức C₂H₄O₂.(c) Trong phân tử, các amino acid đều chỉ có một nhóm NH₂ và một nhóm COOH.(d) Hợp chất H₂N-CH₂-COO-CH₃ tác dụng được với dung dịch NaOH và dung dịch HCl.(e) Thủy phân hoàn toàn tinh bột và cellulose đều thu được glucose.(g) Mỡ động vật và dầu thực vật chứa nhiều chất béo.Số phát biểu đúng là",
+    "options": {
+      "A": "6.",
+      "B": "3.",
+      "C": "4.",
+      "D": "5."
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L12_C3_0079",
+    "stem": "(Đề THPT QG - 2018) Cho các phát biểu sau:(a) Thủy phân triolein, thu được ethylene glycol.(b) Tinh bột bị thủy phân khi có xúc tác acid hoặc enzyme.(c) Thủy phân vinyl formate, thu được hai sản phẩm đều có phản ứng tráng bạc.(d) Trùng ngưng ε-aminocaproic acid, thu được polycaproamide.(e) Chỉ dùng quỳ tím có thể phân biệt ba dung dịch: alanine, lysine, glutamic acid.(g) Phenylamine tan ít trong nước nhưng tan tốt trong dung dịch HCl.Số phát biểu đúng là",
+    "options": {
+      "A": "4.",
+      "B": "3.",
+      "C": "5.",
+      "D": "2."
+    },
+    "answer": "C"
+  },
+  {
+    "id": "L12_C3_0080",
+    "stem": "(Đề THPT QG - 2018) Thực hiện các thí nghiệm sau:(a) Sục khí CH₃NH₂ vào dung dịch CH₃COOH.(b) Đun nóng tinh bột trong dung dịch H₂SO₄ loãng.(c) Sục khí H₂ vào nồi kín chứa triolein (xúc tác Ni), đun nóng.(d) Nhỏ vài giọt nước bromine vào dung dịch aniline.(e) Cho dung dịch HCl vào dung dịch glutamic acid.(g) Cho dung dịch methyl formate vào dung dịch AgNO₃ trong NH₃, đun nóng.Số thí nghiệm xảy ra phản ứng là",
+    "options": {
+      "A": "5.",
+      "B": "4.",
+      "C": "6.",
+      "D": "3."
+    },
+    "answer": "C"
+  },
+  {
+    "id": "L12_C3_0081",
+    "stem": "Phát biểu nào sau đây đúng?",
+    "options": {
+      "A": "Phân tử dipeptide có 2 liên kết peptide.",
+      "B": "Phân tử tripeptide có 3 liên kết peptide.",
+      "C": "Trong phân tử peptide mạch hở, số liên kết peptide bao giờ cũng bằng gốc α-amino acid.",
+      "D": "Trong phân tử peptide mạch hở chứa n gốc α-amino acid, số liên kết peptide bằng (n-1)."
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L12_C3_0082",
+    "stem": "Hợp chất nào sau đây thuộc loại dipeptide?",
+    "options": {
+      "A": "H₂NCH₂CONHCH₂CONHCH₂COOH.",
+      "B": "H₂NCH₂CONHCH(CH₃)COOH.",
+      "C": "H₂NCH₂CH₂CONHCH₂CH₂COOH.",
+      "D": "H₂NCH₂CH₂CONHCH₂COOH."
+    },
+    "answer": "B"
+  },
+  {
+    "id": "L12_C3_0083",
+    "stem": "(Đề TNTHPT – 2023) Chất nào sau đây thuộc loại tripeptide?",
+    "options": {
+      "A": "Glucose.",
+      "B": "Saccharose.",
+      "C": "Gly-Ala.",
+      "D": "Gly-Ala-Gly."
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L12_C3_0084",
+    "stem": "(Đề TN THPT QG – 2021) Chất nào sau đây là dipeptide?",
+    "options": {
+      "A": "Gly-Ala-Gly.",
+      "B": "Ala-Gly-Gly.",
+      "C": "Gly-Ala-Ala.",
+      "D": "Gly-Ala."
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L12_C3_0085",
+    "stem": "(Đề TNTHPT – 2022) Số liên kết peptide trong phân tử peptide Gly-Ala-Val-Gly là",
+    "options": {
+      "A": "2.",
+      "B": "4.",
+      "C": "3.",
+      "D": "1."
+    },
+    "answer": "C"
+  },
+  {
+    "id": "L12_C3_0086",
+    "stem": "(Đề TNTHPT – 2022) Số liên kết peptide trong phân tử peptide Gly-Ala-Gly là",
+    "options": {
+      "A": "4.",
+      "B": "3.",
+      "C": "1.",
+      "D": "2."
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L12_C3_0087",
+    "stem": "Trong phân tử Ala-Gly, amino acid đầu N chứa nhóm",
+    "options": {
+      "A": "NH₂.",
+      "B": "COOH.",
+      "C": "NO₂.",
+      "D": "CHO."
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L12_C3_0088",
+    "stem": "Amino acid đầu N và amino acid đầu C trong phân tử peptide Ala-Gly-Val-Gly-Val lần lượt là",
+    "options": {
+      "A": "Val và Ala.",
+      "B": "Ala và Gly.",
+      "C": "Val và Gly.",
+      "D": "Ala và Val."
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L12_C3_0089",
+    "stem": "Peptide X có công thức cấu tạo như sau: H₂N-[CH₂]₄-CH(NH₂)CO-NHCH₂-CO-NH-CH(CH₃)-COOH. Amino acid đầu N và đầu C tương ứng là",
+    "options": {
+      "A": "Lys và Gly.",
+      "B": "Gly và Ala.",
+      "C": "Ala và Gly.",
+      "D": "Lys và Ala."
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L12_C3_0090",
+    "stem": "(Đề MH - 2024) Số nguyên tử carbon trong phân tử Gly-Ala là",
+    "options": {
+      "A": "7.",
+      "B": "5.",
+      "C": "4.",
+      "D": "6."
+    },
+    "answer": "B"
+  },
+  {
+    "id": "L12_C3_0091",
+    "stem": "Dipeptide có công thức: H₂NCH₂CONHCH(CH₃)COOH. Tên viết tắt của X là",
+    "options": {
+      "A": "Gly-Val.",
+      "B": "Gly-Ala.",
+      "C": "Ala-Gly.",
+      "D": "Ala-Val."
+    },
+    "answer": "B"
+  },
+  {
+    "id": "L12_C3_0092",
+    "stem": "Peptide X có công thức: H₂NCH₂CONHCH(CH₃)CONHCH(CH₃)COOH. Tên viết tắt của X là",
+    "options": {
+      "A": "Ala-Gly-Gly.",
+      "B": "Gly-Ala-Ala.",
+      "C": "Gly-Val-Val.",
+      "D": "Ala-Val-Val."
+    },
+    "answer": "B"
+  },
+  {
+    "id": "L12_C3_0093",
+    "stem": "Phân tử peptide nào sau đây có 4 nguyên tử oxygen?",
+    "options": {
+      "A": "Gly-Ala-Ala.",
+      "B": "Gly-Ala.",
+      "C": "Gly-Gly-Ala-Val.",
+      "D": "Gly-Ala-Glu."
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L12_C3_0094",
+    "stem": "(SBT – CTST) Tính chất hoá học nào không đặc trưng với loại hợp chất peptide?",
+    "options": {
+      "A": "Phản ứng thủy phân trong môi trường acid.",
+      "B": "Phản ứng màu biuret.",
+      "C": "Phản ứng ester hoá.",
+      "D": "Phản ứng thủy phân trong môi trường base."
+    },
+    "answer": "C"
+  },
+  {
+    "id": "L12_C3_0095",
+    "stem": "Dung dịch Ala-Gly phản ứng được với dung dịch nào sau đây?",
+    "options": {
+      "A": "HCl.",
+      "B": "KNO₃.",
+      "C": "NaCl.",
+      "D": "NaNO₃."
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L12_C3_0096",
+    "stem": "Peptide nào sau đây không có phản ứng màu biuret?",
+    "options": {
+      "A": "Ala-Gly.",
+      "B": "Ala-Ala-Gly-Gly.",
+      "C": "Ala-Gly-Gly.",
+      "D": "Gly-Ala-Gly."
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L12_C3_0097",
+    "stem": "Tripeptide Gly-Ala-Gly không tác dụng với chất nào sau đây?",
+    "options": {
+      "A": "Cu(OH)₂ trong môi trường kiềm.",
+      "B": "Dung dịch Na₂SO₄.",
+      "C": "Dung dịch HCl.",
+      "D": "Dung dịch NaOH."
+    },
+    "answer": "B"
+  },
+  {
+    "id": "L12_C3_0098",
+    "stem": "(Đề MH lần III - 2017) Chất nào sau đây không phản ứng với NaOH trong dung dịch?",
+    "options": {
+      "A": "Gly-Ala.",
+      "B": "Glycine.",
+      "C": "Methylamine.",
+      "D": "Methyl formate."
+    },
+    "answer": "C"
+  },
+  {
+    "id": "L12_C3_0099",
+    "stem": "Thủy phân hoàn toàn H₂N-CH₂-CO-NH-CH(CH₃)-CO-NH-CH(CH₃)-CO-NH-CH₂-COOH thu được bao nhiêu loại α-amino acid khác nhau?",
+    "options": {
+      "A": "4.",
+      "B": "3.",
+      "C": "5.",
+      "D": "2."
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L12_C3_0100",
+    "stem": "Thủy phân một peptide có cấu tạo như sau:H₂N–CH₂–CONH–CH(CH₃)–CONH–CH(COOH)–CH₂CH₂COOHSản phẩm nào sau đây là không thể có sau khi thủy phân?",
+    "options": {
+      "A": "Glu-Gly.",
+      "B": "Ala-Glu.",
+      "C": "Ala.",
+      "D": "Gly-Ala."
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L12_C3_0101",
+    "stem": "(Đề TSĐH B - 2008) Đun nóng chất H₂N-CH₂-CONH-CH(CH₃)-CONH-CH₂-COOH trong dung dịch HCl (dư), sau khi các phản ứng kết thúc thu được sản phẩm là:",
+    "options": {
+      "A": "H₂N-CH₂-COOH, H₂N-CH₂-CH₂-COOH.",
+      "B": "H₃N⁺-CH₂-COOHCl–, H₃N⁺-CH₂-CH₂-COOHCl–.",
+      "C": "H₃N⁺-CH₂-COOHCl–, H₃N⁺-CH(CH₃)-COOHCl–.",
+      "D": "H₂N-CH₂-COOH, H₂N-CH(CH₃)-COOH."
+    },
+    "answer": "C"
+  },
+  {
+    "id": "L12_C3_0102",
+    "stem": "(Đề THPT QG - 2017) Thủy phân hoàn toàn 1 mol pentapeptide X mạch hở, thu được 3 mol glycine, 1 mol alanine và 1 mol valine. Mặt khác, thủy phân không hoàn toàn X, thu được hỗn hợp sản phẩm trong đó có Ala-Gly, Gly-Ala, Gly-Gly-Val. Cấu tạo của X là",
+    "options": {
+      "A": "Gly-Ala-Gly-Gly-Val.",
+      "B": "Ala-Gly-Gly-Val-Gly.",
+      "C": "Gly-Gly-Val-Gly-Ala.",
+      "D": "Gly-Gly-Ala-Gly-Val."
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L12_C3_0103",
+    "stem": "(Đề THPT QG - 2017) Thủy phân không hoàn toàn tetrepeptide X mạch hở, thu được hỗn hợp sản phẩm trong đó có Gly-Ala, Phe-Val và Ala-Phe. Cấu tạo của X là",
+    "options": {
+      "A": "Gly-Ala-Val-Phe.",
+      "B": "Val-Phe-Gly-Ala.",
+      "C": "Ala-Val-Phe-Gly.",
+      "D": "Gly-Ala-Phe-Val."
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L12_C3_0104",
+    "stem": "(Đề TSĐH B - 2010) Thủy phân hoàn toàn 1 mol pentapeptide X, thu được 2 mol Gly, 1 mol Ala, 1 mol Val và 1 mol Phe. Thủy phân không hoàn toàn X thu được dipeptide Val-Phe và tripeptide Gly-Ala-Val nhưng không thu được dipeptide Gly-Gly. Chất X có công thức là",
+    "options": {
+      "A": "Gly-Phe-Gly-Ala-Val.",
+      "B": "Gly-Ala-Val-Val-Phe.",
+      "C": "Gly-Ala-Val-Phe-Gly.",
+      "D": "Val-Phe-Gly-Ala-Gly."
+    },
+    "answer": "C"
+  },
+  {
+    "id": "L12_C3_0105",
+    "stem": "(Đề THPT QG - 2018) Kết quả thí nghiệm của các chất X, Y, Z với các thuốc thử được ghi ở bảng sau:Các chất X, Y, Z lần lượt là:",
+    "options": {
+      "A": "Gly-Ala-Gly, ethyl formate, aniline.",
+      "B": "Gly-Ala-Gly, aniline, ethyl formate.",
+      "C": "Ethyl formate, Gly-Ala-Gly, aniline.",
+      "D": "Aniline, ethyl formate, Gly-Ala-Gly."
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L12_C3_0106",
+    "stem": "(Đề THPT QG - 2019) Phát biểu nào sau đây đúng?",
+    "options": {
+      "A": "Glycine là hợp chất có tính lưỡng tính.",
+      "B": "Dimethylamine có công thức CH₃CH₂NH₂.",
+      "C": "Phân tử Gly-Ala-Val có 6 nguyên tử oxygen.",
+      "D": "Valine tác dụng với dung dịch Br₂ tạo kết tủa."
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L12_C3_0107",
+    "stem": "(Đề THPT QG - 2019) Phát biểu nào sau đây đúng?",
+    "options": {
+      "A": "Ở điều kiện thường, glycine là chất lỏng.",
+      "B": "Aniline tác dụng với nước bromine tạo kết tủa.",
+      "C": "Phân tử Gly-Ala có một nguyên tử nitrogen.",
+      "D": "Phân tử glutamic acid có hai nguyên tử oxygen."
+    },
+    "answer": "B"
+  },
+  {
+    "id": "L12_C3_0108",
+    "stem": "(Đề TSĐH A - 2012) Phát biểu nào sau đây là đúng?",
+    "options": {
+      "A": "Tất cả các peptide đều có phản ứng màu biuret.",
+      "B": "H₂N-CH₂-CH₂-CO-NH-CH₂-COOH là một dipeptide.",
+      "C": "Muối phenylammonium chloride không tan trong nước.",
+      "D": "Ở điều kiện thường, methylamine và dimethylamine là những chất khí có mùi khai."
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L12_C3_0109",
+    "stem": "(Đề MH lần III - 2017) Cho các phát biểu sau:(a) Tất cả các peptide đều có phản ứng màu biuret.(b) Muối phenylammonium chloride không tan trong nước.(c) Ở điều kiện thường, methylamine và dimethylamine là những chất khí.(d) Trong phân tử peptide mạch hở Gly-Ala-Gly có 4 nguyên tử oxygen.(e) Ở điều kiện thường, amino acid là những chất lỏng.Số phát biểu đúng là",
+    "options": {
+      "A": "2.",
+      "B": "4.",
+      "C": "5.",
+      "D": "3."
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L12_C3_0110",
+    "stem": "(Đề THPT QG - 2018) Cho các phát biểu sau:(a) Dipeptide Gly-Ala có phản ứng màu biuret.(b) Dung dịch glutamic acid đổi màu quỳ tím thành xanh.(c) Methyl formate và glucose có cùng công thức đơn giản nhất.(d) Methylamine có lực base mạnh hơn ammonia.(e) Saccharose có phản ứng thủy phân trong môi trường acid.(g) Methyl methacrylate làm mất màu nước bromine.Số phát biểu đúng là",
+    "options": {
+      "A": "6.",
+      "B": "4.",
+      "C": "5.",
+      "D": "3."
+    },
+    "answer": "B"
+  },
+  {
+    "id": "L12_C3_0111",
+    "stem": "(SGK – CTST) Chất cơ sở để hình thành nên các phân tử protein đơn giản là",
+    "options": {
+      "A": "α-amino acid.",
+      "B": "acid béo.",
+      "C": "các loại đường.",
+      "D": "tinh bột."
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L12_C3_0112",
+    "stem": "Protein nào sau đây có trong lòng trắng trứng?",
+    "options": {
+      "A": "Fibroin.",
+      "B": "Albumin.",
+      "C": "Fibroin.",
+      "D": "Hemoglobin."
+    },
+    "answer": "B"
+  },
+  {
+    "id": "L12_C3_0113",
+    "stem": "Sản phẩm cuối cùng của quá trình thủy phân các protein đơn giản nhờ chất xúc tác thích hợp là",
+    "options": {
+      "A": "ester.",
+      "B": "α-amino acid.",
+      "C": "carboxylic acid.",
+      "D": "β-amino acid."
+    },
+    "answer": "B"
+  },
+  {
+    "id": "L12_C3_0114",
+    "stem": "Đốt cháy hoàn toàn chất hữu cơ nào sau đây thu được sản phẩm có chứa N₂?",
+    "options": {
+      "A": "Chất béo.",
+      "B": "Tinh bột.",
+      "C": "Cellulose.",
+      "D": "Protein."
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L12_C3_0115",
+    "stem": "(Đề MH lần I - 2017) Chất có phản ứng màu biuret là",
+    "options": {
+      "A": "chất béo.",
+      "B": "protein.",
+      "C": "tinh bột.",
+      "D": "saccharose."
+    },
+    "answer": "B"
+  },
+  {
+    "id": "L12_C3_0116",
+    "stem": "Sự kết tủa protein bằng nhiệt độ được gọi là",
+    "options": {
+      "A": "sự trùng ngưng protein.",
+      "B": "sự ngưng tụ protein.",
+      "C": "sự phân hủy protein.",
+      "D": "sự đông tụ protein."
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L12_C3_0117",
+    "stem": "Khi nhỏ acid HNO₃ đậm đặc vào dd lòng trắng trứng đun nóng hỗn hợp thấy xuất hiện: ..(1).., cho copper(II) hydroxide vào dung dịch lòng trắng trứng thấy màu ..(2).. xuất hiện",
+    "options": {
+      "A": "(1) kết tủa màu vàng, (2) xanh.",
+      "B": "(1) kết tủa màu xanh, (2) vàng.",
+      "C": "(1) kết tủa màu trắng, (2) tím.",
+      "D": "(1) kết tủa màu vàng, (2) tím."
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L12_C3_0118",
+    "stem": "Khi đun nóng protein trong dung dịch acid hoặc kiềm hoặc dưới tác dụng của các enzyme, protein bị thủy phân thành ..(1).., cuối cùng thành ..(2)..",
+    "options": {
+      "A": "(1) phân tử protein nhỏ hơn; (2) amino acid.",
+      "B": "(1) chuỗi polypeptide; (2) hỗn hợp các α-amino acid.",
+      "C": "(1) chuỗi polypeptide; (2) amino acid.",
+      "D": "(1) amino acid; (2) chuỗi polypeptide."
+    },
+    "answer": "B"
+  },
+  {
+    "id": "L12_C3_0121",
+    "stem": "Thuốc thử nào dưới đây dùng để phân biệt các dung dịch: ethylene glycol, albumin, glucose?",
+    "options": {
+      "A": "Cu(OH)₂/OH⁻.",
+      "B": "Dung dịch I₂.",
+      "C": "HNO₃.",
+      "D": "AgNO₃/NH₃."
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L12_C3_0122",
+    "stem": "(Đề THPT QG - 2017) Kết quả thí nghiệm của các dung dịch X, Y, Z, T với thuốc thử được ghi ở bảng sau:Các dung dịch X, Y, Z, T lần lượt là:",
+    "options": {
+      "A": "Glucose, lòng trắng trứng, hồ tinh bột, acetic acid.",
+      "B": "Acetic acid, glucose, hồ tinh bột, lòng trắng trứng.",
+      "C": "Acetic acid, hồ tinh bột, glucose, lòng trắng trứng.",
+      "D": "Acetic acid, glucose, lòng trắng trứng, hồ tinh bột."
+    },
+    "answer": "B"
+  },
+  {
+    "id": "L12_C3_0123",
+    "stem": "(Đề MH lần II - 2017) Tiến hành thí nghiệm với các chất X, Y, Z, T. Kết quả được ghi ở bảng sau:Các chất X, Y, Z, T lần lượt là:",
+    "options": {
+      "A": "Lòng trắng trứng, triolein, vinyl acetate, hồ tinh bột.",
+      "B": "Triolein, vinyl acetate, hồ tinh bột, lòng trắng trứng.",
+      "C": "Lòng trắng trứng, triolein, hồ tinh bột, vinyl acetate.",
+      "D": "Vinyl acetate, lòng trắng trứng, triolein, hồ tinh bột."
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L12_C3_0124",
+    "stem": "(SGK Hóa học 12 – KNTT) Phát biểu nào sau đây sai khi nói về enzyme?",
+    "options": {
+      "A": "Phần lớn enzyme là những protein xúc tác cho các phản ứng hóa học và sinh hóa.",
+      "B": "Enzyme có tính chọn lọc cao, mỗi enzyme chỉ xúc tác cho một hoặc một số phản ứng nhất định.",
+      "C": "Tốc độ phản ứng có xúc tác enzyme thường nhanh hơn nhiều lần so với với xúc tác hóa học.",
+      "D": "Tốc độ phản ứng có xúc tác enzyme thường chậm hơn nhiều lần so với với xúc tác hóa học."
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L12_C3_0126",
+    "stem": "(SBT – CTST) Phát biểu nào sau đây đúng khi nói về phản ứng màu biuret?",
+    "options": {
+      "A": "Các amino acid có thể cho phản ứng màu biuret với Cu(OH)₂.",
+      "B": "Dung dịch của các polypeptide hoà tan Cu(OH)₂ cho dung dịch có màu tím.",
+      "C": "Các peptide (trừ dipeptide) cho phản ứng màu biuret với Cu(OH)₂, HNO₃.",
+      "D": "Phản ứng màu biuret dùng để nhận biết sự có mặt của tinh bột và protein."
+    },
+    "answer": "B"
+  },
+  {
+    "id": "L12_C3_0127",
+    "stem": "(SGV – KNTT) Phát biểu nào sau đây sai?",
+    "options": {
+      "A": "Polypeptide có phản ứng màu biuret trong môi trường kiềm.",
+      "B": "Aminoacetic acid làm đổi màu giấy quỳ tím ẩm.",
+      "C": "Protein là hợp phần quan trọng trong thức ăn của người và động vật.",
+      "D": "Trùng ngưng ε-aminocaproic acid thu được polymer."
+    },
+    "answer": "B"
+  },
+  {
+    "id": "L12_C3_0128",
+    "stem": "(SGK – KNTT) Phát biểu nào sau đây không đúng?",
+    "options": {
+      "A": "Thuỷ phân hoàn toàn polypeptide thu được các phân tử α-amino acid.",
+      "B": "Protein tác dụng với Cu(OH)₂ trong môi trường kiềm tạo dung dịch màu xanh lam.",
+      "C": "Protein có thể bị đông tụ dưới tác dụng của nhiệt, acid hoặc base.",
+      "D": "Protein tác dụng với dung dịch nitric acid đặc tạo thành sản phẩm rắn có màu vàng."
+    },
+    "answer": "B"
+  },
+  {
+    "id": "L12_C3_0129",
+    "stem": "(Đề TSCĐ - 2012) Phát biểu nào sau đây là sai?",
+    "options": {
+      "A": "Protein đơn giản được tạo thành từ các gốc α-amino acid.",
+      "B": "Tất cả các peptide đều có khả năng tham gia phản ứng thủy phân.",
+      "C": "Trong phân tử dipeptide mạch hở có hai liên kết peptide.",
+      "D": "Tripeptide Gly–Ala–Gly có phản ứng màu biuret với Cu(OH)₂."
+    },
+    "answer": "C"
+  },
+  {
+    "id": "L12_C3_0130",
+    "stem": "(Đề TSĐH A - 2011) Khi nói về peptide và protein, phát biểu nào sau đây là sai?",
+    "options": {
+      "A": "Protein có phản ứng màu biuret với Cu(OH)₂.",
+      "B": "Tất cả các protein đều tan trong nước tạo thành dung dịch keo.",
+      "C": "Thủy phân hoàn toàn protein đơn giản thu được các α-amino acid.",
+      "D": "Liên kết của nhóm CO với nhóm NH giữa hai đơn vị α-amino acid được gọi là liên kết peptide."
+    },
+    "answer": "B"
+  },
+  {
+    "id": "L12_C3_0131",
+    "stem": "(Đề TN THPT QG - 2020) Phát biểu nào sau đây là sai?",
+    "options": {
+      "A": "Protein bị thủy phân nhờ xúc tác acid.",
+      "B": "Protein được tạo nên từ chuỗi các peptide kết hợp lại với nhau.",
+      "C": "Amino acid có tính chất lưỡng tính.",
+      "D": "Dipeptide có phản ứng màu biuret."
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L12_C3_0132",
+    "stem": "(Đề MH lần III - 2017) Phát biểu nào sau đây sai?",
+    "options": {
+      "A": "Protein là cơ sở tạo nên sự sống.",
+      "B": "Protein đơn giản là những chất có tối đa 10 liên kết peptide.",
+      "C": "Protein bị thủy phân nhờ xúc tác acid, base hoặc enzyme.",
+      "D": "Protein có phản ứng màu biuret."
+    },
+    "answer": "B"
+  },
+  {
+    "id": "L12_C3_0133",
+    "stem": "(Đề TN THPT QG - 2020) Phát biểu nào sau đây sai?",
+    "options": {
+      "A": "Protein bị thủy phân nhờ xúc tác enzyme.",
+      "B": "Dung dịch valine làm quỳ tím chuyển sang màu xanh.",
+      "C": "Amino acid có tính chất lưỡng tính.",
+      "D": "Dung dịch protein có phản ứng màu biuret."
+    },
+    "answer": "B"
+  },
+  {
+    "id": "L12_C3_0134",
+    "stem": "(Đề THPT QG - 2019) Phát biểu nào sau đây đúng?",
+    "options": {
+      "A": "Phân tử lysine có một nguyên tử nitrogen.",
+      "B": "Dung dịch protein có phản ứng màu biuret.",
+      "C": "Aniline là chất lỏng tan nhiều trong nước.",
+      "D": "Phân tử Gly-Ala-Ala có ba nguyên tử oxygen."
+    },
+    "answer": "B"
+  },
+  {
+    "id": "L12_C3_0135",
+    "stem": "Phát biểu nào sau đây là sai?",
+    "options": {
+      "A": "Vắt chanh vào một cốc sữa, ta thấy hiện tượng đông tụ protein xuất hiện.",
+      "B": "Phân tử protein được cấu tạo từ một hay nhiều chuổi polypeptide.",
+      "C": "Khi cho Cu(OH)₂/OH⁻ vào dung dịch lòng trắng trứng, ta thấy có phức chất màu tím.",
+      "D": "Protein rất ít tan trong nước lạnh nhưng lại dễ tan trong nước nóng."
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L12_C3_0136",
+    "stem": "Cho các phát biểu sau về protein:(1) Protein là hợp chất cao phân tử thiên nhiên có cấu trúc phức tạp.(2) Protein chỉ có trong cơ thể người và động vật.(3) Protein bền đối với nhiệt, đối với acid và kiềm.(4) Chỉ các protein có cấu trúc dạng hình cầu mới có khả năng tan trong nước tạo dung dịch keo.Số phát biểu đúng là",
+    "options": {
+      "A": "1.",
+      "B": "2.",
+      "C": "3.",
+      "D": "4."
+    },
+    "answer": "C"
+  },
+  {
+    "id": "L12_C3_0137",
+    "stem": "(Đề MH lần III - 2017) Cho các phát biểu sau:(a) Thủy phân vinyl acetate bằng NaOH đun nóng, thu được sodium acetate và formaldehyde.(b) Polyethylene được điều chế bằng phản ứng trùng ngưng.(c) Ở điều kiện thường, aniline là chất khí.(d) Cellulose thuộc loại polysaccharide.(e) Thủy phân hoàn toàn albumin thu được hỗn hợp α-amino acid.(g) Ở điều kiện thích hợp, triolein tham gia phản ứng cộng H₂.Số phát biểu đúng là",
+    "options": {
+      "A": "3.",
+      "B": "2.",
+      "C": "4.",
+      "D": "5."
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L12_C3_0138",
+    "stem": "(Đề THPT QG - 2017) Cho các phát biểu sau:(a) Trong dung dịch, glycine tồn tại chủ yếu ở dạng ion lưỡng cực.(b) Amino acid là chất rắn kết tinh, dễ tan trong nước.(c) Saccharose và glucose đều có phản ứng tráng bạc.(d) Hydrogen hóa hoàn toàn triolein (xúc tác Ni, to) thu được tripalmitin.(e) Triolein và protein có cùng thành phần nguyên tố.(f) Cellulose trinitrate được dùng làm thuốc súng không khói.Số phát biểu đúng là",
+    "options": {
+      "A": "4.",
+      "B": "5.",
+      "C": "3.",
+      "D": "6."
+    },
+    "answer": "C"
+  },
+  {
+    "id": "L12_C3_0139",
+    "stem": "(Đề THPT QG - 2017) Cho các phát biểu sau:(a) Dung dịch lòng trắng trứng bị đông tụ khi đun nóng.(b) Trong phân tử lysine có một nguyên tử nitrogen.(c) Dung dịch alanine làm đổi màu quỳ tím.(d) Triolein có phản ứng cộng H₂ (xúc tác Ni, to).(e) Tinh bột là đồng phân của cellulose.(g) Aniline là chất rắn, tan tốt trong nước.Số phát biểu đúng là",
+    "options": {
+      "A": "4.",
+      "B": "2.",
+      "C": "1.",
+      "D": "3."
+    },
+    "answer": "B"
+  },
+  {
+    "id": "L12_C3_0140",
+    "stem": "(SGK – CTST) Cho các phát biểu sau:a) Protein dạng hình cầu và dạng hình sợi tan tốt trong nước.b) Một trong những tính chất hoá học đặc trưng của protein là phản ứng thuỷ phân.c) Phản ứng của protein với nitric acid cho sản phẩm có màu tím.d) Khi đun nóng lòng trắng trứng sẽ xảy ra hiện tượng đông tụ.e) Trong cơ thể, enzyme đóng vai trò là chất xúc tác sinh học.Số phát biểu đúng là",
+    "options": {
+      "A": "4.",
+      "B": "3.",
+      "C": "5.",
+      "D": "2."
+    },
+    "answer": "B"
+  }
 ]

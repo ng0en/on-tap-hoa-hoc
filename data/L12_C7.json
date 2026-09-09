@@ -1,1850 +1,1850 @@
 [
- {
-  "id": "L12_C7_0001",
-  "stem": "(OLTN) Kim loại nào sau đây được gọi là kim loại kiềm?",
-  "options": {
-   "A": "Na.",
-   "B": "Ag.",
-   "C": "Au.",
-   "D": "Ca."
-  },
-  "answer": "A"
- },
- {
-  "id": "L12_C7_0002",
-  "stem": "(SBT – CTST) Cho dãy các kim loại: Li, Na, Al, Ca, K và Rb. Số kim loại kiềm trong dãy là",
-  "options": {
-   "A": "1.",
-   "B": "2.",
-   "C": "3.",
-   "D": "4."
-  },
-  "answer": "D"
- },
- {
-  "id": "L12_C7_0003",
-  "stem": "(OLTN) Cho dãy các nguyên tố: Mg, K, Fe, Na, Al và Cs. Số nguyên tố thuộc nhóm IA là",
-  "options": {
-   "A": "1.",
-   "B": "2.",
-   "C": "3.",
-   "D": "4."
-  },
-  "answer": "C"
- },
- {
-  "id": "L12_C7_0004",
-  "stem": "(SBT – KNTT) Kim loại Na ở chu kì 3, nhóm IA trong bảng tuần hoàn. Cấu hình electron lớp ngoài cùng của nguyên tử Na ở trạng thái cơ bản là",
-  "options": {
-   "A": "3s23p5.",
-   "B": "3s2.",
-   "C": "3s1.",
-   "D": "3s23p1."
-  },
-  "answer": "C"
- },
- {
-  "id": "L12_C7_0005",
-  "stem": "(SBT – CTST) Cation M⁺ có cấu hình electron lớp ngoài cùng là 2s22p6. Biết Li (Z = 7); Na (Z = 11); K (Z = 19). Cation M+ là",
-  "options": {
-   "A": "Rb+.",
-   "B": "Na+.",
-   "C": "Li+.",
-   "D": "K+."
-  },
-  "answer": "B"
- },
- {
-  "id": "L12_C7_0006",
-  "stem": "(SBT – KNTT) Ở trạng thái cơ bản, nguyên tử K có cấu hình electron là [Ar]4s1. Trong bảng tuần hoàn, nguyên tố K thuộc nhóm",
-  "options": {
-   "A": "IIIA.",
-   "B": "IA.",
-   "C": "IVA.",
-   "D": "IIA."
-  },
-  "answer": "B"
- },
- {
-  "id": "L12_C7_0007",
-  "stem": "(SBT – CTST) Công thức chung của oxide kim loại nguyên tố nhóm IA là",
-  "options": {
-   "A": "R2O3.",
-   "B": "RO2.",
-   "C": "R2O.",
-   "D": "RO."
-  },
-  "answer": "C"
- },
- {
-  "id": "L12_C7_0008",
-  "stem": "(SBT – KNTT) Ở điều kiện thường, các tinh thể kim loại nhóm IA đều có kiểu cấu trúc",
-  "options": {
-   "A": "lập phương tâm khối.",
-   "B": "lập phương tâm mặt.",
-   "C": "lục phương.",
-   "D": "lập phương đơn giản."
-  },
-  "answer": "A"
- },
- {
-  "id": "L12_C7_0009",
-  "stem": "(SBT – KNTT) Kim loại nhóm IA nào sau đây dễ mất electron hoá trị nhất, được dùng sản xuất tế bào quang điện?",
-  "options": {
-   "A": "Cs.",
-   "B": "Li.",
-   "C": "Na.",
-   "D": "K."
-  },
-  "answer": "A"
- },
- {
-  "id": "L12_C7_0010",
-  "stem": "Trong các kim loại nhóm IA từ Li đến Cs, nhiệt độ nóng chảy và độ cứng biến đổi như thế nào?",
-  "options": {
-   "A": "Không đổi.",
-   "B": "Giảm dần.",
-   "C": "Tăng dần.",
-   "D": "Không có quy luật."
-  },
-  "answer": "B"
- },
- {
-  "id": "L12_C7_0011",
-  "stem": "Nhiệt độ nóng chảy của các kim loại nhóm IA từ Li đến Cs biến đổi như thế nào?",
-  "options": {
-   "A": "Tăng dần.",
-   "B": "Không đổi.",
-   "C": "Không có quy luật.",
-   "D": "Giảm dần."
-  },
-  "answer": "D"
- },
- {
-  "id": "L12_C7_0012",
-  "stem": "(SBT – KNTT) Ở điều kiện thường, kim loại có khối lượng riêng nhỏ nhất là",
-  "options": {
-   "A": "Κ.",
-   "B": "Rb.",
-   "C": "Li.",
-   "D": "Na."
-  },
-  "answer": "C"
- },
- {
-  "id": "L12_C7_0013",
-  "stem": "(SBT – KNTT) Hợp kim nào sau đây có nhiệt độ nóng chảy thấp (~70 °C), dễ hoá lỏng nên được dùng làm chất dẫn nhiệt trong một số lò phản ứng hạt nhân?",
-  "options": {
-   "A": "Fe – C.",
-   "B": "Na – K.",
-   "C": "Al – Mg.",
-   "D": "Au – Ag."
-  },
-  "answer": "B"
- },
- {
-  "id": "L12_C7_0014",
-  "stem": "(SBT – KNTT) Nhận định nào sau đây về các kim loại nhóm IA không đúng?",
-  "options": {
-   "A": "Độ cứng thấp.",
-   "B": "Dễ nóng chảy.",
-   "C": "Khối lượng riêng lớn.",
-   "D": "Dẫn điện tốt."
-  },
-  "answer": "C"
- },
- {
-  "id": "L12_C7_0015",
-  "stem": "(SBT – KNTT) Trong dãy kim loại nhóm IA từ Li đến Cs, nhiệt độ nóng chảy giảm dần do nguyên nhân nào sau đây?",
-  "options": {
-   "A": "Độ bền liên kết kim loại giảm dần.",
-   "B": "Số electron hoá trị tăng dần.",
-   "C": "Khối lượng nguyên tử tăng dần.",
-   "D": "Độ âm điện giảm dần."
-  },
-  "answer": "A"
- },
- {
-  "id": "L12_C7_0016",
-  "stem": "(SBT – KNTT) Trong dãy kim loại nhóm IA từ Li đến Cs, số electron hoá trị trên một đơn vị thể tích biến đổi như thế nào?",
-  "options": {
-   "A": "Giảm dần.",
-   "B": "Tăng dần.",
-   "C": "Không đổi.",
-   "D": "Không có quy luật."
-  },
-  "answer": "A"
- },
- {
-  "id": "L12_C7_0017",
-  "stem": "(SBT – CTST) Nguyên tử của các nguyên tố nhóm IA khác nhau về",
-  "options": {
-   "A": "số electron lớp ngoài cùng của nguyên tử.",
-   "B": "cấu hình electron nguyên tử.",
-   "C": "số oxi hoá của nguyên tử trong hợp chất.",
-   "D": "kiểu mạng tinh thể của đơn chất."
-  },
-  "answer": "B"
- },
- {
-  "id": "L12_C7_0018",
-  "stem": "(SBT – CTST) Theo chiều tăng dần của điện tích hạt nhân nguyên tử, sự biến đổi tính chất của các nguyên tố nhóm IA nào sau đây đúng?",
-  "options": {
-   "A": "Bán kính nguyên tử giảm dần.",
-   "B": "Nhiệt độ nóng chảy tăng dần.",
-   "C": "Độ cứng giảm dần.",
-   "D": "Khối lượng riêng của đơn chất giảm dần."
-  },
-  "answer": "C"
- },
- {
-  "id": "L12_C7_0019",
-  "stem": "(OLTN) Trong nhóm IA, nhiệt độ nóng chảy của các kim loại từ lithium đến caesium biến đổi theo xu hướng nào?",
-  "options": {
-   "A": "Tăng.",
-   "B": "Không thay đổi.",
-   "C": "Không theo quy luật.",
-   "D": "Giảm."
-  },
-  "answer": "D"
- },
- {
-  "id": "L12_C7_0020",
-  "stem": "(OLTN) Đặc điểm về tính chất vật lí nào sau đây không đúng với kim loại kiềm?",
-  "options": {
-   "A": "Khối lượng riêng nhỏ.",
-   "B": "Nhiệt độ nóng chảy và nhiệt độ sôi thấp.",
-   "C": "Độ cứng thấp.",
-   "D": "Dẫn điện tốt hơn Ag."
-  },
-  "answer": "D"
- },
- {
-  "id": "L12_C7_0021",
-  "stem": "(OLTN) Kim loại kiềm thuộc loại kim loại nhẹ và có khối lượng riêng nhỏ là do nguyên nhân nào sau đây?",
-  "options": {
-   "A": "Liên kết kim loại trong mạng tinh thể kim loại kiềm bền vững.",
-   "B": "Kim loại kiềm có bán kính nguyên tử lớn.",
-   "C": "Kim loại kiềm có thể điện cực chuẩn âm.",
-   "D": "Nguyên tử kim loại kiềm chỉ có một electron hoá trị ở lớp ngoài cùng."
-  },
-  "answer": "B"
- },
- {
-  "id": "L12_C7_0022",
-  "stem": "(OLTN) Kim loại kiềm có độ cứng thấp, rất mềm (có thể cắt bằng dao, kéo) là do nguyên nhân nào sau đây?",
-  "options": {
-   "A": "Mạng tinh thể kim loại kiềm có liên kết kim loại yếu.",
-   "B": "Kim loại kiềm có giá trị thế điện cực chuẩn âm.",
-   "C": "Kim loại kiềm có cấu trúc tinh thể đặc khít.",
-   "D": "Kim loại kiềm tan tốt trong nước."
-  },
-  "answer": "A"
- },
- {
-  "id": "L12_C7_0023",
-  "stem": "(SBT – CD) Các kim loại kiềm có khối lượng riêng nhỏ và độ cứng thấp hơn nhiều so với các kim loại khác. Nguyên nhân là do:(1) Tinh thể có kiểu mạng lập phương tâm khối.(2) Khối lượng nguyên tử nhỏ hơn các kim loại khác.(3) Có lực liên kết kim loại yếu.",
-  "options": {
-   "A": "(1), (2) và (3).",
-   "B": "(2) và (3).",
-   "C": "(1) và (3).",
-   "D": "(1) và (2)."
-  },
-  "answer": "C"
- },
- {
-  "id": "L12_C7_0024",
-  "stem": "Khi tham gia phản ứng hoá học, mỗi nguyên tử kim loại nhóm IA đều thể hiện khuynh hướng",
-  "options": {
-   "A": "nhường 2 electron.",
-   "B": "nhận 2 electron.",
-   "C": "nhận 1 electron.",
-   "D": "nhường 1 electron."
-  },
-  "answer": "D"
- },
- {
-  "id": "L12_C7_0025",
-  "stem": "(SBT – KNTT) Tính khử của các kim loại nhóm IA từ Li đến Cs biến đổi như thế nào?",
-  "options": {
-   "A": "Tăng dần.",
-   "B": "Không đổi.",
-   "C": "Không có quy luật.",
-   "D": "Giảm dần."
-  },
-  "answer": "A"
- },
- {
-  "id": "L12_C7_0026",
-  "stem": "(SBT – KNTT) Kim loại nhóm IA có tính khử mạnh nhất trong các nhóm kim loại. Giá trị thế điện cực chuẩn nào sau đây thuộc về một kim loại trong nhóm IA?",
-  "options": {
-   "A": "–0,44 V.",
-   "B": "–2,93 V.",
-   "C": "0 V.",
-   "D": "1,52 V."
-  },
-  "answer": "B"
- },
- {
-  "id": "L12_C7_0027",
-  "stem": "(SBT – KNTT) Khi so sánh kim loại nhóm IA với các nguyên tố khác trong cùng chu kì, nhận định nào sau đây không đúng?",
-  "options": {
-   "A": "Có tính khử mạnh nhất.",
-   "B": "Có thế điện cực chuẩn âm nhất.",
-   "C": "Có bán kính nguyên tử lớn nhất.",
-   "D": "Có liên kết kim loại mạnh nhất."
-  },
-  "answer": "D"
- },
- {
-  "id": "L12_C7_0028",
-  "stem": "(OLTN) Tính chất hoá học chung của kim loại kiềm là",
-  "options": {
-   "A": "tính acid.",
-   "B": "tính base.",
-   "C": "tính oxi hoá.",
-   "D": "tính khử."
-  },
-  "answer": "D"
- },
- {
-  "id": "L12_C7_0029",
-  "stem": "(SBT – CTST) Trong các kim loại sau, kim loại nào có tính khử mạnh nhất?",
-  "options": {
-   "A": "K.",
-   "B": "Al.",
-   "C": "Mg.",
-   "D": "Na."
-  },
-  "answer": "A"
- },
- {
-  "id": "L12_C7_0030",
-  "stem": "(OLTN) Trong các kim loại Li, Na, K, Cs, kim loại có tính khử mạnh nhất là",
-  "options": {
-   "A": "Li.",
-   "B": "Na.",
-   "C": "K.",
-   "D": "Cs."
-  },
-  "answer": "D"
- },
- {
-  "id": "L12_C7_0031",
-  "stem": "(SBT – KNTT) Khi đốt cháy kim loại Na trong bình chứa khí oxygen tạo thành sản phẩm là",
-  "options": {
-   "A": "NaO.",
-   "B": "Na2O2.",
-   "C": "Na2O.",
-   "D": "NaO2."
-  },
-  "answer": "C"
- },
- {
-  "id": "L12_C7_0032",
-  "stem": "Dãy nào sau đây sắp xếp các kim loại nhóm IA theo mức độ phản ứng với nước tăng dần?",
-  "options": {
-   "A": "K, Na, Li.",
-   "B": "Na, K, Li.",
-   "C": "Li, Na, K.",
-   "D": "K, Li, Na."
-  },
-  "answer": "A"
- },
- {
-  "id": "L12_C7_0033",
-  "stem": "(SBT – CTST) Cho dãy các kim loại sau: Fe, Na, K, Cu và Li. Số kim loại trong dãy tác dụng được với nước ở nhiệt độ thường là",
-  "options": {
-   "A": "1.",
-   "B": "2.",
-   "C": "3.",
-   "D": "4."
-  },
-  "answer": "C"
- },
- {
-  "id": "L12_C7_0034",
-  "stem": "(SBT – CD) Trong các phản ứng sau đây, phản ứng nào diễn ra mãnh liệt nhất?",
-  "options": {
-   "A": "Lithium và bromine.",
-   "B": "Potassium và chlorine.",
-   "C": "Lithium và chlorine.",
-   "D": "Sodium và bromine."
-  },
-  "answer": "B"
- },
- {
-  "id": "L12_C7_0035",
-  "stem": "(SBT – KNTT) Cho một mẩu Na vào dung dịch MgSO4 dư, thu được kết tủa X và chất khí Y. Hai chất X, Y lần lượt là",
-  "options": {
-   "A": "Mg, O2.",
-   "B": "Mg, H2.",
-   "C": "Mg(OH)2, H2.",
-   "D": "Mg(OH)2, O2."
-  },
-  "answer": "C"
- },
- {
-  "id": "L12_C7_0036",
-  "stem": "(OLTN) Kim loại nhóm IA có tính khử mạnh nên có nhiều tính chất hoá học khác biệt hơn so với các nhóm kim loại khác. Nguyên nhân nào sau đây là không phù hợp?",
-  "options": {
-   "A": "Kim loại kiềm có thể điện cực chuẩn rất nhỏ.",
-   "B": "Kim loại kiềm có bán kính nguyên tử lớn hơn các kim loại khác.",
-   "C": "Tương tác giữa electron hoá trị với hạt nhân nguyên tử là yếu.",
-   "D": "Mạng tinh thể nguyên tử có liên kết kim loại bền vững."
-  },
-  "answer": "D"
- },
- {
-  "id": "L12_C7_0037",
-  "stem": "(OLTN) Kim loại kiềm có khả năng phản ứng hoá học dễ dàng với nhiều chất. Trong phòng thí nghiệm, để bảo quản kim loại kiềm, người ta dùng biện pháp nào sau đây?",
-  "options": {
-   "A": "Ngâm trong dầu hoả khan.",
-   "B": "Ngâm trong nước cất.",
-   "C": "Để trong ống thuỷ tinh chứa khí hiếm.",
-   "D": "Ngâm trong cồn tuyệt đối."
-  },
-  "answer": "A"
- },
- {
-  "id": "L12_C7_0038",
-  "stem": "(SBT – KNTT) Các kim loại kiềm đều hoạt động hoá học mạnh. Vì vậy, để bảo quản lâu dài, chúng thường được ngâm trong",
-  "options": {
-   "A": "dầu hoả.",
-   "B": "nước máy.",
-   "C": "ethyl alcohol.",
-   "D": "giấm ăn."
-  },
-  "answer": "A"
- },
- {
-  "id": "L12_C7_0039",
-  "stem": "(SBT – CD) Trong tự nhiên, các nguyên tố nhóm IA chỉ tồn tại ở dạng hợp chất là do",
-  "options": {
-   "A": "các nguyên tố nhóm IA chỉ có thể được tìm thấy trong nước ngầm, nước biển.",
-   "B": "các nguyên tố nhóm IA đều là những kim loại hoạt động hoá học mạnh nên không tồn tại dạng đơn chất.",
-   "C": "các nguyên tố nhóm IA thường kết hợp với nhau để tạo thành các hợp kim bền.",
-   "D": "các nguyên tố nhóm IA có độ âm điện lớn nên dễ dàng kết hợp với các nguyên tố khác."
-  },
-  "answer": "B"
- },
- {
-  "id": "L12_C7_0040",
-  "stem": "(OLTN) Quá trình nào sau đây dùng để tách kim loại Na từ hợp chất?",
-  "options": {
-   "A": "Dung dịch NaOH tác dụng với dung dịch HCl.",
-   "B": "Điện phân NaCl nóng chảy.",
-   "C": "Dung dịch Na2CO3 tác dụng với dung dịch HCl.",
-   "D": "Dung dịch NaCl tác dụng với dung dịch AgNO3."
-  },
-  "answer": "B"
- },
- {
-  "id": "L12_C7_0041",
-  "stem": "Khi đốt nóng tinh thể LiCl trong ngọn lửa đèn khí không màu thì tạo ra ngọn lửa có màu",
-  "options": {
-   "A": "da cam.",
-   "B": "tím nhạt.",
-   "C": "vàng.",
-   "D": "đỏ tía."
-  },
-  "answer": "D"
- },
- {
-  "id": "L12_C7_0042",
-  "stem": "Khi đốt nóng tinh thể NaCl trong ngọn lửa đèn khí không màu thì tạo ra ngọn lửa có màu",
-  "options": {
-   "A": "đỏ cam.",
-   "B": "tím nhạt.",
-   "C": "vàng.",
-   "D": "đỏ tía."
-  },
-  "answer": "C"
- },
- {
-  "id": "L12_C7_0043",
-  "stem": "(SBT – KNTT) Diêm tiêu kali được dùng chế tạo thuốc nổ đen (làm mìn phá đá), làm phân bón (cung cấp nguyên tố N và K cho cây trồng) có công thức hoá học là",
-  "options": {
-   "A": "ΚΝΟ3.",
-   "B": "K2CO3.",
-   "C": "KCl.",
-   "D": "K2SO4."
-  },
-  "answer": "A"
- },
- {
-  "id": "L12_C7_0044",
-  "stem": "(SBT – CD) Nhúng que platinum sạch vào dung dịch chất X, sau đó đưa lên ngọn lửa đèn khí, đèn khí cháy với ngọn lửa màu vàng. Mặt khác, thêm vài giọt dung dịch chất X vào dung dịch silver nitrate thấy xuất hiện kết tủa vàng. X có thể là chất nào sau đây?(1) Potassium iodide.(2) Sodium iodide.(3) Sodium phosphate.(4) Potassium phosphate.",
-  "options": {
-   "A": "(1) hoặc (4).",
-   "B": "(2) hoặc (3).",
-   "C": "(2).",
-   "D": "(3) hoặc (4)."
-  },
-  "answer": "B"
- },
- {
-  "id": "L12_C7_0045",
-  "stem": "(SBT – KNTT) Ở các nước ôn đới, để làm giảm nhiệt độ đóng băng của nước, làm tuyết tan, khoáng chất được rải lên tuyết là",
-  "options": {
-   "A": "muối mỏ.",
-   "B": "than đá.",
-   "C": "đá vôi.",
-   "D": "thạch cao."
-  },
-  "answer": "A"
- },
- {
-  "id": "L12_C7_0046",
-  "stem": "(SBT – KNTT) Trong quá trình điện phân dung dịch NaCl với điện cực trơ có màng ngăn xốp, phân tử hay ion nào sau đây di chuyển được từ anode sang cathode qua màng ngăn xốp?",
-  "options": {
-   "A": "Cl–.",
-   "B": "Na+.",
-   "C": "ОН–.",
-   "D": "Cl2."
-  },
-  "answer": "B"
- },
- {
-  "id": "L12_C7_0047",
-  "stem": "(SBT – CTST) Nước Javel là sản phẩm của quá trình",
-  "options": {
-   "A": "sục khí chlorine vào vôi sữa.",
-   "B": "cho dung dịch NaOH loãng tác dụng với khí chlorine.",
-   "C": "điện phân dung dịch NaOH có màng ngăn giữa hai điện cực.",
-   "D": "điện phân nóng chảy NaOH không có màng ngăn."
-  },
-  "answer": "B"
- },
- {
-  "id": "L12_C7_0048",
-  "stem": "(SBT – CTST) Phương pháp điều chế NaOH trong công nghiệp là",
-  "options": {
-   "A": "cho kim loại Na tác dụng với nước.",
-   "B": "cho Na2O tác dụng với nước.",
-   "C": "điện phân dung dịch NaCl bão hoà có màng ngăn.",
-   "D": "điện phân dung dịch NaCl 20%, không có màng ngăn."
-  },
-  "answer": "C"
- },
- {
-  "id": "L12_C7_0049",
-  "stem": "(OLTN) Nước muối sinh lí là dung dịch của chất X với nồng độ 0,9%, được dùng trong việc ngăn ngừa nguy cơ mất muối do đổ quá nhiều mồ hôi, sau phẫu thuật, mất muối do tiêu chảy hay các nguyên nhân khác. X là muối nào sau đây?",
-  "options": {
-   "A": "NaCl.",
-   "B": "NaClO.",
-   "C": "Na2SO4.",
-   "D": "NaNO3."
-  },
-  "answer": "A"
- },
- {
-  "id": "L12_C7_0050",
-  "stem": "Điện phân dung dịch NaCl bão hoà, không có màng ngăn để sản xuất hoá chất nào sau đây?",
-  "options": {
-   "A": "Soda.",
-   "B": "Baking soda.",
-   "C": "Xút công nghiệp.",
-   "D": "Nước Javel."
-  },
-  "answer": "D"
- },
- {
-  "id": "L12_C7_0051",
-  "stem": "(SBT – KNTT) Ở một số quốc gia, khoáng vật trona là nguyên liệu chính để sản xuất soda. Thành phần hoá học chính của trona là",
-  "options": {
-   "A": "3NaF.AIF3.",
-   "B": "NaCl.KCl.",
-   "C": "Na2CO3.NaHCO3.2H2O.",
-   "D": "NaNO3."
-  },
-  "answer": "C"
- },
- {
-  "id": "L12_C7_0052",
-  "stem": "(OLTN) Soda là hoá chất quan trọng trong sản xuất thuỷ tinh, bột giặt, phẩm nhuộm, giấy, sợi. Công thức hoá học của soda là",
-  "options": {
-   "A": "NaCl.",
-   "B": "Na2SO4.",
-   "C": "NaNO3.",
-   "D": "Na2CO3."
-  },
-  "answer": "D"
- },
- {
-  "id": "L12_C7_0053",
-  "stem": "(OLTN) Trong đời sống, người ta dùng baking soda (là một hợp chất của sodium) để giặt, khử mùi hôi và tẩy trắng vết ố trên quần áo, vệ sinh đồ gia dụng,... Baking soda có công thức là",
-  "options": {
-   "A": "NaHCO3.",
-   "B": "Na2CO3.",
-   "C": "Na2SO3.",
-   "D": "NaHSO4."
-  },
-  "answer": "A"
- },
- {
-  "id": "L12_C7_0054",
-  "stem": "(OLTN) Để tẩy dầu mỡ đóng cặn trong dụng cụ, thiết bị và đường ống nhà bếp,…người ta thường dùng Na2CO3. Tên thường gọi của Na2CO3 là tên nào sau đây?",
-  "options": {
-   "A": "Soda.",
-   "B": "Baking soda.",
-   "C": "Xút ăn da.",
-   "D": "Muối ăn."
-  },
-  "answer": "A"
- },
- {
-  "id": "L12_C7_0055",
-  "stem": "(OLTN) Bột nở baking powder có thành phần gồm baking soda kết hợp với tinh bột ngô và một số muối vô cơ khác, có tác dụng làm cho bánh nở xốp, bông mềm. Phản ứng hoá học nào sau đây của bột nở xảy ra làm cho bánh nở xốp?",
-  "options": {
-   "A": "2NaHCO3 + Ca(OH)2 <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnJ6+KrWUAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> Na2CO3 + CaCO3 + H2O.",
-   "B": "Na2CO3 + Ca(OH)2 <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnJ6+KrWUAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> 2NaHCO3 + CaCO3.",
-   "C": "NaHCO3 + HCl <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnJ6+KrWUAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> NaCl + CO2 + H2O.",
-   "D": "2NaHCO3 <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnJ6+KrWUAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> Na2CO3 + H2O + CO2."
-  },
-  "answer": "D"
- },
- {
-  "id": "L12_C7_0056",
-  "stem": "(SBT – CD) Những phát biểu nào sau đây là đúng về hợp chất sodium hydrogencarbonate?(1) Còn gọi là sodium bicarbonate hay baking soda.(2) Được dùng để điều trị chứng dư acid trong dạ dày, làm mềm thực phẩm.(3) Là chất dạng bột màu trắng, dễ bị oxi hoá bởi oxygen trong không khí.",
-  "options": {
-   "A": "(1) và (2).",
-   "B": "(1), (2) và (3).",
-   "C": "(1) và (3).",
-   "D": "(2)."
-  },
-  "answer": "A"
- },
- {
-  "id": "L12_C7_0057",
-  "stem": "(SBT – KNTT) Trong quá trình Solvay, NH3 được tái chế khi cho dung dịch NH4Cl tác dụng với",
-  "options": {
-   "A": "CaO.",
-   "B": "NaOH.",
-   "C": "KOH.",
-   "D": "Ba(OH)2."
-  },
-  "answer": "A"
- },
- {
-  "id": "L12_C7_0058",
-  "stem": "Quá trình sản xuất soda bằng phương pháp Solvay không sử dụng nguyên liệu nào sau đây?",
-  "options": {
-   "A": "Carbon dioxide.",
-   "B": "Muối ăn.",
-   "C": "Xút ăn da.",
-   "D": "Ammonia."
-  },
-  "answer": "C"
- },
- {
-  "id": "L12_C7_0059",
-  "stem": "(SBT – KNTT) Trong một giai đoạn của quá trình Solvay có tồn tại cân bằng giữa các muối trong dung dịch: NaCl + NH4HCO3 <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnKD81sPQAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> NaHCO3 + NH4Cl.Dựa trên tính chất nào của NaHCO3 để kết tinh muối này từ dung dịch hỗn hợp?",
-  "options": {
-   "A": "Độ tan thấp.",
-   "B": "Tính lưỡng tính.",
-   "C": "Độ bền nhiệt thấp.",
-   "D": "Tính acid Bronsted."
-  },
-  "answer": "A"
- },
- {
-  "id": "L12_C7_0060",
-  "stem": "(Đề THPT QG - 2017) Dung dịch nào sau đây phản ứng với dung dịch HCl dư tạo ra chất khí?",
-  "options": {
-   "A": "Ba(OH)2.",
-   "B": "Na2CO3.",
-   "C": "K2SO4.",
-   "D": "Ca(NO3)2."
-  },
-  "answer": "B"
- },
- {
-  "id": "L12_C7_0061",
-  "stem": "(Đề TNTHPT QG – 2020) Chất nào sau đây tác dụng với dd NaHCO3 sinh ra khí CO2?",
-  "options": {
-   "A": "HCl.",
-   "B": "Na2SO4.",
-   "C": "K2SO4.",
-   "D": "KNO3."
-  },
-  "answer": "A"
- },
- {
-  "id": "L12_C7_0062",
-  "stem": "(Đề THPT QG - 2018) Dung dịch Na2CO3 tác dụng được với dung dịch",
-  "options": {
-   "A": "NaCl.",
-   "B": "KCl.",
-   "C": "CaCl2.",
-   "D": "NaNO3."
-  },
-  "answer": "C"
- },
- {
-  "id": "L12_C7_0063",
-  "stem": "(HTHH) Cho dung dịch NaOH dư vào dung dịch nào sau đây thu được kết tủa trắng khi kết thúc phản ứng?",
-  "options": {
-   "A": "Ca(HCO3)2.",
-   "B": "NaHCO3.",
-   "C": "HCl.",
-   "D": "(NH4)2SO4."
-  },
-  "answer": "A"
- },
- {
-  "id": "L12_C7_0064",
-  "stem": "(SBT – KNTT) Hợp chất nào sau đây vừa tác dụng được với dung dịch HCl, vừa tác dụng được với dung dịch NaOH?",
-  "options": {
-   "A": "NaHCO3.",
-   "B": "NaCl.",
-   "C": "Ba(OH)2.",
-   "D": "Na2CO3."
-  },
-  "answer": "A"
- },
- {
-  "id": "L12_C7_0065",
-  "stem": "Nhỏ vài giọt dung dịch phenolphthalein vào dung dịch Na2CO3 thì dung dịch chuyển sang màu",
-  "options": {
-   "A": "tím.",
-   "B": "vàng.",
-   "C": "xanh.",
-   "D": "hồng."
-  },
-  "answer": "D"
- },
- {
-  "id": "L12_C7_0066",
-  "stem": "Dãy nào sau đây sắp xếp các dung dịch (có cùng nồng độ 0,1 M) theo thứ tự pH tăng dần?",
-  "options": {
-   "A": "LiOH, Na2CO3, KCl.",
-   "B": "Na2CO3, KCl, LiOH.",
-   "C": "KCl, Na2CO3, LiOH.",
-   "D": "Na2CO3, LiOH, KCl."
-  },
-  "answer": "C"
- },
- {
-  "id": "L12_C7_0067",
-  "stem": "(OLTN) Một loại muối (X) của kim loại kiềm được dùng làm phân bón, cung cấp cả hai nguyên tố dinh dưỡng đa lượng cho cây trồng. Công thức hoá học của muối X là",
-  "options": {
-   "A": "ΚΝΟ3.",
-   "B": "K2CO3.",
-   "C": "NaNO3.",
-   "D": "Na3PO4."
-  },
-  "answer": "A"
- },
- {
-  "id": "L12_C7_0068",
-  "stem": "X và Y là các hợp chất vô cơ của một kim loại kiềm, có nhiều ứng dụng trong thực tế và khi đốt nóng ở nhiệt độ cao trên đèn khí cho ngọn lửa màu vàng. Biết chúng thoả mãn các sơ đồ sau:X + NaOH <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnJ6+KrWUAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> Y + H2O;X <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAE0AAAAgCAAAAAByCKroAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnI6jnaXwAAAEqSURBVEjHY/zPQEXARE3DiDZtT2CW5x7Cyv4TBV7zP/1/k+8VIWVEum23lBSDmvheKvn0JR8DA4PgS8pNW1nDwMAg8ZGBgeG9BMWm/W9jYGBgcHn+hOHOS2eCVhMI1xuuDPzyxf//7/LP8d5NMLIIxuljhmriop2EOCUSjJpGI9OYGP5R0TQRtr0PLhNS9AbGIJiGOnglEgko+Sd/m8jUSxTI1fxIRdNei3j+oZ5p/xcx5FPRtP/BDJP////PwsDwPhczkrwjUbglLxDspVC6BkUFP0O+ZDADw///T5gxQRmqzeoIGdzJxPP/f0Zy69N///8hg6WV6icEGMg2DRU81WE+oUJM6iUK+LAeoF6crmeY+596pumWQmiqlEj/gjogDCrFAhRQt7QEANWTdyq5RaZ+AAAAAElFTkSuQmCC\" style=\"height:22px\" alt=\"\"> Y.Y là chất nào sau đây?",
-  "options": {
-   "A": "NaOH.",
-   "B": "K2CO3.",
-   "C": "Na2CO3.",
-   "D": "NaHCO3."
-  },
-  "answer": "D"
- },
- {
-  "id": "L12_C7_0069",
-  "stem": "Phân kali đỏ (chứa KCl) là một loại phân bón đa lượng phổ biến trên thị trường vì giá thành rẻ, phù hợp rất nhiều loại đất khác nhau và hàm lượng potassium cao. Phân kali đó thường được sản xuất từ quặng sylvinite (KCl.NaCl) bằng cách tách muối KCl ra khỏi quặng theo sơ đồ sau:Quặng sylvinite <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGkAAAAcCAAAAABHBs6UAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnKUgygGIAAAPKSURBVEjH3ZZ/TNR1GMdfx48jIGqEKY0fGTloE5AIA4YMlggqEmC5ySgQHcJMkVkLmcx01SJH0wjDdbONX9LGNPlhJNkkxykZyo+YpkQ0IaDYEbbSk4N7+uOOxR13ArP4o/dfn+fn+/t8nufz7KsQFgg2C0U0d6a7JxaKydF9+MGY7CwpB7xObpzw/wGAoA44RvbIrlHdph1TDtebcE21NYk5XZ/s9ML8a/I9ZDIoWVmkbm5qaqg3yi1nu/90eds0ZKiwMWz+NfFEQO0G+KZg6fgaXe4Nr2ASBpOwVzfu7q16BLiYdiD34fbG45sPh96KzyDJR99b1fGl5nzPRa9r715o8Or9dJmFpGIB/VEDYTo/eX5EXlUtHpKYfaWta0VkOVJUISJyZCh8HfoPX6oJl4lgkcSzUlShlbGQw/nSlhCuH/fpsZDUykR4BNfB3UUE4+6OhwbPfmDgWdw0AHcI3E/3MvDFVg/44qYpTtk9iC9ubcsV9gFz7xPsLYSHNLSjAAQP93p0t9NB+oBVtXvCqFl3E8DY0Jvq6qN6gCevyUT33PsEXs+d5/0kb63SKFfllNwjEYgYhEjXBpsV199wmObv/ctOF2eAJZFrPBYrLaUU65gUSb9kpuvKl1kwKbqgcRPNQJeIyP2YTr+4dtdseWfiYHJUuRl38sgsTP8arkRrRexg1dRFlhpmZkeXUd6eBsBklJlDW+5Uk5uxrFCVAWqAWL1eL/rW6i38NzUd+clEPLVJb/U9PRhqnAuni3fKyhQWZm/bVyJvqeTNhOhOg+LbKyb20lI5/knaDYPw60k5mDzd2p4uIhVLV68OnRalGRKxWtOtjrptHxiOl6+aG7dmlvkaTr+dYr/TzOjUc+demRb1mDtYfbmjj9ddLrlwCIdqu0rblsk/NPl7No7alBqMWcOa/Pi8TuVrcWWXtuQASZ6OfccWkdepjOhP+zHTHvSVti0fm33DjNsLiYt7WtWeeiJVqxXZ95l8pBKtjIW4j8mGfsPtaWUs5EyGiMj3qVIaUCuJtfL5XjmTIdIeNKldUeETF+etMk88s6b3YjgApIzEFhcpfnYFKL7qMLjkUdw0nkyJ3ZFG9+xswI9nyuiOBAJtHCDlHUpm5LU+ezlLU14vjxGUup6p7Sl9AD3q6qN6fzWAUmfwbeM7P/zVgMIYPWX5B9Y2LNuHHQsKAntCid76xT3j9iRiEPBmp4vz+uZ4p8zYp35/OW8l0Fp7u5L1zfFOKwGoauUv26/LZ+nT/WBtvSb2zSHYak2WEBAwH28zKP6H/7B/A25N4WbpCpq8AAAAAElFTkSuQmCC\" style=\"height:26px\" alt=\"\"> Dung dịch KCl bão hoà <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFcAAAAkCAAAAADZFfnfAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnIUbpCFAAAAL6SURBVEjHxZZdSFNhGMf/upnOfWgsUydqOFNEqcyy8mIWauRXJgxL0iQ0ohtNqCaI2aigxIsMJNMLBcPCLA1Tb4KRFoQfGY3UzBSZTg38QC23pnu6mF/RztyZSv+r5zzvn9/7nOc85z3HjrAtst8erDXcGekIe67dxn3I3XfRhoJpE7qeTZXx5pcYuG1B3gcmiYioM4YviFObNT3JNFLva1ZcWQUN/CIi6uYrtSMKl362t8LATctYNAWn0omIEkPFdw/6lZD6sCg+U8EZI8rJ1+d5u136ydQHhnkIrDnSAwBLqhQASO2edOxqLRhKPjt1rWbZcrO9Y2iqkN2cacs0CREfAMzpPQDAEw458AqpnM3lHD+57Cm/584vfM7E5ZrNGuwFt1xLjgLCHeMAMAYRF+D1S+wBb5Nldvq8PWiBXb2+GRHtc/4AOCdqAeDpfgCAp9YIaMDXA5Mil4a+vq8TbOe3WRK0QETU6awcG80TNYiJKKpaWryo4ilkj2nAJf9GjIZGW1g+N8R2/ugFgDBVqzTgU1ugqWkvnu0sTnF88ChcEY/bx2SiqF6W9bbrp706zC8lllsc3OpSS/NbuNevwEy6bcLYzNdY5BpC31jgMqjC3TX41QaeDrceIrIj1BatdSXi4UoUPbOWrQpZicx4a4vQtZpLAPBepBaCC0T6rHldV6P7hrXsntXIjDfSB4MzRpNEAUbjwrskoVXnL0vldzdymN63Tai/5S0HrL9vVQl/XZbJ/3H01gvByK3zZ0Z/T3aztHOSL5i5liStF1vhsszljgNXd53JFASpS9wlL9etnMuJDpaNYumKMKCVPdek5tip2NOa4dLLi+uSTTVfwpRokk1lZ9nKDZfvSNPccUrWjwDAnFwr1wLpuxH3EYdSHbK+zZu7Uyu4HoCzqxPgPA8AwjoAgBjgzUMCOHHmBazrXQCmrdjZai7pdDodAWWGz42zv7eOO8jj8XjDgEFyQWlQ2cC1fD5wRzxs6sJ//U+1SVt/Tm5vvX8A4WEeFzlA94UAAAAASUVORK5CYII=\" style=\"height:26px\" alt=\"\"> Tinh thể KCl.Phương pháp nào sau đây dùng để tách KCl ở trên?",
-  "options": {
-   "A": "Sắc kí.",
-   "B": "Chưng cất.",
-   "C": "Chiết.",
-   "D": "Kết tinh."
-  },
-  "answer": "D"
- },
- {
-  "id": "L12_C7_0070",
-  "stem": "(HTHH) Cho sơ đồ gồm hai phản ứng hóa học xảy ra ở điều kiện thường:X <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnKtE70dgAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> NaOH <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnKtE70dgAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> Na2CO3Trong số các chất: Na, Na2SO4, Na2O, NaCl, số chất phù hợp với X là",
-  "options": {
-   "A": "1.",
-   "B": "2.",
-   "C": "3.",
-   "D": "4."
-  },
-  "answer": "B"
- },
- {
-  "id": "L12_C7_0071",
-  "stem": "(OLTN) Cho dãy các nguyên tố: Mg, K, Ba, Na, Al, Sr. Số nguyên tố thuộc nhóm IIA là",
-  "options": {
-   "A": "1.",
-   "B": "2.",
-   "C": "3.",
-   "D": "4."
-  },
-  "answer": "C"
- },
- {
-  "id": "L12_C7_0072",
-  "stem": "(SBT – KNTT) Ở trạng thái cơ bản, cấu hình electron lớp ngoài cùng của các kim loại nhóm IIA có dạng chung là",
-  "options": {
-   "A": "ns1.",
-   "B": "ns2.",
-   "C": "ns2np3.",
-   "D": "ns2np5."
-  },
-  "answer": "B"
- },
- {
-  "id": "L12_C7_0073",
-  "stem": "(Đề TSĐH B - 2014) Ion X2+ có cấu hình electron ở trạng thái cơ bản 1s22s22p6. Nguyên tố X là",
-  "options": {
-   "A": "O (Z = 8) .",
-   "B": "Mg (Z = 12).",
-   "C": "Na (Z = 11).",
-   "D": "Ne (Z = 10)."
-  },
-  "answer": "B"
- },
- {
-  "id": "L12_C7_0074",
-  "stem": "Trong hợp chất, nguyên tử của các nguyên tố kim loại nhóm IIA thường thể hiện số oxi hóa là",
-  "options": {
-   "A": "+1.",
-   "B": "+3.",
-   "C": "+2.",
-   "D": "–2."
-  },
-  "answer": "C"
- },
- {
-  "id": "L12_C7_0075",
-  "stem": "(SBT – KNTT) Trong cơ thể người, ion Mg2+ (Z = 12) tham gia cấu trúc tế bào, tổng hợp protein và tổng hợp chất sinh năng lượng ATP. Tổng số hạt proton và electron của ion Mg2+ là",
-  "options": {
-   "A": "26.",
-   "B": "24.",
-   "C": "22.",
-   "D": "12."
-  },
-  "answer": "C"
- },
- {
-  "id": "L12_C7_0076",
-  "stem": "(SBT – KNTT) Ion Ca2+ (Z = 20) đóng vai trò thiết yếu trong việc phát triển xương, giúp duy trì hoạt động của cơ bắp, kích thích máu lưu thông, điều tiết một số loại hormone,... Tổng số proton và electron của ion Ca2+ là",
-  "options": {
-   "A": "40.",
-   "B": "42.",
-   "C": "38.",
-   "D": "18."
-  },
-  "answer": "C"
- },
- {
-  "id": "L12_C7_0077",
-  "stem": "Nhận định nào không đúng về cấu tạo và tính chất vật lí của các kim loại nhóm IIA?",
-  "options": {
-   "A": "Khối lượng riêng tương đối nhỏ, là những kim loại nhẹ hơn nhôm (trừ Ba).",
-   "B": "Độ cứng cao hơn kim loại nhóm IA, nhưng mềm hơn kim loại nhôm.",
-   "C": "Mạng tinh thể của chúng đều có kiểu lập phương tâm khối.",
-   "D": "Nhiệt độ nóng chảy và nhiệt độ sôi tương đối thấp (trừ Be)."
-  },
-  "answer": "C"
- },
- {
-  "id": "L12_C7_0078",
-  "stem": "(SBT – CTST) Kim loại nhóm IIA có nhiệt độ nóng chảy, nhiệt độ sôi, khối lượng riêng biến đổi không theo quy luật như kim loại kiềm, do các kim loại nhóm IIA có",
-  "options": {
-   "A": "điện tích hạt nhân khác nhau.",
-   "B": "cấu hình electron khác nhau.",
-   "C": "bán kính nguyên tử khác nhau.",
-   "D": "kiểu mạng tinh thể khác nhau."
-  },
-  "answer": "D"
- },
- {
-  "id": "L12_C7_0079",
-  "stem": "(OLTN) Mô tả nào dưới đây không phù hợp các nguyên tố nhóm IIA từ Be tới Ba?",
-  "options": {
-   "A": "Bán kính nguyên tử tăng dần.",
-   "B": "Tồn tại chủ yếu dạng đơn chất trong vỏ Trái Đất.",
-   "C": "Có hai electron hoá trị.",
-   "D": "Thuộc nhóm kim loại nhẹ."
-  },
-  "answer": "B"
- },
- {
-  "id": "L12_C7_0080",
-  "stem": "(SBT – KNTT) Trong nhóm IA và IIA, theo chiều từ trên xuống dưới trong mỗi nhóm, tính kim loại biến đổi như thế nào?",
-  "options": {
-   "A": "Không đổi.",
-   "B": "Giảm dần.",
-   "C": "Tăng dần.",
-   "D": "Không có quy luật."
-  },
-  "answer": "C"
- },
- {
-  "id": "L12_C7_0081",
-  "stem": "(OLTN) Kim loại nhóm IIA có tính khử mạnh, nguyên nhân nào sau đây là không phù hợp?",
-  "options": {
-   "A": "Kim loại nhóm IIA có thế điện cực chuẩn rất nhỏ.",
-   "B": "Kim loại nhóm IIA có bán kính nguyên tử lớn.",
-   "C": "Tương tác giữa electron hoá trị của với hạt nhân nguyên tử là yếu.",
-   "D": "Mạng tinh thể nguyên tử có liên kết kim loại bền vững."
-  },
-  "answer": "D"
- },
- {
-  "id": "L12_C7_0082",
-  "stem": "Kim loại nào sau đây thuộc nhóm IIA và có khả năng phát sáng màu đỏ khi cháy?",
-  "options": {
-   "A": "Beryllium (Be).",
-   "B": "Magnesium (Mg).",
-   "C": "Strontium (Sr).",
-   "D": "Barium (Ba)."
-  },
-  "answer": "C"
- },
- {
-  "id": "L12_C7_0083",
-  "stem": "(SBT – KNTT) Ở nhiệt độ thường, kim loại nào sau đây phản ứng chậm với nước?",
-  "options": {
-   "A": "Mg.",
-   "B": "Ca.",
-   "C": "Sr.",
-   "D": "Ba."
-  },
-  "answer": "A"
- },
- {
-  "id": "L12_C7_0084",
-  "stem": "(SBT – CTST) Kim loại không phản ứng được với nước ở nhiệt độ thường là",
-  "options": {
-   "A": "Be.",
-   "B": "Ca.",
-   "C": "Li.",
-   "D": "K."
-  },
-  "answer": "A"
- },
- {
-  "id": "L12_C7_0085",
-  "stem": "Cho dãy các kim loại: Cu, Na, K, Ca, Ga. Số kim loại trong dãy tác dụng được với nước ở nhiệt độ thường là",
-  "options": {
-   "A": "4.",
-   "B": "1.",
-   "C": "2.",
-   "D": "3."
-  },
-  "answer": "D"
- },
- {
-  "id": "L12_C7_0086",
-  "stem": "(SBT – CTST) Phương trình hoá học của phản ứng nào sau đây không đúng?",
-  "options": {
-   "A": "Ca + 2H2O <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnI6jnaXwAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> Ca(OH)2 + H2.",
-   "B": "BeO + H2O <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnI6jnaXwAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> Be(OH)2.",
-   "C": "Mg + H2SO4 <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnI6jnaXwAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> MgSO4 + H2.",
-   "D": "Be + 2NaOH <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnI6jnaXwAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> Na2BeO2 + H2."
-  },
-  "answer": "B"
- },
- {
-  "id": "L12_C7_0087",
-  "stem": "(SBT – CTST) Dãy gồm các kim loại đều phản ứng với nước ở nhiệt độ thường, tạo ra dung dịch có môi trường kiềm là",
-  "options": {
-   "A": "Na, Ba, K.",
-   "B": "Be, Na, Ca.",
-   "C": "Na, Fe, K.",
-   "D": "Na, Cr, K."
-  },
-  "answer": "A"
- },
- {
-  "id": "L12_C7_0088",
-  "stem": "(SBT – CD) Dãy các kim loại nào sau đây tác dụng nhanh với nước ở điều kiện thường?",
-  "options": {
-   "A": "Be, Na, Ba.",
-   "B": "Mg, Ca, Ba.",
-   "C": "Li, Ca, Ba.",
-   "D": "Sr, Sn, Ba."
-  },
-  "answer": "C"
- },
- {
-  "id": "L12_C7_0089",
-  "stem": "Kim loại nào sau đây có thể tác dụng với nước ở điều kiện thường tạo ra dung dịch làm xanh giấy quỳ tím là",
-  "options": {
-   "A": "Be.",
-   "B": "Ba.",
-   "C": "Zn.",
-   "D": "Fe."
-  },
-  "answer": "B"
- },
- {
-  "id": "L12_C7_0090",
-  "stem": "Lần lượt cho một mẫu Ba và các dung dịch K2SO4, NaHCO3, HNO3 và NH4Cl. Số trường hợp xuất hiện kết tủa là",
-  "options": {
-   "A": "3.",
-   "B": "4.",
-   "C": "2.",
-   "D": "1."
-  },
-  "answer": "C"
- },
- {
-  "id": "L12_C7_0091",
-  "stem": "(SBT – CD) Barium phản ứng với nước dễ dàng hơn so với magnesium ở điều kiện thường là do các nguyên nhân nào sau đây?(1) Barium có tính khử mạnh hơn magnesium.(2) Độ tan của barium hydroxide trong nước cao hơn nhiều so với magnesium hydroxide.(3) Bọt khí hydrogen sinh ra bám trên bề mặt magnesium nhiều hơn, cản trở phản ứng tiếp diễn.",
-  "options": {
-   "A": "(1).",
-   "B": "(1), (2) và (3).",
-   "C": "(1) và (3).",
-   "D": "(1) và (2)."
-  },
-  "answer": "D"
- },
- {
-  "id": "L12_C7_0092",
-  "stem": "(OLTN) Khi thực hiện thí nghiệm phản ứng của oxygen với kim loại nhóm IIA, hiện tượng nào sau đây không đúng?",
-  "options": {
-   "A": "Ở điều kiện thường, beryllium bền trong không khí.",
-   "B": "Magnesium không phản ứng với oxygen ở điều kiện thường.",
-   "C": "Khi đốt nóng, các kim loại nhóm IIA đều cháy trong không khí.",
-   "D": "Kim loại nhóm IIA khi cháy đều cho ngọn lửa có màu đặc trưng."
-  },
-  "answer": "B"
- },
- {
-  "id": "L12_C7_0093",
-  "stem": "(OLTN) Cho mỗi mảnh nhỏ kim loại Mg, Ca, Sr và Ba vào mỗi ống nghiệm chứa 5 mL nước. Quan sát hiện tượng thí nghiệm để dự đoán phản ứng với nước của kim loại nhóm IIA, nhận xét nào sau đây không đúng?",
-  "options": {
-   "A": "Khí thoát ra trên bề mặt kim loại là khí hydrogen.",
-   "B": "Barium có khối lượng riêng nhỏ nhất nên nổi trên mặt nước và tan nhanh.",
-   "C": "Khả năng phản ứng với nước xếp theo thứ tự Mg &lt; Ca &lt; Sr &lt; Ba.",
-   "D": "Magnesium phản ứng chậm nhất do Mg(OH)2 có độ tan nhỏ nhất."
-  },
-  "answer": "B"
- },
- {
-  "id": "L12_C7_0094",
-  "stem": "(SBT – KNTT) Trong công nghiệp, kim loại kiềm thổ thường được điều chế bằng phương pháp điện phân nóng chảy muối chloride. Quá trình khử xảy ra tại cathode là",
-  "options": {
-   "A": "M <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnKUgygGIAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> M+ + le.",
-   "B": "M+ + le <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnKUgygGIAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> M.",
-   "C": "M2+ + 2e <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnKUgygGIAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> M.",
-   "D": "M <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnKUgygGIAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> M2+ + 2e."
-  },
-  "answer": "C"
- },
- {
-  "id": "L12_C7_0095",
-  "stem": "(OLTN) Trong nhóm IIA, nguyên tố phổ biến trong vỏ Trái Đất là",
-  "options": {
-   "A": "Rb và Sr.",
-   "B": "Mg và Ba.",
-   "C": "Mg và Ca.",
-   "D": "Be và Ca."
-  },
-  "answer": "C"
- },
- {
-  "id": "L12_C7_0096",
-  "stem": "(OLTN) Trong chế độ dinh dưỡng hàng ngày, khi cơ thể không hấp thu được hoặc thiếu nguyên tố nào dưới đây sẽ dẫn đến nguy cơ loãng xương?",
-  "options": {
-   "A": "Ba.",
-   "B": "Mg.",
-   "C": "Be.",
-   "D": "Ca."
-  },
-  "answer": "D"
- },
- {
-  "id": "L12_C7_0098",
-  "stem": "(OLTN) Calcium là nguyên tố kim loại đóng vai trò thiết yếu cho việc phát triển cơ thể động vật, đồng thời góp phần duy trì hoạt động của cơ bắp, truyền dẫn thần kinh, tăng cường khả năng miễn dịch,... Trong cơ thể người, phần lớn lượng calcium tập trung ở",
-  "options": {
-   "A": "xương, răng.",
-   "B": "máu.",
-   "C": "cơ bắp.",
-   "D": "tóc, móng."
-  },
-  "answer": "A"
- },
- {
-  "id": "L12_C7_0099",
-  "stem": "(OLTN) Những mô tả về ứng dụng hợp chất của calcium nào sau đây không chính xác?",
-  "options": {
-   "A": "Đá vôi dùng để sản xuất xi măng, vôi sống, vôi tôi,…",
-   "B": "Apatite dùng để sản xuất phân bón.",
-   "C": "Vôi sống làm vật liệu xây dựng, khử chua đất, làm chất hút ẩm,…",
-   "D": "Thạch cao dùng để làm vật liệu xây dựng, làm mềm nước cứng."
-  },
-  "answer": "D"
- },
- {
-  "id": "L12_C7_0100",
-  "stem": "(SBT – CD) Nguyên tố nhóm IIA được tìm thấy trong tự nhiên dưới dạng nào?(1) Các cation M2+ trong nước ao hồ, nước ngầm.(2) Các khoáng vật ít tan như carbonate, sulfate, silicate.(3) Các hợp chất ít tan trong răng, xương động vật.",
-  "options": {
-   "A": "(1) và (2).",
-   "B": "(1) và (3).",
-   "C": "(1), (2) và (3).",
-   "D": "(2) và (3)."
-  },
-  "answer": "C"
- },
- {
-  "id": "L12_C7_0101",
-  "stem": "Khi đốt nóng tinh thể BaCl2 trong ngọn lửa đèn khí không màu thì tạo ra ngọn lửa có màu",
-  "options": {
-   "A": "tím nhạt.",
-   "B": "đỏ son.",
-   "C": "đỏ cam.",
-   "D": "lục vàng."
-  },
-  "answer": "D"
- },
- {
-  "id": "L12_C7_0102",
-  "stem": "(SBT – KNTT) Độ tan trong dãy muối sulfate từ MgSO4 đến BaSO4 biến đổi như thế nào?",
-  "options": {
-   "A": "Tăng dần.",
-   "B": "Giảm dần.",
-   "C": "Không có quy luật.",
-   "D": "Không đổi."
-  },
-  "answer": "B"
- },
- {
-  "id": "L12_C7_0103",
-  "stem": "(SBT – KNTT) Ở nhiệt độ phòng, hydroxide nào sau đây có độ tan lớn nhất?",
-  "options": {
-   "A": "Mg(OH)2.",
-   "B": "Sr(OH)2.",
-   "C": "Ba(OH)2.",
-   "D": "Ca(OH)2."
-  },
-  "answer": "C"
- },
- {
-  "id": "L12_C7_0104",
-  "stem": "(SBT – KNTT) Ở nhiệt thường, độ tan của các hydroxide tăng dần trong dãy từ Mg(OH)2 đến Ba(OH)2. Từ thông tin này có thể dự đoán được khả năng phản ứng với nước của các kim loại từ Mg đến Ba biến đổi như thế nào?",
-  "options": {
-   "A": "Tăng dần.",
-   "B": "Không đổi.",
-   "C": "Không có quy luật.",
-   "D": "Giảm dần."
-  },
-  "answer": "A"
- },
- {
-  "id": "L12_C7_0105",
-  "stem": "Trong dãy hydroxide của kim loại nhóm IIA từ Mg(OH)2 đến Ba(OH)2, hydroxide nào có độ tan nhỏ nhất ở 20 oC?",
-  "options": {
-   "A": "Mg(OH)2.",
-   "B": "Sr(OH)2.",
-   "C": "Ba(OH)2.",
-   "D": "Ca(OH)2."
-  },
-  "answer": "A"
- },
- {
-  "id": "L12_C7_0106",
-  "stem": "(SBT – KNTT) Tiến hành thí nghiệm theo các bước sau:Bước 1: Chuẩn bị hai ống nghiệm, ống (1) chứa 2 mL dung dịch CaCl2, ống (2) chứa 2 mL dung dịch BaCl2 1M.Bước 2: Nhỏ đồng thời vào mỗi ống nghiệm 3 giọt dung dịch CuSO4 1 M, thấy ống (1) xuất hiện kết tủa chậm hơn và ít hơn so với ống (2).Nhận định nào sau đây đúng khi so sánh CaSO4 với BaSO4?",
-  "options": {
-   "A": "Khó nhiệt phân hơn.",
-   "B": "Khó thuỷ phân hơn.",
-   "C": "Dễ kết tủa hơn.",
-   "D": "Dễ tan hơn."
-  },
-  "answer": "D"
- },
- {
-  "id": "L12_C7_0107",
-  "stem": "(SBT – KNTT) Muối nào sau đây chỉ tồn tại trong dung dịch và bị phân huỷ khi đun nóng?",
-  "options": {
-   "A": "Ca(NO3)2.",
-   "B": "CaSO4.",
-   "C": "CaCl2.",
-   "D": "Ca(HCO3)2."
-  },
-  "answer": "D"
- },
- {
-  "id": "L12_C7_0108",
-  "stem": "(SBT – KNTT) Xét phản ứng phân huỷ muối carbonate của kim loại nhóm IIA:MCO3(s) <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAE0AAAAgCAAAAAByCKroAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnI6jnaXwAAAEqSURBVEjHY/zPQEXARE3DiDZtT2CW5x7Cyv4TBV7zP/1/k+8VIWVEum23lBSDmvheKvn0JR8DA4PgS8pNW1nDwMAg8ZGBgeG9BMWm/W9jYGBgcHn+hOHOS2eCVhMI1xuuDPzyxf//7/LP8d5NMLIIxuljhmriop2EOCUSjJpGI9OYGP5R0TQRtr0PLhNS9AbGIJiGOnglEgko+Sd/m8jUSxTI1fxIRdNei3j+oZ5p/xcx5FPRtP/BDJP////PwsDwPhczkrwjUbglLxDspVC6BkUFP0O+ZDADw///T5gxQRmqzeoIGdzJxPP/f0Zy69N///8hg6WV6icEGMg2DRU81WE+oUJM6iUK+LAeoF6crmeY+596pumWQmiqlEj/gjogDCrFAhRQt7QEANWTdyq5RaZ+AAAAAElFTkSuQmCC\" style=\"height:22px\" alt=\"\"> MO(s) + CO2(g); \t\t\t\t<img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFgAAAAkCAAAAAAoHqJSAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnKtE70dgAAANiSURBVEjH1ZZdbJNVGMd/bVcpyBCEzMmKQMwG6OIKY66mkw0IYpgkxg9itpghK3CBmIhR40IySEyMgB83GkxnY5SgiKKZJBJJlH1csLjIylCMW0y6kX3JhlsHwxT29+Jd1zLf9SMbF/6v3v97zvmd5zzPOTnHIm6PrLeJOyXw0O5cd86uoUlaFZX3Q6Wk4oJB9Sx/1LwxBhxKX2nWY//YomZ3S2p0GMZ+QqrnC0l+6hKBfdBs1uV66wp485Jhbv65FTb/cUPSAVokNXPQFByT4xrwmSVrRu4cWJY1VpOli2Fhtg0YZBYwm8EExbvQBEevplC7eVwFhpmbAOxLTyN0LAWwm9+B87jjg/85Ul46SS4mkaf43RB/HSrxxAd/PeCthLMXUiDXFriLitfXmjemjWfCle9a2EXN+8mD53wQpzEScXvddmxb4bPrKYQcT5GIaxzlsO0tDZwoM+3X0x75GkiSbGzncObzkrQWSkw2e+GEMTuTOO9jEX/X4wXw/sSZtmyz+V8Z31RfHk8l4k05kqSRefCaacTHx011chEbxbt0yguAoxw+CU9L8Qyw31Zh2O3QVzsF3ATwqH9zhmEfWg010wc+HfRGfCX8EJw2sG/Rxogvm8WoP8mx+x/My1teNQI0PZZXVNQAcKRwTX5FN4CkXnt1tJoV4LyR3K4obpTOzXxaanHskd5xBKRjnNa1R1aGjRvkgDUYhdQDJ5MD75SkLfSozP63FJ7/nLTuPkk+Go0D8vHiH2MWmB7CVxq74uGLV+D8qiVWgHBbO3S05swADgNk0ndPc9ZdkOY+BR0LgAyCHpDq/pO8tC5p391PNDx5v6Rqi/FzZrekBrthbF9FFlBmHdAD2ZK0iy5tzJJ0mLO3XKYT5Lm3+mRBwgM2umSD9IwjJGkvAdXbP1Vv3ibFBRdKgYTgb+/4RWqyVA6Ntj/Fz9JeMm3OzoTghOrO8kvSmfXO/Be38JuqMgMa3ubsnCq43/VR1LxgHe6yvSFpyLL7lndF6up9vGpH1J1z3dl20wmkz/91ao/CjtK3nwWgtRO42LIDJ5eB8JVFMZdp6rpcVBIIAGtWNfW/Tl/FBi9L133+0lzeUyVMmuNDGQteDcZNcOvYBAf1/bIVD+fuG5HU//LqtS7PN5Is/7sX/b8oXhKOhyq+LwAAAABJRU5ErkJggg==\" style=\"height:23px\" alt=\"\">Từ MgCO3 đến BaCO3, biến thiên enthalpy chuẩn của phản ứng biến đổi như thế nào?",
-  "options": {
-   "A": "Không đổi.",
-   "B": "Giảm dần.",
-   "C": "Tăng dần.",
-   "D": "Không có quy luật."
-  },
-  "answer": "C"
- },
- {
-  "id": "L12_C7_0109",
-  "stem": "Trong dãy muối carbonate của kim loại nhóm IIA từ MgCO3 đến BaCO3, muối nào có nhiệt độ bắt đầu phần hủy cao nhất?",
-  "options": {
-   "A": "BaCO3.",
-   "B": "CaCO3.",
-   "C": "MgCO3.",
-   "D": "SrCO3."
-  },
-  "answer": "A"
- },
- {
-  "id": "L12_C7_0110",
-  "stem": "Độ bền nhiệt trong dãy muối carbonate từ MgCO3 đến BaCO3 biến đổi như thế nào?",
-  "options": {
-   "A": "Tăng dần.",
-   "B": "Giảm dần.",
-   "C": "Không có quy luật.",
-   "D": "Không đổi."
-  },
-  "answer": "A"
- },
- {
-  "id": "L12_C7_0111",
-  "stem": "(SBT – CTST) Cho phương trình hoá học của phản ứng nhiệt phân sau:4M(NO3)x <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAE0AAAAgCAAAAAByCKroAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnI6jnaXwAAAEqSURBVEjHY/zPQEXARE3DiDZtT2CW5x7Cyv4TBV7zP/1/k+8VIWVEum23lBSDmvheKvn0JR8DA4PgS8pNW1nDwMAg8ZGBgeG9BMWm/W9jYGBgcHn+hOHOS2eCVhMI1xuuDPzyxf//7/LP8d5NMLIIxuljhmriop2EOCUSjJpGI9OYGP5R0TQRtr0PLhNS9AbGIJiGOnglEgko+Sd/m8jUSxTI1fxIRdNei3j+oZ5p/xcx5FPRtP/BDJP////PwsDwPhczkrwjUbglLxDspVC6BkUFP0O+ZDADw///T5gxQRmqzeoIGdzJxPP/f0Zy69N///8hg6WV6icEGMg2DRU81WE+oUJM6iUK+LAeoF6crmeY+596pumWQmiqlEj/gjogDCrFAhRQt7QEANWTdyq5RaZ+AAAAAElFTkSuQmCC\" style=\"height:22px\" alt=\"\"> 2M2Ox + 4xNO2 + xO2M là kim loại nào sau đây?",
-  "options": {
-   "A": "Ca.",
-   "B": "Mg.",
-   "C": "K.",
-   "D": "Ag."
-  },
-  "answer": "B"
- },
- {
-  "id": "L12_C7_0112",
-  "stem": "Nhiệt độ phân huỷ thành oxide của các muối carbonate của kim loại nhóm IIA giảm dần theo dãy",
-  "options": {
-   "A": "MgCO3, CaCO3, SrCO3, BaCO3.",
-   "B": "BaCO3, SrCO3, CaCO3, MgCO3.",
-   "C": "BaCO3, CaCO3, SrCO3, MgCO3.",
-   "D": "MgCO3, BaCO3, SrCO3, CaCO3."
-  },
-  "answer": "B"
- },
- {
-  "id": "L12_C7_0113",
-  "stem": "(SBT – CTST) Cho dung dịch Ca(OH)2 vào dung dịch Ca(HCO3)2 sẽ",
-  "options": {
-   "A": "có kết tủa trắng.",
-   "B": "có bọt khí thoát ra.",
-   "C": "có kết tủa trắng và bọt khí.",
-   "D": "không có hiện tượng gì."
-  },
-  "answer": "A"
- },
- {
-  "id": "L12_C7_0114",
-  "stem": "",
-  "options": {
-   "A": "Mg(NO3)2",
-   "B": "CaCO3.",
-   "C": "Na2CO3.",
-   "D": "Mg(OH)2."
-  },
-  "answer": "C"
- },
- {
-  "id": "L12_C7_0115",
-  "stem": "(SBT – CTST) Trường hợp nào không xảy ra phản ứng đối với dung dịch Ca(HCO3)2 khi",
-  "options": {
-   "A": "đun nóng.",
-   "B": "trộn với dung dịch Ca(OH)2.",
-   "C": "trộn với dung dịch HCl.",
-   "D": "cho NaCl vào."
-  },
-  "answer": "D"
- },
- {
-  "id": "L12_C7_0116",
-  "stem": "(SBT – CTST) Hợp chất của calcium nào sau đây không gặp trong tự nhiên?",
-  "options": {
-   "A": "CaCO3.",
-   "B": "CaSO4.",
-   "C": "Ca(HCO3)2.",
-   "D": "CaO."
-  },
-  "answer": "D"
- },
- {
-  "id": "L12_C7_0117",
-  "stem": "(SBT – KNTT) Phản ứng nào sau đây được gọi là phản ứng tôi vôi?",
-  "options": {
-   "A": "CaCO3 <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAE0AAAAgCAAAAAByCKroAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnK6Y84U4AAAEqSURBVEjHY/zPQEXARE3DiDZtT2CW5x7Cyv4TBV7zP/1/k+8VIWVEum23lBSDmvheKvn0JR8DA4PgS8pNW1nDwMAg8ZGBgeG9BMWm/W9jYGBgcHn+hOHOS2eCVhMI1xuuDPzyxf//7/LP8d5NMLIIxuljhmriop2EOCUSjJpGI9OYGP5R0TQRtr0PLhNS9AbGIJiGOnglEgko+Sd/m8jUSxTI1fxIRdNei3j+oZ5p/xcx5FPRtP/BDJP////PwsDwPhczkrwjUbglLxDspVC6BkUFP0O+ZDADw///T5gxQRmqzeoIGdzJxPP/f0Zy69N///8hg6WV6icEGMg2DRU81WE+oUJM6iUK+LAeoF6crmeY+596pumWQmiqlEj/gjogDCrFAhRQt7QEANWTdyq5RaZ+AAAAAElFTkSuQmCC\" style=\"height:22px\" alt=\"\"> CaO + CO2.",
-   "B": "2Ca + O2 <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnKUgygGIAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> 2CaO.",
-   "C": "Ca + 2H2O <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnKUgygGIAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> Ca(OH)2 + H2.",
-   "D": "CaO + H2O <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnKUgygGIAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> Ca(OH)2."
-  },
-  "answer": "D"
- },
- {
-  "id": "L12_C7_0118",
-  "stem": "Phản ứng nào sau đây được gọi là phản ứng nung vôi?",
-  "options": {
-   "A": "CaCO3 <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAE0AAAAgCAAAAAByCKroAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnK6Y84U4AAAEqSURBVEjHY/zPQEXARE3DiDZtT2CW5x7Cyv4TBV7zP/1/k+8VIWVEum23lBSDmvheKvn0JR8DA4PgS8pNW1nDwMAg8ZGBgeG9BMWm/W9jYGBgcHn+hOHOS2eCVhMI1xuuDPzyxf//7/LP8d5NMLIIxuljhmriop2EOCUSjJpGI9OYGP5R0TQRtr0PLhNS9AbGIJiGOnglEgko+Sd/m8jUSxTI1fxIRdNei3j+oZ5p/xcx5FPRtP/BDJP////PwsDwPhczkrwjUbglLxDspVC6BkUFP0O+ZDADw///T5gxQRmqzeoIGdzJxPP/f0Zy69N///8hg6WV6icEGMg2DRU81WE+oUJM6iUK+LAeoF6crmeY+596pumWQmiqlEj/gjogDCrFAhRQt7QEANWTdyq5RaZ+AAAAAElFTkSuQmCC\" style=\"height:22px\" alt=\"\"> CaO + CO2.",
-   "B": "2Ca + O2 <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnKUgygGIAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> 2CaO.",
-   "C": "Ca + 2H2O <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnKUgygGIAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> Ca(OH)2 + H2.",
-   "D": "CaO + H2O <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnKUgygGIAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> Ca(OH)2."
-  },
-  "answer": "A"
- },
- {
-  "id": "L12_C7_0119",
-  "stem": "(SBT – KNTT) Hiện tượng “nước chảy đá mòn” và hiện tượng “xâm thực” của nước mưa vào các phiến đá vôi là do trong nước có hoà tan khí nào sau đây?",
-  "options": {
-   "A": "O2.",
-   "B": "N2.",
-   "C": "CO2.",
-   "D": "CH4."
-  },
-  "answer": "C"
- },
- {
-  "id": "L12_C7_0120",
-  "stem": "(SBT – KNTT) Khi để vôi sống trong không khí ẩm một thời gian sẽ có hiện tượng một phần bị chuyển hoá trở lại thành đá vôi. Khí nào sau đây có trong không khí gây ra hiện tượng trên?",
-  "options": {
-   "A": "Oxygen.",
-   "B": "Methane.",
-   "C": "Nitrogen.",
-   "D": "Carbon dioxide."
-  },
-  "answer": "D"
- },
- {
-  "id": "L12_C7_0121",
-  "stem": "(SBT – CTST) Phản ứng giải thích sự hình thành thạch nhũ trong các hang động núi đá vôi là:",
-  "options": {
-   "A": "CaCO3 + CO2 + H2O <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnI6jnaXwAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> Ca(HCO3)2.",
-   "B": "CaCO3 + 2HCl <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnI6jnaXwAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> CaCl2 + CO2 + H2O.",
-   "C": "CaCO3 <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnI6jnaXwAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> CaO + CO2.",
-   "D": "Ca(HCO3)2 <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFEAAAAnCAAAAABSn/s2AAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnKD81sPQAAAGkSURBVEjH5Za7S8NQFIe/hNTHpLSTk10UFBz0b6ibCD6GgghKN0EsKjiKujgImmxuFRdB8FFFUHRzLC5q3AURpFpECVSh16FNtSmJabyD4plyz+/y5ZzDOfdeRSDZVNlANKDnqbQIXzhlD8mLeJvoBiCTqpI9JFcTQkQOhBBCiN2IcJqH5Gby6/hrifp0+VOTAjSSiFWZMRYOYS0pk6jux0BPSiTSmI6BPgX4q+PEEVYuCnDS/umtGKfGdP8pBrpP4kPXSGZ9GazEGwCTLwBmWxiAR3MMIKwIDGHga2aGZopSjsui0/3n19JnphCsHxctgPl4BwBX2wufUksw4gQAywN9AOwdzlaov3au/z1Rg+f8WRaAi3zKoTYEI96/rtmrcYcaqQ1mExUv3WyGbOj8piZiW32+tKjrdahNx3MAbNUQrQaqNbYJg1shtz3D0ZUaslYBNTUKO/H3AEVzIcpFFvuxhCzIIxaRnVLa3T7N1BStS1KyLp+P6obyE05V1nzT6EFi9LK7cwBeK71mMwBV4+TjRThU3nz59Zq0nY4bVPkDL/sPpbURJM/1G94AAAAASUVORK5CYII=\" style=\"height:22px\" alt=\"\"> CaCO3 + CO2 + H2O."
-  },
-  "answer": "D"
- },
- {
-  "id": "L12_C7_0122",
-  "stem": "(OLTN) Vôi sống có tính hút ẩm mạnh nên được sử dụng để làm khô khí trong phòng thí nghiệm. Không sử dụng vôi sống để làm khô khí nào sau đây?",
-  "options": {
-   "A": "O2.",
-   "B": "H2.",
-   "C": "CO2.",
-   "D": "N2."
-  },
-  "answer": "C"
- },
- {
-  "id": "L12_C7_0123",
-  "stem": "(OLTN) Để vôi sống (CaO) lâu ngày trong không khí, vôi sống sẽ cứng lại và giảm chất lượng. Hiện tượng này được giải thích bằng phản ứng nào dưới đây?",
-  "options": {
-   "A": "2CaO <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnIDHuOMYAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> 2Ca + O2.",
-   "B": "CaO + CO2 <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnIDHuOMYAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> CaCO3.",
-   "C": "CaCO3 + CO2 + H2O <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnIDHuOMYAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> Ca(HCO3)2.",
-   "D": "CaO + H2O <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnIDHuOMYAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> Ca(OH)2."
-  },
-  "answer": "B"
- },
- {
-  "id": "L12_C7_0124",
-  "stem": "(OLTN) Trong đời sống, người ta dùng sữa vôi để quét lên tường, tạo lớp rắn, mịn, màu trắng trên bức tường. Hiện tượng này được giải thích bằng phản ứng nào dưới đây?",
-  "options": {
-   "A": "Ca(OH)2 + CO2 <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnIDHuOMYAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> CaCO3 + H2O.",
-   "B": "CaO + CO2 <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnIDHuOMYAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> CaCO3.",
-   "C": "Ca(OH)2 + 2CO2 <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnIDHuOMYAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> Ca(HCO3)2.",
-   "D": "CaO + H2O <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnIDHuOMYAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> Ca(OH)2."
-  },
-  "answer": "A"
- },
- {
-  "id": "L12_C7_0125",
-  "stem": "(OLTN) Hang Sơn Đoòng tại tỉnh Quảng Bình, Việt Nam là hang động tự nhiên lớn nhất và có thạch nhũ đẹp nhất thế giới,… Thạch nhũ tăng kích thước với tốc độ 0,13 – 3 mm mỗi năm. Thạch nhũ trong hang động được tạo thành bởi phản ứng nào sau đây?",
-  "options": {
-   "A": "Ca(HCO3)2 <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFEAAAAnCAAAAABSn/s2AAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnI6jnaXwAAAGkSURBVEjH5Za7S8NQFIe/hNTHpLSTk10UFBz0b6ibCD6GgghKN0EsKjiKujgImmxuFRdB8FFFUHRzLC5q3AURpFpECVSh16FNtSmJabyD4plyz+/y5ZzDOfdeRSDZVNlANKDnqbQIXzhlD8mLeJvoBiCTqpI9JFcTQkQOhBBCiN2IcJqH5Gby6/hrifp0+VOTAjSSiFWZMRYOYS0pk6jux0BPSiTSmI6BPgX4q+PEEVYuCnDS/umtGKfGdP8pBrpP4kPXSGZ9GazEGwCTLwBmWxiAR3MMIKwIDGHga2aGZopSjsui0/3n19JnphCsHxctgPl4BwBX2wufUksw4gQAywN9AOwdzlaov3au/z1Rg+f8WRaAi3zKoTYEI96/rtmrcYcaqQ1mExUv3WyGbOj8piZiW32+tKjrdahNx3MAbNUQrQaqNbYJg1shtz3D0ZUaslYBNTUKO/H3AEVzIcpFFvuxhCzIIxaRnVLa3T7N1BStS1KyLp+P6obyE05V1nzT6EFi9LK7cwBeK71mMwBV4+TjRThU3nz59Zq0nY4bVPkDL/sPpbURJM/1G94AAAAASUVORK5CYII=\" style=\"height:22px\" alt=\"\"> CaCO3 + CO2 + H2O.",
-   "B": "Ca(OH)2 + CO2 <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnIDHuOMYAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> CaCO3 + H2O.",
-   "C": "CaCO3 + CO2 + H2O <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFEAAAAnCAAAAABSn/s2AAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnI6jnaXwAAAGkSURBVEjH5Za7S8NQFIe/hNTHpLSTk10UFBz0b6ibCD6GgghKN0EsKjiKujgImmxuFRdB8FFFUHRzLC5q3AURpFpECVSh16FNtSmJabyD4plyz+/y5ZzDOfdeRSDZVNlANKDnqbQIXzhlD8mLeJvoBiCTqpI9JFcTQkQOhBBCiN2IcJqH5Gby6/hrifp0+VOTAjSSiFWZMRYOYS0pk6jux0BPSiTSmI6BPgX4q+PEEVYuCnDS/umtGKfGdP8pBrpP4kPXSGZ9GazEGwCTLwBmWxiAR3MMIKwIDGHga2aGZopSjsui0/3n19JnphCsHxctgPl4BwBX2wufUksw4gQAywN9AOwdzlaov3au/z1Rg+f8WRaAi3zKoTYEI96/rtmrcYcaqQ1mExUv3WyGbOj8piZiW32+tKjrdahNx3MAbNUQrQaqNbYJg1shtz3D0ZUaslYBNTUKO/H3AEVzIcpFFvuxhCzIIxaRnVLa3T7N1BStS1KyLp+P6obyE05V1nzT6EFi9LK7cwBeK71mMwBV4+TjRThU3nz59Zq0nY4bVPkDL/sPpbURJM/1G94AAAAASUVORK5CYII=\" style=\"height:22px\" alt=\"\"> Ca(HCO3)2.",
-   "D": "CaCl2 + Na2CO3 <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnIDHuOMYAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> CaCO3 + 2NaCl."
-  },
-  "answer": "A"
- },
- {
-  "id": "L12_C7_0126",
-  "stem": "(SBT – KNTT) Có thể nhận biết dung dịch BaCl2 bằng dung dịch chất nào sau đây?",
-  "options": {
-   "A": "NaOH.",
-   "B": "Na2CO3.",
-   "C": "NaCl.",
-   "D": "NaNO3."
-  },
-  "answer": "B"
- },
- {
-  "id": "L12_C7_0127",
-  "stem": "Có thể phân biệt 3 dung dịch: KOH, HCl, H2SO4 (loãng) bằng một thuốc thử là",
-  "options": {
-   "A": "giấy quỳ tím.",
-   "B": "Zn.",
-   "C": "Al.",
-   "D": "BaCO3."
-  },
-  "answer": "D"
- },
- {
-  "id": "L12_C7_0128",
-  "stem": "(Đề TSCĐ - 2010) Thuốc thử dùng để phân biệt 3 dung dịch riêng biệt: NaCl, NaHSO4, HCl là",
-  "options": {
-   "A": "NH4Cl.",
-   "B": "(NH4)2CO3.",
-   "C": "BaCO3.",
-   "D": "BaCl2."
-  },
-  "answer": "C"
- },
- {
-  "id": "L12_C7_0129",
-  "stem": "Cho nước vôi trong lần lượt vào từng dung dịch: HNO3, Na2CO3, Ba(HCO3)2, NaHSO4. Số trường hợp có phản ứng xảy ra là",
-  "options": {
-   "A": "1.",
-   "B": "2.",
-   "C": "3.",
-   "D": "4."
-  },
-  "answer": "D"
- },
- {
-  "id": "L12_C7_0130",
-  "stem": "(SBT – KNTT) Ở nơi tồn ứ rác thải, chất nào sau đây được các công nhân vệ sinh môi trường dùng để xử lí tạm thời nhằm sát trùng, diệt khuẩn, phòng chống dịch bệnh?",
-  "options": {
-   "A": "Cát vàng.",
-   "B": "Than đá.",
-   "C": "Đá vôi.",
-   "D": "Vôi bột."
-  },
-  "answer": "D"
- },
- {
-  "id": "L12_C7_0131",
-  "stem": "(SBT – KNTT) Khi đun nóng đến 160 °C, thạch cao sống mất một phần nước trở thành thạch cao nung, được dùng để đúc khuôn trong điêu khắc, bó bột trong y học. Thành phần hoá học của thạch cao nung là",
-  "options": {
-   "A": "CaSO4.0,5H2O.",
-   "B": "Ca(H2PO4)2.",
-   "C": "CaCO3.",
-   "D": "Ca(OH)2."
-  },
-  "answer": "A"
- },
- {
-  "id": "L12_C7_0132",
-  "stem": "Trong tự nhiên, calcium sulfate tồn tại dưới dạng muối ngậm nước (CaSO4.2H2O) được gọi là",
-  "options": {
-   "A": "vôi sống.",
-   "B": "thạch cao sống.",
-   "C": "vôi tôi.",
-   "D": "đá vôi."
-  },
-  "answer": "B"
- },
- {
-  "id": "L12_C7_0133",
-  "stem": "(SBT – KNTT) Hợp chất nào của calcium là thành phần hoá học chính của quặng apatite và phosphorite, được dùng trong công nghiệp sản xuất phân bón superphosphate?",
-  "options": {
-   "A": "CaCO3.",
-   "B": "Ca3(PO4)2.",
-   "C": "Ca3P2.",
-   "D": "Ca(OH)2."
-  },
-  "answer": "B"
- },
- {
-  "id": "L12_C7_0134",
-  "stem": "(SBT – KNTT) Trong nông nghiệp, trộn urea hoặc phân đạm ammonium với chất nào sau đây thì sẽ làm giảm đáng kể tác dụng của phân đạm?",
-  "options": {
-   "A": "ΚΝΟ3.",
-   "B": "Ca(H2PO4)2.",
-   "C": "Ca(OH)2.",
-   "D": "KCl."
-  },
-  "answer": "C"
- },
- {
-  "id": "L12_C7_0135",
-  "stem": "(SBT – KNTT) Các hợp chất dễ tan của kim loại kiềm, kiềm thổ là thành phần cung cấp dinh dưỡng của nhiều loại phân bón hoá học phổ biến. Hợp chất nào sau đây dễ tan, là thành phần dinh dưỡng chính trong phân bón superphosphate?",
-  "options": {
-   "A": "KCl.",
-   "B": "CaSO4.2H2O.",
-   "C": "NaNO3.",
-   "D": "Ca(H2PO4)2."
-  },
-  "answer": "D"
- },
- {
-  "id": "L12_C7_0136",
-  "stem": "(SBT – CTST) Hợp chất Y của calcium là thành phần chính của vỏ các loại ốc, sò,… Ngoài ra Y được sử dụng rộng rãi trong sản xuất vôi, xi măng, thuỷ tinh, chất phụ gia trong công nghiệp thực phẩm. Hợp chất Y là",
-  "options": {
-   "A": "CaO.",
-   "B": "CaCO3.",
-   "C": "Ca(OH)2.",
-   "D": "Ca3(PO4)2."
-  },
-  "answer": "B"
- },
- {
-  "id": "L12_C7_0137",
-  "stem": "(SBT – CTST) Nước thải công nghiệp thường chứa các ion kim loại nặng như Hg2+, Pb2+, Fe3+. Để xử lí sơ bộ và làm giảm nồng độ các ion kim loại nặng với chi phí thấp, người ta sử dụng dung dịch chất nào sau đây?",
-  "options": {
-   "A": "HCl.",
-   "B": "NaCl.",
-   "C": "Ca(OH)2.",
-   "D": "K2SO4."
-  },
-  "answer": "C"
- },
- {
-  "id": "L12_C7_0138",
-  "stem": "(SBT – KNTT) Các dung dịch muối ăn, phèn chua, nước vôi trong được kí hiệu ngẫu nhiên là X, Y, Z. Một số kết quả thí nghiệm được ghi ở bảng dưới đây.Các dung dịch ban đầu tương ứng với các kí hiệu là",
-  "options": {
-   "A": "Y, Z, X.",
-   "B": "Z, X, Y.",
-   "C": "X, Y, Z.",
-   "D": "Y, X, Z."
-  },
-  "answer": "A"
- },
- {
-  "id": "L12_C7_0139",
-  "stem": "Phát biểu nào sau đây sai?",
-  "options": {
-   "A": "Các hydroxide của kim loại nhóm IIA đều dễ tan trong nước.",
-   "B": "Đung sôi dung dịch CaCl2 và NaHCO3 có xuất hiện kết tuả.",
-   "C": "Điện phân dung dịch NaCl (điện cực graphite) có bọt khí ở cả hai điện cực.",
-   "D": "Sodium là kim loại phổ biến nhất trong nước biển."
-  },
-  "answer": "A"
- },
- {
-  "id": "L12_C7_0140",
-  "stem": "(OLTN) Nước cứng là nước chứa nhiều ion",
-  "options": {
-   "A": "Ca2+, Mg2+.",
-   "B": "Mg2+, Na+.",
-   "C": "Ca2+, Ba2+.",
-   "D": "Ca2+, K+."
-  },
-  "answer": "A"
- },
- {
-  "id": "L12_C7_0141",
-  "stem": "(SBT – KNTT) Nước cứng gây nhiều tác hại trong đời sống và sản xuất như đóng cặn đường ống dẫn nước, làm cho xà phòng có ít bọt khi giặt quần áo, làm giảm mùi vị thực phẩm khi nấu ăn. Nước cứng là nước có chứa nhiều các ion",
-  "options": {
-   "A": "Mg2+ và Ca2+.",
-   "B": "Na+ và K+.",
-   "C": "F– và Cl–.",
-   "D": "SO42– và CO32–."
-  },
-  "answer": "A"
- },
- {
-  "id": "L12_C7_0142",
-  "stem": "(OLTN) Loại nước gặp nhiều trong tự nhiên (nước ngầm, nước mặt) là",
-  "options": {
-   "A": "nước mềm.",
-   "B": "nước cứng vĩnh cửu.",
-   "C": "nước cứng tạm thời.",
-   "D": "nước cứng toàn phần."
-  },
-  "answer": "D"
- },
- {
-  "id": "L12_C7_0143",
-  "stem": "(OLTN) Một mẫu nước tự nhiên có chứa lượng lớn các ion: Ca2+, Mg2+, HCO3–, Cl–. Mẫu nước trên thuộc loại",
-  "options": {
-   "A": "nước có tính cứng toàn phần.",
-   "B": "nước có tính cứng vĩnh cửu.",
-   "C": "nước có tính cứng tạm thời.",
-   "D": "nước mềm."
-  },
-  "answer": "A"
- },
- {
-  "id": "L12_C7_0144",
-  "stem": "(OLTN) Một mẫu nước sinh hoạt chứa một lượng nhiều các ion: Ca2+, Mg2+, Cl–, SO42–. Nước trong cốc trên thuộc loại gì?",
-  "options": {
-   "A": "Nước mềm.",
-   "B": "Nước có tính cứng vĩnh cửu.",
-   "C": "Nước có tính cứng tạm thời.",
-   "D": "Nước có tính cứng toàn phần."
-  },
-  "answer": "B"
- },
- {
-  "id": "L12_C7_0145",
-  "stem": "Một mẫu nước cứng khi đun nóng thấy xuất hiện kết tủa. Mẫu nước đó thuộc loại nước cứng",
-  "options": {
-   "A": "tạm thời.",
-   "B": "vĩnh cửu.",
-   "C": "toàn phần.",
-   "D": "tạm thời hoặc toàn phần."
-  },
-  "answer": "A"
- },
- {
-  "id": "L12_C7_0146",
-  "stem": "(OLTN) Nước cứng tạm thời có chứa nhiều ion Ca2+, Mg2+ và",
-  "options": {
-   "A": "SO42–.",
-   "B": "NO3–.",
-   "C": "Cl–.",
-   "D": "HCO3–."
-  },
-  "answer": "D"
- },
- {
-  "id": "L12_C7_0147",
-  "stem": "(OLTN) Một loại nước cứng khi đun sôi thì chỉ giảm bớt một phần tính cứng. Trong loại nước này có hoà tan những hợp chất nào sau đây?",
-  "options": {
-   "A": "MgCl2 và CaCl2.",
-   "B": "Ca(HCO3)2 và Mg(HCO3)2.",
-   "C": "CaSO4 và MgCl2.",
-   "D": "Ca(HCO3)2 và MgSO4."
-  },
-  "answer": "B"
- },
- {
-  "id": "L12_C7_0148",
-  "stem": "(SBT – KNTT) Nhận định nào sau đây về nước cứng tạm thời không đúng?",
-  "options": {
-   "A": "Chứa nhiều ion Mg2+, Ca2+.",
-   "B": "Chứa nhiều ion HCO3–.",
-   "C": "Chứa nhiều ion Cl–, SO42–.",
-   "D": "Đun sôi trở thành nước mềm."
-  },
-  "answer": "C"
- },
- {
-  "id": "L12_C7_0149",
-  "stem": "Một cốc nước chứa nhiều các ion sau: Ca2+, Mg2+, Cl–, SO42–. Nước trong cốc trên thuộc loại",
-  "options": {
-   "A": "có tính cứng vĩnh cửu.",
-   "B": "không có tính cứng.",
-   "C": "có tính cứng tạm thời.",
-   "D": "có tính cứng toàn phần."
-  },
-  "answer": "A"
- },
- {
-  "id": "L12_C7_0150",
-  "stem": "(SBT – KNTT) Nước chứa nhiều các ion nào sau đây có tính cứng toàn phần?",
-  "options": {
-   "A": "Mg2+, Ca2+, HCO3–, SO42–.",
-   "B": "Na+, K+, SO42–, Сl–.",
-   "C": "Mg2+, Ca2+, HCO3–.",
-   "D": "Mg2+, Ca2+, SO42–, Cl–."
-  },
-  "answer": "D"
- },
- {
-  "id": "L12_C7_0151",
-  "stem": "(SBT – KNTT) Một loại nước cứng khi đun sôi thì trở thành nước mềm. Trong loại nước này có hoà tan những hợp chất nào sau đây?",
-  "options": {
-   "A": "Ca(HCO3)2 và Mg(HCO3)2.",
-   "B": "Ca(HCO3)2 và MgSO4.",
-   "C": "CaSO4 và MgCl2.",
-   "D": "MgCl2 và CaCl2."
-  },
-  "answer": "A"
- },
- {
-  "id": "L12_C7_0152",
-  "stem": "(SBT – CTST) Trong các mẫu nước cứng sau đây, nước cứng tạm thời là",
-  "options": {
-   "A": "dung dịch Ca(HCO3)2.",
-   "B": "dung dịch MgSO4.",
-   "C": "dung dịch CaCl2.",
-   "D": "dung dịch Mg(NO3)2."
-  },
-  "answer": "A"
- },
- {
-  "id": "L12_C7_0153",
-  "stem": "(OLTN) Nhận định nào sau đây không đúng?",
-  "options": {
-   "A": "Nước chứa ít hoặc không có các ion Ca2+, Mg2+ gọi là nước mềm.",
-   "B": "Nước cứng có chứa anion HCO3– là nước cứng tạm thời, còn chứa anion Cl– hoặc SO42– hoặc cả hai là nước cứng vĩnh cửu.",
-   "C": "Nước có nhiều Ca2+ và Mg2+ gọi là nước cứng vĩnh cửu.",
-   "D": "Nước tự nhiên (nước mưa, tuyết, băng tan,...) thuộc loại nước mềm."
-  },
-  "answer": "C"
- },
- {
-  "id": "L12_C7_0154",
-  "stem": "(OLTN) Bình thuỷ dùng để đun nước lâu ngày bị đóng cặn, có thể dùng dung dịch nào sau đây để hoà tan lớp cặn?",
-  "options": {
-   "A": "Nước vôi.",
-   "B": "Rượu uống.",
-   "C": "Giấm ăn.",
-   "D": "Muối ăn."
-  },
-  "answer": "C"
- },
- {
-  "id": "L12_C7_0155",
-  "stem": "(OLTN) Để tẩy lớp cặn bám dưới đáy dụng cụ đun, đựng nước nóng trong gia đình, người ta có thể sử dụng dung dịch nào sau đây?",
-  "options": {
-   "A": "Ethyl alcohol.",
-   "B": "Muối ăn.",
-   "C": "Giấm ăn.",
-   "D": "Đường kính."
-  },
-  "answer": "C"
- },
- {
-  "id": "L12_C7_0156",
-  "stem": "(SBT – KNTT) Khi đun nóng nước tự nhiên, muối nào sau đây bị phân huỷ tạo thành cặn đá vôi trong phích nước, ấm đun nước?",
-  "options": {
-   "A": "Ca3(PO4)2.",
-   "B": "CaCl2.",
-   "C": "CaSO4.",
-   "D": "Ca(HCO3)2."
-  },
-  "answer": "D"
- },
- {
-  "id": "L12_C7_0157",
-  "stem": "(OLTN) Đặc điểm nào dưới đây không phải của nước cứng?",
-  "options": {
-   "A": "Làm tăng tính acid của nước, gây ngộ độc nước uống.",
-   "B": "Làm giảm tác dụng của xà phòng.",
-   "C": "Làm tắc các đường ống dẫn nước nóng trong sản xuất và trong đời sống.",
-   "D": "Nấu đồ ăn bằng nước cứng sẽ giảm mùi vị thực phẩm."
-  },
-  "answer": "A"
- },
- {
-  "id": "L12_C7_0158",
-  "stem": "(SBT – KNTT) Cho các nhận định sau về tác hại của nước cứng:(1) làm giảm bọt khi giặt quần áo bằng xà phòng;(2) làm đường ống dẫn nước đóng cặn, giảm lưu lượng nước;(3) làm thức ăn lâu chín và giảm mùi vị;(4) làm nồi hơi phủ cặn, gây tốn nhiên liệu và có nguy cơ gây nổ.Số nhận định đúng là",
-  "options": {
-   "A": "2.",
-   "B": "1.",
-   "C": "3.",
-   "D": "4."
-  },
-  "answer": "D"
- },
- {
-  "id": "L12_C7_0159",
-  "stem": "(HTHH) Nguyên tắc làm mềm nước cứng là làm giảm nồng độ của các ion nào sau đây?",
-  "options": {
-   "A": "Sulfate và chloride.",
-   "B": "Nitrate và hydrogencarbonate.",
-   "C": "Magnesium và calcium.",
-   "D": "Sodium và potasium."
-  },
-  "answer": "C"
- },
- {
-  "id": "L12_C7_0160",
-  "stem": "(SBT – CTST) Nguyên tắc làm mềm nước là làm giảm nồng độ của",
-  "options": {
-   "A": "ion Ca2+, Mg2+.",
-   "B": "ion HCO3–.",
-   "C": "ion Cl–, SO42–.",
-   "D": "ion Ca2+."
-  },
-  "answer": "A"
- },
- {
-  "id": "L12_C7_0161",
-  "stem": "(OLTN) Chất nào sau đây không dùng để làm mềm nước cứng tạm thời?",
-  "options": {
-   "A": "Na3PO4.",
-   "B": "Ca(OH)2.",
-   "C": "Na2CO3.",
-   "D": "CH3COOH."
-  },
-  "answer": "D"
- },
- {
-  "id": "L12_C7_0162",
-  "stem": "(OLTN) Chất nào sau đây có thể làm mềm nước cứng vĩnh cửu là",
-  "options": {
-   "A": "Ca(OH)2.",
-   "B": "NaCl.",
-   "C": "Na3PO4.",
-   "D": "HCl."
-  },
-  "answer": "C"
- },
- {
-  "id": "L12_C7_0163",
-  "stem": "(OLTN) Cách nào sau đây không sử dụng để làm mềm nước có tính cứng vĩnh cửu?",
-  "options": {
-   "A": "Dùng dung dịch Na2CO3.",
-   "B": "Đun sôi nước.",
-   "C": "Dùng dung dịch Na3PO4.",
-   "D": "Dùng phương pháp trao đổi ion."
-  },
-  "answer": "B"
- },
- {
-  "id": "L12_C7_0164",
-  "stem": "(OLTN) Chất làm mềm nước có tính cứng toàn phần là",
-  "options": {
-   "A": "CaSO4.",
-   "B": "NaCl.",
-   "C": "Na2CO3.",
-   "D": "CaCO3."
-  },
-  "answer": "C"
- },
- {
-  "id": "L12_C7_0165",
-  "stem": "(SBT – CTST) Hai chất nào sau đây được dùng để làm mềm nước có tính cứng vĩnh cửu?",
-  "options": {
-   "A": "NaCl và Ca(OH)2.",
-   "B": "Na2CO3 và Na3PO4.",
-   "C": "Na2CO3 và Ca(OH)2.",
-   "D": "Na2CO3 và HCl."
-  },
-  "answer": "B"
- },
- {
-  "id": "L12_C7_0166",
-  "stem": "(SBT – KNTT) Phân tích một mẫu nước tự nhiên thấy chứa nhiều các ion: Na+, Ca2+, HCO3–, Cl– và SO42–. Chất nào sau đây có thể làm mềm mẫu nước trên?",
-  "options": {
-   "A": "Na2CO3.",
-   "B": "Ca(OH)2.",
-   "C": "NaOH.",
-   "D": "HCl."
-  },
-  "answer": "A"
- },
- {
-  "id": "L12_C7_0167",
-  "stem": "(SBT – CTST) Trong cốc nước chứa 0,01 mol Na+; 0,02 mol Ca2+, 0,01 mol Mg2+; 0,05 mol HCO3– và 0,02 mol Cl–. Đun sôi cốc nước hồi lâu, nước thu được là",
-  "options": {
-   "A": "nước cứng tạm thời.",
-   "B": "nước cứng vĩnh cửu.",
-   "C": "nước mềm.",
-   "D": "nước cứng toàn phần."
-  },
-  "answer": "B"
- },
- {
-  "id": "L12_C7_0168",
-  "stem": "(SBT – CD) Đặc điểm nào sau đây là điểm chung của nước có tính cứng vĩnh cửu và nước có tính cứng toàn phần?",
-  "options": {
-   "A": "Đều có thể làm mềm bằng Na3PO4.",
-   "B": "Đều không chứa anion HCO3–.",
-   "C": "Đều bị mất một phần tính cứng khi đun sôi nước.",
-   "D": "Thành phần anion giống nhau."
-  },
-  "answer": "A"
- },
- {
-  "id": "L12_C7_0169",
-  "stem": "(OLTN) Cho các phương pháp sau: (1) dùng nhiệt, (2) dùng dung dịch K2CO3, (3) dùng nhựa trao đổi ion, (4) dùng dung dịch Ca(OH)2. Số phương pháp có khả năng làm mềm nước có tính cứng tạm thời là",
-  "options": {
-   "A": "1.",
-   "B": "2.",
-   "C": "3.",
-   "D": "4."
-  },
-  "answer": "D"
- }
+  {
+    "id": "L12_C7_0001",
+    "stem": "(OLTN) Kim loại nào sau đây được gọi là kim loại kiềm?",
+    "options": {
+      "A": "Na.",
+      "B": "Ag.",
+      "C": "Au.",
+      "D": "Ca."
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L12_C7_0002",
+    "stem": "(SBT – CTST) Cho dãy các kim loại: Li, Na, Al, Ca, K và Rb. Số kim loại kiềm trong dãy là",
+    "options": {
+      "A": "1.",
+      "B": "2.",
+      "C": "3.",
+      "D": "4."
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L12_C7_0003",
+    "stem": "(OLTN) Cho dãy các nguyên tố: Mg, K, Fe, Na, Al và Cs. Số nguyên tố thuộc nhóm IA là",
+    "options": {
+      "A": "1.",
+      "B": "2.",
+      "C": "3.",
+      "D": "4."
+    },
+    "answer": "C"
+  },
+  {
+    "id": "L12_C7_0004",
+    "stem": "(SBT – KNTT) Kim loại Na ở chu kì 3, nhóm IA trong bảng tuần hoàn. Cấu hình electron lớp ngoài cùng của nguyên tử Na ở trạng thái cơ bản là",
+    "options": {
+      "A": "3s²3p⁵.",
+      "B": "3s².",
+      "C": "3s¹.",
+      "D": "3s²3p¹."
+    },
+    "answer": "C"
+  },
+  {
+    "id": "L12_C7_0005",
+    "stem": "(SBT – CTST) Cation M⁺ có cấu hình electron lớp ngoài cùng là 2s²2p⁶. Biết Li (Z = 7); Na (Z = 11); K (Z = 19). Cation M+ là",
+    "options": {
+      "A": "Rb+.",
+      "B": "Na⁺.",
+      "C": "Li⁺.",
+      "D": "K⁺."
+    },
+    "answer": "B"
+  },
+  {
+    "id": "L12_C7_0006",
+    "stem": "(SBT – KNTT) Ở trạng thái cơ bản, nguyên tử K có cấu hình electron là [Ar]₄s¹. Trong bảng tuần hoàn, nguyên tố K thuộc nhóm",
+    "options": {
+      "A": "IIIA.",
+      "B": "IA.",
+      "C": "IVA.",
+      "D": "IIA."
+    },
+    "answer": "B"
+  },
+  {
+    "id": "L12_C7_0007",
+    "stem": "(SBT – CTST) Công thức chung của oxide kim loại nguyên tố nhóm IA là",
+    "options": {
+      "A": "R₂O₃.",
+      "B": "RO₂.",
+      "C": "R₂O.",
+      "D": "RO."
+    },
+    "answer": "C"
+  },
+  {
+    "id": "L12_C7_0008",
+    "stem": "(SBT – KNTT) Ở điều kiện thường, các tinh thể kim loại nhóm IA đều có kiểu cấu trúc",
+    "options": {
+      "A": "lập phương tâm khối.",
+      "B": "lập phương tâm mặt.",
+      "C": "lục phương.",
+      "D": "lập phương đơn giản."
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L12_C7_0009",
+    "stem": "(SBT – KNTT) Kim loại nhóm IA nào sau đây dễ mất electron hoá trị nhất, được dùng sản xuất tế bào quang điện?",
+    "options": {
+      "A": "Cs.",
+      "B": "Li.",
+      "C": "Na.",
+      "D": "K."
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L12_C7_0010",
+    "stem": "Trong các kim loại nhóm IA từ Li đến Cs, nhiệt độ nóng chảy và độ cứng biến đổi như thế nào?",
+    "options": {
+      "A": "Không đổi.",
+      "B": "Giảm dần.",
+      "C": "Tăng dần.",
+      "D": "Không có quy luật."
+    },
+    "answer": "B"
+  },
+  {
+    "id": "L12_C7_0011",
+    "stem": "Nhiệt độ nóng chảy của các kim loại nhóm IA từ Li đến Cs biến đổi như thế nào?",
+    "options": {
+      "A": "Tăng dần.",
+      "B": "Không đổi.",
+      "C": "Không có quy luật.",
+      "D": "Giảm dần."
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L12_C7_0012",
+    "stem": "(SBT – KNTT) Ở điều kiện thường, kim loại có khối lượng riêng nhỏ nhất là",
+    "options": {
+      "A": "Κ.",
+      "B": "Rb.",
+      "C": "Li.",
+      "D": "Na."
+    },
+    "answer": "C"
+  },
+  {
+    "id": "L12_C7_0013",
+    "stem": "(SBT – KNTT) Hợp kim nào sau đây có nhiệt độ nóng chảy thấp (~70 °C), dễ hoá lỏng nên được dùng làm chất dẫn nhiệt trong một số lò phản ứng hạt nhân?",
+    "options": {
+      "A": "Fe – C.",
+      "B": "Na – K.",
+      "C": "Al – Mg.",
+      "D": "Au – Ag."
+    },
+    "answer": "B"
+  },
+  {
+    "id": "L12_C7_0014",
+    "stem": "(SBT – KNTT) Nhận định nào sau đây về các kim loại nhóm IA không đúng?",
+    "options": {
+      "A": "Độ cứng thấp.",
+      "B": "Dễ nóng chảy.",
+      "C": "Khối lượng riêng lớn.",
+      "D": "Dẫn điện tốt."
+    },
+    "answer": "C"
+  },
+  {
+    "id": "L12_C7_0015",
+    "stem": "(SBT – KNTT) Trong dãy kim loại nhóm IA từ Li đến Cs, nhiệt độ nóng chảy giảm dần do nguyên nhân nào sau đây?",
+    "options": {
+      "A": "Độ bền liên kết kim loại giảm dần.",
+      "B": "Số electron hoá trị tăng dần.",
+      "C": "Khối lượng nguyên tử tăng dần.",
+      "D": "Độ âm điện giảm dần."
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L12_C7_0016",
+    "stem": "(SBT – KNTT) Trong dãy kim loại nhóm IA từ Li đến Cs, số electron hoá trị trên một đơn vị thể tích biến đổi như thế nào?",
+    "options": {
+      "A": "Giảm dần.",
+      "B": "Tăng dần.",
+      "C": "Không đổi.",
+      "D": "Không có quy luật."
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L12_C7_0017",
+    "stem": "(SBT – CTST) Nguyên tử của các nguyên tố nhóm IA khác nhau về",
+    "options": {
+      "A": "số electron lớp ngoài cùng của nguyên tử.",
+      "B": "cấu hình electron nguyên tử.",
+      "C": "số oxi hoá của nguyên tử trong hợp chất.",
+      "D": "kiểu mạng tinh thể của đơn chất."
+    },
+    "answer": "B"
+  },
+  {
+    "id": "L12_C7_0018",
+    "stem": "(SBT – CTST) Theo chiều tăng dần của điện tích hạt nhân nguyên tử, sự biến đổi tính chất của các nguyên tố nhóm IA nào sau đây đúng?",
+    "options": {
+      "A": "Bán kính nguyên tử giảm dần.",
+      "B": "Nhiệt độ nóng chảy tăng dần.",
+      "C": "Độ cứng giảm dần.",
+      "D": "Khối lượng riêng của đơn chất giảm dần."
+    },
+    "answer": "C"
+  },
+  {
+    "id": "L12_C7_0019",
+    "stem": "(OLTN) Trong nhóm IA, nhiệt độ nóng chảy của các kim loại từ lithium đến caesium biến đổi theo xu hướng nào?",
+    "options": {
+      "A": "Tăng.",
+      "B": "Không thay đổi.",
+      "C": "Không theo quy luật.",
+      "D": "Giảm."
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L12_C7_0020",
+    "stem": "(OLTN) Đặc điểm về tính chất vật lí nào sau đây không đúng với kim loại kiềm?",
+    "options": {
+      "A": "Khối lượng riêng nhỏ.",
+      "B": "Nhiệt độ nóng chảy và nhiệt độ sôi thấp.",
+      "C": "Độ cứng thấp.",
+      "D": "Dẫn điện tốt hơn Ag."
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L12_C7_0021",
+    "stem": "(OLTN) Kim loại kiềm thuộc loại kim loại nhẹ và có khối lượng riêng nhỏ là do nguyên nhân nào sau đây?",
+    "options": {
+      "A": "Liên kết kim loại trong mạng tinh thể kim loại kiềm bền vững.",
+      "B": "Kim loại kiềm có bán kính nguyên tử lớn.",
+      "C": "Kim loại kiềm có thể điện cực chuẩn âm.",
+      "D": "Nguyên tử kim loại kiềm chỉ có một electron hoá trị ở lớp ngoài cùng."
+    },
+    "answer": "B"
+  },
+  {
+    "id": "L12_C7_0022",
+    "stem": "(OLTN) Kim loại kiềm có độ cứng thấp, rất mềm (có thể cắt bằng dao, kéo) là do nguyên nhân nào sau đây?",
+    "options": {
+      "A": "Mạng tinh thể kim loại kiềm có liên kết kim loại yếu.",
+      "B": "Kim loại kiềm có giá trị thế điện cực chuẩn âm.",
+      "C": "Kim loại kiềm có cấu trúc tinh thể đặc khít.",
+      "D": "Kim loại kiềm tan tốt trong nước."
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L12_C7_0023",
+    "stem": "(SBT – CD) Các kim loại kiềm có khối lượng riêng nhỏ và độ cứng thấp hơn nhiều so với các kim loại khác. Nguyên nhân là do:(1) Tinh thể có kiểu mạng lập phương tâm khối.(2) Khối lượng nguyên tử nhỏ hơn các kim loại khác.(3) Có lực liên kết kim loại yếu.",
+    "options": {
+      "A": "(1), (2) và (3).",
+      "B": "(2) và (3).",
+      "C": "(1) và (3).",
+      "D": "(1) và (2)."
+    },
+    "answer": "C"
+  },
+  {
+    "id": "L12_C7_0024",
+    "stem": "Khi tham gia phản ứng hoá học, mỗi nguyên tử kim loại nhóm IA đều thể hiện khuynh hướng",
+    "options": {
+      "A": "nhường 2 electron.",
+      "B": "nhận 2 electron.",
+      "C": "nhận 1 electron.",
+      "D": "nhường 1 electron."
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L12_C7_0025",
+    "stem": "(SBT – KNTT) Tính khử của các kim loại nhóm IA từ Li đến Cs biến đổi như thế nào?",
+    "options": {
+      "A": "Tăng dần.",
+      "B": "Không đổi.",
+      "C": "Không có quy luật.",
+      "D": "Giảm dần."
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L12_C7_0026",
+    "stem": "(SBT – KNTT) Kim loại nhóm IA có tính khử mạnh nhất trong các nhóm kim loại. Giá trị thế điện cực chuẩn nào sau đây thuộc về một kim loại trong nhóm IA?",
+    "options": {
+      "A": "–0,44 V.",
+      "B": "–2,93 V.",
+      "C": "0 V.",
+      "D": "1,52 V."
+    },
+    "answer": "B"
+  },
+  {
+    "id": "L12_C7_0027",
+    "stem": "(SBT – KNTT) Khi so sánh kim loại nhóm IA với các nguyên tố khác trong cùng chu kì, nhận định nào sau đây không đúng?",
+    "options": {
+      "A": "Có tính khử mạnh nhất.",
+      "B": "Có thế điện cực chuẩn âm nhất.",
+      "C": "Có bán kính nguyên tử lớn nhất.",
+      "D": "Có liên kết kim loại mạnh nhất."
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L12_C7_0028",
+    "stem": "(OLTN) Tính chất hoá học chung của kim loại kiềm là",
+    "options": {
+      "A": "tính acid.",
+      "B": "tính base.",
+      "C": "tính oxi hoá.",
+      "D": "tính khử."
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L12_C7_0029",
+    "stem": "(SBT – CTST) Trong các kim loại sau, kim loại nào có tính khử mạnh nhất?",
+    "options": {
+      "A": "K.",
+      "B": "Al.",
+      "C": "Mg.",
+      "D": "Na."
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L12_C7_0030",
+    "stem": "(OLTN) Trong các kim loại Li, Na, K, Cs, kim loại có tính khử mạnh nhất là",
+    "options": {
+      "A": "Li.",
+      "B": "Na.",
+      "C": "K.",
+      "D": "Cs."
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L12_C7_0031",
+    "stem": "(SBT – KNTT) Khi đốt cháy kim loại Na trong bình chứa khí oxygen tạo thành sản phẩm là",
+    "options": {
+      "A": "NaO.",
+      "B": "Na₂O₂.",
+      "C": "Na₂O.",
+      "D": "NaO₂."
+    },
+    "answer": "C"
+  },
+  {
+    "id": "L12_C7_0032",
+    "stem": "Dãy nào sau đây sắp xếp các kim loại nhóm IA theo mức độ phản ứng với nước tăng dần?",
+    "options": {
+      "A": "K, Na, Li.",
+      "B": "Na, K, Li.",
+      "C": "Li, Na, K.",
+      "D": "K, Li, Na."
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L12_C7_0033",
+    "stem": "(SBT – CTST) Cho dãy các kim loại sau: Fe, Na, K, Cu và Li. Số kim loại trong dãy tác dụng được với nước ở nhiệt độ thường là",
+    "options": {
+      "A": "1.",
+      "B": "2.",
+      "C": "3.",
+      "D": "4."
+    },
+    "answer": "C"
+  },
+  {
+    "id": "L12_C7_0034",
+    "stem": "(SBT – CD) Trong các phản ứng sau đây, phản ứng nào diễn ra mãnh liệt nhất?",
+    "options": {
+      "A": "Lithium và bromine.",
+      "B": "Potassium và chlorine.",
+      "C": "Lithium và chlorine.",
+      "D": "Sodium và bromine."
+    },
+    "answer": "B"
+  },
+  {
+    "id": "L12_C7_0035",
+    "stem": "(SBT – KNTT) Cho một mẩu Na vào dung dịch MgSO₄ dư, thu được kết tủa X và chất khí Y. Hai chất X, Y lần lượt là",
+    "options": {
+      "A": "Mg, O₂.",
+      "B": "Mg, H₂.",
+      "C": "Mg(OH)₂, H₂.",
+      "D": "Mg(OH)₂, O₂."
+    },
+    "answer": "C"
+  },
+  {
+    "id": "L12_C7_0036",
+    "stem": "(OLTN) Kim loại nhóm IA có tính khử mạnh nên có nhiều tính chất hoá học khác biệt hơn so với các nhóm kim loại khác. Nguyên nhân nào sau đây là không phù hợp?",
+    "options": {
+      "A": "Kim loại kiềm có thể điện cực chuẩn rất nhỏ.",
+      "B": "Kim loại kiềm có bán kính nguyên tử lớn hơn các kim loại khác.",
+      "C": "Tương tác giữa electron hoá trị với hạt nhân nguyên tử là yếu.",
+      "D": "Mạng tinh thể nguyên tử có liên kết kim loại bền vững."
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L12_C7_0037",
+    "stem": "(OLTN) Kim loại kiềm có khả năng phản ứng hoá học dễ dàng với nhiều chất. Trong phòng thí nghiệm, để bảo quản kim loại kiềm, người ta dùng biện pháp nào sau đây?",
+    "options": {
+      "A": "Ngâm trong dầu hoả khan.",
+      "B": "Ngâm trong nước cất.",
+      "C": "Để trong ống thuỷ tinh chứa khí hiếm.",
+      "D": "Ngâm trong cồn tuyệt đối."
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L12_C7_0038",
+    "stem": "(SBT – KNTT) Các kim loại kiềm đều hoạt động hoá học mạnh. Vì vậy, để bảo quản lâu dài, chúng thường được ngâm trong",
+    "options": {
+      "A": "dầu hoả.",
+      "B": "nước máy.",
+      "C": "ethyl alcohol.",
+      "D": "giấm ăn."
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L12_C7_0039",
+    "stem": "(SBT – CD) Trong tự nhiên, các nguyên tố nhóm IA chỉ tồn tại ở dạng hợp chất là do",
+    "options": {
+      "A": "các nguyên tố nhóm IA chỉ có thể được tìm thấy trong nước ngầm, nước biển.",
+      "B": "các nguyên tố nhóm IA đều là những kim loại hoạt động hoá học mạnh nên không tồn tại dạng đơn chất.",
+      "C": "các nguyên tố nhóm IA thường kết hợp với nhau để tạo thành các hợp kim bền.",
+      "D": "các nguyên tố nhóm IA có độ âm điện lớn nên dễ dàng kết hợp với các nguyên tố khác."
+    },
+    "answer": "B"
+  },
+  {
+    "id": "L12_C7_0040",
+    "stem": "(OLTN) Quá trình nào sau đây dùng để tách kim loại Na từ hợp chất?",
+    "options": {
+      "A": "Dung dịch NaOH tác dụng với dung dịch HCl.",
+      "B": "Điện phân NaCl nóng chảy.",
+      "C": "Dung dịch Na₂CO₃ tác dụng với dung dịch HCl.",
+      "D": "Dung dịch NaCl tác dụng với dung dịch AgNO₃."
+    },
+    "answer": "B"
+  },
+  {
+    "id": "L12_C7_0041",
+    "stem": "Khi đốt nóng tinh thể LiCl trong ngọn lửa đèn khí không màu thì tạo ra ngọn lửa có màu",
+    "options": {
+      "A": "da cam.",
+      "B": "tím nhạt.",
+      "C": "vàng.",
+      "D": "đỏ tía."
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L12_C7_0042",
+    "stem": "Khi đốt nóng tinh thể NaCl trong ngọn lửa đèn khí không màu thì tạo ra ngọn lửa có màu",
+    "options": {
+      "A": "đỏ cam.",
+      "B": "tím nhạt.",
+      "C": "vàng.",
+      "D": "đỏ tía."
+    },
+    "answer": "C"
+  },
+  {
+    "id": "L12_C7_0043",
+    "stem": "(SBT – KNTT) Diêm tiêu kali được dùng chế tạo thuốc nổ đen (làm mìn phá đá), làm phân bón (cung cấp nguyên tố N và K cho cây trồng) có công thức hoá học là",
+    "options": {
+      "A": "ΚΝΟ3.",
+      "B": "K₂CO₃.",
+      "C": "KCl.",
+      "D": "K₂SO₄."
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L12_C7_0044",
+    "stem": "(SBT – CD) Nhúng que platinum sạch vào dung dịch chất X, sau đó đưa lên ngọn lửa đèn khí, đèn khí cháy với ngọn lửa màu vàng. Mặt khác, thêm vài giọt dung dịch chất X vào dung dịch silver nitrate thấy xuất hiện kết tủa vàng. X có thể là chất nào sau đây?(1) Potassium iodide.(2) Sodium iodide.(3) Sodium phosphate.(4) Potassium phosphate.",
+    "options": {
+      "A": "(1) hoặc (4).",
+      "B": "(2) hoặc (3).",
+      "C": "(2).",
+      "D": "(3) hoặc (4)."
+    },
+    "answer": "B"
+  },
+  {
+    "id": "L12_C7_0045",
+    "stem": "(SBT – KNTT) Ở các nước ôn đới, để làm giảm nhiệt độ đóng băng của nước, làm tuyết tan, khoáng chất được rải lên tuyết là",
+    "options": {
+      "A": "muối mỏ.",
+      "B": "than đá.",
+      "C": "đá vôi.",
+      "D": "thạch cao."
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L12_C7_0046",
+    "stem": "(SBT – KNTT) Trong quá trình điện phân dung dịch NaCl với điện cực trơ có màng ngăn xốp, phân tử hay ion nào sau đây di chuyển được từ anode sang cathode qua màng ngăn xốp?",
+    "options": {
+      "A": "Cl⁻.",
+      "B": "Na⁺.",
+      "C": "ОН–.",
+      "D": "Cl₂."
+    },
+    "answer": "B"
+  },
+  {
+    "id": "L12_C7_0047",
+    "stem": "(SBT – CTST) Nước Javel là sản phẩm của quá trình",
+    "options": {
+      "A": "sục khí chlorine vào vôi sữa.",
+      "B": "cho dung dịch NaOH loãng tác dụng với khí chlorine.",
+      "C": "điện phân dung dịch NaOH có màng ngăn giữa hai điện cực.",
+      "D": "điện phân nóng chảy NaOH không có màng ngăn."
+    },
+    "answer": "B"
+  },
+  {
+    "id": "L12_C7_0048",
+    "stem": "(SBT – CTST) Phương pháp điều chế NaOH trong công nghiệp là",
+    "options": {
+      "A": "cho kim loại Na tác dụng với nước.",
+      "B": "cho Na₂O tác dụng với nước.",
+      "C": "điện phân dung dịch NaCl bão hoà có màng ngăn.",
+      "D": "điện phân dung dịch NaCl 20%, không có màng ngăn."
+    },
+    "answer": "C"
+  },
+  {
+    "id": "L12_C7_0049",
+    "stem": "(OLTN) Nước muối sinh lí là dung dịch của chất X với nồng độ 0,9%, được dùng trong việc ngăn ngừa nguy cơ mất muối do đổ quá nhiều mồ hôi, sau phẫu thuật, mất muối do tiêu chảy hay các nguyên nhân khác. X là muối nào sau đây?",
+    "options": {
+      "A": "NaCl.",
+      "B": "NaClO.",
+      "C": "Na₂SO₄.",
+      "D": "NaNO₃."
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L12_C7_0050",
+    "stem": "Điện phân dung dịch NaCl bão hoà, không có màng ngăn để sản xuất hoá chất nào sau đây?",
+    "options": {
+      "A": "Soda.",
+      "B": "Baking soda.",
+      "C": "Xút công nghiệp.",
+      "D": "Nước Javel."
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L12_C7_0051",
+    "stem": "(SBT – KNTT) Ở một số quốc gia, khoáng vật trona là nguyên liệu chính để sản xuất soda. Thành phần hoá học chính của trona là",
+    "options": {
+      "A": "3NaF.AIF₃.",
+      "B": "NaCl.KCl.",
+      "C": "Na₂CO₃.NaHCO₃.2H₂O.",
+      "D": "NaNO₃."
+    },
+    "answer": "C"
+  },
+  {
+    "id": "L12_C7_0052",
+    "stem": "(OLTN) Soda là hoá chất quan trọng trong sản xuất thuỷ tinh, bột giặt, phẩm nhuộm, giấy, sợi. Công thức hoá học của soda là",
+    "options": {
+      "A": "NaCl.",
+      "B": "Na₂SO₄.",
+      "C": "NaNO₃.",
+      "D": "Na₂CO₃."
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L12_C7_0053",
+    "stem": "(OLTN) Trong đời sống, người ta dùng baking soda (là một hợp chất của sodium) để giặt, khử mùi hôi và tẩy trắng vết ố trên quần áo, vệ sinh đồ gia dụng,... Baking soda có công thức là",
+    "options": {
+      "A": "NaHCO₃.",
+      "B": "Na₂CO₃.",
+      "C": "Na₂SO₃.",
+      "D": "NaHSO₄."
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L12_C7_0054",
+    "stem": "(OLTN) Để tẩy dầu mỡ đóng cặn trong dụng cụ, thiết bị và đường ống nhà bếp,…người ta thường dùng Na₂CO₃. Tên thường gọi của Na₂CO₃ là tên nào sau đây?",
+    "options": {
+      "A": "Soda.",
+      "B": "Baking soda.",
+      "C": "Xút ăn da.",
+      "D": "Muối ăn."
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L12_C7_0055",
+    "stem": "(OLTN) Bột nở baking powder có thành phần gồm baking soda kết hợp với tinh bột ngô và một số muối vô cơ khác, có tác dụng làm cho bánh nở xốp, bông mềm. Phản ứng hoá học nào sau đây của bột nở xảy ra làm cho bánh nở xốp?",
+    "options": {
+      "A": "2NaHCO₃ + Ca(OH)₂ <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnJ6+KrWUAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> Na₂CO₃ + CaCO₃ + H₂O.",
+      "B": "Na₂CO₃ + Ca(OH)₂ <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnJ6+KrWUAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> 2NaHCO₃ + CaCO₃.",
+      "C": "NaHCO₃ + HCl <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnJ6+KrWUAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> NaCl + CO₂ + H₂O.",
+      "D": "2NaHCO₃ <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnJ6+KrWUAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> Na₂CO₃ + H₂O + CO₂."
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L12_C7_0056",
+    "stem": "(SBT – CD) Những phát biểu nào sau đây là đúng về hợp chất sodium hydrogencarbonate?(1) Còn gọi là sodium bicarbonate hay baking soda.(2) Được dùng để điều trị chứng dư acid trong dạ dày, làm mềm thực phẩm.(3) Là chất dạng bột màu trắng, dễ bị oxi hoá bởi oxygen trong không khí.",
+    "options": {
+      "A": "(1) và (2).",
+      "B": "(1), (2) và (3).",
+      "C": "(1) và (3).",
+      "D": "(2)."
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L12_C7_0057",
+    "stem": "(SBT – KNTT) Trong quá trình Solvay, NH₃ được tái chế khi cho dung dịch NH₄Cl tác dụng với",
+    "options": {
+      "A": "CaO.",
+      "B": "NaOH.",
+      "C": "KOH.",
+      "D": "Ba(OH)₂."
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L12_C7_0058",
+    "stem": "Quá trình sản xuất soda bằng phương pháp Solvay không sử dụng nguyên liệu nào sau đây?",
+    "options": {
+      "A": "Carbon dioxide.",
+      "B": "Muối ăn.",
+      "C": "Xút ăn da.",
+      "D": "Ammonia."
+    },
+    "answer": "C"
+  },
+  {
+    "id": "L12_C7_0059",
+    "stem": "(SBT – KNTT) Trong một giai đoạn của quá trình Solvay có tồn tại cân bằng giữa các muối trong dung dịch: NaCl + NH₄HCO₃ <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnKD81sPQAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> NaHCO₃ + NH₄Cl.Dựa trên tính chất nào của NaHCO₃ để kết tinh muối này từ dung dịch hỗn hợp?",
+    "options": {
+      "A": "Độ tan thấp.",
+      "B": "Tính lưỡng tính.",
+      "C": "Độ bền nhiệt thấp.",
+      "D": "Tính acid Bronsted."
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L12_C7_0060",
+    "stem": "(Đề THPT QG - 2017) Dung dịch nào sau đây phản ứng với dung dịch HCl dư tạo ra chất khí?",
+    "options": {
+      "A": "Ba(OH)₂.",
+      "B": "Na₂CO₃.",
+      "C": "K₂SO₄.",
+      "D": "Ca(NO₃)₂."
+    },
+    "answer": "B"
+  },
+  {
+    "id": "L12_C7_0061",
+    "stem": "(Đề TNTHPT QG – 2020) Chất nào sau đây tác dụng với dd NaHCO₃ sinh ra khí CO₂?",
+    "options": {
+      "A": "HCl.",
+      "B": "Na₂SO₄.",
+      "C": "K₂SO₄.",
+      "D": "KNO₃."
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L12_C7_0062",
+    "stem": "(Đề THPT QG - 2018) Dung dịch Na₂CO₃ tác dụng được với dung dịch",
+    "options": {
+      "A": "NaCl.",
+      "B": "KCl.",
+      "C": "CaCl₂.",
+      "D": "NaNO₃."
+    },
+    "answer": "C"
+  },
+  {
+    "id": "L12_C7_0063",
+    "stem": "(HTHH) Cho dung dịch NaOH dư vào dung dịch nào sau đây thu được kết tủa trắng khi kết thúc phản ứng?",
+    "options": {
+      "A": "Ca(HCO₃)₂.",
+      "B": "NaHCO₃.",
+      "C": "HCl.",
+      "D": "(NH₄)₂SO₄."
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L12_C7_0064",
+    "stem": "(SBT – KNTT) Hợp chất nào sau đây vừa tác dụng được với dung dịch HCl, vừa tác dụng được với dung dịch NaOH?",
+    "options": {
+      "A": "NaHCO₃.",
+      "B": "NaCl.",
+      "C": "Ba(OH)₂.",
+      "D": "Na₂CO₃."
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L12_C7_0065",
+    "stem": "Nhỏ vài giọt dung dịch phenolphthalein vào dung dịch Na₂CO₃ thì dung dịch chuyển sang màu",
+    "options": {
+      "A": "tím.",
+      "B": "vàng.",
+      "C": "xanh.",
+      "D": "hồng."
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L12_C7_0066",
+    "stem": "Dãy nào sau đây sắp xếp các dung dịch (có cùng nồng độ 0,1 M) theo thứ tự pH tăng dần?",
+    "options": {
+      "A": "LiOH, Na₂CO₃, KCl.",
+      "B": "Na₂CO₃, KCl, LiOH.",
+      "C": "KCl, Na₂CO₃, LiOH.",
+      "D": "Na₂CO₃, LiOH, KCl."
+    },
+    "answer": "C"
+  },
+  {
+    "id": "L12_C7_0067",
+    "stem": "(OLTN) Một loại muối (X) của kim loại kiềm được dùng làm phân bón, cung cấp cả hai nguyên tố dinh dưỡng đa lượng cho cây trồng. Công thức hoá học của muối X là",
+    "options": {
+      "A": "ΚΝΟ3.",
+      "B": "K₂CO₃.",
+      "C": "NaNO₃.",
+      "D": "Na₃PO₄."
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L12_C7_0068",
+    "stem": "X và Y là các hợp chất vô cơ của một kim loại kiềm, có nhiều ứng dụng trong thực tế và khi đốt nóng ở nhiệt độ cao trên đèn khí cho ngọn lửa màu vàng. Biết chúng thoả mãn các sơ đồ sau:X + NaOH <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnJ6+KrWUAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> Y + H₂O;X <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAE0AAAAgCAAAAAByCKroAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnI6jnaXwAAAEqSURBVEjHY/zPQEXARE3DiDZtT2CW5x7Cyv4TBV7zP/1/k+8VIWVEum23lBSDmvheKvn0JR8DA4PgS8pNW1nDwMAg8ZGBgeG9BMWm/W9jYGBgcHn+hOHOS2eCVhMI1xuuDPzyxf//7/LP8d5NMLIIxuljhmriop2EOCUSjJpGI9OYGP5R0TQRtr0PLhNS9AbGIJiGOnglEgko+Sd/m8jUSxTI1fxIRdNei3j+oZ5p/xcx5FPRtP/BDJP////PwsDwPhczkrwjUbglLxDspVC6BkUFP0O+ZDADw///T5gxQRmqzeoIGdzJxPP/f0Zy69N///8hg6WV6icEGMg2DRU81WE+oUJM6iUK+LAeoF6crmeY+596pumWQmiqlEj/gjogDCrFAhRQt7QEANWTdyq5RaZ+AAAAAElFTkSuQmCC\" style=\"height:22px\" alt=\"\"> Y.Y là chất nào sau đây?",
+    "options": {
+      "A": "NaOH.",
+      "B": "K₂CO₃.",
+      "C": "Na₂CO₃.",
+      "D": "NaHCO₃."
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L12_C7_0069",
+    "stem": "Phân kali đỏ (chứa KCl) là một loại phân bón đa lượng phổ biến trên thị trường vì giá thành rẻ, phù hợp rất nhiều loại đất khác nhau và hàm lượng potassium cao. Phân kali đó thường được sản xuất từ quặng sylvinite (KCl.NaCl) bằng cách tách muối KCl ra khỏi quặng theo sơ đồ sau:Quặng sylvinite <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGkAAAAcCAAAAABHBs6UAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnKUgygGIAAAPKSURBVEjH3ZZ/TNR1GMdfx48jIGqEKY0fGTloE5AIA4YMlggqEmC5ySgQHcJMkVkLmcx01SJH0wjDdbONX9LGNPlhJNkkxykZyo+YpkQ0IaDYEbbSk4N7+uOOxR13ArP4o/dfn+fn+/t8nufz7KsQFgg2C0U0d6a7JxaKydF9+MGY7CwpB7xObpzw/wGAoA44RvbIrlHdph1TDtebcE21NYk5XZ/s9ML8a/I9ZDIoWVmkbm5qaqg3yi1nu/90eds0ZKiwMWz+NfFEQO0G+KZg6fgaXe4Nr2ASBpOwVzfu7q16BLiYdiD34fbG45sPh96KzyDJR99b1fGl5nzPRa9r715o8Or9dJmFpGIB/VEDYTo/eX5EXlUtHpKYfaWta0VkOVJUISJyZCh8HfoPX6oJl4lgkcSzUlShlbGQw/nSlhCuH/fpsZDUykR4BNfB3UUE4+6OhwbPfmDgWdw0AHcI3E/3MvDFVg/44qYpTtk9iC9ubcsV9gFz7xPsLYSHNLSjAAQP93p0t9NB+oBVtXvCqFl3E8DY0Jvq6qN6gCevyUT33PsEXs+d5/0kb63SKFfllNwjEYgYhEjXBpsV199wmObv/ctOF2eAJZFrPBYrLaUU65gUSb9kpuvKl1kwKbqgcRPNQJeIyP2YTr+4dtdseWfiYHJUuRl38sgsTP8arkRrRexg1dRFlhpmZkeXUd6eBsBklJlDW+5Uk5uxrFCVAWqAWL1eL/rW6i38NzUd+clEPLVJb/U9PRhqnAuni3fKyhQWZm/bVyJvqeTNhOhOg+LbKyb20lI5/knaDYPw60k5mDzd2p4uIhVLV68OnRalGRKxWtOtjrptHxiOl6+aG7dmlvkaTr+dYr/TzOjUc+demRb1mDtYfbmjj9ddLrlwCIdqu0rblsk/NPl7No7alBqMWcOa/Pi8TuVrcWWXtuQASZ6OfccWkdepjOhP+zHTHvSVti0fm33DjNsLiYt7WtWeeiJVqxXZ95l8pBKtjIW4j8mGfsPtaWUs5EyGiMj3qVIaUCuJtfL5XjmTIdIeNKldUeETF+etMk88s6b3YjgApIzEFhcpfnYFKL7qMLjkUdw0nkyJ3ZFG9+xswI9nyuiOBAJtHCDlHUpm5LU+ezlLU14vjxGUup6p7Sl9AD3q6qN6fzWAUmfwbeM7P/zVgMIYPWX5B9Y2LNuHHQsKAntCid76xT3j9iRiEPBmp4vz+uZ4p8zYp35/OW8l0Fp7u5L1zfFOKwGoauUv26/LZ+nT/WBtvSb2zSHYak2WEBAwH28zKP6H/7B/A25N4WbpCpq8AAAAAElFTkSuQmCC\" style=\"height:26px\" alt=\"\"> Dung dịch KCl bão hoà <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFcAAAAkCAAAAADZFfnfAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnIUbpCFAAAAL6SURBVEjHxZZdSFNhGMf/upnOfWgsUydqOFNEqcyy8mIWauRXJgxL0iQ0ohtNqCaI2aigxIsMJNMLBcPCLA1Tb4KRFoQfGY3UzBSZTg38QC23pnu6mF/RztyZSv+r5zzvn9/7nOc85z3HjrAtst8erDXcGekIe67dxn3I3XfRhoJpE7qeTZXx5pcYuG1B3gcmiYioM4YviFObNT3JNFLva1ZcWQUN/CIi6uYrtSMKl362t8LATctYNAWn0omIEkPFdw/6lZD6sCg+U8EZI8rJ1+d5u136ydQHhnkIrDnSAwBLqhQASO2edOxqLRhKPjt1rWbZcrO9Y2iqkN2cacs0CREfAMzpPQDAEw458AqpnM3lHD+57Cm/584vfM7E5ZrNGuwFt1xLjgLCHeMAMAYRF+D1S+wBb5Nldvq8PWiBXb2+GRHtc/4AOCdqAeDpfgCAp9YIaMDXA5Mil4a+vq8TbOe3WRK0QETU6awcG80TNYiJKKpaWryo4ilkj2nAJf9GjIZGW1g+N8R2/ugFgDBVqzTgU1ugqWkvnu0sTnF88ChcEY/bx2SiqF6W9bbrp706zC8lllsc3OpSS/NbuNevwEy6bcLYzNdY5BpC31jgMqjC3TX41QaeDrceIrIj1BatdSXi4UoUPbOWrQpZicx4a4vQtZpLAPBepBaCC0T6rHldV6P7hrXsntXIjDfSB4MzRpNEAUbjwrskoVXnL0vldzdymN63Tai/5S0HrL9vVQl/XZbJ/3H01gvByK3zZ0Z/T3aztHOSL5i5liStF1vhsszljgNXd53JFASpS9wlL9etnMuJDpaNYumKMKCVPdek5tip2NOa4dLLi+uSTTVfwpRokk1lZ9nKDZfvSNPccUrWjwDAnFwr1wLpuxH3EYdSHbK+zZu7Uyu4HoCzqxPgPA8AwjoAgBjgzUMCOHHmBazrXQCmrdjZai7pdDodAWWGz42zv7eOO8jj8XjDgEFyQWlQ2cC1fD5wRzxs6sJ//U+1SVt/Tm5vvX8A4WEeFzlA94UAAAAASUVORK5CYII=\" style=\"height:26px\" alt=\"\"> Tinh thể KCl.Phương pháp nào sau đây dùng để tách KCl ở trên?",
+    "options": {
+      "A": "Sắc kí.",
+      "B": "Chưng cất.",
+      "C": "Chiết.",
+      "D": "Kết tinh."
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L12_C7_0070",
+    "stem": "(HTHH) Cho sơ đồ gồm hai phản ứng hóa học xảy ra ở điều kiện thường:X <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnKtE70dgAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> NaOH <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnKtE70dgAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> Na₂CO₃Trong số các chất: Na, Na₂SO₄, Na₂O, NaCl, số chất phù hợp với X là",
+    "options": {
+      "A": "1.",
+      "B": "2.",
+      "C": "3.",
+      "D": "4."
+    },
+    "answer": "B"
+  },
+  {
+    "id": "L12_C7_0071",
+    "stem": "(OLTN) Cho dãy các nguyên tố: Mg, K, Ba, Na, Al, Sr. Số nguyên tố thuộc nhóm IIA là",
+    "options": {
+      "A": "1.",
+      "B": "2.",
+      "C": "3.",
+      "D": "4."
+    },
+    "answer": "C"
+  },
+  {
+    "id": "L12_C7_0072",
+    "stem": "(SBT – KNTT) Ở trạng thái cơ bản, cấu hình electron lớp ngoài cùng của các kim loại nhóm IIA có dạng chung là",
+    "options": {
+      "A": "ns₁.",
+      "B": "ns₂.",
+      "C": "ns₂np₃.",
+      "D": "ns₂np₅."
+    },
+    "answer": "B"
+  },
+  {
+    "id": "L12_C7_0073",
+    "stem": "(Đề TSĐH B - 2014) Ion X²⁺ có cấu hình electron ở trạng thái cơ bản 1s²2s²2p⁶. Nguyên tố X là",
+    "options": {
+      "A": "O (Z = 8) .",
+      "B": "Mg (Z = 12).",
+      "C": "Na (Z = 11).",
+      "D": "Ne (Z = 10)."
+    },
+    "answer": "B"
+  },
+  {
+    "id": "L12_C7_0074",
+    "stem": "Trong hợp chất, nguyên tử của các nguyên tố kim loại nhóm IIA thường thể hiện số oxi hóa là",
+    "options": {
+      "A": "+1.",
+      "B": "+3.",
+      "C": "+2.",
+      "D": "–2."
+    },
+    "answer": "C"
+  },
+  {
+    "id": "L12_C7_0075",
+    "stem": "(SBT – KNTT) Trong cơ thể người, ion Mg²⁺ (Z = 12) tham gia cấu trúc tế bào, tổng hợp protein và tổng hợp chất sinh năng lượng ATP. Tổng số hạt proton và electron của ion Mg²⁺ là",
+    "options": {
+      "A": "26.",
+      "B": "24.",
+      "C": "22.",
+      "D": "12."
+    },
+    "answer": "C"
+  },
+  {
+    "id": "L12_C7_0076",
+    "stem": "(SBT – KNTT) Ion Ca²⁺ (Z = 20) đóng vai trò thiết yếu trong việc phát triển xương, giúp duy trì hoạt động của cơ bắp, kích thích máu lưu thông, điều tiết một số loại hormone,... Tổng số proton và electron của ion Ca²⁺ là",
+    "options": {
+      "A": "40.",
+      "B": "42.",
+      "C": "38.",
+      "D": "18."
+    },
+    "answer": "C"
+  },
+  {
+    "id": "L12_C7_0077",
+    "stem": "Nhận định nào không đúng về cấu tạo và tính chất vật lí của các kim loại nhóm IIA?",
+    "options": {
+      "A": "Khối lượng riêng tương đối nhỏ, là những kim loại nhẹ hơn nhôm (trừ Ba).",
+      "B": "Độ cứng cao hơn kim loại nhóm IA, nhưng mềm hơn kim loại nhôm.",
+      "C": "Mạng tinh thể của chúng đều có kiểu lập phương tâm khối.",
+      "D": "Nhiệt độ nóng chảy và nhiệt độ sôi tương đối thấp (trừ Be)."
+    },
+    "answer": "C"
+  },
+  {
+    "id": "L12_C7_0078",
+    "stem": "(SBT – CTST) Kim loại nhóm IIA có nhiệt độ nóng chảy, nhiệt độ sôi, khối lượng riêng biến đổi không theo quy luật như kim loại kiềm, do các kim loại nhóm IIA có",
+    "options": {
+      "A": "điện tích hạt nhân khác nhau.",
+      "B": "cấu hình electron khác nhau.",
+      "C": "bán kính nguyên tử khác nhau.",
+      "D": "kiểu mạng tinh thể khác nhau."
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L12_C7_0079",
+    "stem": "(OLTN) Mô tả nào dưới đây không phù hợp các nguyên tố nhóm IIA từ Be tới Ba?",
+    "options": {
+      "A": "Bán kính nguyên tử tăng dần.",
+      "B": "Tồn tại chủ yếu dạng đơn chất trong vỏ Trái Đất.",
+      "C": "Có hai electron hoá trị.",
+      "D": "Thuộc nhóm kim loại nhẹ."
+    },
+    "answer": "B"
+  },
+  {
+    "id": "L12_C7_0080",
+    "stem": "(SBT – KNTT) Trong nhóm IA và IIA, theo chiều từ trên xuống dưới trong mỗi nhóm, tính kim loại biến đổi như thế nào?",
+    "options": {
+      "A": "Không đổi.",
+      "B": "Giảm dần.",
+      "C": "Tăng dần.",
+      "D": "Không có quy luật."
+    },
+    "answer": "C"
+  },
+  {
+    "id": "L12_C7_0081",
+    "stem": "(OLTN) Kim loại nhóm IIA có tính khử mạnh, nguyên nhân nào sau đây là không phù hợp?",
+    "options": {
+      "A": "Kim loại nhóm IIA có thế điện cực chuẩn rất nhỏ.",
+      "B": "Kim loại nhóm IIA có bán kính nguyên tử lớn.",
+      "C": "Tương tác giữa electron hoá trị của với hạt nhân nguyên tử là yếu.",
+      "D": "Mạng tinh thể nguyên tử có liên kết kim loại bền vững."
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L12_C7_0082",
+    "stem": "Kim loại nào sau đây thuộc nhóm IIA và có khả năng phát sáng màu đỏ khi cháy?",
+    "options": {
+      "A": "Beryllium (Be).",
+      "B": "Magnesium (Mg).",
+      "C": "Strontium (Sr).",
+      "D": "Barium (Ba)."
+    },
+    "answer": "C"
+  },
+  {
+    "id": "L12_C7_0083",
+    "stem": "(SBT – KNTT) Ở nhiệt độ thường, kim loại nào sau đây phản ứng chậm với nước?",
+    "options": {
+      "A": "Mg.",
+      "B": "Ca.",
+      "C": "Sr.",
+      "D": "Ba."
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L12_C7_0084",
+    "stem": "(SBT – CTST) Kim loại không phản ứng được với nước ở nhiệt độ thường là",
+    "options": {
+      "A": "Be.",
+      "B": "Ca.",
+      "C": "Li.",
+      "D": "K."
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L12_C7_0085",
+    "stem": "Cho dãy các kim loại: Cu, Na, K, Ca, Ga. Số kim loại trong dãy tác dụng được với nước ở nhiệt độ thường là",
+    "options": {
+      "A": "4.",
+      "B": "1.",
+      "C": "2.",
+      "D": "3."
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L12_C7_0086",
+    "stem": "(SBT – CTST) Phương trình hoá học của phản ứng nào sau đây không đúng?",
+    "options": {
+      "A": "Ca + 2H₂O <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnI6jnaXwAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> Ca(OH)₂ + H₂.",
+      "B": "BeO + H₂O <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnI6jnaXwAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> Be(OH)₂.",
+      "C": "Mg + H₂SO₄ <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnI6jnaXwAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> MgSO₄ + H₂.",
+      "D": "Be + 2NaOH <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnI6jnaXwAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> Na₂BeO₂ + H₂."
+    },
+    "answer": "B"
+  },
+  {
+    "id": "L12_C7_0087",
+    "stem": "(SBT – CTST) Dãy gồm các kim loại đều phản ứng với nước ở nhiệt độ thường, tạo ra dung dịch có môi trường kiềm là",
+    "options": {
+      "A": "Na, Ba, K.",
+      "B": "Be, Na, Ca.",
+      "C": "Na, Fe, K.",
+      "D": "Na, Cr, K."
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L12_C7_0088",
+    "stem": "(SBT – CD) Dãy các kim loại nào sau đây tác dụng nhanh với nước ở điều kiện thường?",
+    "options": {
+      "A": "Be, Na, Ba.",
+      "B": "Mg, Ca, Ba.",
+      "C": "Li, Ca, Ba.",
+      "D": "Sr, Sn, Ba."
+    },
+    "answer": "C"
+  },
+  {
+    "id": "L12_C7_0089",
+    "stem": "Kim loại nào sau đây có thể tác dụng với nước ở điều kiện thường tạo ra dung dịch làm xanh giấy quỳ tím là",
+    "options": {
+      "A": "Be.",
+      "B": "Ba.",
+      "C": "Zn.",
+      "D": "Fe."
+    },
+    "answer": "B"
+  },
+  {
+    "id": "L12_C7_0090",
+    "stem": "Lần lượt cho một mẫu Ba và các dung dịch K₂SO₄, NaHCO₃, HNO₃ và NH₄Cl. Số trường hợp xuất hiện kết tủa là",
+    "options": {
+      "A": "3.",
+      "B": "4.",
+      "C": "2.",
+      "D": "1."
+    },
+    "answer": "C"
+  },
+  {
+    "id": "L12_C7_0091",
+    "stem": "(SBT – CD) Barium phản ứng với nước dễ dàng hơn so với magnesium ở điều kiện thường là do các nguyên nhân nào sau đây?(1) Barium có tính khử mạnh hơn magnesium.(2) Độ tan của barium hydroxide trong nước cao hơn nhiều so với magnesium hydroxide.(3) Bọt khí hydrogen sinh ra bám trên bề mặt magnesium nhiều hơn, cản trở phản ứng tiếp diễn.",
+    "options": {
+      "A": "(1).",
+      "B": "(1), (2) và (3).",
+      "C": "(1) và (3).",
+      "D": "(1) và (2)."
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L12_C7_0092",
+    "stem": "(OLTN) Khi thực hiện thí nghiệm phản ứng của oxygen với kim loại nhóm IIA, hiện tượng nào sau đây không đúng?",
+    "options": {
+      "A": "Ở điều kiện thường, beryllium bền trong không khí.",
+      "B": "Magnesium không phản ứng với oxygen ở điều kiện thường.",
+      "C": "Khi đốt nóng, các kim loại nhóm IIA đều cháy trong không khí.",
+      "D": "Kim loại nhóm IIA khi cháy đều cho ngọn lửa có màu đặc trưng."
+    },
+    "answer": "B"
+  },
+  {
+    "id": "L12_C7_0093",
+    "stem": "(OLTN) Cho mỗi mảnh nhỏ kim loại Mg, Ca, Sr và Ba vào mỗi ống nghiệm chứa 5 mL nước. Quan sát hiện tượng thí nghiệm để dự đoán phản ứng với nước của kim loại nhóm IIA, nhận xét nào sau đây không đúng?",
+    "options": {
+      "A": "Khí thoát ra trên bề mặt kim loại là khí hydrogen.",
+      "B": "Barium có khối lượng riêng nhỏ nhất nên nổi trên mặt nước và tan nhanh.",
+      "C": "Khả năng phản ứng với nước xếp theo thứ tự Mg &lt; Ca &lt; Sr &lt; Ba.",
+      "D": "Magnesium phản ứng chậm nhất do Mg(OH)₂ có độ tan nhỏ nhất."
+    },
+    "answer": "B"
+  },
+  {
+    "id": "L12_C7_0094",
+    "stem": "(SBT – KNTT) Trong công nghiệp, kim loại kiềm thổ thường được điều chế bằng phương pháp điện phân nóng chảy muối chloride. Quá trình khử xảy ra tại cathode là",
+    "options": {
+      "A": "M <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnKUgygGIAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> M+ + le.",
+      "B": "M+ + le <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnKUgygGIAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> M.",
+      "C": "M²⁺ + 2e <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnKUgygGIAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> M.",
+      "D": "M <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnKUgygGIAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> M²⁺ + 2e."
+    },
+    "answer": "C"
+  },
+  {
+    "id": "L12_C7_0095",
+    "stem": "(OLTN) Trong nhóm IIA, nguyên tố phổ biến trong vỏ Trái Đất là",
+    "options": {
+      "A": "Rb và Sr.",
+      "B": "Mg và Ba.",
+      "C": "Mg và Ca.",
+      "D": "Be và Ca."
+    },
+    "answer": "C"
+  },
+  {
+    "id": "L12_C7_0096",
+    "stem": "(OLTN) Trong chế độ dinh dưỡng hàng ngày, khi cơ thể không hấp thu được hoặc thiếu nguyên tố nào dưới đây sẽ dẫn đến nguy cơ loãng xương?",
+    "options": {
+      "A": "Ba.",
+      "B": "Mg.",
+      "C": "Be.",
+      "D": "Ca."
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L12_C7_0098",
+    "stem": "(OLTN) Calcium là nguyên tố kim loại đóng vai trò thiết yếu cho việc phát triển cơ thể động vật, đồng thời góp phần duy trì hoạt động của cơ bắp, truyền dẫn thần kinh, tăng cường khả năng miễn dịch,... Trong cơ thể người, phần lớn lượng calcium tập trung ở",
+    "options": {
+      "A": "xương, răng.",
+      "B": "máu.",
+      "C": "cơ bắp.",
+      "D": "tóc, móng."
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L12_C7_0099",
+    "stem": "(OLTN) Những mô tả về ứng dụng hợp chất của calcium nào sau đây không chính xác?",
+    "options": {
+      "A": "Đá vôi dùng để sản xuất xi măng, vôi sống, vôi tôi,…",
+      "B": "Apatite dùng để sản xuất phân bón.",
+      "C": "Vôi sống làm vật liệu xây dựng, khử chua đất, làm chất hút ẩm,…",
+      "D": "Thạch cao dùng để làm vật liệu xây dựng, làm mềm nước cứng."
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L12_C7_0100",
+    "stem": "(SBT – CD) Nguyên tố nhóm IIA được tìm thấy trong tự nhiên dưới dạng nào?(1) Các cation M²⁺ trong nước ao hồ, nước ngầm.(2) Các khoáng vật ít tan như carbonate, sulfate, silicate.(3) Các hợp chất ít tan trong răng, xương động vật.",
+    "options": {
+      "A": "(1) và (2).",
+      "B": "(1) và (3).",
+      "C": "(1), (2) và (3).",
+      "D": "(2) và (3)."
+    },
+    "answer": "C"
+  },
+  {
+    "id": "L12_C7_0101",
+    "stem": "Khi đốt nóng tinh thể BaCl₂ trong ngọn lửa đèn khí không màu thì tạo ra ngọn lửa có màu",
+    "options": {
+      "A": "tím nhạt.",
+      "B": "đỏ son.",
+      "C": "đỏ cam.",
+      "D": "lục vàng."
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L12_C7_0102",
+    "stem": "(SBT – KNTT) Độ tan trong dãy muối sulfate từ MgSO₄ đến BaSO₄ biến đổi như thế nào?",
+    "options": {
+      "A": "Tăng dần.",
+      "B": "Giảm dần.",
+      "C": "Không có quy luật.",
+      "D": "Không đổi."
+    },
+    "answer": "B"
+  },
+  {
+    "id": "L12_C7_0103",
+    "stem": "(SBT – KNTT) Ở nhiệt độ phòng, hydroxide nào sau đây có độ tan lớn nhất?",
+    "options": {
+      "A": "Mg(OH)₂.",
+      "B": "Sr(OH)₂.",
+      "C": "Ba(OH)₂.",
+      "D": "Ca(OH)₂."
+    },
+    "answer": "C"
+  },
+  {
+    "id": "L12_C7_0104",
+    "stem": "(SBT – KNTT) Ở nhiệt thường, độ tan của các hydroxide tăng dần trong dãy từ Mg(OH)₂ đến Ba(OH)₂. Từ thông tin này có thể dự đoán được khả năng phản ứng với nước của các kim loại từ Mg đến Ba biến đổi như thế nào?",
+    "options": {
+      "A": "Tăng dần.",
+      "B": "Không đổi.",
+      "C": "Không có quy luật.",
+      "D": "Giảm dần."
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L12_C7_0105",
+    "stem": "Trong dãy hydroxide của kim loại nhóm IIA từ Mg(OH)₂ đến Ba(OH)₂, hydroxide nào có độ tan nhỏ nhất ở 20 oC?",
+    "options": {
+      "A": "Mg(OH)₂.",
+      "B": "Sr(OH)₂.",
+      "C": "Ba(OH)₂.",
+      "D": "Ca(OH)₂."
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L12_C7_0106",
+    "stem": "(SBT – KNTT) Tiến hành thí nghiệm theo các bước sau:Bước 1: Chuẩn bị hai ống nghiệm, ống (1) chứa 2 mL dung dịch CaCl₂, ống (2) chứa 2 mL dung dịch BaCl₂ 1M.Bước 2: Nhỏ đồng thời vào mỗi ống nghiệm 3 giọt dung dịch CuSO₄ 1 M, thấy ống (1) xuất hiện kết tủa chậm hơn và ít hơn so với ống (2).Nhận định nào sau đây đúng khi so sánh CaSO₄ với BaSO₄?",
+    "options": {
+      "A": "Khó nhiệt phân hơn.",
+      "B": "Khó thuỷ phân hơn.",
+      "C": "Dễ kết tủa hơn.",
+      "D": "Dễ tan hơn."
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L12_C7_0107",
+    "stem": "(SBT – KNTT) Muối nào sau đây chỉ tồn tại trong dung dịch và bị phân huỷ khi đun nóng?",
+    "options": {
+      "A": "Ca(NO₃)₂.",
+      "B": "CaSO₄.",
+      "C": "CaCl₂.",
+      "D": "Ca(HCO₃)₂."
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L12_C7_0108",
+    "stem": "(SBT – KNTT) Xét phản ứng phân huỷ muối carbonate của kim loại nhóm IIA:MCO₃(s) <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAE0AAAAgCAAAAAByCKroAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnI6jnaXwAAAEqSURBVEjHY/zPQEXARE3DiDZtT2CW5x7Cyv4TBV7zP/1/k+8VIWVEum23lBSDmvheKvn0JR8DA4PgS8pNW1nDwMAg8ZGBgeG9BMWm/W9jYGBgcHn+hOHOS2eCVhMI1xuuDPzyxf//7/LP8d5NMLIIxuljhmriop2EOCUSjJpGI9OYGP5R0TQRtr0PLhNS9AbGIJiGOnglEgko+Sd/m8jUSxTI1fxIRdNei3j+oZ5p/xcx5FPRtP/BDJP////PwsDwPhczkrwjUbglLxDspVC6BkUFP0O+ZDADw///T5gxQRmqzeoIGdzJxPP/f0Zy69N///8hg6WV6icEGMg2DRU81WE+oUJM6iUK+LAeoF6crmeY+596pumWQmiqlEj/gjogDCrFAhRQt7QEANWTdyq5RaZ+AAAAAElFTkSuQmCC\" style=\"height:22px\" alt=\"\"> MO(s) + CO₂(g); \t\t\t\t<img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFgAAAAkCAAAAAAoHqJSAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnKtE70dgAAANiSURBVEjH1ZZdbJNVGMd/bVcpyBCEzMmKQMwG6OIKY66mkw0IYpgkxg9itpghK3CBmIhR40IySEyMgB83GkxnY5SgiKKZJBJJlH1csLjIylCMW0y6kX3JhlsHwxT29+Jd1zLf9SMbF/6v3v97zvmd5zzPOTnHIm6PrLeJOyXw0O5cd86uoUlaFZX3Q6Wk4oJB9Sx/1LwxBhxKX2nWY//YomZ3S2p0GMZ+QqrnC0l+6hKBfdBs1uV66wp485Jhbv65FTb/cUPSAVokNXPQFByT4xrwmSVrRu4cWJY1VpOli2Fhtg0YZBYwm8EExbvQBEevplC7eVwFhpmbAOxLTyN0LAWwm9+B87jjg/85Ul46SS4mkaf43RB/HSrxxAd/PeCthLMXUiDXFriLitfXmjemjWfCle9a2EXN+8mD53wQpzEScXvddmxb4bPrKYQcT5GIaxzlsO0tDZwoM+3X0x75GkiSbGzncObzkrQWSkw2e+GEMTuTOO9jEX/X4wXw/sSZtmyz+V8Z31RfHk8l4k05kqSRefCaacTHx011chEbxbt0yguAoxw+CU9L8Qyw31Zh2O3QVzsF3ATwqH9zhmEfWg010wc+HfRGfCX8EJw2sG/Rxogvm8WoP8mx+x/My1teNQI0PZZXVNQAcKRwTX5FN4CkXnt1tJoV4LyR3K4obpTOzXxaanHskd5xBKRjnNa1R1aGjRvkgDUYhdQDJ5MD75SkLfSozP63FJ7/nLTuPkk+Go0D8vHiH2MWmB7CVxq74uGLV+D8qiVWgHBbO3S05swADgNk0ndPc9ZdkOY+BR0LgAyCHpDq/pO8tC5p391PNDx5v6Rqi/FzZrekBrthbF9FFlBmHdAD2ZK0iy5tzJJ0mLO3XKYT5Lm3+mRBwgM2umSD9IwjJGkvAdXbP1Vv3ibFBRdKgYTgb+/4RWqyVA6Ntj/Fz9JeMm3OzoTghOrO8kvSmfXO/Be38JuqMgMa3ubsnCq43/VR1LxgHe6yvSFpyLL7lndF6up9vGpH1J1z3dl20wmkz/91ao/CjtK3nwWgtRO42LIDJ5eB8JVFMZdp6rpcVBIIAGtWNfW/Tl/FBi9L133+0lzeUyVMmuNDGQteDcZNcOvYBAf1/bIVD+fuG5HU//LqtS7PN5Is/7sX/b8oXhKOhyq+LwAAAABJRU5ErkJggg==\" style=\"height:23px\" alt=\"\">Từ MgCO₃ đến BaCO₃, biến thiên enthalpy chuẩn của phản ứng biến đổi như thế nào?",
+    "options": {
+      "A": "Không đổi.",
+      "B": "Giảm dần.",
+      "C": "Tăng dần.",
+      "D": "Không có quy luật."
+    },
+    "answer": "C"
+  },
+  {
+    "id": "L12_C7_0109",
+    "stem": "Trong dãy muối carbonate của kim loại nhóm IIA từ MgCO₃ đến BaCO₃, muối nào có nhiệt độ bắt đầu phần hủy cao nhất?",
+    "options": {
+      "A": "BaCO₃.",
+      "B": "CaCO₃.",
+      "C": "MgCO₃.",
+      "D": "SrCO₃."
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L12_C7_0110",
+    "stem": "Độ bền nhiệt trong dãy muối carbonate từ MgCO₃ đến BaCO₃ biến đổi như thế nào?",
+    "options": {
+      "A": "Tăng dần.",
+      "B": "Giảm dần.",
+      "C": "Không có quy luật.",
+      "D": "Không đổi."
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L12_C7_0111",
+    "stem": "(SBT – CTST) Cho phương trình hoá học của phản ứng nhiệt phân sau:4M(NO₃)x <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAE0AAAAgCAAAAAByCKroAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnI6jnaXwAAAEqSURBVEjHY/zPQEXARE3DiDZtT2CW5x7Cyv4TBV7zP/1/k+8VIWVEum23lBSDmvheKvn0JR8DA4PgS8pNW1nDwMAg8ZGBgeG9BMWm/W9jYGBgcHn+hOHOS2eCVhMI1xuuDPzyxf//7/LP8d5NMLIIxuljhmriop2EOCUSjJpGI9OYGP5R0TQRtr0PLhNS9AbGIJiGOnglEgko+Sd/m8jUSxTI1fxIRdNei3j+oZ5p/xcx5FPRtP/BDJP////PwsDwPhczkrwjUbglLxDspVC6BkUFP0O+ZDADw///T5gxQRmqzeoIGdzJxPP/f0Zy69N///8hg6WV6icEGMg2DRU81WE+oUJM6iUK+LAeoF6crmeY+596pumWQmiqlEj/gjogDCrFAhRQt7QEANWTdyq5RaZ+AAAAAElFTkSuQmCC\" style=\"height:22px\" alt=\"\"> 2M2Ox + 4xNO₂ + xO₂M là kim loại nào sau đây?",
+    "options": {
+      "A": "Ca.",
+      "B": "Mg.",
+      "C": "K.",
+      "D": "Ag."
+    },
+    "answer": "B"
+  },
+  {
+    "id": "L12_C7_0112",
+    "stem": "Nhiệt độ phân huỷ thành oxide của các muối carbonate của kim loại nhóm IIA giảm dần theo dãy",
+    "options": {
+      "A": "MgCO₃, CaCO₃, SrCO₃, BaCO₃.",
+      "B": "BaCO₃, SrCO₃, CaCO₃, MgCO₃.",
+      "C": "BaCO₃, CaCO₃, SrCO₃, MgCO₃.",
+      "D": "MgCO₃, BaCO₃, SrCO₃, CaCO₃."
+    },
+    "answer": "B"
+  },
+  {
+    "id": "L12_C7_0113",
+    "stem": "(SBT – CTST) Cho dung dịch Ca(OH)₂ vào dung dịch Ca(HCO₃)₂ sẽ",
+    "options": {
+      "A": "có kết tủa trắng.",
+      "B": "có bọt khí thoát ra.",
+      "C": "có kết tủa trắng và bọt khí.",
+      "D": "không có hiện tượng gì."
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L12_C7_0114",
+    "stem": "",
+    "options": {
+      "A": "Mg(NO₃)₂",
+      "B": "CaCO₃.",
+      "C": "Na₂CO₃.",
+      "D": "Mg(OH)₂."
+    },
+    "answer": "C"
+  },
+  {
+    "id": "L12_C7_0115",
+    "stem": "(SBT – CTST) Trường hợp nào không xảy ra phản ứng đối với dung dịch Ca(HCO₃)₂ khi",
+    "options": {
+      "A": "đun nóng.",
+      "B": "trộn với dung dịch Ca(OH)₂.",
+      "C": "trộn với dung dịch HCl.",
+      "D": "cho NaCl vào."
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L12_C7_0116",
+    "stem": "(SBT – CTST) Hợp chất của calcium nào sau đây không gặp trong tự nhiên?",
+    "options": {
+      "A": "CaCO₃.",
+      "B": "CaSO₄.",
+      "C": "Ca(HCO₃)₂.",
+      "D": "CaO."
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L12_C7_0117",
+    "stem": "(SBT – KNTT) Phản ứng nào sau đây được gọi là phản ứng tôi vôi?",
+    "options": {
+      "A": "CaCO₃ <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAE0AAAAgCAAAAAByCKroAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnK6Y84U4AAAEqSURBVEjHY/zPQEXARE3DiDZtT2CW5x7Cyv4TBV7zP/1/k+8VIWVEum23lBSDmvheKvn0JR8DA4PgS8pNW1nDwMAg8ZGBgeG9BMWm/W9jYGBgcHn+hOHOS2eCVhMI1xuuDPzyxf//7/LP8d5NMLIIxuljhmriop2EOCUSjJpGI9OYGP5R0TQRtr0PLhNS9AbGIJiGOnglEgko+Sd/m8jUSxTI1fxIRdNei3j+oZ5p/xcx5FPRtP/BDJP////PwsDwPhczkrwjUbglLxDspVC6BkUFP0O+ZDADw///T5gxQRmqzeoIGdzJxPP/f0Zy69N///8hg6WV6icEGMg2DRU81WE+oUJM6iUK+LAeoF6crmeY+596pumWQmiqlEj/gjogDCrFAhRQt7QEANWTdyq5RaZ+AAAAAElFTkSuQmCC\" style=\"height:22px\" alt=\"\"> CaO + CO₂.",
+      "B": "2Ca + O₂ <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnKUgygGIAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> 2CaO.",
+      "C": "Ca + 2H₂O <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnKUgygGIAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> Ca(OH)₂ + H₂.",
+      "D": "CaO + H₂O <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnKUgygGIAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> Ca(OH)₂."
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L12_C7_0118",
+    "stem": "Phản ứng nào sau đây được gọi là phản ứng nung vôi?",
+    "options": {
+      "A": "CaCO₃ <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAE0AAAAgCAAAAAByCKroAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnK6Y84U4AAAEqSURBVEjHY/zPQEXARE3DiDZtT2CW5x7Cyv4TBV7zP/1/k+8VIWVEum23lBSDmvheKvn0JR8DA4PgS8pNW1nDwMAg8ZGBgeG9BMWm/W9jYGBgcHn+hOHOS2eCVhMI1xuuDPzyxf//7/LP8d5NMLIIxuljhmriop2EOCUSjJpGI9OYGP5R0TQRtr0PLhNS9AbGIJiGOnglEgko+Sd/m8jUSxTI1fxIRdNei3j+oZ5p/xcx5FPRtP/BDJP////PwsDwPhczkrwjUbglLxDspVC6BkUFP0O+ZDADw///T5gxQRmqzeoIGdzJxPP/f0Zy69N///8hg6WV6icEGMg2DRU81WE+oUJM6iUK+LAeoF6crmeY+596pumWQmiqlEj/gjogDCrFAhRQt7QEANWTdyq5RaZ+AAAAAElFTkSuQmCC\" style=\"height:22px\" alt=\"\"> CaO + CO₂.",
+      "B": "2Ca + O₂ <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnKUgygGIAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> 2CaO.",
+      "C": "Ca + 2H₂O <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnKUgygGIAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> Ca(OH)₂ + H₂.",
+      "D": "CaO + H₂O <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnKUgygGIAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> Ca(OH)₂."
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L12_C7_0119",
+    "stem": "(SBT – KNTT) Hiện tượng “nước chảy đá mòn” và hiện tượng “xâm thực” của nước mưa vào các phiến đá vôi là do trong nước có hoà tan khí nào sau đây?",
+    "options": {
+      "A": "O₂.",
+      "B": "N₂.",
+      "C": "CO₂.",
+      "D": "CH₄."
+    },
+    "answer": "C"
+  },
+  {
+    "id": "L12_C7_0120",
+    "stem": "(SBT – KNTT) Khi để vôi sống trong không khí ẩm một thời gian sẽ có hiện tượng một phần bị chuyển hoá trở lại thành đá vôi. Khí nào sau đây có trong không khí gây ra hiện tượng trên?",
+    "options": {
+      "A": "Oxygen.",
+      "B": "Methane.",
+      "C": "Nitrogen.",
+      "D": "Carbon dioxide."
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L12_C7_0121",
+    "stem": "(SBT – CTST) Phản ứng giải thích sự hình thành thạch nhũ trong các hang động núi đá vôi là:",
+    "options": {
+      "A": "CaCO₃ + CO₂ + H₂O <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnI6jnaXwAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> Ca(HCO₃)₂.",
+      "B": "CaCO₃ + 2HCl <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnI6jnaXwAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> CaCl₂ + CO₂ + H₂O.",
+      "C": "CaCO₃ <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnI6jnaXwAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> CaO + CO₂.",
+      "D": "Ca(HCO₃)₂ <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFEAAAAnCAAAAABSn/s2AAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnKD81sPQAAAGkSURBVEjH5Za7S8NQFIe/hNTHpLSTk10UFBz0b6ibCD6GgghKN0EsKjiKujgImmxuFRdB8FFFUHRzLC5q3AURpFpECVSh16FNtSmJabyD4plyz+/y5ZzDOfdeRSDZVNlANKDnqbQIXzhlD8mLeJvoBiCTqpI9JFcTQkQOhBBCiN2IcJqH5Gby6/hrifp0+VOTAjSSiFWZMRYOYS0pk6jux0BPSiTSmI6BPgX4q+PEEVYuCnDS/umtGKfGdP8pBrpP4kPXSGZ9GazEGwCTLwBmWxiAR3MMIKwIDGHga2aGZopSjsui0/3n19JnphCsHxctgPl4BwBX2wufUksw4gQAywN9AOwdzlaov3au/z1Rg+f8WRaAi3zKoTYEI96/rtmrcYcaqQ1mExUv3WyGbOj8piZiW32+tKjrdahNx3MAbNUQrQaqNbYJg1shtz3D0ZUaslYBNTUKO/H3AEVzIcpFFvuxhCzIIxaRnVLa3T7N1BStS1KyLp+P6obyE05V1nzT6EFi9LK7cwBeK71mMwBV4+TjRThU3nz59Zq0nY4bVPkDL/sPpbURJM/1G94AAAAASUVORK5CYII=\" style=\"height:22px\" alt=\"\"> CaCO₃ + CO₂ + H₂O."
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L12_C7_0122",
+    "stem": "(OLTN) Vôi sống có tính hút ẩm mạnh nên được sử dụng để làm khô khí trong phòng thí nghiệm. Không sử dụng vôi sống để làm khô khí nào sau đây?",
+    "options": {
+      "A": "O₂.",
+      "B": "H₂.",
+      "C": "CO₂.",
+      "D": "N₂."
+    },
+    "answer": "C"
+  },
+  {
+    "id": "L12_C7_0123",
+    "stem": "(OLTN) Để vôi sống (CaO) lâu ngày trong không khí, vôi sống sẽ cứng lại và giảm chất lượng. Hiện tượng này được giải thích bằng phản ứng nào dưới đây?",
+    "options": {
+      "A": "2CaO <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnIDHuOMYAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> 2Ca + O₂.",
+      "B": "CaO + CO₂ <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnIDHuOMYAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> CaCO₃.",
+      "C": "CaCO₃ + CO₂ + H₂O <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnIDHuOMYAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> Ca(HCO₃)₂.",
+      "D": "CaO + H₂O <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnIDHuOMYAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> Ca(OH)₂."
+    },
+    "answer": "B"
+  },
+  {
+    "id": "L12_C7_0124",
+    "stem": "(OLTN) Trong đời sống, người ta dùng sữa vôi để quét lên tường, tạo lớp rắn, mịn, màu trắng trên bức tường. Hiện tượng này được giải thích bằng phản ứng nào dưới đây?",
+    "options": {
+      "A": "Ca(OH)₂ + CO₂ <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnIDHuOMYAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> CaCO₃ + H₂O.",
+      "B": "CaO + CO₂ <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnIDHuOMYAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> CaCO₃.",
+      "C": "Ca(OH)₂ + 2CO₂ <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnIDHuOMYAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> Ca(HCO₃)₂.",
+      "D": "CaO + H₂O <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnIDHuOMYAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> Ca(OH)₂."
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L12_C7_0125",
+    "stem": "(OLTN) Hang Sơn Đoòng tại tỉnh Quảng Bình, Việt Nam là hang động tự nhiên lớn nhất và có thạch nhũ đẹp nhất thế giới,… Thạch nhũ tăng kích thước với tốc độ 0,13 – 3 mm mỗi năm. Thạch nhũ trong hang động được tạo thành bởi phản ứng nào sau đây?",
+    "options": {
+      "A": "Ca(HCO₃)₂ <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFEAAAAnCAAAAABSn/s2AAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnI6jnaXwAAAGkSURBVEjH5Za7S8NQFIe/hNTHpLSTk10UFBz0b6ibCD6GgghKN0EsKjiKujgImmxuFRdB8FFFUHRzLC5q3AURpFpECVSh16FNtSmJabyD4plyz+/y5ZzDOfdeRSDZVNlANKDnqbQIXzhlD8mLeJvoBiCTqpI9JFcTQkQOhBBCiN2IcJqH5Gby6/hrifp0+VOTAjSSiFWZMRYOYS0pk6jux0BPSiTSmI6BPgX4q+PEEVYuCnDS/umtGKfGdP8pBrpP4kPXSGZ9GazEGwCTLwBmWxiAR3MMIKwIDGHga2aGZopSjsui0/3n19JnphCsHxctgPl4BwBX2wufUksw4gQAywN9AOwdzlaov3au/z1Rg+f8WRaAi3zKoTYEI96/rtmrcYcaqQ1mExUv3WyGbOj8piZiW32+tKjrdahNx3MAbNUQrQaqNbYJg1shtz3D0ZUaslYBNTUKO/H3AEVzIcpFFvuxhCzIIxaRnVLa3T7N1BStS1KyLp+P6obyE05V1nzT6EFi9LK7cwBeK71mMwBV4+TjRThU3nz59Zq0nY4bVPkDL/sPpbURJM/1G94AAAAASUVORK5CYII=\" style=\"height:22px\" alt=\"\"> CaCO₃ + CO₂ + H₂O.",
+      "B": "Ca(OH)₂ + CO₂ <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnIDHuOMYAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> CaCO₃ + H₂O.",
+      "C": "CaCO₃ + CO₂ + H₂O <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFEAAAAnCAAAAABSn/s2AAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnI6jnaXwAAAGkSURBVEjH5Za7S8NQFIe/hNTHpLSTk10UFBz0b6ibCD6GgghKN0EsKjiKujgImmxuFRdB8FFFUHRzLC5q3AURpFpECVSh16FNtSmJabyD4plyz+/y5ZzDOfdeRSDZVNlANKDnqbQIXzhlD8mLeJvoBiCTqpI9JFcTQkQOhBBCiN2IcJqH5Gby6/hrifp0+VOTAjSSiFWZMRYOYS0pk6jux0BPSiTSmI6BPgX4q+PEEVYuCnDS/umtGKfGdP8pBrpP4kPXSGZ9GazEGwCTLwBmWxiAR3MMIKwIDGHga2aGZopSjsui0/3n19JnphCsHxctgPl4BwBX2wufUksw4gQAywN9AOwdzlaov3au/z1Rg+f8WRaAi3zKoTYEI96/rtmrcYcaqQ1mExUv3WyGbOj8piZiW32+tKjrdahNx3MAbNUQrQaqNbYJg1shtz3D0ZUaslYBNTUKO/H3AEVzIcpFFvuxhCzIIxaRnVLa3T7N1BStS1KyLp+P6obyE05V1nzT6EFi9LK7cwBeK71mMwBV4+TjRThU3nz59Zq0nY4bVPkDL/sPpbURJM/1G94AAAAASUVORK5CYII=\" style=\"height:22px\" alt=\"\"> Ca(HCO₃)₂.",
+      "D": "CaCl₂ + Na₂CO₃ <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAATCAAAAAAfJLTVAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAnIDHuOMYAAADVSURBVDjLY/zPQD3AREWzqGHY3VI48z/F4BPfFCiLCob9b2LZA2EwUiECfuq9PqFGJW/+/3+YSfUNtbz5/38Fg82P////szAwXCrD5vb5kqj8sksMDAw70VXFQKjPDEeiVjEzMPz/vx9rQNxGs9yeQMBJvvj/n/E/w9/v2CS5GVH53/8icf79+/fv/79//1hYIYwNeZyHTKgUAa/EGFdTLQLCGFr/U8uwbQyxEAYVEu0/PYG97AwMDAwMLBSbxXDp236IWQxUcNn/L7wMVDMMAahaOAIAx3NF5b/vA4wAAAAASUVORK5CYII=\" style=\"height:19px\" alt=\"\"> CaCO₃ + 2NaCl."
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L12_C7_0126",
+    "stem": "(SBT – KNTT) Có thể nhận biết dung dịch BaCl₂ bằng dung dịch chất nào sau đây?",
+    "options": {
+      "A": "NaOH.",
+      "B": "Na₂CO₃.",
+      "C": "NaCl.",
+      "D": "NaNO₃."
+    },
+    "answer": "B"
+  },
+  {
+    "id": "L12_C7_0127",
+    "stem": "Có thể phân biệt 3 dung dịch: KOH, HCl, H₂SO₄ (loãng) bằng một thuốc thử là",
+    "options": {
+      "A": "giấy quỳ tím.",
+      "B": "Zn.",
+      "C": "Al.",
+      "D": "BaCO₃."
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L12_C7_0128",
+    "stem": "(Đề TSCĐ - 2010) Thuốc thử dùng để phân biệt 3 dung dịch riêng biệt: NaCl, NaHSO₄, HCl là",
+    "options": {
+      "A": "NH₄Cl.",
+      "B": "(NH₄)₂CO₃.",
+      "C": "BaCO₃.",
+      "D": "BaCl₂."
+    },
+    "answer": "C"
+  },
+  {
+    "id": "L12_C7_0129",
+    "stem": "Cho nước vôi trong lần lượt vào từng dung dịch: HNO₃, Na₂CO₃, Ba(HCO₃)₂, NaHSO₄. Số trường hợp có phản ứng xảy ra là",
+    "options": {
+      "A": "1.",
+      "B": "2.",
+      "C": "3.",
+      "D": "4."
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L12_C7_0130",
+    "stem": "(SBT – KNTT) Ở nơi tồn ứ rác thải, chất nào sau đây được các công nhân vệ sinh môi trường dùng để xử lí tạm thời nhằm sát trùng, diệt khuẩn, phòng chống dịch bệnh?",
+    "options": {
+      "A": "Cát vàng.",
+      "B": "Than đá.",
+      "C": "Đá vôi.",
+      "D": "Vôi bột."
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L12_C7_0131",
+    "stem": "(SBT – KNTT) Khi đun nóng đến 160 °C, thạch cao sống mất một phần nước trở thành thạch cao nung, được dùng để đúc khuôn trong điêu khắc, bó bột trong y học. Thành phần hoá học của thạch cao nung là",
+    "options": {
+      "A": "CaSO₄.0,5H₂O.",
+      "B": "Ca(H₂PO₄)₂.",
+      "C": "CaCO₃.",
+      "D": "Ca(OH)₂."
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L12_C7_0132",
+    "stem": "Trong tự nhiên, calcium sulfate tồn tại dưới dạng muối ngậm nước (CaSO₄.2H₂O) được gọi là",
+    "options": {
+      "A": "vôi sống.",
+      "B": "thạch cao sống.",
+      "C": "vôi tôi.",
+      "D": "đá vôi."
+    },
+    "answer": "B"
+  },
+  {
+    "id": "L12_C7_0133",
+    "stem": "(SBT – KNTT) Hợp chất nào của calcium là thành phần hoá học chính của quặng apatite và phosphorite, được dùng trong công nghiệp sản xuất phân bón superphosphate?",
+    "options": {
+      "A": "CaCO₃.",
+      "B": "Ca₃(PO₄)₂.",
+      "C": "Ca₃P₂.",
+      "D": "Ca(OH)₂."
+    },
+    "answer": "B"
+  },
+  {
+    "id": "L12_C7_0134",
+    "stem": "(SBT – KNTT) Trong nông nghiệp, trộn urea hoặc phân đạm ammonium với chất nào sau đây thì sẽ làm giảm đáng kể tác dụng của phân đạm?",
+    "options": {
+      "A": "ΚΝΟ3.",
+      "B": "Ca(H₂PO₄)₂.",
+      "C": "Ca(OH)₂.",
+      "D": "KCl."
+    },
+    "answer": "C"
+  },
+  {
+    "id": "L12_C7_0135",
+    "stem": "(SBT – KNTT) Các hợp chất dễ tan của kim loại kiềm, kiềm thổ là thành phần cung cấp dinh dưỡng của nhiều loại phân bón hoá học phổ biến. Hợp chất nào sau đây dễ tan, là thành phần dinh dưỡng chính trong phân bón superphosphate?",
+    "options": {
+      "A": "KCl.",
+      "B": "CaSO₄.2H₂O.",
+      "C": "NaNO₃.",
+      "D": "Ca(H₂PO₄)₂."
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L12_C7_0136",
+    "stem": "(SBT – CTST) Hợp chất Y của calcium là thành phần chính của vỏ các loại ốc, sò,… Ngoài ra Y được sử dụng rộng rãi trong sản xuất vôi, xi măng, thuỷ tinh, chất phụ gia trong công nghiệp thực phẩm. Hợp chất Y là",
+    "options": {
+      "A": "CaO.",
+      "B": "CaCO₃.",
+      "C": "Ca(OH)₂.",
+      "D": "Ca₃(PO₄)₂."
+    },
+    "answer": "B"
+  },
+  {
+    "id": "L12_C7_0137",
+    "stem": "(SBT – CTST) Nước thải công nghiệp thường chứa các ion kim loại nặng như Hg²⁺, Pb²⁺, Fe³⁺. Để xử lí sơ bộ và làm giảm nồng độ các ion kim loại nặng với chi phí thấp, người ta sử dụng dung dịch chất nào sau đây?",
+    "options": {
+      "A": "HCl.",
+      "B": "NaCl.",
+      "C": "Ca(OH)₂.",
+      "D": "K₂SO₄."
+    },
+    "answer": "C"
+  },
+  {
+    "id": "L12_C7_0138",
+    "stem": "(SBT – KNTT) Các dung dịch muối ăn, phèn chua, nước vôi trong được kí hiệu ngẫu nhiên là X, Y, Z. Một số kết quả thí nghiệm được ghi ở bảng dưới đây.Các dung dịch ban đầu tương ứng với các kí hiệu là",
+    "options": {
+      "A": "Y, Z, X.",
+      "B": "Z, X, Y.",
+      "C": "X, Y, Z.",
+      "D": "Y, X, Z."
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L12_C7_0139",
+    "stem": "Phát biểu nào sau đây sai?",
+    "options": {
+      "A": "Các hydroxide của kim loại nhóm IIA đều dễ tan trong nước.",
+      "B": "Đung sôi dung dịch CaCl₂ và NaHCO₃ có xuất hiện kết tuả.",
+      "C": "Điện phân dung dịch NaCl (điện cực graphite) có bọt khí ở cả hai điện cực.",
+      "D": "Sodium là kim loại phổ biến nhất trong nước biển."
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L12_C7_0140",
+    "stem": "(OLTN) Nước cứng là nước chứa nhiều ion",
+    "options": {
+      "A": "Ca²⁺, Mg²⁺.",
+      "B": "Mg²⁺, Na⁺.",
+      "C": "Ca²⁺, Ba²⁺.",
+      "D": "Ca²⁺, K⁺."
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L12_C7_0141",
+    "stem": "(SBT – KNTT) Nước cứng gây nhiều tác hại trong đời sống và sản xuất như đóng cặn đường ống dẫn nước, làm cho xà phòng có ít bọt khi giặt quần áo, làm giảm mùi vị thực phẩm khi nấu ăn. Nước cứng là nước có chứa nhiều các ion",
+    "options": {
+      "A": "Mg²⁺ và Ca²⁺.",
+      "B": "Na⁺ và K⁺.",
+      "C": "F⁻ và Cl⁻.",
+      "D": "SO₄²⁻ và CO₃²⁻."
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L12_C7_0142",
+    "stem": "(OLTN) Loại nước gặp nhiều trong tự nhiên (nước ngầm, nước mặt) là",
+    "options": {
+      "A": "nước mềm.",
+      "B": "nước cứng vĩnh cửu.",
+      "C": "nước cứng tạm thời.",
+      "D": "nước cứng toàn phần."
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L12_C7_0143",
+    "stem": "(OLTN) Một mẫu nước tự nhiên có chứa lượng lớn các ion: Ca²⁺, Mg²⁺, HCO₃⁻, Cl⁻. Mẫu nước trên thuộc loại",
+    "options": {
+      "A": "nước có tính cứng toàn phần.",
+      "B": "nước có tính cứng vĩnh cửu.",
+      "C": "nước có tính cứng tạm thời.",
+      "D": "nước mềm."
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L12_C7_0144",
+    "stem": "(OLTN) Một mẫu nước sinh hoạt chứa một lượng nhiều các ion: Ca²⁺, Mg²⁺, Cl⁻, SO₄²⁻. Nước trong cốc trên thuộc loại gì?",
+    "options": {
+      "A": "Nước mềm.",
+      "B": "Nước có tính cứng vĩnh cửu.",
+      "C": "Nước có tính cứng tạm thời.",
+      "D": "Nước có tính cứng toàn phần."
+    },
+    "answer": "B"
+  },
+  {
+    "id": "L12_C7_0145",
+    "stem": "Một mẫu nước cứng khi đun nóng thấy xuất hiện kết tủa. Mẫu nước đó thuộc loại nước cứng",
+    "options": {
+      "A": "tạm thời.",
+      "B": "vĩnh cửu.",
+      "C": "toàn phần.",
+      "D": "tạm thời hoặc toàn phần."
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L12_C7_0146",
+    "stem": "(OLTN) Nước cứng tạm thời có chứa nhiều ion Ca²⁺, Mg²⁺ và",
+    "options": {
+      "A": "SO₄²⁻.",
+      "B": "NO₃⁻.",
+      "C": "Cl⁻.",
+      "D": "HCO₃⁻."
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L12_C7_0147",
+    "stem": "(OLTN) Một loại nước cứng khi đun sôi thì chỉ giảm bớt một phần tính cứng. Trong loại nước này có hoà tan những hợp chất nào sau đây?",
+    "options": {
+      "A": "MgCl₂ và CaCl₂.",
+      "B": "Ca(HCO₃)₂ và Mg(HCO₃)₂.",
+      "C": "CaSO₄ và MgCl₂.",
+      "D": "Ca(HCO₃)₂ và MgSO₄."
+    },
+    "answer": "B"
+  },
+  {
+    "id": "L12_C7_0148",
+    "stem": "(SBT – KNTT) Nhận định nào sau đây về nước cứng tạm thời không đúng?",
+    "options": {
+      "A": "Chứa nhiều ion Mg²⁺, Ca²⁺.",
+      "B": "Chứa nhiều ion HCO₃⁻.",
+      "C": "Chứa nhiều ion Cl⁻, SO₄²⁻.",
+      "D": "Đun sôi trở thành nước mềm."
+    },
+    "answer": "C"
+  },
+  {
+    "id": "L12_C7_0149",
+    "stem": "Một cốc nước chứa nhiều các ion sau: Ca²⁺, Mg²⁺, Cl⁻, SO₄²⁻. Nước trong cốc trên thuộc loại",
+    "options": {
+      "A": "có tính cứng vĩnh cửu.",
+      "B": "không có tính cứng.",
+      "C": "có tính cứng tạm thời.",
+      "D": "có tính cứng toàn phần."
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L12_C7_0150",
+    "stem": "(SBT – KNTT) Nước chứa nhiều các ion nào sau đây có tính cứng toàn phần?",
+    "options": {
+      "A": "Mg²⁺, Ca²⁺, HCO₃⁻, SO₄²⁻.",
+      "B": "Na⁺, K⁺, SO₄²⁻, Сl–.",
+      "C": "Mg²⁺, Ca²⁺, HCO₃⁻.",
+      "D": "Mg²⁺, Ca²⁺, SO₄²⁻, Cl⁻."
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L12_C7_0151",
+    "stem": "(SBT – KNTT) Một loại nước cứng khi đun sôi thì trở thành nước mềm. Trong loại nước này có hoà tan những hợp chất nào sau đây?",
+    "options": {
+      "A": "Ca(HCO₃)₂ và Mg(HCO₃)₂.",
+      "B": "Ca(HCO₃)₂ và MgSO₄.",
+      "C": "CaSO₄ và MgCl₂.",
+      "D": "MgCl₂ và CaCl₂."
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L12_C7_0152",
+    "stem": "(SBT – CTST) Trong các mẫu nước cứng sau đây, nước cứng tạm thời là",
+    "options": {
+      "A": "dung dịch Ca(HCO₃)₂.",
+      "B": "dung dịch MgSO₄.",
+      "C": "dung dịch CaCl₂.",
+      "D": "dung dịch Mg(NO₃)₂."
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L12_C7_0153",
+    "stem": "(OLTN) Nhận định nào sau đây không đúng?",
+    "options": {
+      "A": "Nước chứa ít hoặc không có các ion Ca²⁺, Mg²⁺ gọi là nước mềm.",
+      "B": "Nước cứng có chứa anion HCO₃⁻ là nước cứng tạm thời, còn chứa anion Cl⁻ hoặc SO₄²⁻ hoặc cả hai là nước cứng vĩnh cửu.",
+      "C": "Nước có nhiều Ca²⁺ và Mg²⁺ gọi là nước cứng vĩnh cửu.",
+      "D": "Nước tự nhiên (nước mưa, tuyết, băng tan,...) thuộc loại nước mềm."
+    },
+    "answer": "C"
+  },
+  {
+    "id": "L12_C7_0154",
+    "stem": "(OLTN) Bình thuỷ dùng để đun nước lâu ngày bị đóng cặn, có thể dùng dung dịch nào sau đây để hoà tan lớp cặn?",
+    "options": {
+      "A": "Nước vôi.",
+      "B": "Rượu uống.",
+      "C": "Giấm ăn.",
+      "D": "Muối ăn."
+    },
+    "answer": "C"
+  },
+  {
+    "id": "L12_C7_0155",
+    "stem": "(OLTN) Để tẩy lớp cặn bám dưới đáy dụng cụ đun, đựng nước nóng trong gia đình, người ta có thể sử dụng dung dịch nào sau đây?",
+    "options": {
+      "A": "Ethyl alcohol.",
+      "B": "Muối ăn.",
+      "C": "Giấm ăn.",
+      "D": "Đường kính."
+    },
+    "answer": "C"
+  },
+  {
+    "id": "L12_C7_0156",
+    "stem": "(SBT – KNTT) Khi đun nóng nước tự nhiên, muối nào sau đây bị phân huỷ tạo thành cặn đá vôi trong phích nước, ấm đun nước?",
+    "options": {
+      "A": "Ca₃(PO₄)₂.",
+      "B": "CaCl₂.",
+      "C": "CaSO₄.",
+      "D": "Ca(HCO₃)₂."
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L12_C7_0157",
+    "stem": "(OLTN) Đặc điểm nào dưới đây không phải của nước cứng?",
+    "options": {
+      "A": "Làm tăng tính acid của nước, gây ngộ độc nước uống.",
+      "B": "Làm giảm tác dụng của xà phòng.",
+      "C": "Làm tắc các đường ống dẫn nước nóng trong sản xuất và trong đời sống.",
+      "D": "Nấu đồ ăn bằng nước cứng sẽ giảm mùi vị thực phẩm."
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L12_C7_0158",
+    "stem": "(SBT – KNTT) Cho các nhận định sau về tác hại của nước cứng:(1) làm giảm bọt khi giặt quần áo bằng xà phòng;(2) làm đường ống dẫn nước đóng cặn, giảm lưu lượng nước;(3) làm thức ăn lâu chín và giảm mùi vị;(4) làm nồi hơi phủ cặn, gây tốn nhiên liệu và có nguy cơ gây nổ.Số nhận định đúng là",
+    "options": {
+      "A": "2.",
+      "B": "1.",
+      "C": "3.",
+      "D": "4."
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L12_C7_0159",
+    "stem": "(HTHH) Nguyên tắc làm mềm nước cứng là làm giảm nồng độ của các ion nào sau đây?",
+    "options": {
+      "A": "Sulfate và chloride.",
+      "B": "Nitrate và hydrogencarbonate.",
+      "C": "Magnesium và calcium.",
+      "D": "Sodium và potasium."
+    },
+    "answer": "C"
+  },
+  {
+    "id": "L12_C7_0160",
+    "stem": "(SBT – CTST) Nguyên tắc làm mềm nước là làm giảm nồng độ của",
+    "options": {
+      "A": "ion Ca²⁺, Mg²⁺.",
+      "B": "ion HCO₃⁻.",
+      "C": "ion Cl⁻, SO₄²⁻.",
+      "D": "ion Ca²⁺."
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L12_C7_0161",
+    "stem": "(OLTN) Chất nào sau đây không dùng để làm mềm nước cứng tạm thời?",
+    "options": {
+      "A": "Na₃PO₄.",
+      "B": "Ca(OH)₂.",
+      "C": "Na₂CO₃.",
+      "D": "CH₃COOH."
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L12_C7_0162",
+    "stem": "(OLTN) Chất nào sau đây có thể làm mềm nước cứng vĩnh cửu là",
+    "options": {
+      "A": "Ca(OH)₂.",
+      "B": "NaCl.",
+      "C": "Na₃PO₄.",
+      "D": "HCl."
+    },
+    "answer": "C"
+  },
+  {
+    "id": "L12_C7_0163",
+    "stem": "(OLTN) Cách nào sau đây không sử dụng để làm mềm nước có tính cứng vĩnh cửu?",
+    "options": {
+      "A": "Dùng dung dịch Na₂CO₃.",
+      "B": "Đun sôi nước.",
+      "C": "Dùng dung dịch Na₃PO₄.",
+      "D": "Dùng phương pháp trao đổi ion."
+    },
+    "answer": "B"
+  },
+  {
+    "id": "L12_C7_0164",
+    "stem": "(OLTN) Chất làm mềm nước có tính cứng toàn phần là",
+    "options": {
+      "A": "CaSO₄.",
+      "B": "NaCl.",
+      "C": "Na₂CO₃.",
+      "D": "CaCO₃."
+    },
+    "answer": "C"
+  },
+  {
+    "id": "L12_C7_0165",
+    "stem": "(SBT – CTST) Hai chất nào sau đây được dùng để làm mềm nước có tính cứng vĩnh cửu?",
+    "options": {
+      "A": "NaCl và Ca(OH)₂.",
+      "B": "Na₂CO₃ và Na₃PO₄.",
+      "C": "Na₂CO₃ và Ca(OH)₂.",
+      "D": "Na₂CO₃ và HCl."
+    },
+    "answer": "B"
+  },
+  {
+    "id": "L12_C7_0166",
+    "stem": "(SBT – KNTT) Phân tích một mẫu nước tự nhiên thấy chứa nhiều các ion: Na⁺, Ca²⁺, HCO₃⁻, Cl⁻ và SO₄²⁻. Chất nào sau đây có thể làm mềm mẫu nước trên?",
+    "options": {
+      "A": "Na₂CO₃.",
+      "B": "Ca(OH)₂.",
+      "C": "NaOH.",
+      "D": "HCl."
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L12_C7_0167",
+    "stem": "(SBT – CTST) Trong cốc nước chứa 0,01 mol Na⁺; 0,02 mol Ca²⁺, 0,01 mol Mg²⁺; 0,05 mol HCO₃⁻ và 0,02 mol Cl⁻. Đun sôi cốc nước hồi lâu, nước thu được là",
+    "options": {
+      "A": "nước cứng tạm thời.",
+      "B": "nước cứng vĩnh cửu.",
+      "C": "nước mềm.",
+      "D": "nước cứng toàn phần."
+    },
+    "answer": "B"
+  },
+  {
+    "id": "L12_C7_0168",
+    "stem": "(SBT – CD) Đặc điểm nào sau đây là điểm chung của nước có tính cứng vĩnh cửu và nước có tính cứng toàn phần?",
+    "options": {
+      "A": "Đều có thể làm mềm bằng Na₃PO₄.",
+      "B": "Đều không chứa anion HCO₃⁻.",
+      "C": "Đều bị mất một phần tính cứng khi đun sôi nước.",
+      "D": "Thành phần anion giống nhau."
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L12_C7_0169",
+    "stem": "(OLTN) Cho các phương pháp sau: (1) dùng nhiệt, (2) dùng dung dịch K₂CO₃, (3) dùng nhựa trao đổi ion, (4) dùng dung dịch Ca(OH)₂. Số phương pháp có khả năng làm mềm nước có tính cứng tạm thời là",
+    "options": {
+      "A": "1.",
+      "B": "2.",
+      "C": "3.",
+      "D": "4."
+    },
+    "answer": "D"
+  }
 ]

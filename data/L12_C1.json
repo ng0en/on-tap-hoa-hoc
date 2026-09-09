@@ -1,1344 +1,1344 @@
 [
- {
-  "id": "L12_C1_0001",
-  "stem": "Chất không phải là ester là",
-  "options": {
-   "A": "HCOOC2H5.",
-   "B": "C2H5CHO.",
-   "C": "CH3COOCH=CH2.",
-   "D": "CH3-OOC-CH2-CH2-COO-C2H5."
-  },
-  "answer": "B"
- },
- {
-  "id": "L12_C1_0002",
-  "stem": "(SBT – CD) Cho các chất có công thức sau: HCHO, C2H2, CH3COOH, CH3COOCH=CH2, HCOOCH3, HCOOH. Trong các chất trên, có bao nhiêu chất thuộc loại ester?",
-  "options": {
-   "A": "2.",
-   "B": "3.",
-   "C": "4.",
-   "D": "5."
-  },
-  "answer": "A"
- },
- {
-  "id": "L12_C1_0003",
-  "stem": "(SBT – CD) Một hợp chất hữu cơ X đơn chức có công thức phân tử là C3H6O2. X không tác dụng với kim loại Na nhưng tác dụng được với dung dịch NaOH khi đun nóng. Chất X thuộc dãy đồng đẳng của loại hợp chất nào sau đây?",
-  "options": {
-   "A": "Alcohol.",
-   "B": "Ester.",
-   "C": "Aldehyde.",
-   "D": "Carboxylic acid."
-  },
-  "answer": "D"
- },
- {
-  "id": "L12_C1_0004",
-  "stem": "CTPT của ester X mạch hở là C4H6O4. X thuộc loại ester",
-  "options": {
-   "A": "no, hai chức.",
-   "B": "không no, có hai nối đôi C=C, hai chức.",
-   "C": "no, đơn chức.",
-   "D": "không no, có một nối đôi, đơn chức."
-  },
-  "answer": "A"
- },
- {
-  "id": "L12_C1_0005",
-  "stem": "(SGK – Cánh Diều) Hợp chất nào dưới đây thuộc loại ester?",
-  "options": {
-   "A": "HOCH2CH2CHƠ.",
-   "B": "CH3CH2CH2COOH.",
-   "C": "HOCH2COCH3.",
-   "D": "CH3CH2COOCH3."
-  },
-  "answer": "D"
- },
- {
-  "id": "L12_C1_0006",
-  "stem": "Ester no, đơn chức, mạch hở có công thức tổng quát là",
-  "options": {
-   "A": "CnH2nO2 (n ≥ 2).",
-   "B": "CnH2n-2O2 (n ≥ 2).",
-   "C": "CnH2n+2O2 (n ≥ 2).",
-   "D": "CnH2nO (n ≥ 2)."
-  },
-  "answer": "A"
- },
- {
-  "id": "L12_C1_0007",
-  "stem": "Công thức phân tử tổng quát của ester tạo bởi alcohol no, đơn chức và carboxylic acid không no, có một liên kết đôi C=C, đơn chức là:",
-  "options": {
-   "A": "CnH2nO2 (n ≥ 2).",
-   "B": "CnH2n+2O2 (n ≥ 3).",
-   "C": "CnH2n-2O2 (n ≥ 4).",
-   "D": "CnH2nO2 (n ≥ 4)."
-  },
-  "answer": "C"
- },
- {
-  "id": "L12_C1_0008",
-  "stem": "(SBT – CTST) Ester nào sau đây là đồng phân với methacrylic acid?",
-  "options": {
-   "A": "Methyl acrylate.",
-   "B": "Ethyl acrylate.",
-   "C": "Vinyl formate.",
-   "D": "Ethyl acetate."
-  },
-  "answer": "A"
- },
- {
-  "id": "L12_C1_0009",
-  "stem": "Benzyl acetate là ester có mùi thơm của hoa nhài. Công thức của benzyl acetate là",
-  "options": {
-   "A": "C2H5COOC6H5.",
-   "B": "CH3COOC6H5.",
-   "C": "C6H5COOCH3.",
-   "D": "CH3COOCH2C6H5."
-  },
-  "answer": "D"
- },
- {
-  "id": "L12_C1_0010",
-  "stem": "(Đề TN THPT QG - 2020) Tên gọi của ester CH3COOCH3 là",
-  "options": {
-   "A": "ethyl acetate.",
-   "B": "methyl propionate.",
-   "C": "methyl acetate.",
-   "D": "ethyl formate."
-  },
-  "answer": "C"
- },
- {
-  "id": "L12_C1_0011",
-  "stem": "Cho ester có công thức cấu tạo: CH2=C(CH3)COOCH3. Tên gọi của ester là",
-  "options": {
-   "A": "methyl acrylate.",
-   "B": "methyl methacrylate.",
-   "C": "methyl metacrylic.",
-   "D": "methyl acrylic."
-  },
-  "answer": "B"
- },
- {
-  "id": "L12_C1_0012",
-  "stem": "(Đề TN THPT QG - 2020) Tên gọi của ester HCOOCH3 là",
-  "options": {
-   "A": "methyl acetate.",
-   "B": "methyl formate.",
-   "C": "ethyl formate.",
-   "D": "ethyl acetate."
-  },
-  "answer": "B"
- },
- {
-  "id": "L12_C1_0013",
-  "stem": "(Đề MH lần I - 2017) Ethyl acetate có công thức hóa học là",
-  "options": {
-   "A": "CH3COOCH3.",
-   "B": "CH3COOC2H5.",
-   "C": "HCOOCH3.",
-   "D": "HCOOC2H5."
-  },
-  "answer": "B"
- },
- {
-  "id": "L12_C1_0014",
-  "stem": "Ethyl propionate là ester có mùi thơm của dứa. Công thức của ethyl propionate là",
-  "options": {
-   "A": "HCOOC2H5.",
-   "B": "C2H5COOC2H5.",
-   "C": "C2H5COOCH3.",
-   "D": "CH3COOCH3."
-  },
-  "answer": "B"
- },
- {
-  "id": "L12_C1_0015",
-  "stem": "Ester methyl acrylate có công thức là",
-  "options": {
-   "A": "CH3COOCH3.",
-   "B": "CH3COOCH=CH2.",
-   "C": "CH2=CHCOOCH3.",
-   "D": "HCOOCH3."
-  },
-  "answer": "C"
- },
- {
-  "id": "L12_C1_0016",
-  "stem": "(Đề MH – 2022) Số nguyên tử hydrogen trong phân tử methyl formate là",
-  "options": {
-   "A": "6.",
-   "B": "8.",
-   "C": "4.",
-   "D": "2."
-  },
-  "answer": "C"
- },
- {
-  "id": "L12_C1_0017",
-  "stem": "(Đề TN THPT QG – 2023) Công thức của methyl acetate là",
-  "options": {
-   "A": "CH3COOC2H5.",
-   "B": "HCOOC2H5.",
-   "C": "CH3COOCH3.",
-   "D": "HCOOCH3."
-  },
-  "answer": "C"
- },
- {
-  "id": "L12_C1_0018",
-  "stem": "(Đề TN THPT QG – 2023) Công thức của ethyl formate là",
-  "options": {
-   "A": "HCOOC2H5.",
-   "B": "CH3COOC2H5.",
-   "C": "HCOOCH3.",
-   "D": "CH3COOCH3."
-  },
-  "answer": "A"
- },
- {
-  "id": "L12_C1_0019",
-  "stem": "(Đề MH - 2024) Phân tử khối của ethyl acetate là",
-  "options": {
-   "A": "86.",
-   "B": "60.",
-   "C": "74.",
-   "D": "88."
-  },
-  "answer": "D"
- },
- {
-  "id": "L12_C1_0020",
-  "stem": "(SBT – CD) Ester X mạch hở có công thức phân tử C3H4O2. Tên gọi của X là",
-  "options": {
-   "A": "vinyl acetate.",
-   "B": "methyl acetate.",
-   "C": "methyl formate.",
-   "D": "vinyl formate."
-  },
-  "answer": "D"
- },
- {
-  "id": "L12_C1_0021",
-  "stem": "So với các acid, alcohol có cùng số nguyên tử carbon thì ester có nhiệt độ sôi",
-  "options": {
-   "A": "thấp hơn do khối lượng phân tử của ester nhỏ hơn nhiều.",
-   "B": "thấp hơn do giữa các phân tử ester không tồn tại liên kết hydrogen.",
-   "C": "cao hơn do giữa các phân tử ester có liên kết hydrogen bền vững.",
-   "D": "cao hơn do khối lượng phân tử của ester lớn hơn nhiều."
-  },
-  "answer": "B"
- },
- {
-  "id": "L12_C1_0022",
-  "stem": "(Đề TSCĐ - 2014) Trong số các chất dưới đây, chất có nhiệt độ sôi cao nhất là",
-  "options": {
-   "A": "C2H5OH.",
-   "B": "HCOOCH3.",
-   "C": "CH3COOH.",
-   "D": "CH3CHO."
-  },
-  "answer": "C"
- },
- {
-  "id": "L12_C1_0023",
-  "stem": "Cho các chất sau: CH3OH (1); CH3COOH (2); HCOOC2H5 (3). Thứ tự nhiệt độ sôi giảm dần là",
-  "options": {
-   "A": "(1); (2); (3).",
-   "B": "(3); (1); (2).",
-   "C": "(2); (3); (1).",
-   "D": "(2); (1); (3)."
-  },
-  "answer": "D"
- },
- {
-  "id": "L12_C1_0024",
-  "stem": "Dãy các chất nào sau đây được sắp xếp theo chiều nhiệt độ sôi tăng dần?",
-  "options": {
-   "A": "CH3COOC2H5, CH3CH2CH2OH, CH3COOH.",
-   "B": "CH3COOH, CH3CH2CH2OH, CH3COOC2H5.",
-   "C": "CH3COOH, CH3COOC2H5, CH3CH2CH2OH.",
-   "D": "CH3CH2CH2OH, CH3COOH, CH3COOC2H5."
-  },
-  "answer": "A"
- },
- {
-  "id": "L12_C1_0025",
-  "stem": "(SBT – CTST) Có 4 ester no, đơn chức, mạch hở được kí hiệu ngẫu nhiên lần lượt là X, Y, Z, T. Phân tử ester của mỗi chất nêu trên đều tạo bởi các carboxylic acid mạch không phân nhánh và ethyl alcohol. Độ tan của 4 ester được cho ở bảng sau:Trong số 4 ester trên, ester có nhiều nguyên tử carbon nhất trong phân tử là",
-  "options": {
-   "A": "Y.",
-   "B": "T.",
-   "C": "X.",
-   "D": "Z."
-  },
-  "answer": "D"
- },
- {
-  "id": "L12_C1_0026",
-  "stem": "(SBT – CTST) Cho 4 chất sau: butan-1-ol (1), butanoic acid (2), ethyl acetate (3) và pentan-2-ol (4). Chất có nhiệt độ sôi thấp nhất trong 4 chất nêu trên là",
-  "options": {
-   "A": "(1).",
-   "B": "(2).",
-   "C": "(3).",
-   "D": "(4)."
-  },
-  "answer": "C"
- },
- {
-  "id": "L12_C1_0027",
-  "stem": "(SBT – CTST) X, Y, Z là 3 chất hữu cơ được kí hiệu ngẫu nhiên trong số các chất HCOOCH3, CH3COOH và CH3CH2CH2OH. Nhiệt độ sôi của X, Y, Z được cho trong bảng sau:Các chất X, Y lần lượt là",
-  "options": {
-   "A": "HCOOCH3 và CH3COOH.",
-   "B": "CH3COOH và HCOOCH3.",
-   "C": "CH3CH2CH2OH và CH3COOH.",
-   "D": "HCOOCH3 và CH3CH2CH2OH."
-  },
-  "answer": "D"
- },
- {
-  "id": "L12_C1_0028",
-  "stem": "(Đề THPT QG - 2019) Ester nào sau đây tác dụng với dung dịch NaOH thu được sodium acetate?",
-  "options": {
-   "A": "CH3COOC2H5.",
-   "B": "C2H5COOCH3.",
-   "C": "HCOOCH3.",
-   "D": "HCOOC2H5."
-  },
-  "answer": "A"
- },
- {
-  "id": "L12_C1_0029",
-  "stem": "(SBT – CD) Trường hợp nào sau đây xảy ra phản ứng với ethyl acetate?",
-  "options": {
-   "A": "Dung dịch NaOH (to).",
-   "B": "C2H5OH.",
-   "C": "Dung dịch [Ag(NH3)2]OH.",
-   "D": "Dung dịch NaCl."
-  },
-  "answer": "A"
- },
- {
-  "id": "L12_C1_0030",
-  "stem": "Ester nào sau đây tác dụng với dung dịch NaOH thu được sodium formate?",
-  "options": {
-   "A": "C2H5COOC2H5.",
-   "B": "CH3COOC2H5.",
-   "C": "CH3COOCH3.",
-   "D": "HCOOCH3."
-  },
-  "answer": "D"
- },
- {
-  "id": "L12_C1_0031",
-  "stem": "(Đề THPT QG - 2019) Ester nào sau đây tác dụng với NaOH thu được ethyl alcohol?",
-  "options": {
-   "A": "CH3COOC2H5.",
-   "B": "CH3COOC3H7.",
-   "C": "C2H5COOCH3.",
-   "D": "HCOOCH3."
-  },
-  "answer": "A"
- },
- {
-  "id": "L12_C1_0032",
-  "stem": "(Đề TSĐH B - 2007) Thuỷ phân ester có công thức phân tử C4H8O2 (với xúc tác acid), thu được 2 sản phẩm X và Y. Từ X có thể điều chế trực tiếp ra Y. Vậy chất X là",
-  "options": {
-   "A": "methyl alcohol.",
-   "B": "ethyl acetate.",
-   "C": "formic acid.",
-   "D": "ethyl alcohol."
-  },
-  "answer": "B"
- },
- {
-  "id": "L12_C1_0033",
-  "stem": "(Đề THPT QG - 2018) Ester nào sau đây có phản ứng tráng bạc?",
-  "options": {
-   "A": "HCOOCH3.",
-   "B": "CH3COOCH3.",
-   "C": "CH3COOC2H5.",
-   "D": "C2H5COOCH3."
-  },
-  "answer": "A"
- },
- {
-  "id": "L12_C1_0034",
-  "stem": "Ester nào sau đây khi phản ứng với dd NaOH dư, đun nóng không tạo ra hai muối?",
-  "options": {
-   "A": "C6H5COOC6H5 (phenyl benzoate).",
-   "B": "CH3COO−[CH2]2−OOCCH2CH3.",
-   "C": "CH3OOC−COOCH3.",
-   "D": "CH3COOC6H5 (phenyl acetate)."
-  },
-  "answer": "C"
- },
- {
-  "id": "L12_C1_0035",
-  "stem": "(Đề TSĐH A - 2007) Một ester có công thức phân tử C4H6O2, khi thuỷ phân trong môi trường acid thu được acetaldehyde. Công thức cấu tạo thu gọn của ester đó là",
-  "options": {
-   "A": "CH2=CHCOOCH3.",
-   "B": "CH3COOCH=CH2.",
-   "C": "HCOOC(CH3)=CH2.",
-   "D": "HCOOCH=CH-CH3."
-  },
-  "answer": "B"
- },
- {
-  "id": "L12_C1_0036",
-  "stem": "(Đề TSĐH A - 2013) Chất nào sau đây khi đun nóng với dung dịch NaOH thu được sản phẩm có aldehyde?",
-  "options": {
-   "A": "CH3–COO–CH2–CH=CH2.",
-   "B": "CH3–COO–C(CH3)=CH2.",
-   "C": "CH2=CH–COO–CH2–CH3.",
-   "D": "CH3–COO–CH=CH–CH3."
-  },
-  "answer": "D"
- },
- {
-  "id": "L12_C1_0037",
-  "stem": "Xà phòng hóa ester nào sau đây thu được cả hai sản phẩm đều có khả năng tham gia phản ứng tráng bạc?",
-  "options": {
-   "A": "Vinyl acetate",
-   "B": "Allyl formate.",
-   "C": "Ethyl acrylate.",
-   "D": "Vinyl formate."
-  },
-  "answer": "B"
- },
- {
-  "id": "L12_C1_0038",
-  "stem": "Thủy phân hoàn toàn ester dimethyl oxalate bằng dung dịch NaOH vừa đủ thu được",
-  "options": {
-   "A": "2 muối và 1 alcohol.",
-   "B": "1 muối và 2 alcohol.",
-   "C": "1 muối và 1 alcohol.",
-   "D": "2 muối và 2 alcohol."
-  },
-  "answer": "C"
- },
- {
-  "id": "L12_C1_0039",
-  "stem": "Thủy phân hoàn toàn ester có công thức CH3COOCH2COOC2H5 trong dung dịch KOH, thu được sản phẩm gồm",
-  "options": {
-   "A": "CH3COOH, HOCH2COOH, C2H5OH.",
-   "B": "CH3COOK, HOCH2COOK, C2H5OH.",
-   "C": "C2H5COOK, HOCH2COOK, CH3OH.",
-   "D": "C2H5COOK, CH3COOK, C2H5OH."
-  },
-  "answer": "B"
- },
- {
-  "id": "L12_C1_0040",
-  "stem": "Đun nóng ester phenyl acetate với lượng dư dung dịch NaOH, thu được các sản phẩm hữu cơ là",
-  "options": {
-   "A": "CH3OH và C6H5ONa.",
-   "B": "CH3COOH và C6H5ONa.",
-   "C": "CH3COOH và C6H5OH.",
-   "D": "CH3COONa và C6H5ONa."
-  },
-  "answer": "D"
- },
- {
-  "id": "L12_C1_0041",
-  "stem": "Thủy phân hoàn toàn hỗn hợp methyl formate và ethyl formate trong dung dịch NaOH, thu được sản phẩm gồm",
-  "options": {
-   "A": "1 muối và 1 alcohol.",
-   "B": "2 muối và 2 alcohol.",
-   "C": "1 muối và 2 alcohol.",
-   "D": "2 muối và 1 alcohol."
-  },
-  "answer": "C"
- },
- {
-  "id": "L12_C1_0042",
-  "stem": "(Đề MH - 2021) Thủy phân hoàn toàn hỗn hợp ethyl propionate và ethyl formate trong dung dịch NaOH, thu được sản phẩm gồm",
-  "options": {
-   "A": "1 muối và 1 alcohol.",
-   "B": "2 muối và 2 alcohol.",
-   "C": "1 muối và 2 alcohol.",
-   "D": "2 muối và 1 alcohol."
-  },
-  "answer": "D"
- },
- {
-  "id": "L12_C1_0043",
-  "stem": "Một số ester được dùng trong hương liệu, mĩ phẩm, bột giặt là nhờ các ester",
-  "options": {
-   "A": "là chất lỏng dễ bay hơi.",
-   "B": "có mùi thơm, an toàn với người.",
-   "C": "có thể bay hơi nhanh sau khi sử dụng.",
-   "D": "đều có nguồn gốc từ thiên nhiên."
-  },
-  "answer": "B"
- },
- {
-  "id": "L12_C1_0044",
-  "stem": "Ester X được tạo bởi methyl alcohol và acetic acid. Công thức của X là",
-  "options": {
-   "A": "HCOOC2H5.",
-   "B": "CH3COOC2H5.",
-   "C": "CH3COOCH3.",
-   "D": "HCOOCH3."
-  },
-  "answer": "C"
- },
- {
-  "id": "L12_C1_0045",
-  "stem": "Sản phẩm của phản ứng ester hóa giữa methyl alcohol và propionic acid là",
-  "options": {
-   "A": "propyl propionate.",
-   "B": "methyl propionate.",
-   "C": "propyl formate.",
-   "D": "methyl acetate."
-  },
-  "answer": "B"
- },
- {
-  "id": "L12_C1_0046",
-  "stem": "Ester X được tạo bởi ethyl alcohol và formic acid. Công thức của X là",
-  "options": {
-   "A": "HCOOCH3.",
-   "B": "CH3COOCH3.",
-   "C": "HCOOC2H5.",
-   "D": "CH3COOC2H5."
-  },
-  "answer": "C"
- },
- {
-  "id": "L12_C1_0047",
-  "stem": "Ester X có công thức phân tử C4H8O2. Thủy phân X trong dung dịch H2SO4 loãng, đun nóng, thu được sản phẩm gồm propionic acid và chất hữu cơ Y. Công thức của Y là",
-  "options": {
-   "A": "CH3OH.",
-   "B": "C2H5OH.",
-   "C": "CH3COOH.",
-   "D": "HCOOH."
-  },
-  "answer": "D"
- },
- {
-  "id": "L12_C1_0048",
-  "stem": "Ester X có công thức phân tử C4H8O2. Thủy phân X trong dung dịch H2SO4 loãng, đun nóng, thu được sản phẩm gồm ethyl alcohol và chất hữu cơ Y. Công thức của Y là",
-  "options": {
-   "A": "CH3OH.",
-   "B": "CH3COOH.",
-   "C": "C2H5COOH.",
-   "D": "HCOOH."
-  },
-  "answer": "B"
- },
- {
-  "id": "L12_C1_0049",
-  "stem": "(Đề MH – 2022) Ester X có công thức phân tử C4H8O2. Thủy phân X trong dung dịch NaOH dư, thu được sản phẩm gồm sodium propionate và alcohol Y. Công thức của Y là",
-  "options": {
-   "A": "C3H5(OH)3.",
-   "B": "C2H5OH.",
-   "C": "C3H7OH.",
-   "D": "CH3OH."
-  },
-  "answer": "D"
- },
- {
-  "id": "L12_C1_0050",
-  "stem": "(Đề MH - 2024) Cho sơ đồ chuyển hóa sau: X (C4H8O2) <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFcAAAAVCAAAAAAWMy3XAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAmMUJFKXUAAAHcSURBVDjLY/zPQBPARBtjGVgo096kcj5RC6vMfyzgkInAo//Pi6PuQrhnY+srItb8v5+gsf//BReXi1BVr67/fxXw/2wWNhP+Y3Wvrb5l4m6JgBtKDAwMDAyP/E9JMny1ErexfuzAoK/NoAdVNUdT4z8DAwMjKeHQYTA1h4GBYdml9wKd01wlGRi447psUJXcX67B4mOw7EIWKeZyzfdwZ2BgsIz6y9d504iBgYFBcSYDw50KBoaj1lAliloRPgz1DFGkxZt1elwHA8PT2WI/GRh/MjAwMPxgZGBQ6WBgKCAuQnGms5YPXQz/w2sKGBg07zMwMDDc1yTOQELmcizcyfDjKwcDA0POvicMDF8WlmNo/YnPYKzpzGzW3///K2f/j3ZuFNn+/3hEaUXEuv83AhU3/D9qaXn8/3SL/////5+hN/c/TsDwnwzwWA+33OKp5Ju7fj5uud+Ge8g29zU+ydOi1/7//8/4n6F8LyK0c+OhDJcPCMEFOlDG3XCEIPtRhOBZuKgPAwPDUb7LvAyM/xluv0WolpOCMs7+Rgjq8EAZ3y8ipQYzhOC9D/8ggMHk37/vSXETGRgYqV7+Vp/fzExxOYkJbm0/yMxAg3L9+npeBgZahAME0KoeAgC4WfJOChOENwAAAABJRU5ErkJggg==\" style=\"height:22px\" alt=\"\"> alcohol Y <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFgAAAATCAAAAAAxYZVHAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAmNUUo7WwAAAICSURBVDjLY/zPQBvARCNziTL41zsCCl4QZ/CV3GmTyz4j+K+LWQgYvHwPFsH/6OCn5sv//1dlIARCH/4nBFzeYAgxYkTeicLjDAxf5d7C+K+CjjDMfPKkceNanUN7Tp9lnH49QXZSvkmX23kV2dV9LrkKV2czd/GnE3bxBq//////Z/0B4+8L//9H6//qxuPp/wu2v/mfuuj/KZ//Tf+9H38x/r+2+kT8/+yD/1dlYxiDGXySbxkYGD7zscP4X9kY3n2f8VaUgYGB+4/whWszGUyfX5NkYGDg/sPA9efRixlsTAzsXzCMwTTY6OtzSYbNkXA+33cGIe40JoYTDAwMDAxFExjPGifE74LJykhmMDAwfOcnwmCWNa1qf563M2xj2DaFgYGBQecRA3NamFHk9fuvbvH/eX5mvalxzGnBNy/OvPpw98xtw39pukncdw2JSBUIkAyhEq+jCv/7cXEvmkrnT0icNS/+////H4/BG89B6E/Fr1HEf4S3oalsO43Me+T6A2tyg4GWt8L5vBBPfePGn0G+8KBwpxxfysDA+J9hTwYiDYswMDAwMLTOhwko74Qy/K7BhKKaIDSqtm/uf+FO/Ht6ZhoD43+G/3/Ro/LfP5gAIzNMMVwbE7QUwKYNAra3HePFG3lkgs9G9/GGMdlgtpY1AwMDDQyGhhiNzGUAAHKJI67e/hBhAAAAAElFTkSuQmCC\" style=\"height:19px\" alt=\"\"> CH3COOHCông thức của X là",
-  "options": {
-   "A": "HCOOCH2CH2CH3.",
-   "B": "C2H5COOCH3.",
-   "C": "CH3COOC2H5.",
-   "D": "CH3CH2CH2COOH."
-  },
-  "answer": "C"
- },
- {
-  "id": "L12_C1_0051",
-  "stem": "(SGK – KNTT) Ester X có mùi đặc trưng giống mùi táo và có công thức phân tử C5H10O2. Thuỷ phân X trong dung dịch NaOH, thu được sodium butanoate và một alcohol. Công thức của X là",
-  "options": {
-   "A": "CH3COOCH2CH2CH3.",
-   "B": "CH3CH2COOCH2CH3.",
-   "C": "CH3CH2CH2COOCH3.",
-   "D": "(CH3)2CHCOOCH2CH3."
-  },
-  "answer": "C"
- },
- {
-  "id": "L12_C1_0052",
-  "stem": "(SGK – CTST) Chất X có công thức phân tử C4H8O2. Cho X tác dụng với dung dịch NaOH đun nóng, thu được chất Y có công thức phân tử C3H5O2Na. X có công thức cấu tạo là",
-  "options": {
-   "A": "HCOOCH2CH2CH3.",
-   "B": "HCOOCH(CH3)2.",
-   "C": "CH3COOC2H5.",
-   "D": "C2H5COOCH3."
-  },
-  "answer": "D"
- },
- {
-  "id": "L12_C1_0053",
-  "stem": "(SBT – KNTT) Thực hiện phản ứng ester hoá giữa HOOC-COOH với hỗn hợp CH3OH và C2H5OH thu được tối đa bao nhiêu ester hai chức?",
-  "options": {
-   "A": "2.",
-   "B": "3.",
-   "C": "1.",
-   "D": "4."
-  },
-  "answer": "B"
- },
- {
-  "id": "L12_C1_0054",
-  "stem": "(SBT – CTST) Thuỷ phân ester đơn chức, mạch hở E trong môi trường acid thu được alcohol X và carboxylic acid Y. Carboxylic acid Y được điều chế bằng cách lên men giấm alcohol X. Công thức phân tử ester E là",
-  "options": {
-   "A": "C6H10O2.",
-   "B": "C3H6O2.",
-   "C": "C4H6O2.",
-   "D": "C4H8O2."
-  },
-  "answer": "D"
- },
- {
-  "id": "L12_C1_0055",
-  "stem": "(Đề TSĐH B - 2014) Trường hợp nào sau đây không tạo ra CH3CHO?",
-  "options": {
-   "A": "Cho CH≡CH cộng H2O (to, xúc tác HgSO4, H2SO4).",
-   "B": "Oxi hoá không hoàn toàn C2H5OH bằng CuO đun nóng.",
-   "C": "Oxi hoá CH3COOH.",
-   "D": "Thuỷ phân CH3COOCH=CH2 bằng dung dịch KOH đun nóng."
-  },
-  "answer": "C"
- },
- {
-  "id": "L12_C1_0056",
-  "stem": "(Đề TN THPT QG – 2022) Phát biểu nào sau đây sai?",
-  "options": {
-   "A": "Ethyl formate có khả năng tham gia phản ứng tráng bạc.",
-   "B": "Phân tử methyl methacrylate có một liên kết π trong phân tử.",
-   "C": "Ethyl acetate có công thức phân tử là C4H8O2.",
-   "D": "Methyl acrylate có khả năng tham gia phản ứng cộng Br2 trong dung dịch."
-  },
-  "answer": "B"
- },
- {
-  "id": "L12_C1_0057",
-  "stem": "(Đề TSĐH A - 2007) Phát biểu nào sau đây không đúng?",
-  "options": {
-   "A": "CH3CH2COOCH=CH2 tác dụng với dung dịch NaOH thu được aldehyde và muối.",
-   "B": "CH3CH2COOCH=CH2 tác dụng được với nước Br2.",
-   "C": "CH3CH2COOCH=CH2 có thể trùng hợp tạo polymer.",
-   "D": "CH3CH2COOCH=CH2 cùng dãy đồng đẳng với CH2=CHCOOCH3."
-  },
-  "answer": "D"
- },
- {
-  "id": "L12_C1_0058",
-  "stem": "(Đề TSCĐ - 2012) Phát biểu nào sau đây là đúng?",
-  "options": {
-   "A": "Ester isoamyl acetate có mùi chuối chín.",
-   "B": "Ethylene glycol là alcohol no, đơn chức, mạch hở.",
-   "C": "Acid béo là những carboxylic acid đa chức.",
-   "D": "Ethyl alcohol tác dụng được với dung dịch NaOH."
-  },
-  "answer": "A"
- },
- {
-  "id": "L12_C1_0059",
-  "stem": "(SGK – KNTT) Phản ứng hoá học nào sau đây xảy ra thuận nghịch?",
-  "options": {
-   "A": "Đun nóng ethyl acetate với dung dịch H2SO4 loãng.",
-   "B": "Đun nóng ethyl acetate với dung dịch NaOH.",
-   "C": "Hydrogen hoá chất béo có gốc acid không no.",
-   "D": "Đun nóng chất béo với dung dịch NaOH."
-  },
-  "answer": "A"
- },
- {
-  "id": "L12_C1_0060",
-  "stem": "(SGK – KNTT) Cho các phát biểu sau:(1) Một số ester có mùi thơm nên được dùng làm chất tạo hương trong công nghiệp thực phẩm và mĩ phẩm.(2) Chất béo là triester của glycerol với acid béo.(3) Chất béo tan tốt trong nước.(4) Mỡ động vật, dầu thực vật có thể được dùng làm nguyên liệu để sản xuất xà phòng.(5) Phản ứng thuỷ phân ester trong môi trường acid luôn là phản ứng một chiều.Số phát biểu đúng là",
-  "options": {
-   "A": "2.",
-   "B": "3.",
-   "C": "4.",
-   "D": "5."
-  },
-  "answer": "B"
- },
- {
-  "id": "L12_C1_0061",
-  "stem": "Phát biểu nào sau đây đúng?",
-  "options": {
-   "A": "Chất béo là triester của glycerol với acid.",
-   "B": "Chất béo là triester của glycerol với acid vô cơ.",
-   "C": "Chất béo là triester của glycerol với acid béo",
-   "D": "Chất béo là triester của alcohol với acid béo."
-  },
-  "answer": "C"
- },
- {
-  "id": "L12_C1_0062",
-  "stem": "(Đề MH - 2021) Chất nào sau đây là acid béo?",
-  "options": {
-   "A": "Palmitic acid.",
-   "B": "Acetic acid.",
-   "C": "Formic acid.",
-   "D": "Propionic acid."
-  },
-  "answer": "A"
- },
- {
-  "id": "L12_C1_0063",
-  "stem": "(Đề THPT QG - 2019) Công thức stearic acid là",
-  "options": {
-   "A": "C2H5COOH.",
-   "B": "CH3COOH.",
-   "C": "C17H35COOH.",
-   "D": "HCOOH."
-  },
-  "answer": "C"
- },
- {
-  "id": "L12_C1_0064",
-  "stem": "(Đề TN THPT QG - 2021) Số nguyên tử carbon trong phân tử palmitic acid là",
-  "options": {
-   "A": "17.",
-   "B": "18.",
-   "C": "19.",
-   "D": "16."
-  },
-  "answer": "D"
- },
- {
-  "id": "L12_C1_0065",
-  "stem": "(SBT – KNTT) Acid nào sau đây không thuộc loại acid béo?",
-  "options": {
-   "A": "Oleic acid.",
-   "B": "Palmitic acid.",
-   "C": "Stearic acid.",
-   "D": "Acetic acid."
-  },
-  "answer": "D"
- },
- {
-  "id": "L12_C1_0067",
-  "stem": "(Đề THPT QG - 2019) Công thức phân tử của oleic acid là",
-  "options": {
-   "A": "C2H5COOH.",
-   "B": "HCOOOH.",
-   "C": "CH3COOH.",
-   "D": "C17H33COOH."
-  },
-  "answer": "D"
- },
- {
-  "id": "L12_C1_0068",
-  "stem": "(Đề TN THPT QG - 2021) Số nguyên tử hydrogen trong phân tử stearic acid là",
-  "options": {
-   "A": "33.",
-   "B": "36.",
-   "C": "34.",
-   "D": "31."
-  },
-  "answer": "B"
- },
- {
-  "id": "L12_C1_0069",
-  "stem": "(Đề MH - 2024) Số nguyên tử hydrogen trong phân tử oleic acid là",
-  "options": {
-   "A": "33.",
-   "B": "34.",
-   "C": "35.",
-   "D": "36."
-  },
-  "answer": "B"
- },
- {
-  "id": "L12_C1_0070",
-  "stem": "(SBT – KNTT) Sáp ong do ong thợ tiết ra và xây dựng tạo thành tổ ong để lưu trữ mật ong và bảo vệ ấu trùng (nhộng). Trong sáp ong có chứa thành phần chính là triacontanyl palmitate (C15H31COOC30H61). Ester này thuộc loại",
-  "options": {
-   "A": "không no, đơn chức.",
-   "B": "không no, đa chức.",
-   "C": "no, đơn chức.",
-   "D": "no, đa chức."
-  },
-  "answer": "C"
- },
- {
-  "id": "L12_C1_0071",
-  "stem": "(Đề TN THPT QG – 2022) Chất nào sau đây là chất béo?",
-  "options": {
-   "A": "Triolein.",
-   "B": "Methyl acetate.",
-   "C": "Cellulose.",
-   "D": "Glycerol."
-  },
-  "answer": "A"
- },
- {
-  "id": "L12_C1_0072",
-  "stem": "(Đề THPT QG - 2019) Công thức của tristearin là",
-  "options": {
-   "A": "(C2H5COO)3C3H5.",
-   "B": "(C17H35COO)3C3H5.",
-   "C": "(CH3COO)3C3H5.",
-   "D": "(HCOO)3C3H5."
-  },
-  "answer": "B"
- },
- {
-  "id": "L12_C1_0073",
-  "stem": "(Đề THPT QG - 2019) Công thức của triolein là",
-  "options": {
-   "A": "(C17H33COO)3C3H5.",
-   "B": "(HCOO)3C3H5.",
-   "C": "(C2H5COO)3C3H5.",
-   "D": "(CH3COO)3C3H5."
-  },
-  "answer": "A"
- },
- {
-  "id": "L12_C1_0074",
-  "stem": "(Đề TN THPT QG – 2022) Số nguyên tử oxygen có trong phân tử triolein là",
-  "options": {
-   "A": "6.",
-   "B": "2",
-   "C": "3.",
-   "D": "4."
-  },
-  "answer": "A"
- },
- {
-  "id": "L12_C1_0075",
-  "stem": "(HTHH) Triolein là chất béo không no có công thức (C17H33COO)3C3H5. Số liên kết C=C có trong một phân tử triolein là",
-  "options": {
-   "A": "1.",
-   "B": "2.",
-   "C": "3.",
-   "D": "4."
-  },
-  "answer": "C"
- },
- {
-  "id": "L12_C1_0076",
-  "stem": "(HTHH) Nhận định nào sau đây về phân tử triolein là không đúng?",
-  "options": {
-   "A": "Chứa 3 liên kết π.",
-   "B": "Chứa 57 nguyên tử carbon.",
-   "C": "Chứa 3 liên kết đôi C=C.",
-   "D": "Chứa 3 chức ester."
-  },
-  "answer": "A"
- },
- {
-  "id": "L12_C1_0077",
-  "stem": "Chất béo động vật hầu hết ở thể rắn do chứa",
-  "options": {
-   "A": "chủ yếu gốc acid béo không no.",
-   "B": "glycerol trong phân tử.",
-   "C": "chủ yếu gốc acid béo no.",
-   "D": "gốc acid béo."
-  },
-  "answer": "C"
- },
- {
-  "id": "L12_C1_0078",
-  "stem": "Chất béo có công thức nào sau đây là chất rắn ở điều kiện thường?",
-  "options": {
-   "A": "(C17H31COOH)3C3H5.",
-   "B": "(C17H29COOH)3C3H5.",
-   "C": "(C15H31COO)3C3H5.",
-   "D": "(C17H33COOH)3C3H5."
-  },
-  "answer": "C"
- },
- {
-  "id": "L12_C1_0079",
-  "stem": "(HTHH) Cho các nhận định về triolein: (1) ở thể lỏng; (2) nhẹ hơn nước; (3) tan tốt trong nước; (4) bị thủy phân trong môi trường kiềm. Số nhận định đúng là",
-  "options": {
-   "A": "1.",
-   "B": "2.",
-   "C": "3.",
-   "D": "4."
-  },
-  "answer": "C"
- },
- {
-  "id": "L12_C1_0080",
-  "stem": "(SBT – KNTT) Khi để lâu trong không khí, chất béo sẽ",
-  "options": {
-   "A": "bị bay hơi.",
-   "B": "bị nóng chảy.",
-   "C": "có mùi khó chịu.",
-   "D": "có mùi thơm."
-  },
-  "answer": "C"
- },
- {
-  "id": "L12_C1_0081",
-  "stem": "(SBT – KNTT) Dầu mỡ khi chiên rán nhiều lần thường có mùi khó chịu do nguyên nhân chính là dầu mỡ bị",
-  "options": {
-   "A": "thuỷ phân.",
-   "B": "xà phòng hoá.",
-   "C": "oxi hoá.",
-   "D": "hydrogen hoá."
-  },
-  "answer": "C"
- },
- {
-  "id": "L12_C1_0082",
-  "stem": "Đặc điểm chung của phản ứng thủy phân chất béo trong môi trường acid là",
-  "options": {
-   "A": "phản ứng xà phòng hóa.",
-   "B": "phản ứng không thuận nghịch.",
-   "C": "phản ứng cho - nhận electron.",
-   "D": "phản ứng thuận nghịch."
-  },
-  "answer": "D"
- },
- {
-  "id": "L12_C1_0083",
-  "stem": "Thủy phân hoàn toàn một lượng chất béo trong dung dịch NaOH (vừa đủ), thu được 1 mol glycerol và",
-  "options": {
-   "A": "3 mol muối của acid béo.",
-   "B": "1 mol sodium acetate.",
-   "C": "1 mol muối của acid béo.",
-   "D": "3 mol sodium acetate."
-  },
-  "answer": "A"
- },
- {
-  "id": "L12_C1_0084",
-  "stem": "(Đề TN THPT QG - 2020) Thủy phân tripalmitin ((C15H31COO)3C3H5) trong dung dịch NaOH thu được alcohol có công thức là",
-  "options": {
-   "A": "C2H4(OH)2.",
-   "B": "C2H5OH.",
-   "C": "CH3OH.",
-   "D": "C3H5(OH)3."
-  },
-  "answer": "D"
- },
- {
-  "id": "L12_C1_0085",
-  "stem": "(Đề TN THPT QG - 2020) Thủy phân tristearin ((C17H35COO)3C3H5) trong dung dịch NaOH, thu được muối có công thức là",
-  "options": {
-   "A": "C2H3COONa.",
-   "B": "HCOONa.",
-   "C": "C17H33COONa.",
-   "D": "C17H35COONa."
-  },
-  "answer": "D"
- },
- {
-  "id": "L12_C1_0086",
-  "stem": "(Đề THPT QG - 2016) Xà phòng hóa chất nào sau đây thu được glycerol?",
-  "options": {
-   "A": "Benzyl acetate.",
-   "B": "Tristearin.",
-   "C": "Methyl formate.",
-   "D": "Methyl acetate."
-  },
-  "answer": "B"
- },
- {
-  "id": "L12_C1_0087",
-  "stem": "(Đề TN THPT QG – 2022) Đun nóng triglyceride trong dung dịch NaOH dư đến phản ứng hoàn toàn luôn thu được chất nào sau đây?",
-  "options": {
-   "A": "Glycerol.",
-   "B": "Ethylene glycol.",
-   "C": "Methanol.",
-   "D": "Ethanol."
-  },
-  "answer": "A"
- },
- {
-  "id": "L12_C1_0088",
-  "stem": "(Đề TN THPT QG – 2023) Thủy phân hoàn toàn triglyceride X trong dung dịch NaOH thu được C15H31COONa và C3H5(OH)3. Công thức của X là",
-  "options": {
-   "A": "(C17H31COO)3C3H5.",
-   "B": "(C15H31COO)3C3H5.",
-   "C": "(C17H33COO)3C3H5.",
-   "D": "(C17H35COO)3C3H5."
-  },
-  "answer": "B"
- },
- {
-  "id": "L12_C1_0089",
-  "stem": "(HTHH) Thủy phân hoàn toàn hỗn hợp triolein và tripalmitin trong dung dịch NaOH thu được sản phẩm gồm",
-  "options": {
-   "A": "1 muối và 1 alcohol.",
-   "B": "2 muối và 2 alcohol.",
-   "C": "1 muối và 2 alcohol.",
-   "D": "2 muối và 1 alcohol."
-  },
-  "answer": "D"
- },
- {
-  "id": "L12_C1_0090",
-  "stem": "(HTHH) Thủy phân hoàn toàn tristearin có công thức (C17H35COO)3C3H5 trong dung dịch KOH, thu được potassium stearate và glycerol với tỉ lệ mol tương ứng là",
-  "options": {
-   "A": "1 : 3.",
-   "B": "1 : 1.",
-   "C": "2 : 1.",
-   "D": "3 : 1."
-  },
-  "answer": "D"
- },
- {
-  "id": "L12_C1_0091",
-  "stem": "(Đề THPT QG - 2017) Chất nào sau đây không phản ứng với H2 (xúc tác Ni, to)?",
-  "options": {
-   "A": "Vinyl acetate.",
-   "B": "Triolein.",
-   "C": "Tripalmitin.",
-   "D": "Glucose."
-  },
-  "answer": "C"
- },
- {
-  "id": "L12_C1_0092",
-  "stem": "Chất nào sau đây không làm mất màu nước bromine?",
-  "options": {
-   "A": "Triolein.",
-   "B": "Phenol.",
-   "C": "Palmitic acid.",
-   "D": "Vinyl acetate."
-  },
-  "answer": "C"
- },
- {
-  "id": "L12_C1_0093",
-  "stem": "(Đề TSĐH B - 2011) Triolein không tác dụng với chất (hoặc dung dịch) nào sau đây?",
-  "options": {
-   "A": "H2O (xúc tác H2SO4 loãng, đun nóng).",
-   "B": "Cu(OH)2 (ở điều kiện thường).",
-   "C": "Dung dịch NaOH (đun nóng).",
-   "D": "H2 (xúc tác Ni, đun nóng)."
-  },
-  "answer": "B"
- },
- {
-  "id": "L12_C1_0094",
-  "stem": "Từ dầu thực vật làm thế nào để sản xuất được bơ nhân tạo?",
-  "options": {
-   "A": "Hydrogen hóa acid béo.",
-   "B": "Đề hydrogen hóa chất béo lỏng.",
-   "C": "Hydrogen hóa chất béo lỏng.",
-   "D": "Xà phòng hóa chất béo lỏng."
-  },
-  "answer": "C"
- },
- {
-  "id": "L12_C1_0095",
-  "stem": "Cho sơ đồ chuyển hóa giữa các hợp chất hữu cơ:Tripalmitin <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFcAAAAXCAAAAABb+4zcAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAmOUyeoUcAAAHaSURBVDjLtZVPSNNhGMc/S8vIi6awoQtU6GCn/lwUIrCog2iC0EkPaxeJBKFBNcw/1FjlQQ9GimCevCgiK2zKBKtT/1CkQkHnCFqE20CWf1K339NhcxG+P5PZ73t5H573eT+87/d54DUJhuiQMVgyDwqIu3JKrxhw3zfWpmdG+LBgZs0IrklQtV6fG3UeHSTscEYB2Gh52OPqiPmrKxfpy3r+p+zkMtmq46KQv0JExOe2BOSFL5G6dV9EHG5pviMSyt4p7JqTWPsTrwKhnAdtHYDS5vrXQM/mx2s1gz6g1ub8q+57f8Re3KZ8rYL7rmHr6+ncKaBxzHUOrhaOeaqW84C8ILx9xPpOZYG5rljHRQX37GTgxnjC94Ez9gperSxpGZZQAYROQNldwp3/bqeib4fzczPzjwNg6X3MT/fNy2AbAYau7x6G/XPB2gdEJ6fC1Ng5ltP4fj7SlvGgu7XQEfj0eQlP7CW/rF+AC/dmdjdHfx72o9vzOhvDoyIi6XL9Xr2d7fLZA3D30IeSoIhJKFpNeRPMSqx1E6nU0MVk8LQ1lWtqSQazl5JBBE5pmqZpAN8qPen7qyMtvj1tnjPCh/h5n4iY/vs/5PnRsOdkp6utIxjCTciof/M3fodnQhmSLDQAAAAASUVORK5CYII=\" style=\"height:22px\" alt=\"\"> X <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFMAAAAYCAAAAACjRp5zAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAmOtWX8P0AAAG3SURBVDjLtZVPSBRhGMZ/Ywsba7FkCAVJtSgLYRQ4HqJLJCid3AiCRFB3oUMHqYXwENQq3oIOdenSsUsg7SVEWysoCOqmEKiFf5ZYYgkZc6Ldxe/tEMvODM6flem5DN/zvt/zPe/MMzOaEDpawpcMovnxhjbxjU+jWnYZ8qmxW8MXHvD2csp9h/jjJUURec2qSK5zU0S2h0QmBl37PX0eeu8gVqYedgCH0/uf3dx1EHn6Aejz1Iy4VioC1T9ENSAbgxLwtS0W4Bm5a578AQOw1A08OgGFeVC1AJIemnM1ep/20GnlEoYR99d0v5/ndJ2krh+0ctdaZgB4tk/NvZCczq0D1RnvNq9grv4WESlcIfNF3g0ysijy6urNO+m+cVm4dOaFs738/d81SOaDYk03/TPfJE6dHxHf2ZvFz2P3REQiUDZsp7U30rK7ZqscOG1ZlA1bXNvjQOvj64k0IJKxT/CkcW7RXjlq9eTYVUdkQ0QTtkwbe6S14bNk93ncstgyobKtlFKilFLxmFJKLdydvA9amN/5X2cvPidkzduf30Txet+bR3H2Q5SQfZZ2ughbs47/8d/8C8/jq38ZbQIMAAAAAElFTkSuQmCC\" style=\"height:19px\" alt=\"\"> Y <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFgAAAAfCAAAAABGo1U8AAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAmMUJFKXUAAALBSURBVEjHtVZfSJNRHD2LwSwrTVFWJkpBSyqlPz5lYIRkEWgQSpBQD6IsgvVgD1kEgS4NbShaEiUJVpqJOETXSsJwWVE6rKBAXea2hi039yfXdL8evn1j9m3fNnPn5Xfv7557uJy7e74JCNHBmijphhAeuth08xSaUkZwT6wBAHy80Nx4yWYpPaKbl+ZO8u0lHkxnuYmeeaZ2ERklRETkyjARdZZT63miR2V8e3lP/CRPCOQJ/Dof4pKB451hWCHkW5wRM9WsgI0ZmRIAxNpc0CowunbFwilGpibK8KMdALDZDMC2UYQsGR6/XPHlFalcwAu9X2efwwgoT/+vFaktFRLn+9sdc++yB6xv9j+0JxZ3Ve1YNMqtIxPfEjRfdek8myl8GGpehUObbyQiikD4z5K7JCyitJ+IBASLnT19ksh79262s9VbLXZg5nXMUqGP4zGwHFESAJPb5dtiye3cAwGhuZel1GYytVzHdga8lcuZL2I7mbUAysc13ukhj+dT4YOIPA4XY3utEXkcNk5MMh6vNhyfswGshvB070Jx6r9N7ssbSmzDsPg+AGCwQlHyyxuVwYV7Dh/t4Xa5FqXNEkmMRER00E5aCxuVgaFUU8O4tpHT5w/6bee0mXG8Uem80z1R8FxdwFkIlBUtsZhjRk3y/ANdbFSKAgmv25m/HbIAC4FOXCaTbWJGG6p1gm5fVEYEfivuQpQjXBaVTiaipzwsJdjPiis8bFdhxKpC+9NqaK8q9CeFXVUN9aNyQH0Ni3XJwPcrSKoDfqY7AWTXjwVWDv6AFqTL5xptJSn7yHG5v5KoZoqo9DfP8wtuhavt+rK5vbfvrVUfj/G0HADx0/hyNobHxeBfkDO7O6T+8/VyiyMu3YyMVrEJmD0GCf/tRZYvSzdcRERkvhWKGWlWuOeSAcCwJRQxCunGIGp/Cv8CHSVi593b7rUAAAAASUVORK5CYII=\" style=\"height:26px\" alt=\"\"> ZTên gọi của Z là",
-  "options": {
-   "A": "methyl palmitate.",
-   "B": "methyl linoleate.",
-   "C": "methyl stearate.",
-   "D": "methyl oleate."
-  },
-  "answer": "A"
- },
- {
-  "id": "L12_C1_0096",
-  "stem": "Cho sơ đồ chuyển hóa: Triolein <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFgAAAAVCAAAAADnOHZaAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAmLs9NJIAAAAHsSURBVDjLtZVNSBRhGMd/o6FpaR+GkpQfecmoliE9WBCKbWxBHrwGnTLFAhWKkDpKx7KDIHmoS+WhQ4SBh4Um6EMKMjc/KljZSlNhY9PVHaldnw4O63686pbN/zTvf/7Pj5nneecdTbBHaTZx2fQfGF05gRY7ntgcOudZsAP8LZe8r/8Onomb8nTMtSaIljr4Z0Otb665etxavunWgM5Wa/nQvZLcE+TH3qR65fCCObD9WGYJx5f2LTuLV58B6D4r0ebU8wDo23wiy3H/8JbUwFXDic7TKqAt38/3as+LDgOcjxoBQt1FpWUXVQwFeCL825dRCEOdDGZZnqcIXgduGY8Ld1IBUPocgOz9rjJ1KxXg6/6pS8Vd4Gil14Ar5TPtLGSAtzgmlDnP2lKA73GwL2Z5ucDVTq4Ju90A6aYGYG5bvqutdiQod8UpYHbg05fgq88+CiI7QPdCTai5dyTkOnt3ahK8ur8kBFTefJ9YPWIAIOuqZ1DkV0043qydkwZTnY84x0VkfXC/ISIydi3OvPFWPr5creKdIyCiCe6m6FsM7AIgqEed20dOH+BONu4LabGh+a0k1J0fXen2h7oHaIJEkkYZjjrp1seqCCVZS5YmT/YfSqXHf636JyJiw0E/fPTMWvtwo7Lt1/QHIb2EtYoM3OEAAAAASUVORK5CYII=\" style=\"height:22px\" alt=\"\"> E <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFcAAAAXCAAAAABb+4zcAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAmNtwhvNYAAAHWSURBVDjLY/zPQBPARBtjGVgoNeDJgh8ZMjRw7+zI+Jm0cO9tcaZbWIQpdi/j//+MJJl7XFfvB8N+1+MQ3sLS6RML334qVzrCsF+q+TtCmeqrp6rYtP/HAhbU/f///392XN7///kQkU1O////3+z2f7f5////tU/DFKb///+4pe4RFiOwhu/vnwwMDAwMUww8PBkYfqUb7tiyNICBgcE7+BmquvMrddJkqrH6Fou5U2e/+7nDtZuBgXdR2HkGBpZ2icUvngkzMDAwCj1leNbBwPAGptKQOwdXKGIxNzF8yf1adgYGBgbrpCQVhpdzpd/9k3nNwMDw763sR6kKBoYlREQnlnjjEuHhFOFlYGBgYKh/dYGhVzVRlCFh3X8Ghg3OEuiRg9NcrOHr+4OBgeHY1f2OLEtzGSx6n/w5EvG2WPHn4yWf978+bnn4/S4dBpWd2gwMDFqlZaLomv8x4UwPRICyG7hkkn/8////P5n54p6jOi4p11QGBgYGRuqXk0FGNQwMjP8ZFL7AhZ6yQ2gsQhed4UImOxjQxL59Z9D+9+/fv3//GRgYvrw5a0R19/7/9y9OYDoVyjM0wMi88+1iBlrUF4tXsTDQIt5+sTHQxFwIoFW9CQBc+yEeyxukTgAAAABJRU5ErkJggg==\" style=\"height:22px\" alt=\"\"> T <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFMAAAAYCAAAAACjRp5zAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAmMUJFKXUAAAG3SURBVDjLtZVPSBRhGMZ/Ywsba7FkCAVJtSgLYRQ4HqJLJCid3AiCRFB3oUMHqYXwENQq3oIOdenSsUsg7SVEWysoCOqmEKiFf5ZYYgkZc6Ldxe/tEMvODM6flem5DN/zvt/zPe/MMzOaEDpawpcMovnxhjbxjU+jWnYZ8qmxW8MXHvD2csp9h/jjJUURec2qSK5zU0S2h0QmBl37PX0eeu8gVqYedgCH0/uf3dx1EHn6Aejz1Iy4VioC1T9ENSAbgxLwtS0W4Bm5a578AQOw1A08OgGFeVC1AJIemnM1ep/20GnlEoYR99d0v5/ndJ2krh+0ctdaZgB4tk/NvZCczq0D1RnvNq9grv4WESlcIfNF3g0ysijy6urNO+m+cVm4dOaFs738/d81SOaDYk03/TPfJE6dHxHf2ZvFz2P3REQiUDZsp7U30rK7ZqscOG1ZlA1bXNvjQOvj64k0IJKxT/CkcW7RXjlq9eTYVUdkQ0QTtkwbe6S14bNk93ncstgyobKtlFKilFLxmFJKLdydvA9amN/5X2cvPidkzduf30Txet+bR3H2Q5SQfZZ2ughbs47/8d/8C8/jq38ZbQIMAAAAAElFTkSuQmCC\" style=\"height:19px\" alt=\"\"> GTên gọi của G là",
-  "options": {
-   "A": "oleic acid.",
-   "B": "linoleic acid.",
-   "C": "stearic acid.",
-   "D": "palmitic acid."
-  },
-  "answer": "C"
- },
- {
-  "id": "L12_C1_0097",
-  "stem": "(Đề TSCĐ - 2009) Phát biểu nào sau đây sai?",
-  "options": {
-   "A": "Trong công nghiệp có thể chuyển hoá chất béo lỏng thành chất béo rắn.",
-   "B": "Số nguyên tử hydrogen trong phân tử ester đơn và đa chức luôn là một số chẵn.",
-   "C": "Sản phẩm của phản ứng xà phòng hoá chất béo là acid béo và glycerol.",
-   "D": "Nhiệt độ sôi của ester thấp hơn hẳn so với alcohol có cùng phân tử khối."
-  },
-  "answer": "C"
- },
- {
-  "id": "L12_C1_0098",
-  "stem": "(SBT Hóa học 12 CB) Phát biểu nào sau đây không đúng?",
-  "options": {
-   "A": "Chất béo là triester của glycerol và các monocarboxylic acid có mạch carbon dài, không phân nhánh.",
-   "B": "Chất béo chứa chủ yếu các gốc no của acid thường là chất rắn ở nhiệt độ phòng.",
-   "C": "Chất béo chứa chủ yếu các gốc không no của acid thường là chất lỏng ở nhiệt độ phòng và được gọi là dầu.",
-   "D": "Phản ứng thuỷ phân chất béo trong môi trường kiềm là phản ứng thuận nghịch."
-  },
-  "answer": "D"
- },
- {
-  "id": "L12_C1_0099",
-  "stem": "(SBT Hóa học 12 CB) Chất béo có đặc điểm chung nào sau đây?",
-  "options": {
-   "A": "Không tan trong nước, nặng hơn nước, có trong thành phần chính của dầu, mỡ động, thực vật.",
-   "B": "Không tan trong nước, nhẹ hơn nước, có trong thành phần chính của dầu, mỡ động, thực vật.",
-   "C": "Là chất lỏng, không tan trong nước, nhẹ hơn nước, có trong thành phần chính của dầu, mỡ động, thực vật.",
-   "D": "Là chất rắn, không tan trong nước, nhẹ hơn nước, có trong thành phần chính của dầu, mỡ động, thực vật."
-  },
-  "answer": "B"
- },
- {
-  "id": "L12_C1_0100",
-  "stem": "(SBT Hóa học 12 NC) Cho các phát biểu sau đây:a) Các triglyceride đều có phản ứng cộng hydrogen.b) Chỉ có các chất béo ở thể lỏng mới có phản ứng cộng hydrogen.c) Các triglyceride có gốc acid béo no thường là chất rắn ở điều kiện thường.d) Có thể dùng nước để phân biệt ester với alcohol hoặc với acid tạo nên chính ester đó.Số phát biểu đúng là",
-  "options": {
-   "A": "1.",
-   "B": "2.",
-   "C": "3.",
-   "D": "4."
-  },
-  "answer": "C"
- },
- {
-  "id": "L12_C1_0101",
-  "stem": "(SBT – CD) Chất nào sau đây là thành phần chủ yếu của xà phòng?",
-  "options": {
-   "A": "CH3COONa.",
-   "B": "CH3(CH2)3COONa.",
-   "C": "CH2=CHCOONa.",
-   "D": "C17H35COONa."
-  },
-  "answer": "D"
- },
- {
-  "id": "L12_C1_0102",
-  "stem": "(SBT – CD) Chất nào sau đây là thành phần chính của chất giặt rửa tổng hợp?",
-  "options": {
-   "A": "C15H31COONa.",
-   "B": "(C17H35COO)2Ca.",
-   "C": "CH3-[CH2]11-C6H4-SO3Na.",
-   "D": "C17H35COOK."
-  },
-  "answer": "C"
- },
- {
-  "id": "L12_C1_0103",
-  "stem": "(SBT – KNTT) Chất nào sau đây được sử dụng làm xà phòng?",
-  "options": {
-   "A": "CH3COOK.",
-   "B": "C15H31COONa.",
-   "C": "CH3 [CH2]11OSO3Na.",
-   "D": "C15H31COOCH3."
-  },
-  "answer": "B"
- },
- {
-  "id": "L12_C1_0104",
-  "stem": "(SBT – KNTT) Dung dịch nào sau đây là chất giặt rửa tự nhiên?",
-  "options": {
-   "A": "Nước quả cam.",
-   "B": "Nước quả chanh.",
-   "C": "Nước quả bồ kết.",
-   "D": "Nước quả dâu."
-  },
-  "answer": "C"
- },
- {
-  "id": "L12_C1_0105",
-  "stem": "(SBT – KNTT) Hợp chất nào sau đây được sử dụng làm chất giặt rửa tổng hợp?",
-  "options": {
-   "A": "CH3COONa.",
-   "B": "CH3[CH2]12COONa.",
-   "C": "CH3[CH2]12COOCH3.",
-   "D": "CH3[CH2]11OSO3Na."
-  },
-  "answer": "D"
- },
- {
-  "id": "L12_C1_0106",
-  "stem": "(SBT – CTST) Trong số các vật phẩm tiêu dùng sau: xà phòng bánh, dầu gội đầu, nước bồ kết và baking soda (NaHCO3), số vật phẩm có thành phần chất giặt rửa tự nhiên và tổng hợp là",
-  "options": {
-   "A": "1.",
-   "B": "2.",
-   "C": "3.",
-   "D": "4."
-  },
-  "answer": "C"
- },
- {
-  "id": "L12_C1_0107",
-  "stem": "(SBT Hóa học 12 CB) Trong thành phần của xà phòng và của chất giặt rửa thường có một số ester. Vai trò của các ester này là",
-  "options": {
-   "A": "làm tăng khả năng giặt rửa.",
-   "B": "tạo hương thơm mát, dễ chịu.",
-   "C": "tạo màu sắc hấp dẫn.",
-   "D": "làm giảm giá thành của xà phòng và chất giặt rửa."
-  },
-  "answer": "B"
- },
- {
-  "id": "L12_C1_0108",
-  "stem": "(SBT – KNTT) Xà phòng và chất giặt rửa có đặc điểm chung nào sau đây?",
-  "options": {
-   "A": "Không tan trong nước.",
-   "B": "Là muối sodium hoặc potassium của acid béo.",
-   "C": "Là muối sulfonate hoặc sulfate của acid béo.",
-   "D": "Thường có cấu tạo gồm hai phần là phần không phân cực (kị nước) và phần phân cực (ưa nước)."
-  },
-  "answer": "D"
- },
- {
-  "id": "L12_C1_0109",
-  "stem": "(SBT Hóa học 12 CB) Xà phòng và chất giặt rửa có điểm chung là",
-  "options": {
-   "A": "chứa muối sodium có khả năng làm giảm sức căng bề mặt của các chất bẩn.",
-   "B": "các muối được lấy từ phản ứng xà phòng hoá chất béo.",
-   "C": "sản phẩm của công nghệ hoá dầu.",
-   "D": "có nguồn gốc từ động vật hoặc thực vật."
-  },
-  "answer": "A"
- },
- {
-  "id": "L12_C1_0110",
-  "stem": "Nguyên nhân nào làm cho bồ kết có khả năng giặt rửa vì",
-  "options": {
-   "A": "trong bồ kết có chất khử mạnh.",
-   "B": "bồ kết có thành phần là ester của glycerol.",
-   "C": "trong bồ kết có những chất oxi hóa mạnh.",
-   "D": "bồ kết có những chất có cấu tạo kiểu đầu phân cực gắn với đuôi dài không phân cực."
-  },
-  "answer": "D"
- },
- {
-  "id": "L12_C1_0111",
-  "stem": "Để tẩy vết dầu, mỡ bám trên quần áo, sử dụng chất nào sau đây là phù hợp nhất?",
-  "options": {
-   "A": "Nước cất.",
-   "B": "Dung dịch sodium hydroxide.",
-   "C": "Dung dịch nước Javel.",
-   "D": "Dung dịch xà phòng."
-  },
-  "answer": "D"
- },
- {
-  "id": "L12_C1_0114",
-  "stem": "Từ tristearin, người ta dùng phản ứng nào để điều chế ra xà phòng?",
-  "options": {
-   "A": "Phản ứng ester hoá.",
-   "B": "Phản ứng thuỷ phân ester trong môi trường acid.",
-   "C": "Phản ứng cộng hydrogen.",
-   "D": "Phản ứng thủy phân ester trong môi trường kiềm."
-  },
-  "answer": "D"
- },
- {
-  "id": "L12_C1_0115",
-  "stem": "(SGK – CTST) Hoá chất chủ đạo trong ngành công nghiệp sản xuất xà phòng là",
-  "options": {
-   "A": "K2SO4.",
-   "B": "NaCl.",
-   "C": "Mg(NO3)2.",
-   "D": "NaOH."
-  },
-  "answer": "D"
- },
- {
-  "id": "L12_C1_0116",
-  "stem": "Xà phòng được điều chế bằng cách nào trong các cách sau đây?",
-  "options": {
-   "A": "Thủy phân saccharose.",
-   "B": "Thủy phân mỡ trong kiềm.",
-   "C": "Phản ứng của acid với kim loại.",
-   "D": "Đề hydrogen hóa mỡ tự nhiên."
-  },
-  "answer": "B"
- },
- {
-  "id": "L12_C1_0121",
-  "stem": "SBT Hóa học 12 CB) Không nên dùng xô, chậu bằng nhôm để đựng quần áo ngâm xà phòng vì",
-  "options": {
-   "A": "quần áo bị mục nhanh.",
-   "B": "xô chậu nhanh hỏng do trong xà phòng có kiềm.",
-   "C": "quần áo bị bạc màu nhanh.",
-   "D": "quần áo không sạch."
-  },
-  "answer": "B"
- },
- {
-  "id": "L12_C1_0122",
-  "stem": "Không nên dùng xà phòng khi giặt rửa với nước cứng vì",
-  "options": {
-   "A": "xuất hiện kết tủa làm giảm tác dụng giặt rửa và ảnh hưởng đến chất lượng sợi vải.",
-   "B": "gây ô nhiễm môi trường.",
-   "C": "tạo ra kết tủa CaCO3, MgCO3 bám lên sợi vải.",
-   "D": "gây hại cho da tay."
-  },
-  "answer": "A"
- },
- {
-  "id": "L12_C1_0124",
-  "stem": "(SBT Hóa học 12 NC) Chất giặt rửa tổng hợp có ưu điểm",
-  "options": {
-   "A": "dễ kiếm.",
-   "B": "rẻ tiền hơn xà phòng.",
-   "C": "có thể dùng để giặt rửa cả trong nước cứng.",
-   "D": "có khả năng hoà tan tốt trong nước."
-  },
-  "answer": "C"
- },
- {
-  "id": "L12_C1_0125",
-  "stem": "(SGK Hóa học 12 NC) Phát biểu nào sau đây đúng?",
-  "options": {
-   "A": "Chất giặt rửa là những chất có tác dụng giống như xà phòng nhưng được tổng hợp từ dầu mỏ.",
-   "B": "Chất giặt rửa là những chất có tác dụng làm sạch các vết bẩn trên bề mặt vật rắn.",
-   "C": "Chất giặt rửa là những chất khi dùng cùng với nước thì có tác dụng làm sạch các vết bẩn bám trên các vật rắn.",
-   "D": "Chất giặt rửa là những chất khi dùng cùng với nước thì có tác dụng làm sạch các vết bẩn bám trên các vật rắn mà không gây ra phản ứng hóa học với các chất đó."
-  },
-  "answer": "D"
- },
- {
-  "id": "L12_C1_0126",
-  "stem": "(SGK Hóa học 12 CB) Cho các phát biểu sau:a) Xà phòng là sản phẩm của phản ứng xà phòng hóa chất béo với dung dịch NaOH hoặc KOH.b) Muối sodium hoặc potassium của acid hữu cơ là thành phần chính của xà phòng.c) Khi đun nóng chất béo với dung dịch NaOH hoặc KOH ta được xà phòng.d) Từ dầu mỏ có thể sản xuất được chất giặt rửa tổng hợp.Số phát biểu đúng là",
-  "options": {
-   "A": "1.",
-   "B": "2.",
-   "C": "3.",
-   "D": "4."
-  },
-  "answer": "C"
- },
- {
-  "id": "L12_C1_0127",
-  "stem": "Cho các phát biểu sau:(1) Chất giặt rửa tổng hợp có thể dùng để giặt rửa cả trong nước cứng.(2) Các triglyceride đều có phản ứng cộng hydrogen.(3) Phản ứng thuỷ phân chất béo trong môi trường kiềm là phản ứng một chiều.(4) Có thể dùng nước và quỳ tím để phân biệt các chất lỏng glycerol, formic acid, triolein.Số phát biểu đúng là",
-  "options": {
-   "A": "1.",
-   "B": "2.",
-   "C": "3.",
-   "D": "4."
-  },
-  "answer": "C"
- },
- {
-  "id": "L12_C1_0128",
-  "stem": "Cho các phát biểu sau:(a) Xà phòng là muối sodium hoặc potassium của các acid béo.(b) Các triglyceride đều có phản ứng cộng hydrogen.(c) Phản ứng thủy phân chất béo trong môi trường kiềm là phản ứng một chiều.(d) Chất béo nhẹ hơn nước và không tan trong nước.Số phát biểu đúng là",
-  "options": {
-   "A": "1.",
-   "B": "2.",
-   "C": "3.",
-   "D": "4."
-  },
-  "answer": "C"
- },
- {
-  "id": "L12_C1_0129",
-  "stem": "Cho các phát biểu sau:a) Chất ưa nước là những chất tan tốt trong nước như methanol, muối sodium acetate,…b) Chất kị nước là những chất không tan trong dầu mỡ, dung môi hữu cơ,…c) Xà phòng là hỗn hợp các muối sodium hoặc potassium của các acid béo.d) Chất tẩy rửa tổng hợp là muối sodium của acid béo.e) Phân tử chất giặt rửa gồm 1 đầu ưu dầu mỡ gắn với 1 đầu dài ưa nước.f) Ưu điểm của xà phòng là dùng được với nước cứng.Số phát biểu đúng là",
-  "options": {
-   "A": "2.",
-   "B": "3.",
-   "C": "4.",
-   "D": "5."
-  },
-  "answer": "A"
- },
- {
-  "id": "L12_C1_0130",
-  "stem": "Cho các phát biểu sau:a) Xà phòng bị giảm hoặc mất tác dụng tẩy rửa khi dùng nước cứng vì tạo các muối kết tủa với cation Ca2+, Mg2+.b) Bột giặt tổng hợp vẫn có thể sử dụng với nước cứng được vì muối sulfonate có độ tan lớn nên không bị kết tủa với ion Ca2+, Mg2+.c) Các chế phẩm như bột giặt, kem giặt,… bao gồm các thành phần chất giặt rửa tổng hợp các phụ gia chất thơm, mất màu, còn có thể có chất tẩy trắng như sodium hypoclhorite.d) Những chất giặt rửa tổng hợp có chứa gốc hydrocarbon phân nhánh không gây ô nhiễm môi trường vì chúng dễ bị các vi sinh vật phân hủy.e) Chất ưa nước là những chất tan tốt trong dầu mỏ, alkane,…Số phát biểu sai là",
-  "options": {
-   "A": "1.",
-   "B": "2.",
-   "C": "3.",
-   "D": "4."
-  },
-  "answer": "B"
- }
+  {
+    "id": "L12_C1_0001",
+    "stem": "Chất không phải là ester là",
+    "options": {
+      "A": "HCOOC₂H₅.",
+      "B": "C₂H₅CHO.",
+      "C": "CH₃COOCH=CH₂.",
+      "D": "CH₃-OOC-CH₂-CH₂-COO-C₂H₅."
+    },
+    "answer": "B"
+  },
+  {
+    "id": "L12_C1_0002",
+    "stem": "(SBT – CD) Cho các chất có công thức sau: HCHO, C₂H₂, CH₃COOH, CH₃COOCH=CH₂, HCOOCH₃, HCOOH. Trong các chất trên, có bao nhiêu chất thuộc loại ester?",
+    "options": {
+      "A": "2.",
+      "B": "3.",
+      "C": "4.",
+      "D": "5."
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L12_C1_0003",
+    "stem": "(SBT – CD) Một hợp chất hữu cơ X đơn chức có công thức phân tử là C₃H₆O₂. X không tác dụng với kim loại Na nhưng tác dụng được với dung dịch NaOH khi đun nóng. Chất X thuộc dãy đồng đẳng của loại hợp chất nào sau đây?",
+    "options": {
+      "A": "Alcohol.",
+      "B": "Ester.",
+      "C": "Aldehyde.",
+      "D": "Carboxylic acid."
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L12_C1_0004",
+    "stem": "CTPT của ester X mạch hở là C₄H₆O₄. X thuộc loại ester",
+    "options": {
+      "A": "no, hai chức.",
+      "B": "không no, có hai nối đôi C=C, hai chức.",
+      "C": "no, đơn chức.",
+      "D": "không no, có một nối đôi, đơn chức."
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L12_C1_0005",
+    "stem": "(SGK – Cánh Diều) Hợp chất nào dưới đây thuộc loại ester?",
+    "options": {
+      "A": "HOCH₂CH₂CHƠ.",
+      "B": "CH₃CH₂CH₂COOH.",
+      "C": "HOCH₂COCH₃.",
+      "D": "CH₃CH₂COOCH₃."
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L12_C1_0006",
+    "stem": "Ester no, đơn chức, mạch hở có công thức tổng quát là",
+    "options": {
+      "A": "CₙH₂ₙO₂ (n ≥ 2).",
+      "B": "CₙH₂ₙ₋₂O₂ (n ≥ 2).",
+      "C": "CₙH₂ₙ₊₂O₂ (n ≥ 2).",
+      "D": "CₙH₂ₙO (n ≥ 2)."
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L12_C1_0007",
+    "stem": "Công thức phân tử tổng quát của ester tạo bởi alcohol no, đơn chức và carboxylic acid không no, có một liên kết đôi C=C, đơn chức là:",
+    "options": {
+      "A": "CₙH₂ₙO₂ (n ≥ 2).",
+      "B": "CₙH₂ₙ₊₂O₂ (n ≥ 3).",
+      "C": "CₙH₂ₙ₋₂O₂ (n ≥ 4).",
+      "D": "CₙH₂ₙO₂ (n ≥ 4)."
+    },
+    "answer": "C"
+  },
+  {
+    "id": "L12_C1_0008",
+    "stem": "(SBT – CTST) Ester nào sau đây là đồng phân với methacrylic acid?",
+    "options": {
+      "A": "Methyl acrylate.",
+      "B": "Ethyl acrylate.",
+      "C": "Vinyl formate.",
+      "D": "Ethyl acetate."
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L12_C1_0009",
+    "stem": "Benzyl acetate là ester có mùi thơm của hoa nhài. Công thức của benzyl acetate là",
+    "options": {
+      "A": "C₂H₅COOC₆H₅.",
+      "B": "CH₃COOC₆H₅.",
+      "C": "C₆H₅COOCH₃.",
+      "D": "CH₃COOCH₂C₆H₅."
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L12_C1_0010",
+    "stem": "(Đề TN THPT QG - 2020) Tên gọi của ester CH₃COOCH₃ là",
+    "options": {
+      "A": "ethyl acetate.",
+      "B": "methyl propionate.",
+      "C": "methyl acetate.",
+      "D": "ethyl formate."
+    },
+    "answer": "C"
+  },
+  {
+    "id": "L12_C1_0011",
+    "stem": "Cho ester có công thức cấu tạo: CH₂=C(CH₃)COOCH₃. Tên gọi của ester là",
+    "options": {
+      "A": "methyl acrylate.",
+      "B": "methyl methacrylate.",
+      "C": "methyl metacrylic.",
+      "D": "methyl acrylic."
+    },
+    "answer": "B"
+  },
+  {
+    "id": "L12_C1_0012",
+    "stem": "(Đề TN THPT QG - 2020) Tên gọi của ester HCOOCH₃ là",
+    "options": {
+      "A": "methyl acetate.",
+      "B": "methyl formate.",
+      "C": "ethyl formate.",
+      "D": "ethyl acetate."
+    },
+    "answer": "B"
+  },
+  {
+    "id": "L12_C1_0013",
+    "stem": "(Đề MH lần I - 2017) Ethyl acetate có công thức hóa học là",
+    "options": {
+      "A": "CH₃COOCH₃.",
+      "B": "CH₃COOC₂H₅.",
+      "C": "HCOOCH₃.",
+      "D": "HCOOC₂H₅."
+    },
+    "answer": "B"
+  },
+  {
+    "id": "L12_C1_0014",
+    "stem": "Ethyl propionate là ester có mùi thơm của dứa. Công thức của ethyl propionate là",
+    "options": {
+      "A": "HCOOC₂H₅.",
+      "B": "C₂H₅COOC₂H₅.",
+      "C": "C₂H₅COOCH₃.",
+      "D": "CH₃COOCH₃."
+    },
+    "answer": "B"
+  },
+  {
+    "id": "L12_C1_0015",
+    "stem": "Ester methyl acrylate có công thức là",
+    "options": {
+      "A": "CH₃COOCH₃.",
+      "B": "CH₃COOCH=CH₂.",
+      "C": "CH₂=CHCOOCH₃.",
+      "D": "HCOOCH₃."
+    },
+    "answer": "C"
+  },
+  {
+    "id": "L12_C1_0016",
+    "stem": "(Đề MH – 2022) Số nguyên tử hydrogen trong phân tử methyl formate là",
+    "options": {
+      "A": "6.",
+      "B": "8.",
+      "C": "4.",
+      "D": "2."
+    },
+    "answer": "C"
+  },
+  {
+    "id": "L12_C1_0017",
+    "stem": "(Đề TN THPT QG – 2023) Công thức của methyl acetate là",
+    "options": {
+      "A": "CH₃COOC₂H₅.",
+      "B": "HCOOC₂H₅.",
+      "C": "CH₃COOCH₃.",
+      "D": "HCOOCH₃."
+    },
+    "answer": "C"
+  },
+  {
+    "id": "L12_C1_0018",
+    "stem": "(Đề TN THPT QG – 2023) Công thức của ethyl formate là",
+    "options": {
+      "A": "HCOOC₂H₅.",
+      "B": "CH₃COOC₂H₅.",
+      "C": "HCOOCH₃.",
+      "D": "CH₃COOCH₃."
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L12_C1_0019",
+    "stem": "(Đề MH - 2024) Phân tử khối của ethyl acetate là",
+    "options": {
+      "A": "86.",
+      "B": "60.",
+      "C": "74.",
+      "D": "88."
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L12_C1_0020",
+    "stem": "(SBT – CD) Ester X mạch hở có công thức phân tử C₃H₄O₂. Tên gọi của X là",
+    "options": {
+      "A": "vinyl acetate.",
+      "B": "methyl acetate.",
+      "C": "methyl formate.",
+      "D": "vinyl formate."
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L12_C1_0021",
+    "stem": "So với các acid, alcohol có cùng số nguyên tử carbon thì ester có nhiệt độ sôi",
+    "options": {
+      "A": "thấp hơn do khối lượng phân tử của ester nhỏ hơn nhiều.",
+      "B": "thấp hơn do giữa các phân tử ester không tồn tại liên kết hydrogen.",
+      "C": "cao hơn do giữa các phân tử ester có liên kết hydrogen bền vững.",
+      "D": "cao hơn do khối lượng phân tử của ester lớn hơn nhiều."
+    },
+    "answer": "B"
+  },
+  {
+    "id": "L12_C1_0022",
+    "stem": "(Đề TSCĐ - 2014) Trong số các chất dưới đây, chất có nhiệt độ sôi cao nhất là",
+    "options": {
+      "A": "C₂H₅OH.",
+      "B": "HCOOCH₃.",
+      "C": "CH₃COOH.",
+      "D": "CH₃CHO."
+    },
+    "answer": "C"
+  },
+  {
+    "id": "L12_C1_0023",
+    "stem": "Cho các chất sau: CH₃OH (1); CH₃COOH (2); HCOOC₂H₅ (3). Thứ tự nhiệt độ sôi giảm dần là",
+    "options": {
+      "A": "(1); (2); (3).",
+      "B": "(3); (1); (2).",
+      "C": "(2); (3); (1).",
+      "D": "(2); (1); (3)."
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L12_C1_0024",
+    "stem": "Dãy các chất nào sau đây được sắp xếp theo chiều nhiệt độ sôi tăng dần?",
+    "options": {
+      "A": "CH₃COOC₂H₅, CH₃CH₂CH₂OH, CH₃COOH.",
+      "B": "CH₃COOH, CH₃CH₂CH₂OH, CH₃COOC₂H₅.",
+      "C": "CH₃COOH, CH₃COOC₂H₅, CH₃CH₂CH₂OH.",
+      "D": "CH₃CH₂CH₂OH, CH₃COOH, CH₃COOC₂H₅."
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L12_C1_0025",
+    "stem": "(SBT – CTST) Có 4 ester no, đơn chức, mạch hở được kí hiệu ngẫu nhiên lần lượt là X, Y, Z, T. Phân tử ester của mỗi chất nêu trên đều tạo bởi các carboxylic acid mạch không phân nhánh và ethyl alcohol. Độ tan của 4 ester được cho ở bảng sau:Trong số 4 ester trên, ester có nhiều nguyên tử carbon nhất trong phân tử là",
+    "options": {
+      "A": "Y.",
+      "B": "T.",
+      "C": "X.",
+      "D": "Z."
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L12_C1_0026",
+    "stem": "(SBT – CTST) Cho 4 chất sau: butan-1-ol (1), butanoic acid (2), ethyl acetate (3) và pentan-2-ol (4). Chất có nhiệt độ sôi thấp nhất trong 4 chất nêu trên là",
+    "options": {
+      "A": "(1).",
+      "B": "(2).",
+      "C": "(3).",
+      "D": "(4)."
+    },
+    "answer": "C"
+  },
+  {
+    "id": "L12_C1_0027",
+    "stem": "(SBT – CTST) X, Y, Z là 3 chất hữu cơ được kí hiệu ngẫu nhiên trong số các chất HCOOCH₃, CH₃COOH và CH₃CH₂CH₂OH. Nhiệt độ sôi của X, Y, Z được cho trong bảng sau:Các chất X, Y lần lượt là",
+    "options": {
+      "A": "HCOOCH₃ và CH₃COOH.",
+      "B": "CH₃COOH và HCOOCH₃.",
+      "C": "CH₃CH₂CH₂OH và CH₃COOH.",
+      "D": "HCOOCH₃ và CH₃CH₂CH₂OH."
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L12_C1_0028",
+    "stem": "(Đề THPT QG - 2019) Ester nào sau đây tác dụng với dung dịch NaOH thu được sodium acetate?",
+    "options": {
+      "A": "CH₃COOC₂H₅.",
+      "B": "C₂H₅COOCH₃.",
+      "C": "HCOOCH₃.",
+      "D": "HCOOC₂H₅."
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L12_C1_0029",
+    "stem": "(SBT – CD) Trường hợp nào sau đây xảy ra phản ứng với ethyl acetate?",
+    "options": {
+      "A": "Dung dịch NaOH (to).",
+      "B": "C₂H₅OH.",
+      "C": "Dung dịch [Ag(NH₃)₂]OH.",
+      "D": "Dung dịch NaCl."
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L12_C1_0030",
+    "stem": "Ester nào sau đây tác dụng với dung dịch NaOH thu được sodium formate?",
+    "options": {
+      "A": "C₂H₅COOC₂H₅.",
+      "B": "CH₃COOC₂H₅.",
+      "C": "CH₃COOCH₃.",
+      "D": "HCOOCH₃."
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L12_C1_0031",
+    "stem": "(Đề THPT QG - 2019) Ester nào sau đây tác dụng với NaOH thu được ethyl alcohol?",
+    "options": {
+      "A": "CH₃COOC₂H₅.",
+      "B": "CH₃COOC₃H₇.",
+      "C": "C₂H₅COOCH₃.",
+      "D": "HCOOCH₃."
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L12_C1_0032",
+    "stem": "(Đề TSĐH B - 2007) Thuỷ phân ester có công thức phân tử C₄H₈O₂ (với xúc tác acid), thu được 2 sản phẩm X và Y. Từ X có thể điều chế trực tiếp ra Y. Vậy chất X là",
+    "options": {
+      "A": "methyl alcohol.",
+      "B": "ethyl acetate.",
+      "C": "formic acid.",
+      "D": "ethyl alcohol."
+    },
+    "answer": "B"
+  },
+  {
+    "id": "L12_C1_0033",
+    "stem": "(Đề THPT QG - 2018) Ester nào sau đây có phản ứng tráng bạc?",
+    "options": {
+      "A": "HCOOCH₃.",
+      "B": "CH₃COOCH₃.",
+      "C": "CH₃COOC₂H₅.",
+      "D": "C₂H₅COOCH₃."
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L12_C1_0034",
+    "stem": "Ester nào sau đây khi phản ứng với dd NaOH dư, đun nóng không tạo ra hai muối?",
+    "options": {
+      "A": "C₆H₅COOC₆H₅ (phenyl benzoate).",
+      "B": "CH₃COO−[CH₂]₂−OOCCH₂CH₃.",
+      "C": "CH₃OOC−COOCH₃.",
+      "D": "CH₃COOC₆H₅ (phenyl acetate)."
+    },
+    "answer": "C"
+  },
+  {
+    "id": "L12_C1_0035",
+    "stem": "(Đề TSĐH A - 2007) Một ester có công thức phân tử C₄H₆O₂, khi thuỷ phân trong môi trường acid thu được acetaldehyde. Công thức cấu tạo thu gọn của ester đó là",
+    "options": {
+      "A": "CH₂=CHCOOCH₃.",
+      "B": "CH₃COOCH=CH₂.",
+      "C": "HCOOC(CH₃)=CH₂.",
+      "D": "HCOOCH=CH-CH₃."
+    },
+    "answer": "B"
+  },
+  {
+    "id": "L12_C1_0036",
+    "stem": "(Đề TSĐH A - 2013) Chất nào sau đây khi đun nóng với dung dịch NaOH thu được sản phẩm có aldehyde?",
+    "options": {
+      "A": "CH₃–COO–CH₂–CH=CH₂.",
+      "B": "CH₃–COO–C(CH₃)=CH₂.",
+      "C": "CH₂=CH–COO–CH₂–CH₃.",
+      "D": "CH₃–COO–CH=CH–CH₃."
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L12_C1_0037",
+    "stem": "Xà phòng hóa ester nào sau đây thu được cả hai sản phẩm đều có khả năng tham gia phản ứng tráng bạc?",
+    "options": {
+      "A": "Vinyl acetate",
+      "B": "Allyl formate.",
+      "C": "Ethyl acrylate.",
+      "D": "Vinyl formate."
+    },
+    "answer": "B"
+  },
+  {
+    "id": "L12_C1_0038",
+    "stem": "Thủy phân hoàn toàn ester dimethyl oxalate bằng dung dịch NaOH vừa đủ thu được",
+    "options": {
+      "A": "2 muối và 1 alcohol.",
+      "B": "1 muối và 2 alcohol.",
+      "C": "1 muối và 1 alcohol.",
+      "D": "2 muối và 2 alcohol."
+    },
+    "answer": "C"
+  },
+  {
+    "id": "L12_C1_0039",
+    "stem": "Thủy phân hoàn toàn ester có công thức CH₃COOCH₂COOC₂H₅ trong dung dịch KOH, thu được sản phẩm gồm",
+    "options": {
+      "A": "CH₃COOH, HOCH₂COOH, C₂H₅OH.",
+      "B": "CH₃COOK, HOCH₂COOK, C₂H₅OH.",
+      "C": "C₂H₅COOK, HOCH₂COOK, CH₃OH.",
+      "D": "C₂H₅COOK, CH₃COOK, C₂H₅OH."
+    },
+    "answer": "B"
+  },
+  {
+    "id": "L12_C1_0040",
+    "stem": "Đun nóng ester phenyl acetate với lượng dư dung dịch NaOH, thu được các sản phẩm hữu cơ là",
+    "options": {
+      "A": "CH₃OH và C₆H₅ONa.",
+      "B": "CH₃COOH và C₆H₅ONa.",
+      "C": "CH₃COOH và C₆H₅OH.",
+      "D": "CH₃COONa và C₆H₅ONa."
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L12_C1_0041",
+    "stem": "Thủy phân hoàn toàn hỗn hợp methyl formate và ethyl formate trong dung dịch NaOH, thu được sản phẩm gồm",
+    "options": {
+      "A": "1 muối và 1 alcohol.",
+      "B": "2 muối và 2 alcohol.",
+      "C": "1 muối và 2 alcohol.",
+      "D": "2 muối và 1 alcohol."
+    },
+    "answer": "C"
+  },
+  {
+    "id": "L12_C1_0042",
+    "stem": "(Đề MH - 2021) Thủy phân hoàn toàn hỗn hợp ethyl propionate và ethyl formate trong dung dịch NaOH, thu được sản phẩm gồm",
+    "options": {
+      "A": "1 muối và 1 alcohol.",
+      "B": "2 muối và 2 alcohol.",
+      "C": "1 muối và 2 alcohol.",
+      "D": "2 muối và 1 alcohol."
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L12_C1_0043",
+    "stem": "Một số ester được dùng trong hương liệu, mĩ phẩm, bột giặt là nhờ các ester",
+    "options": {
+      "A": "là chất lỏng dễ bay hơi.",
+      "B": "có mùi thơm, an toàn với người.",
+      "C": "có thể bay hơi nhanh sau khi sử dụng.",
+      "D": "đều có nguồn gốc từ thiên nhiên."
+    },
+    "answer": "B"
+  },
+  {
+    "id": "L12_C1_0044",
+    "stem": "Ester X được tạo bởi methyl alcohol và acetic acid. Công thức của X là",
+    "options": {
+      "A": "HCOOC₂H₅.",
+      "B": "CH₃COOC₂H₅.",
+      "C": "CH₃COOCH₃.",
+      "D": "HCOOCH₃."
+    },
+    "answer": "C"
+  },
+  {
+    "id": "L12_C1_0045",
+    "stem": "Sản phẩm của phản ứng ester hóa giữa methyl alcohol và propionic acid là",
+    "options": {
+      "A": "propyl propionate.",
+      "B": "methyl propionate.",
+      "C": "propyl formate.",
+      "D": "methyl acetate."
+    },
+    "answer": "B"
+  },
+  {
+    "id": "L12_C1_0046",
+    "stem": "Ester X được tạo bởi ethyl alcohol và formic acid. Công thức của X là",
+    "options": {
+      "A": "HCOOCH₃.",
+      "B": "CH₃COOCH₃.",
+      "C": "HCOOC₂H₅.",
+      "D": "CH₃COOC₂H₅."
+    },
+    "answer": "C"
+  },
+  {
+    "id": "L12_C1_0047",
+    "stem": "Ester X có công thức phân tử C₄H₈O₂. Thủy phân X trong dung dịch H₂SO₄ loãng, đun nóng, thu được sản phẩm gồm propionic acid và chất hữu cơ Y. Công thức của Y là",
+    "options": {
+      "A": "CH₃OH.",
+      "B": "C₂H₅OH.",
+      "C": "CH₃COOH.",
+      "D": "HCOOH."
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L12_C1_0048",
+    "stem": "Ester X có công thức phân tử C₄H₈O₂. Thủy phân X trong dung dịch H₂SO₄ loãng, đun nóng, thu được sản phẩm gồm ethyl alcohol và chất hữu cơ Y. Công thức của Y là",
+    "options": {
+      "A": "CH₃OH.",
+      "B": "CH₃COOH.",
+      "C": "C₂H₅COOH.",
+      "D": "HCOOH."
+    },
+    "answer": "B"
+  },
+  {
+    "id": "L12_C1_0049",
+    "stem": "(Đề MH – 2022) Ester X có công thức phân tử C₄H₈O₂. Thủy phân X trong dung dịch NaOH dư, thu được sản phẩm gồm sodium propionate và alcohol Y. Công thức của Y là",
+    "options": {
+      "A": "C₃H₅(OH)₃.",
+      "B": "C₂H₅OH.",
+      "C": "C₃H₇OH.",
+      "D": "CH₃OH."
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L12_C1_0050",
+    "stem": "(Đề MH - 2024) Cho sơ đồ chuyển hóa sau: X (C₄H₈O₂) <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFcAAAAVCAAAAAAWMy3XAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAmMUJFKXUAAAHcSURBVDjLY/zPQBPARBtjGVgo096kcj5RC6vMfyzgkInAo//Pi6PuQrhnY+srItb8v5+gsf//BReXi1BVr67/fxXw/2wWNhP+Y3Wvrb5l4m6JgBtKDAwMDAyP/E9JMny1ErexfuzAoK/NoAdVNUdT4z8DAwMjKeHQYTA1h4GBYdml9wKd01wlGRi447psUJXcX67B4mOw7EIWKeZyzfdwZ2BgsIz6y9d504iBgYFBcSYDw50KBoaj1lAliloRPgz1DFGkxZt1elwHA8PT2WI/GRh/MjAwMPxgZGBQ6WBgKCAuQnGms5YPXQz/w2sKGBg07zMwMDDc1yTOQELmcizcyfDjKwcDA0POvicMDF8WlmNo/YnPYKzpzGzW3///K2f/j3ZuFNn+/3hEaUXEuv83AhU3/D9qaXn8/3SL/////5+hN/c/TsDwnwzwWA+33OKp5Ju7fj5uud+Ge8g29zU+ydOi1/7//8/4n6F8LyK0c+OhDJcPCMEFOlDG3XCEIPtRhOBZuKgPAwPDUb7LvAyM/xluv0WolpOCMs7+Rgjq8EAZ3y8ipQYzhOC9D/8ggMHk37/vSXETGRgYqV7+Vp/fzExxOYkJbm0/yMxAg3L9+npeBgZahAME0KoeAgC4WfJOChOENwAAAABJRU5ErkJggg==\" style=\"height:22px\" alt=\"\"> alcohol Y <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFgAAAATCAAAAAAxYZVHAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAmNUUo7WwAAAICSURBVDjLY/zPQBvARCNziTL41zsCCl4QZ/CV3GmTyz4j+K+LWQgYvHwPFsH/6OCn5sv//1dlIARCH/4nBFzeYAgxYkTeicLjDAxf5d7C+K+CjjDMfPKkceNanUN7Tp9lnH49QXZSvkmX23kV2dV9LrkKV2czd/GnE3bxBq//////Z/0B4+8L//9H6//qxuPp/wu2v/mfuuj/KZ//Tf+9H38x/r+2+kT8/+yD/1dlYxiDGXySbxkYGD7zscP4X9kY3n2f8VaUgYGB+4/whWszGUyfX5NkYGDg/sPA9efRixlsTAzsXzCMwTTY6OtzSYbNkXA+33cGIe40JoYTDAwMDAxFExjPGifE74LJykhmMDAwfOcnwmCWNa1qf563M2xj2DaFgYGBQecRA3NamFHk9fuvbvH/eX5mvalxzGnBNy/OvPpw98xtw39pukncdw2JSBUIkAyhEq+jCv/7cXEvmkrnT0icNS/+////H4/BG89B6E/Fr1HEf4S3oalsO43Me+T6A2tyg4GWt8L5vBBPfePGn0G+8KBwpxxfysDA+J9hTwYiDYswMDAwMLTOhwko74Qy/K7BhKKaIDSqtm/uf+FO/Ht6ZhoD43+G/3/Ro/LfP5gAIzNMMVwbE7QUwKYNAra3HePFG3lkgs9G9/GGMdlgtpY1AwMDDQyGhhiNzGUAAHKJI67e/hBhAAAAAElFTkSuQmCC\" style=\"height:19px\" alt=\"\"> CH₃COOHCông thức của X là",
+    "options": {
+      "A": "HCOOCH₂CH₂CH₃.",
+      "B": "C₂H₅COOCH₃.",
+      "C": "CH₃COOC₂H₅.",
+      "D": "CH₃CH₂CH₂COOH."
+    },
+    "answer": "C"
+  },
+  {
+    "id": "L12_C1_0051",
+    "stem": "(SGK – KNTT) Ester X có mùi đặc trưng giống mùi táo và có công thức phân tử C₅H₁₀O₂. Thuỷ phân X trong dung dịch NaOH, thu được sodium butanoate và một alcohol. Công thức của X là",
+    "options": {
+      "A": "CH₃COOCH₂CH₂CH₃.",
+      "B": "CH₃CH₂COOCH₂CH₃.",
+      "C": "CH₃CH₂CH₂COOCH₃.",
+      "D": "(CH₃)₂CHCOOCH₂CH₃."
+    },
+    "answer": "C"
+  },
+  {
+    "id": "L12_C1_0052",
+    "stem": "(SGK – CTST) Chất X có công thức phân tử C₄H₈O₂. Cho X tác dụng với dung dịch NaOH đun nóng, thu được chất Y có công thức phân tử C₃H₅O₂Na. X có công thức cấu tạo là",
+    "options": {
+      "A": "HCOOCH₂CH₂CH₃.",
+      "B": "HCOOCH(CH₃)₂.",
+      "C": "CH₃COOC₂H₅.",
+      "D": "C₂H₅COOCH₃."
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L12_C1_0053",
+    "stem": "(SBT – KNTT) Thực hiện phản ứng ester hoá giữa HOOC-COOH với hỗn hợp CH₃OH và C₂H₅OH thu được tối đa bao nhiêu ester hai chức?",
+    "options": {
+      "A": "2.",
+      "B": "3.",
+      "C": "1.",
+      "D": "4."
+    },
+    "answer": "B"
+  },
+  {
+    "id": "L12_C1_0054",
+    "stem": "(SBT – CTST) Thuỷ phân ester đơn chức, mạch hở E trong môi trường acid thu được alcohol X và carboxylic acid Y. Carboxylic acid Y được điều chế bằng cách lên men giấm alcohol X. Công thức phân tử ester E là",
+    "options": {
+      "A": "C₆H₁₀O₂.",
+      "B": "C₃H₆O₂.",
+      "C": "C₄H₆O₂.",
+      "D": "C₄H₈O₂."
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L12_C1_0055",
+    "stem": "(Đề TSĐH B - 2014) Trường hợp nào sau đây không tạo ra CH₃CHO?",
+    "options": {
+      "A": "Cho CH≡CH cộng H₂O (to, xúc tác HgSO₄, H₂SO₄).",
+      "B": "Oxi hoá không hoàn toàn C₂H₅OH bằng CuO đun nóng.",
+      "C": "Oxi hoá CH₃COOH.",
+      "D": "Thuỷ phân CH₃COOCH=CH₂ bằng dung dịch KOH đun nóng."
+    },
+    "answer": "C"
+  },
+  {
+    "id": "L12_C1_0056",
+    "stem": "(Đề TN THPT QG – 2022) Phát biểu nào sau đây sai?",
+    "options": {
+      "A": "Ethyl formate có khả năng tham gia phản ứng tráng bạc.",
+      "B": "Phân tử methyl methacrylate có một liên kết π trong phân tử.",
+      "C": "Ethyl acetate có công thức phân tử là C₄H₈O₂.",
+      "D": "Methyl acrylate có khả năng tham gia phản ứng cộng Br₂ trong dung dịch."
+    },
+    "answer": "B"
+  },
+  {
+    "id": "L12_C1_0057",
+    "stem": "(Đề TSĐH A - 2007) Phát biểu nào sau đây không đúng?",
+    "options": {
+      "A": "CH₃CH₂COOCH=CH₂ tác dụng với dung dịch NaOH thu được aldehyde và muối.",
+      "B": "CH₃CH₂COOCH=CH₂ tác dụng được với nước Br₂.",
+      "C": "CH₃CH₂COOCH=CH₂ có thể trùng hợp tạo polymer.",
+      "D": "CH₃CH₂COOCH=CH₂ cùng dãy đồng đẳng với CH₂=CHCOOCH₃."
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L12_C1_0058",
+    "stem": "(Đề TSCĐ - 2012) Phát biểu nào sau đây là đúng?",
+    "options": {
+      "A": "Ester isoamyl acetate có mùi chuối chín.",
+      "B": "Ethylene glycol là alcohol no, đơn chức, mạch hở.",
+      "C": "Acid béo là những carboxylic acid đa chức.",
+      "D": "Ethyl alcohol tác dụng được với dung dịch NaOH."
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L12_C1_0059",
+    "stem": "(SGK – KNTT) Phản ứng hoá học nào sau đây xảy ra thuận nghịch?",
+    "options": {
+      "A": "Đun nóng ethyl acetate với dung dịch H₂SO₄ loãng.",
+      "B": "Đun nóng ethyl acetate với dung dịch NaOH.",
+      "C": "Hydrogen hoá chất béo có gốc acid không no.",
+      "D": "Đun nóng chất béo với dung dịch NaOH."
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L12_C1_0060",
+    "stem": "(SGK – KNTT) Cho các phát biểu sau:(1) Một số ester có mùi thơm nên được dùng làm chất tạo hương trong công nghiệp thực phẩm và mĩ phẩm.(2) Chất béo là triester của glycerol với acid béo.(3) Chất béo tan tốt trong nước.(4) Mỡ động vật, dầu thực vật có thể được dùng làm nguyên liệu để sản xuất xà phòng.(5) Phản ứng thuỷ phân ester trong môi trường acid luôn là phản ứng một chiều.Số phát biểu đúng là",
+    "options": {
+      "A": "2.",
+      "B": "3.",
+      "C": "4.",
+      "D": "5."
+    },
+    "answer": "B"
+  },
+  {
+    "id": "L12_C1_0061",
+    "stem": "Phát biểu nào sau đây đúng?",
+    "options": {
+      "A": "Chất béo là triester của glycerol với acid.",
+      "B": "Chất béo là triester của glycerol với acid vô cơ.",
+      "C": "Chất béo là triester của glycerol với acid béo",
+      "D": "Chất béo là triester của alcohol với acid béo."
+    },
+    "answer": "C"
+  },
+  {
+    "id": "L12_C1_0062",
+    "stem": "(Đề MH - 2021) Chất nào sau đây là acid béo?",
+    "options": {
+      "A": "Palmitic acid.",
+      "B": "Acetic acid.",
+      "C": "Formic acid.",
+      "D": "Propionic acid."
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L12_C1_0063",
+    "stem": "(Đề THPT QG - 2019) Công thức stearic acid là",
+    "options": {
+      "A": "C₂H₅COOH.",
+      "B": "CH₃COOH.",
+      "C": "C₁₇H₃₅COOH.",
+      "D": "HCOOH."
+    },
+    "answer": "C"
+  },
+  {
+    "id": "L12_C1_0064",
+    "stem": "(Đề TN THPT QG - 2021) Số nguyên tử carbon trong phân tử palmitic acid là",
+    "options": {
+      "A": "17.",
+      "B": "18.",
+      "C": "19.",
+      "D": "16."
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L12_C1_0065",
+    "stem": "(SBT – KNTT) Acid nào sau đây không thuộc loại acid béo?",
+    "options": {
+      "A": "Oleic acid.",
+      "B": "Palmitic acid.",
+      "C": "Stearic acid.",
+      "D": "Acetic acid."
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L12_C1_0067",
+    "stem": "(Đề THPT QG - 2019) Công thức phân tử của oleic acid là",
+    "options": {
+      "A": "C₂H₅COOH.",
+      "B": "HCOOOH.",
+      "C": "CH₃COOH.",
+      "D": "C₁₇H₃₃COOH."
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L12_C1_0068",
+    "stem": "(Đề TN THPT QG - 2021) Số nguyên tử hydrogen trong phân tử stearic acid là",
+    "options": {
+      "A": "33.",
+      "B": "36.",
+      "C": "34.",
+      "D": "31."
+    },
+    "answer": "B"
+  },
+  {
+    "id": "L12_C1_0069",
+    "stem": "(Đề MH - 2024) Số nguyên tử hydrogen trong phân tử oleic acid là",
+    "options": {
+      "A": "33.",
+      "B": "34.",
+      "C": "35.",
+      "D": "36."
+    },
+    "answer": "B"
+  },
+  {
+    "id": "L12_C1_0070",
+    "stem": "(SBT – KNTT) Sáp ong do ong thợ tiết ra và xây dựng tạo thành tổ ong để lưu trữ mật ong và bảo vệ ấu trùng (nhộng). Trong sáp ong có chứa thành phần chính là triacontanyl palmitate (C₁₅H₃₁COOC₃₀H₆₁). Ester này thuộc loại",
+    "options": {
+      "A": "không no, đơn chức.",
+      "B": "không no, đa chức.",
+      "C": "no, đơn chức.",
+      "D": "no, đa chức."
+    },
+    "answer": "C"
+  },
+  {
+    "id": "L12_C1_0071",
+    "stem": "(Đề TN THPT QG – 2022) Chất nào sau đây là chất béo?",
+    "options": {
+      "A": "Triolein.",
+      "B": "Methyl acetate.",
+      "C": "Cellulose.",
+      "D": "Glycerol."
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L12_C1_0072",
+    "stem": "(Đề THPT QG - 2019) Công thức của tristearin là",
+    "options": {
+      "A": "(C₂H₅COO)₃C₃H₅.",
+      "B": "(C₁₇H₃₅COO)₃C₃H₅.",
+      "C": "(CH₃COO)₃C₃H₅.",
+      "D": "(HCOO)₃C₃H₅."
+    },
+    "answer": "B"
+  },
+  {
+    "id": "L12_C1_0073",
+    "stem": "(Đề THPT QG - 2019) Công thức của triolein là",
+    "options": {
+      "A": "(C₁₇H₃₃COO)₃C₃H₅.",
+      "B": "(HCOO)₃C₃H₅.",
+      "C": "(C₂H₅COO)₃C₃H₅.",
+      "D": "(CH₃COO)₃C₃H₅."
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L12_C1_0074",
+    "stem": "(Đề TN THPT QG – 2022) Số nguyên tử oxygen có trong phân tử triolein là",
+    "options": {
+      "A": "6.",
+      "B": "2",
+      "C": "3.",
+      "D": "4."
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L12_C1_0075",
+    "stem": "(HTHH) Triolein là chất béo không no có công thức (C₁₇H₃₃COO)₃C₃H₅. Số liên kết C=C có trong một phân tử triolein là",
+    "options": {
+      "A": "1.",
+      "B": "2.",
+      "C": "3.",
+      "D": "4."
+    },
+    "answer": "C"
+  },
+  {
+    "id": "L12_C1_0076",
+    "stem": "(HTHH) Nhận định nào sau đây về phân tử triolein là không đúng?",
+    "options": {
+      "A": "Chứa 3 liên kết π.",
+      "B": "Chứa 57 nguyên tử carbon.",
+      "C": "Chứa 3 liên kết đôi C=C.",
+      "D": "Chứa 3 chức ester."
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L12_C1_0077",
+    "stem": "Chất béo động vật hầu hết ở thể rắn do chứa",
+    "options": {
+      "A": "chủ yếu gốc acid béo không no.",
+      "B": "glycerol trong phân tử.",
+      "C": "chủ yếu gốc acid béo no.",
+      "D": "gốc acid béo."
+    },
+    "answer": "C"
+  },
+  {
+    "id": "L12_C1_0078",
+    "stem": "Chất béo có công thức nào sau đây là chất rắn ở điều kiện thường?",
+    "options": {
+      "A": "(C₁₇H₃₁COOH)₃C₃H₅.",
+      "B": "(C₁₇H₂₉COOH)₃C₃H₅.",
+      "C": "(C₁₅H₃₁COO)₃C₃H₅.",
+      "D": "(C₁₇H₃₃COOH)₃C₃H₅."
+    },
+    "answer": "C"
+  },
+  {
+    "id": "L12_C1_0079",
+    "stem": "(HTHH) Cho các nhận định về triolein: (1) ở thể lỏng; (2) nhẹ hơn nước; (3) tan tốt trong nước; (4) bị thủy phân trong môi trường kiềm. Số nhận định đúng là",
+    "options": {
+      "A": "1.",
+      "B": "2.",
+      "C": "3.",
+      "D": "4."
+    },
+    "answer": "C"
+  },
+  {
+    "id": "L12_C1_0080",
+    "stem": "(SBT – KNTT) Khi để lâu trong không khí, chất béo sẽ",
+    "options": {
+      "A": "bị bay hơi.",
+      "B": "bị nóng chảy.",
+      "C": "có mùi khó chịu.",
+      "D": "có mùi thơm."
+    },
+    "answer": "C"
+  },
+  {
+    "id": "L12_C1_0081",
+    "stem": "(SBT – KNTT) Dầu mỡ khi chiên rán nhiều lần thường có mùi khó chịu do nguyên nhân chính là dầu mỡ bị",
+    "options": {
+      "A": "thuỷ phân.",
+      "B": "xà phòng hoá.",
+      "C": "oxi hoá.",
+      "D": "hydrogen hoá."
+    },
+    "answer": "C"
+  },
+  {
+    "id": "L12_C1_0082",
+    "stem": "Đặc điểm chung của phản ứng thủy phân chất béo trong môi trường acid là",
+    "options": {
+      "A": "phản ứng xà phòng hóa.",
+      "B": "phản ứng không thuận nghịch.",
+      "C": "phản ứng cho - nhận electron.",
+      "D": "phản ứng thuận nghịch."
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L12_C1_0083",
+    "stem": "Thủy phân hoàn toàn một lượng chất béo trong dung dịch NaOH (vừa đủ), thu được 1 mol glycerol và",
+    "options": {
+      "A": "3 mol muối của acid béo.",
+      "B": "1 mol sodium acetate.",
+      "C": "1 mol muối của acid béo.",
+      "D": "3 mol sodium acetate."
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L12_C1_0084",
+    "stem": "(Đề TN THPT QG - 2020) Thủy phân tripalmitin ((C₁₅H₃₁COO)₃C₃H₅) trong dung dịch NaOH thu được alcohol có công thức là",
+    "options": {
+      "A": "C₂H₄(OH)₂.",
+      "B": "C₂H₅OH.",
+      "C": "CH₃OH.",
+      "D": "C₃H₅(OH)₃."
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L12_C1_0085",
+    "stem": "(Đề TN THPT QG - 2020) Thủy phân tristearin ((C₁₇H₃₅COO)₃C₃H₅) trong dung dịch NaOH, thu được muối có công thức là",
+    "options": {
+      "A": "C₂H₃COONa.",
+      "B": "HCOONa.",
+      "C": "C₁₇H₃₃COONa.",
+      "D": "C₁₇H₃₅COONa."
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L12_C1_0086",
+    "stem": "(Đề THPT QG - 2016) Xà phòng hóa chất nào sau đây thu được glycerol?",
+    "options": {
+      "A": "Benzyl acetate.",
+      "B": "Tristearin.",
+      "C": "Methyl formate.",
+      "D": "Methyl acetate."
+    },
+    "answer": "B"
+  },
+  {
+    "id": "L12_C1_0087",
+    "stem": "(Đề TN THPT QG – 2022) Đun nóng triglyceride trong dung dịch NaOH dư đến phản ứng hoàn toàn luôn thu được chất nào sau đây?",
+    "options": {
+      "A": "Glycerol.",
+      "B": "Ethylene glycol.",
+      "C": "Methanol.",
+      "D": "Ethanol."
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L12_C1_0088",
+    "stem": "(Đề TN THPT QG – 2023) Thủy phân hoàn toàn triglyceride X trong dung dịch NaOH thu được C₁₅H₃₁COONa và C₃H₅(OH)₃. Công thức của X là",
+    "options": {
+      "A": "(C₁₇H₃₁COO)₃C₃H₅.",
+      "B": "(C₁₅H₃₁COO)₃C₃H₅.",
+      "C": "(C₁₇H₃₃COO)₃C₃H₅.",
+      "D": "(C₁₇H₃₅COO)₃C₃H₅."
+    },
+    "answer": "B"
+  },
+  {
+    "id": "L12_C1_0089",
+    "stem": "(HTHH) Thủy phân hoàn toàn hỗn hợp triolein và tripalmitin trong dung dịch NaOH thu được sản phẩm gồm",
+    "options": {
+      "A": "1 muối và 1 alcohol.",
+      "B": "2 muối và 2 alcohol.",
+      "C": "1 muối và 2 alcohol.",
+      "D": "2 muối và 1 alcohol."
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L12_C1_0090",
+    "stem": "(HTHH) Thủy phân hoàn toàn tristearin có công thức (C₁₇H₃₅COO)₃C₃H₅ trong dung dịch KOH, thu được potassium stearate và glycerol với tỉ lệ mol tương ứng là",
+    "options": {
+      "A": "1 : 3.",
+      "B": "1 : 1.",
+      "C": "2 : 1.",
+      "D": "3 : 1."
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L12_C1_0091",
+    "stem": "(Đề THPT QG - 2017) Chất nào sau đây không phản ứng với H₂ (xúc tác Ni, to)?",
+    "options": {
+      "A": "Vinyl acetate.",
+      "B": "Triolein.",
+      "C": "Tripalmitin.",
+      "D": "Glucose."
+    },
+    "answer": "C"
+  },
+  {
+    "id": "L12_C1_0092",
+    "stem": "Chất nào sau đây không làm mất màu nước bromine?",
+    "options": {
+      "A": "Triolein.",
+      "B": "Phenol.",
+      "C": "Palmitic acid.",
+      "D": "Vinyl acetate."
+    },
+    "answer": "C"
+  },
+  {
+    "id": "L12_C1_0093",
+    "stem": "(Đề TSĐH B - 2011) Triolein không tác dụng với chất (hoặc dung dịch) nào sau đây?",
+    "options": {
+      "A": "H₂O (xúc tác H₂SO₄ loãng, đun nóng).",
+      "B": "Cu(OH)₂ (ở điều kiện thường).",
+      "C": "Dung dịch NaOH (đun nóng).",
+      "D": "H₂ (xúc tác Ni, đun nóng)."
+    },
+    "answer": "B"
+  },
+  {
+    "id": "L12_C1_0094",
+    "stem": "Từ dầu thực vật làm thế nào để sản xuất được bơ nhân tạo?",
+    "options": {
+      "A": "Hydrogen hóa acid béo.",
+      "B": "Đề hydrogen hóa chất béo lỏng.",
+      "C": "Hydrogen hóa chất béo lỏng.",
+      "D": "Xà phòng hóa chất béo lỏng."
+    },
+    "answer": "C"
+  },
+  {
+    "id": "L12_C1_0095",
+    "stem": "Cho sơ đồ chuyển hóa giữa các hợp chất hữu cơ:Tripalmitin <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFcAAAAXCAAAAABb+4zcAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAmOUyeoUcAAAHaSURBVDjLtZVPSNNhGMc/S8vIi6awoQtU6GCn/lwUIrCog2iC0EkPaxeJBKFBNcw/1FjlQQ9GimCevCgiK2zKBKtT/1CkQkHnCFqE20CWf1K339NhcxG+P5PZ73t5H573eT+87/d54DUJhuiQMVgyDwqIu3JKrxhw3zfWpmdG+LBgZs0IrklQtV6fG3UeHSTscEYB2Gh52OPqiPmrKxfpy3r+p+zkMtmq46KQv0JExOe2BOSFL5G6dV9EHG5pviMSyt4p7JqTWPsTrwKhnAdtHYDS5vrXQM/mx2s1gz6g1ub8q+57f8Re3KZ8rYL7rmHr6+ncKaBxzHUOrhaOeaqW84C8ILx9xPpOZYG5rljHRQX37GTgxnjC94Ez9gperSxpGZZQAYROQNldwp3/bqeib4fzczPzjwNg6X3MT/fNy2AbAYau7x6G/XPB2gdEJ6fC1Ng5ltP4fj7SlvGgu7XQEfj0eQlP7CW/rF+AC/dmdjdHfx72o9vzOhvDoyIi6XL9Xr2d7fLZA3D30IeSoIhJKFpNeRPMSqx1E6nU0MVk8LQ1lWtqSQazl5JBBE5pmqZpAN8qPen7qyMtvj1tnjPCh/h5n4iY/vs/5PnRsOdkp6utIxjCTciof/M3fodnQhmSLDQAAAAASUVORK5CYII=\" style=\"height:22px\" alt=\"\"> X <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFMAAAAYCAAAAACjRp5zAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAmOtWX8P0AAAG3SURBVDjLtZVPSBRhGMZ/Ywsba7FkCAVJtSgLYRQ4HqJLJCid3AiCRFB3oUMHqYXwENQq3oIOdenSsUsg7SVEWysoCOqmEKiFf5ZYYgkZc6Ldxe/tEMvODM6flem5DN/zvt/zPe/MMzOaEDpawpcMovnxhjbxjU+jWnYZ8qmxW8MXHvD2csp9h/jjJUURec2qSK5zU0S2h0QmBl37PX0eeu8gVqYedgCH0/uf3dx1EHn6Aejz1Iy4VioC1T9ENSAbgxLwtS0W4Bm5a578AQOw1A08OgGFeVC1AJIemnM1ep/20GnlEoYR99d0v5/ndJ2krh+0ctdaZgB4tk/NvZCczq0D1RnvNq9grv4WESlcIfNF3g0ysijy6urNO+m+cVm4dOaFs738/d81SOaDYk03/TPfJE6dHxHf2ZvFz2P3REQiUDZsp7U30rK7ZqscOG1ZlA1bXNvjQOvj64k0IJKxT/CkcW7RXjlq9eTYVUdkQ0QTtkwbe6S14bNk93ncstgyobKtlFKilFLxmFJKLdydvA9amN/5X2cvPidkzduf30Txet+bR3H2Q5SQfZZ2ughbs47/8d/8C8/jq38ZbQIMAAAAAElFTkSuQmCC\" style=\"height:19px\" alt=\"\"> Y <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFgAAAAfCAAAAABGo1U8AAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAmMUJFKXUAAALBSURBVEjHtVZfSJNRHD2LwSwrTVFWJkpBSyqlPz5lYIRkEWgQSpBQD6IsgvVgD1kEgS4NbShaEiUJVpqJOETXSsJwWVE6rKBAXea2hi039yfXdL8evn1j9m3fNnPn5Xfv7557uJy7e74JCNHBmijphhAeuth08xSaUkZwT6wBAHy80Nx4yWYpPaKbl+ZO8u0lHkxnuYmeeaZ2ERklRETkyjARdZZT63miR2V8e3lP/CRPCOQJ/Dof4pKB451hWCHkW5wRM9WsgI0ZmRIAxNpc0CowunbFwilGpibK8KMdALDZDMC2UYQsGR6/XPHlFalcwAu9X2efwwgoT/+vFaktFRLn+9sdc++yB6xv9j+0JxZ3Ve1YNMqtIxPfEjRfdek8myl8GGpehUObbyQiikD4z5K7JCyitJ+IBASLnT19ksh79262s9VbLXZg5nXMUqGP4zGwHFESAJPb5dtiye3cAwGhuZel1GYytVzHdga8lcuZL2I7mbUAysc13ukhj+dT4YOIPA4XY3utEXkcNk5MMh6vNhyfswGshvB070Jx6r9N7ssbSmzDsPg+AGCwQlHyyxuVwYV7Dh/t4Xa5FqXNEkmMRER00E5aCxuVgaFUU8O4tpHT5w/6bee0mXG8Uem80z1R8FxdwFkIlBUtsZhjRk3y/ANdbFSKAgmv25m/HbIAC4FOXCaTbWJGG6p1gm5fVEYEfivuQpQjXBaVTiaipzwsJdjPiis8bFdhxKpC+9NqaK8q9CeFXVUN9aNyQH0Ni3XJwPcrSKoDfqY7AWTXjwVWDv6AFqTL5xptJSn7yHG5v5KoZoqo9DfP8wtuhavt+rK5vbfvrVUfj/G0HADx0/hyNobHxeBfkDO7O6T+8/VyiyMu3YyMVrEJmD0GCf/tRZYvSzdcRERkvhWKGWlWuOeSAcCwJRQxCunGIGp/Cv8CHSVi593b7rUAAAAASUVORK5CYII=\" style=\"height:26px\" alt=\"\"> ZTên gọi của Z là",
+    "options": {
+      "A": "methyl palmitate.",
+      "B": "methyl linoleate.",
+      "C": "methyl stearate.",
+      "D": "methyl oleate."
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L12_C1_0096",
+    "stem": "Cho sơ đồ chuyển hóa: Triolein <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFgAAAAVCAAAAADnOHZaAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAmLs9NJIAAAAHsSURBVDjLtZVNSBRhGMd/o6FpaR+GkpQfecmoliE9WBCKbWxBHrwGnTLFAhWKkDpKx7KDIHmoS+WhQ4SBh4Um6EMKMjc/KljZSlNhY9PVHaldnw4O63686pbN/zTvf/7Pj5nneecdTbBHaTZx2fQfGF05gRY7ntgcOudZsAP8LZe8r/8Onomb8nTMtSaIljr4Z0Otb665etxavunWgM5Wa/nQvZLcE+TH3qR65fCCObD9WGYJx5f2LTuLV58B6D4r0ebU8wDo23wiy3H/8JbUwFXDic7TKqAt38/3as+LDgOcjxoBQt1FpWUXVQwFeCL825dRCEOdDGZZnqcIXgduGY8Ld1IBUPocgOz9rjJ1KxXg6/6pS8Vd4Gil14Ar5TPtLGSAtzgmlDnP2lKA73GwL2Z5ucDVTq4Ju90A6aYGYG5bvqutdiQod8UpYHbg05fgq88+CiI7QPdCTai5dyTkOnt3ahK8ur8kBFTefJ9YPWIAIOuqZ1DkV0043qydkwZTnY84x0VkfXC/ISIydi3OvPFWPr5creKdIyCiCe6m6FsM7AIgqEed20dOH+BONu4LabGh+a0k1J0fXen2h7oHaIJEkkYZjjrp1seqCCVZS5YmT/YfSqXHf636JyJiw0E/fPTMWvtwo7Lt1/QHIb2EtYoM3OEAAAAASUVORK5CYII=\" style=\"height:22px\" alt=\"\"> E <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFcAAAAXCAAAAABb+4zcAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAmNtwhvNYAAAHWSURBVDjLY/zPQBPARBtjGVgoNeDJgh8ZMjRw7+zI+Jm0cO9tcaZbWIQpdi/j//+MJJl7XFfvB8N+1+MQ3sLS6RML334qVzrCsF+q+TtCmeqrp6rYtP/HAhbU/f///392XN7///kQkU1O////3+z2f7f5////tU/DFKb///+4pe4RFiOwhu/vnwwMDAwMUww8PBkYfqUb7tiyNICBgcE7+BmquvMrddJkqrH6Fou5U2e/+7nDtZuBgXdR2HkGBpZ2icUvngkzMDAwCj1leNbBwPAGptKQOwdXKGIxNzF8yf1adgYGBgbrpCQVhpdzpd/9k3nNwMDw763sR6kKBoYlREQnlnjjEuHhFOFlYGBgYKh/dYGhVzVRlCFh3X8Ghg3OEuiRg9NcrOHr+4OBgeHY1f2OLEtzGSx6n/w5EvG2WPHn4yWf978+bnn4/S4dBpWd2gwMDFqlZaLomv8x4UwPRICyG7hkkn/8////P5n54p6jOi4p11QGBgYGRuqXk0FGNQwMjP8ZFL7AhZ6yQ2gsQhed4UImOxjQxL59Z9D+9+/fv3//GRgYvrw5a0R19/7/9y9OYDoVyjM0wMi88+1iBlrUF4tXsTDQIt5+sTHQxFwIoFW9CQBc+yEeyxukTgAAAABJRU5ErkJggg==\" style=\"height:22px\" alt=\"\"> T <img class=\"formula\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFMAAAAYCAAAAACjRp5zAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oIGxAmMUJFKXUAAAG3SURBVDjLtZVPSBRhGMZ/Ywsba7FkCAVJtSgLYRQ4HqJLJCid3AiCRFB3oUMHqYXwENQq3oIOdenSsUsg7SVEWysoCOqmEKiFf5ZYYgkZc6Ldxe/tEMvODM6flem5DN/zvt/zPe/MMzOaEDpawpcMovnxhjbxjU+jWnYZ8qmxW8MXHvD2csp9h/jjJUURec2qSK5zU0S2h0QmBl37PX0eeu8gVqYedgCH0/uf3dx1EHn6Aejz1Iy4VioC1T9ENSAbgxLwtS0W4Bm5a578AQOw1A08OgGFeVC1AJIemnM1ep/20GnlEoYR99d0v5/ndJ2krh+0ctdaZgB4tk/NvZCczq0D1RnvNq9grv4WESlcIfNF3g0ysijy6urNO+m+cVm4dOaFs738/d81SOaDYk03/TPfJE6dHxHf2ZvFz2P3REQiUDZsp7U30rK7ZqscOG1ZlA1bXNvjQOvj64k0IJKxT/CkcW7RXjlq9eTYVUdkQ0QTtkwbe6S14bNk93ncstgyobKtlFKilFLxmFJKLdydvA9amN/5X2cvPidkzduf30Txet+bR3H2Q5SQfZZ2ughbs47/8d/8C8/jq38ZbQIMAAAAAElFTkSuQmCC\" style=\"height:19px\" alt=\"\"> GTên gọi của G là",
+    "options": {
+      "A": "oleic acid.",
+      "B": "linoleic acid.",
+      "C": "stearic acid.",
+      "D": "palmitic acid."
+    },
+    "answer": "C"
+  },
+  {
+    "id": "L12_C1_0097",
+    "stem": "(Đề TSCĐ - 2009) Phát biểu nào sau đây sai?",
+    "options": {
+      "A": "Trong công nghiệp có thể chuyển hoá chất béo lỏng thành chất béo rắn.",
+      "B": "Số nguyên tử hydrogen trong phân tử ester đơn và đa chức luôn là một số chẵn.",
+      "C": "Sản phẩm của phản ứng xà phòng hoá chất béo là acid béo và glycerol.",
+      "D": "Nhiệt độ sôi của ester thấp hơn hẳn so với alcohol có cùng phân tử khối."
+    },
+    "answer": "C"
+  },
+  {
+    "id": "L12_C1_0098",
+    "stem": "(SBT Hóa học 12 CB) Phát biểu nào sau đây không đúng?",
+    "options": {
+      "A": "Chất béo là triester của glycerol và các monocarboxylic acid có mạch carbon dài, không phân nhánh.",
+      "B": "Chất béo chứa chủ yếu các gốc no của acid thường là chất rắn ở nhiệt độ phòng.",
+      "C": "Chất béo chứa chủ yếu các gốc không no của acid thường là chất lỏng ở nhiệt độ phòng và được gọi là dầu.",
+      "D": "Phản ứng thuỷ phân chất béo trong môi trường kiềm là phản ứng thuận nghịch."
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L12_C1_0099",
+    "stem": "(SBT Hóa học 12 CB) Chất béo có đặc điểm chung nào sau đây?",
+    "options": {
+      "A": "Không tan trong nước, nặng hơn nước, có trong thành phần chính của dầu, mỡ động, thực vật.",
+      "B": "Không tan trong nước, nhẹ hơn nước, có trong thành phần chính của dầu, mỡ động, thực vật.",
+      "C": "Là chất lỏng, không tan trong nước, nhẹ hơn nước, có trong thành phần chính của dầu, mỡ động, thực vật.",
+      "D": "Là chất rắn, không tan trong nước, nhẹ hơn nước, có trong thành phần chính của dầu, mỡ động, thực vật."
+    },
+    "answer": "B"
+  },
+  {
+    "id": "L12_C1_0100",
+    "stem": "(SBT Hóa học 12 NC) Cho các phát biểu sau đây:a) Các triglyceride đều có phản ứng cộng hydrogen.b) Chỉ có các chất béo ở thể lỏng mới có phản ứng cộng hydrogen.c) Các triglyceride có gốc acid béo no thường là chất rắn ở điều kiện thường.d) Có thể dùng nước để phân biệt ester với alcohol hoặc với acid tạo nên chính ester đó.Số phát biểu đúng là",
+    "options": {
+      "A": "1.",
+      "B": "2.",
+      "C": "3.",
+      "D": "4."
+    },
+    "answer": "C"
+  },
+  {
+    "id": "L12_C1_0101",
+    "stem": "(SBT – CD) Chất nào sau đây là thành phần chủ yếu của xà phòng?",
+    "options": {
+      "A": "CH₃COONa.",
+      "B": "CH₃(CH₂)₃COONa.",
+      "C": "CH₂=CHCOONa.",
+      "D": "C₁₇H₃₅COONa."
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L12_C1_0102",
+    "stem": "(SBT – CD) Chất nào sau đây là thành phần chính của chất giặt rửa tổng hợp?",
+    "options": {
+      "A": "C₁₅H₃₁COONa.",
+      "B": "(C₁₇H₃₅COO)₂Ca.",
+      "C": "CH₃-[CH₂]₁₁-C₆H₄-SO₃Na.",
+      "D": "C₁₇H₃₅COOK."
+    },
+    "answer": "C"
+  },
+  {
+    "id": "L12_C1_0103",
+    "stem": "(SBT – KNTT) Chất nào sau đây được sử dụng làm xà phòng?",
+    "options": {
+      "A": "CH₃COOK.",
+      "B": "C₁₅H₃₁COONa.",
+      "C": "CH₃ [CH₂]₁₁OSO₃Na.",
+      "D": "C₁₅H₃₁COOCH₃."
+    },
+    "answer": "B"
+  },
+  {
+    "id": "L12_C1_0104",
+    "stem": "(SBT – KNTT) Dung dịch nào sau đây là chất giặt rửa tự nhiên?",
+    "options": {
+      "A": "Nước quả cam.",
+      "B": "Nước quả chanh.",
+      "C": "Nước quả bồ kết.",
+      "D": "Nước quả dâu."
+    },
+    "answer": "C"
+  },
+  {
+    "id": "L12_C1_0105",
+    "stem": "(SBT – KNTT) Hợp chất nào sau đây được sử dụng làm chất giặt rửa tổng hợp?",
+    "options": {
+      "A": "CH₃COONa.",
+      "B": "CH₃[CH₂]₁₂COONa.",
+      "C": "CH₃[CH₂]₁₂COOCH₃.",
+      "D": "CH₃[CH₂]₁₁OSO₃Na."
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L12_C1_0106",
+    "stem": "(SBT – CTST) Trong số các vật phẩm tiêu dùng sau: xà phòng bánh, dầu gội đầu, nước bồ kết và baking soda (NaHCO₃), số vật phẩm có thành phần chất giặt rửa tự nhiên và tổng hợp là",
+    "options": {
+      "A": "1.",
+      "B": "2.",
+      "C": "3.",
+      "D": "4."
+    },
+    "answer": "C"
+  },
+  {
+    "id": "L12_C1_0107",
+    "stem": "(SBT Hóa học 12 CB) Trong thành phần của xà phòng và của chất giặt rửa thường có một số ester. Vai trò của các ester này là",
+    "options": {
+      "A": "làm tăng khả năng giặt rửa.",
+      "B": "tạo hương thơm mát, dễ chịu.",
+      "C": "tạo màu sắc hấp dẫn.",
+      "D": "làm giảm giá thành của xà phòng và chất giặt rửa."
+    },
+    "answer": "B"
+  },
+  {
+    "id": "L12_C1_0108",
+    "stem": "(SBT – KNTT) Xà phòng và chất giặt rửa có đặc điểm chung nào sau đây?",
+    "options": {
+      "A": "Không tan trong nước.",
+      "B": "Là muối sodium hoặc potassium của acid béo.",
+      "C": "Là muối sulfonate hoặc sulfate của acid béo.",
+      "D": "Thường có cấu tạo gồm hai phần là phần không phân cực (kị nước) và phần phân cực (ưa nước)."
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L12_C1_0109",
+    "stem": "(SBT Hóa học 12 CB) Xà phòng và chất giặt rửa có điểm chung là",
+    "options": {
+      "A": "chứa muối sodium có khả năng làm giảm sức căng bề mặt của các chất bẩn.",
+      "B": "các muối được lấy từ phản ứng xà phòng hoá chất béo.",
+      "C": "sản phẩm của công nghệ hoá dầu.",
+      "D": "có nguồn gốc từ động vật hoặc thực vật."
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L12_C1_0110",
+    "stem": "Nguyên nhân nào làm cho bồ kết có khả năng giặt rửa vì",
+    "options": {
+      "A": "trong bồ kết có chất khử mạnh.",
+      "B": "bồ kết có thành phần là ester của glycerol.",
+      "C": "trong bồ kết có những chất oxi hóa mạnh.",
+      "D": "bồ kết có những chất có cấu tạo kiểu đầu phân cực gắn với đuôi dài không phân cực."
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L12_C1_0111",
+    "stem": "Để tẩy vết dầu, mỡ bám trên quần áo, sử dụng chất nào sau đây là phù hợp nhất?",
+    "options": {
+      "A": "Nước cất.",
+      "B": "Dung dịch sodium hydroxide.",
+      "C": "Dung dịch nước Javel.",
+      "D": "Dung dịch xà phòng."
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L12_C1_0114",
+    "stem": "Từ tristearin, người ta dùng phản ứng nào để điều chế ra xà phòng?",
+    "options": {
+      "A": "Phản ứng ester hoá.",
+      "B": "Phản ứng thuỷ phân ester trong môi trường acid.",
+      "C": "Phản ứng cộng hydrogen.",
+      "D": "Phản ứng thủy phân ester trong môi trường kiềm."
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L12_C1_0115",
+    "stem": "(SGK – CTST) Hoá chất chủ đạo trong ngành công nghiệp sản xuất xà phòng là",
+    "options": {
+      "A": "K₂SO₄.",
+      "B": "NaCl.",
+      "C": "Mg(NO₃)₂.",
+      "D": "NaOH."
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L12_C1_0116",
+    "stem": "Xà phòng được điều chế bằng cách nào trong các cách sau đây?",
+    "options": {
+      "A": "Thủy phân saccharose.",
+      "B": "Thủy phân mỡ trong kiềm.",
+      "C": "Phản ứng của acid với kim loại.",
+      "D": "Đề hydrogen hóa mỡ tự nhiên."
+    },
+    "answer": "B"
+  },
+  {
+    "id": "L12_C1_0121",
+    "stem": "SBT Hóa học 12 CB) Không nên dùng xô, chậu bằng nhôm để đựng quần áo ngâm xà phòng vì",
+    "options": {
+      "A": "quần áo bị mục nhanh.",
+      "B": "xô chậu nhanh hỏng do trong xà phòng có kiềm.",
+      "C": "quần áo bị bạc màu nhanh.",
+      "D": "quần áo không sạch."
+    },
+    "answer": "B"
+  },
+  {
+    "id": "L12_C1_0122",
+    "stem": "Không nên dùng xà phòng khi giặt rửa với nước cứng vì",
+    "options": {
+      "A": "xuất hiện kết tủa làm giảm tác dụng giặt rửa và ảnh hưởng đến chất lượng sợi vải.",
+      "B": "gây ô nhiễm môi trường.",
+      "C": "tạo ra kết tủa CaCO₃, MgCO₃ bám lên sợi vải.",
+      "D": "gây hại cho da tay."
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L12_C1_0124",
+    "stem": "(SBT Hóa học 12 NC) Chất giặt rửa tổng hợp có ưu điểm",
+    "options": {
+      "A": "dễ kiếm.",
+      "B": "rẻ tiền hơn xà phòng.",
+      "C": "có thể dùng để giặt rửa cả trong nước cứng.",
+      "D": "có khả năng hoà tan tốt trong nước."
+    },
+    "answer": "C"
+  },
+  {
+    "id": "L12_C1_0125",
+    "stem": "(SGK Hóa học 12 NC) Phát biểu nào sau đây đúng?",
+    "options": {
+      "A": "Chất giặt rửa là những chất có tác dụng giống như xà phòng nhưng được tổng hợp từ dầu mỏ.",
+      "B": "Chất giặt rửa là những chất có tác dụng làm sạch các vết bẩn trên bề mặt vật rắn.",
+      "C": "Chất giặt rửa là những chất khi dùng cùng với nước thì có tác dụng làm sạch các vết bẩn bám trên các vật rắn.",
+      "D": "Chất giặt rửa là những chất khi dùng cùng với nước thì có tác dụng làm sạch các vết bẩn bám trên các vật rắn mà không gây ra phản ứng hóa học với các chất đó."
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L12_C1_0126",
+    "stem": "(SGK Hóa học 12 CB) Cho các phát biểu sau:a) Xà phòng là sản phẩm của phản ứng xà phòng hóa chất béo với dung dịch NaOH hoặc KOH.b) Muối sodium hoặc potassium của acid hữu cơ là thành phần chính của xà phòng.c) Khi đun nóng chất béo với dung dịch NaOH hoặc KOH ta được xà phòng.d) Từ dầu mỏ có thể sản xuất được chất giặt rửa tổng hợp.Số phát biểu đúng là",
+    "options": {
+      "A": "1.",
+      "B": "2.",
+      "C": "3.",
+      "D": "4."
+    },
+    "answer": "C"
+  },
+  {
+    "id": "L12_C1_0127",
+    "stem": "Cho các phát biểu sau:(1) Chất giặt rửa tổng hợp có thể dùng để giặt rửa cả trong nước cứng.(2) Các triglyceride đều có phản ứng cộng hydrogen.(3) Phản ứng thuỷ phân chất béo trong môi trường kiềm là phản ứng một chiều.(4) Có thể dùng nước và quỳ tím để phân biệt các chất lỏng glycerol, formic acid, triolein.Số phát biểu đúng là",
+    "options": {
+      "A": "1.",
+      "B": "2.",
+      "C": "3.",
+      "D": "4."
+    },
+    "answer": "C"
+  },
+  {
+    "id": "L12_C1_0128",
+    "stem": "Cho các phát biểu sau:(a) Xà phòng là muối sodium hoặc potassium của các acid béo.(b) Các triglyceride đều có phản ứng cộng hydrogen.(c) Phản ứng thủy phân chất béo trong môi trường kiềm là phản ứng một chiều.(d) Chất béo nhẹ hơn nước và không tan trong nước.Số phát biểu đúng là",
+    "options": {
+      "A": "1.",
+      "B": "2.",
+      "C": "3.",
+      "D": "4."
+    },
+    "answer": "C"
+  },
+  {
+    "id": "L12_C1_0129",
+    "stem": "Cho các phát biểu sau:a) Chất ưa nước là những chất tan tốt trong nước như methanol, muối sodium acetate,…b) Chất kị nước là những chất không tan trong dầu mỡ, dung môi hữu cơ,…c) Xà phòng là hỗn hợp các muối sodium hoặc potassium của các acid béo.d) Chất tẩy rửa tổng hợp là muối sodium của acid béo.e) Phân tử chất giặt rửa gồm 1 đầu ưu dầu mỡ gắn với 1 đầu dài ưa nước.f) Ưu điểm của xà phòng là dùng được với nước cứng.Số phát biểu đúng là",
+    "options": {
+      "A": "2.",
+      "B": "3.",
+      "C": "4.",
+      "D": "5."
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L12_C1_0130",
+    "stem": "Cho các phát biểu sau:a) Xà phòng bị giảm hoặc mất tác dụng tẩy rửa khi dùng nước cứng vì tạo các muối kết tủa với cation Ca²⁺, Mg²⁺.b) Bột giặt tổng hợp vẫn có thể sử dụng với nước cứng được vì muối sulfonate có độ tan lớn nên không bị kết tủa với ion Ca²⁺, Mg²⁺.c) Các chế phẩm như bột giặt, kem giặt,… bao gồm các thành phần chất giặt rửa tổng hợp các phụ gia chất thơm, mất màu, còn có thể có chất tẩy trắng như sodium hypoclhorite.d) Những chất giặt rửa tổng hợp có chứa gốc hydrocarbon phân nhánh không gây ô nhiễm môi trường vì chúng dễ bị các vi sinh vật phân hủy.e) Chất ưa nước là những chất tan tốt trong dầu mỏ, alkane,…Số phát biểu sai là",
+    "options": {
+      "A": "1.",
+      "B": "2.",
+      "C": "3.",
+      "D": "4."
+    },
+    "answer": "B"
+  }
 ]
