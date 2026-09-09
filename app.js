@@ -1825,9 +1825,44 @@
       // vừa xong) về SAU 1 lượt poll MỚI hơn (đã phát hiện trận xong, đã rời màn thi đấu) thì kết quả cũ
       // này phải bị bỏ qua, không thì học sinh sẽ bị kéo "vào lại" trận đã kết thúc.
       if (myToken !== tourPollToken) return;
-      if (!res || !res.ok) return;
+      if (!res || !res.ok) {
+        // Trước đây: bỏ qua im lặng, khiến cả khung (kể cả cái "card" bọc ngoài luôn hiện sẵn trong HTML)
+        // trống trơn không 1 chữ nào nếu lỗi này LẶP LẠI liên tục (không phải chỉ 1 lượt poll chập chờn
+        // thoáng qua) — dễ gây hiểu lầm là web bị hỏng hẳn. Nay hiện rõ lý do; nếu chỉ là 1 lượt poll lỗi
+        // thoáng qua, lượt poll kế tiếp (1 giây sau) có dữ liệu tốt sẽ tự vẽ đè lên ngay, không đọng lại.
+        showTournamentPollError_(res);
+        return;
+      }
       routeTournamentPhase(res);
     });
+  }
+
+  /** Hiện lý do khi 1 lượt poll giải đấu KHÔNG có dữ liệu dùng được (res rỗng do mạng chập chờn, hoặc
+   *  res.ok=false do lỗi truy cập/lỗi backend) — thay vì để nguyên khung trống không như trước đây. */
+  function showTournamentPollError_(res) {
+    $("#tournament-need-name").classList.add("hidden");
+    $("#tournament-body").classList.remove("hidden");
+    $("#tournament-none").classList.add("hidden");
+    $("#tournament-bracket-wrap").classList.add("hidden");
+    var statusBox = $("#tournament-status-box");
+    statusBox.classList.remove("hidden");
+    statusBox.className = "tour-status-box";
+    $("#btn-tournament-join").classList.add("hidden");
+    var err = res && res.error;
+    var msg;
+    if (!res) {
+      msg = "⏳ Không tải được (mạng đang chập chờn) — đang tự thử lại...";
+    } else if (err === "guest_blocked") {
+      msg = "✘ Tài khoản hiện không ở hạng Full — thử tải lại trang (F5) rồi vào lại nhé.";
+    } else if (err === "invalid_code" || err === "code_taken") {
+      msg = "✘ Mã truy cập không hợp lệ nữa lúc kiểm tra lại — thử tải lại trang (F5) và đăng nhập lại.";
+    } else if (err === "busy") {
+      msg = "✘ Hệ thống đang bận, chờ chút rồi tự thử lại.";
+    } else {
+      msg = "✘ Không tải được thông tin giải đấu (" + (err || "lỗi không rõ") + ") — thử tải lại trang (F5) nếu vẫn thấy vậy.";
+    }
+    $("#tournament-status-title").textContent = msg;
+    $("#tournament-status-sub").textContent = "";
   }
 
   function routeTournamentPhase(res) {
