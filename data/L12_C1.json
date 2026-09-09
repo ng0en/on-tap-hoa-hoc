@@ -30,7 +30,7 @@
       "C": "Aldehyde.",
       "D": "Carboxylic acid."
     },
-    "answer": "D"
+    "answer": "B"
   },
   {
     "id": "L12_C1_0004",
@@ -265,7 +265,7 @@
   },
   {
     "id": "L12_C1_0025",
-    "stem": "(SBT – CTST) Có 4 ester no, đơn chức, mạch hở được kí hiệu ngẫu nhiên lần lượt là X, Y, Z, T. Phân tử ester của mỗi chất nêu trên đều tạo bởi các carboxylic acid mạch không phân nhánh và ethyl alcohol. Độ tan của 4 ester được cho ở bảng sau:Trong số 4 ester trên, ester có nhiều nguyên tử carbon nhất trong phân tử là",
+    "stem": "(SBT – CTST) Có 4 ester no, đơn chức, mạch hở được kí hiệu ngẫu nhiên lần lượt là X, Y, Z, T. Phân tử ester của mỗi chất nêu trên đều tạo bởi các carboxylic acid mạch không phân nhánh và ethyl alcohol. Độ tan (g/100 g nước) của 4 ester được cho như sau:<br> X: 8,7. <br> Y: 10,5 <br> Z: 2,2 <br> T: 4,9 <br>Trong số 4 ester trên, ester có nhiều nguyên tử carbon nhất trong phân tử là",
     "options": {
       "A": "Y.",
       "B": "T.",
@@ -287,7 +287,7 @@
   },
   {
     "id": "L12_C1_0027",
-    "stem": "(SBT – CTST) X, Y, Z là 3 chất hữu cơ được kí hiệu ngẫu nhiên trong số các chất HCOOCH₃, CH₃COOH và CH₃CH₂CH₂OH. Nhiệt độ sôi của X, Y, Z được cho trong bảng sau:Các chất X, Y lần lượt là",
+    "stem": "(SBT – CTST) X, Y, Z là 3 chất hữu cơ được kí hiệu ngẫu nhiên trong số các chất HCOOCH₃, CH₃COOH và CH₃CH₂CH₂OH. Nhiệt độ sôi (ᵒC) của X, Y, Z được cho như sau: <br> X: 31,8 <br> Y: 97,0 <br> Z: 118,0 <br>Các chất X, Y lần lượt là",
     "options": {
       "A": "HCOOCH₃ và CH₃COOH.",
       "B": "CH₃COOH và HCOOCH₃.",
@@ -342,14 +342,14 @@
   },
   {
     "id": "L12_C1_0032",
-    "stem": "(Đề TSĐH B - 2007) Thuỷ phân ester có công thức phân tử C₄H₈O₂ (với xúc tác acid), thu được 2 sản phẩm X và Y. Từ X có thể điều chế trực tiếp ra Y. Vậy chất X là",
+    "stem": "Thuỷ phân ester có công thức phân tử C₄H₈O₂ (với xúc tác acid), thu được 2 sản phẩm X và Y. Từ X có thể điều chế trực tiếp ra Y bằng cách lên men. Vậy chất X là",
     "options": {
-      "A": "methyl alcohol.",
+      "A": "acetic acid.",
       "B": "ethyl acetate.",
       "C": "formic acid.",
       "D": "ethyl alcohol."
     },
-    "answer": "B"
+    "answer": "D"
   },
   {
     "id": "L12_C1_0033",
@@ -404,7 +404,7 @@
       "C": "Ethyl acrylate.",
       "D": "Vinyl formate."
     },
-    "answer": "B"
+    "answer": "D"
   },
   {
     "id": "L12_C1_0038",
@@ -514,7 +514,7 @@
       "C": "CH₃COOH.",
       "D": "HCOOH."
     },
-    "answer": "D"
+    "answer": "A"
   },
   {
     "id": "L12_C1_0048",
