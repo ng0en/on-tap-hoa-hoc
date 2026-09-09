@@ -78,7 +78,8 @@ body{
 .teacher-contact a:active{text-decoration:underline}
 .teacher-contact-note{color:var(--muted);font-size:0.8rem;width:100%}
 
-.topbar{display:flex;align-items:center;justify-content:space-between;padding:10px 2px 16px;gap:10px}
+.topbar{display:flex;align-items:center;justify-content:space-between;padding:10px 2px 16px;gap:10px;flex-wrap:wrap}
+.topbar-actions{display:flex;gap:8px;flex-wrap:wrap}
 .topbar h1{font-size:1.3rem;margin:0}
 
 .card{
@@ -164,9 +165,16 @@ input[type="text"]:focus, select:focus{outline:2px solid var(--brand);outline-of
 }
 
 .msg{margin-top:10px;font-size:0.88rem;color:var(--muted);min-height:1.2em}
-.msg.pin-ok{color:var(--green)}
-.msg.pin-err{color:var(--red);font-weight:600}
-#pin-msg{margin-top:-6px;margin-bottom:8px}
+.msg.access-ok{color:var(--green)}
+.msg.access-err{color:var(--red);font-weight:600}
+.msg.access-guest{color:var(--brand)}
+#access-msg{margin-top:-6px;margin-bottom:8px}
+.guest-note{font-size:0.8rem;color:var(--muted);margin-top:6px}
+.locked-feature-msg{
+  background:#fff7e6;border:1px solid #f3d68a;border-radius:10px;
+  padding:12px 14px;font-size:0.9rem;line-height:1.5;color:#7a5a00;
+}
+.locked-feature-msg a{color:var(--brand);font-weight:600}
 
 .stats-box{
   background:#f7f9fc;
@@ -288,9 +296,9 @@ input[type="text"]:focus, select:focus{outline:2px solid var(--brand);outline-of
 .result-grid div.no{background:var(--red)}
 
 /* ---- Chế độ Đối đầu 1vs1 ---- */
-.mode-tabs{display:flex;gap:8px;margin-bottom:18px}
+.mode-tabs{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:18px}
 .mode-tab{
-  flex:1;padding:11px 10px;border-radius:12px;border:1.5px solid var(--border);
+  flex:1;min-width:110px;padding:11px 10px;border-radius:12px;border:1.5px solid var(--border);
   background:#fff;color:var(--muted);font-size:0.92rem;font-weight:700;cursor:pointer;
 }
 .mode-tab.selected{background:var(--brand);border-color:var(--brand);color:#fff}
@@ -391,7 +399,130 @@ input[type="text"]:focus, select:focus{outline:2px solid var(--brand);outline-of
 /* ---- Bảng ELO ở cột xếp hạng: nổi bật hơn 1 chút so với các bảng còn lại ---- */
 .panel-elo{background:#f5f3ff;border-color:#c4b5fd}
 
+/* ================= Bộ sưu tập thẻ bài ================= */
+.btn-collection{
+  position:relative;flex:0 0 auto;
+  border:1.5px solid var(--border);background:#fff;color:var(--ink);
+  border-radius:999px;padding:9px 16px;font-size:0.88rem;font-weight:700;cursor:pointer;
+}
+.btn-collection:active{background:#f2f4f7}
+.collection-count-badge{
+  display:inline-block;margin-left:6px;background:var(--brand);color:#fff;
+  border-radius:999px;padding:1px 7px;font-size:0.75rem;font-weight:800;
+}
+
+.collection-summary{
+  text-align:center;font-weight:700;font-size:1rem;color:var(--ink);
+  background:#f7f9fc;border:1px solid var(--border);border-radius:12px;
+  padding:12px 14px;margin-bottom:20px;
+}
+.collection-summary b{color:var(--brand);font-size:1.15rem}
+
+.collection-group{margin-bottom:26px}
+.collection-group:last-child{margin-bottom:0}
+.collection-group-title{font-size:1rem;margin:0 0 4px;font-weight:800;color:var(--ink)}
+.collection-group-sub{font-size:0.8rem;color:var(--muted);margin:0 0 12px;line-height:1.45}
+
+.card-grid{
+  display:grid;grid-template-columns:repeat(auto-fill,minmax(128px,1fr));
+  gap:12px;
+}
+
+.chem-card{
+  position:relative;
+  border-radius:14px;
+  overflow:hidden;
+  aspect-ratio:3/4.2;
+  display:flex;flex-direction:column;justify-content:flex-end;
+  color:#fff;
+  padding:8px;
+  cursor:default;
+  background:linear-gradient(150deg,#2a3550,#1b2436);
+  box-shadow:0 2px 6px rgba(20,30,50,0.18);
+}
+.chem-card .cc-medallion{
+  position:absolute;left:50%;top:34%;transform:translate(-50%,-50%);
+  width:58%;aspect-ratio:1;border-radius:50%;
+  background:#fdf6e3;border:3px solid #ffd54a;box-shadow:0 2px 6px rgba(0,0,0,0.35);
+  overflow:hidden;display:flex;align-items:center;justify-content:center;font-size:1.9rem;
+}
+.chem-card .cc-medallion img{width:100%;height:100%;object-fit:cover;display:block;filter:grayscale(1) contrast(1.05)}
+.chem-card .cc-rarity{
+  position:absolute;top:6px;right:6px;font-size:0.58rem;font-weight:800;
+  background:rgba(0,0,0,0.35);padding:2px 6px;border-radius:999px;letter-spacing:0.02em;
+}
+.chem-card .cc-name{font-weight:800;font-size:0.78rem;text-align:center;line-height:1.25;margin-top:2px;text-shadow:0 1px 3px rgba(0,0,0,0.5)}
+.chem-card .cc-sub{font-size:0.62rem;text-align:center;color:#e2e6f0;opacity:0.9;margin-top:1px}
+
+.chem-card.tier-legendary{background:linear-gradient(150deg,#3a2e12,#241a06)}
+.chem-card.tier-legendary .cc-medallion{border-color:#ffd54a}
+.chem-card.tier-legendary .cc-rarity{background:#f5b301;color:#3a2e12}
+.chem-card.tier-rare{background:linear-gradient(150deg,#2c3440,#1b2129)}
+.chem-card.tier-rare .cc-medallion{border-color:#cbd5e1}
+.chem-card.tier-rare .cc-rarity{background:#cbd5e1;color:#1b2129}
+.chem-card.tier-bronze{background:linear-gradient(150deg,#3a2418,#251309)}
+.chem-card.tier-bronze .cc-medallion{border-color:#d08a4f}
+.chem-card.tier-bronze .cc-rarity{background:#d08a4f;color:#251309}
+
+.chem-card.locked{background:linear-gradient(150deg,#3a4150,#262c36);opacity:0.72}
+.chem-card.locked .cc-medallion{background:#4b5563;border-color:#6b7280;filter:grayscale(1)}
+.chem-card.locked .cc-medallion img{filter:grayscale(1) brightness(0.4)}
+.chem-card.locked .cc-name{color:#c6cbd4}
+.chem-card.locked .cc-lock{position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);font-size:1.6rem;z-index:2}
+.chem-card.locked .cc-rarity{background:rgba(255,255,255,0.15);color:#e5e7eb}
+
+.card-toast-overlay{
+  position:fixed;inset:0;background:rgba(15,20,30,0.55);
+  display:flex;align-items:center;justify-content:center;z-index:999;padding:20px;
+}
+.card-toast{
+  background:var(--card);border-radius:18px;padding:24px 22px;max-width:320px;width:100%;
+  text-align:center;box-shadow:0 10px 30px rgba(0,0,0,0.3);
+  animation:card-toast-pop .35s ease;
+}
+@keyframes card-toast-pop{from{transform:scale(0.85);opacity:0}to{transform:scale(1);opacity:1}}
+.card-toast-label{font-weight:800;font-size:1.1rem;margin-bottom:14px;color:var(--ink)}
+.card-toast-body{margin-bottom:16px}
+.card-toast-body .chem-card{max-width:170px;margin:0 auto;aspect-ratio:3/4.2}
+.card-toast-name{margin-top:12px;font-size:0.95rem;color:var(--ink);line-height:1.4}
+.card-toast-btn{margin-top:0}
+
+/* ================= Giải đấu WorldCup ================= */
+.tour-status-box{
+  text-align:center;background:#f7f9fc;border:1px solid var(--border);border-radius:12px;
+  padding:18px 16px;margin-bottom:20px;
+}
+.tour-status-title{font-weight:800;font-size:1.05rem;color:var(--ink);margin-bottom:6px;line-height:1.4}
+.tour-status-sub{font-size:0.85rem;color:var(--muted);line-height:1.5;margin-bottom:12px}
+.tour-status-sub:last-child{margin-bottom:0}
+.tour-status-box .btn-primary{margin-top:4px}
+.tour-status-box.win .tour-status-title{color:var(--green)}
+.tour-status-box.lose .tour-status-title{color:var(--red)}
+.tour-status-box.champion{background:linear-gradient(150deg,#3a2e12,#241a06)}
+.tour-status-box.champion .tour-status-title{color:#ffd54a;font-size:1.25rem}
+.tour-status-box.champion .tour-status-sub{color:#e2e6f0}
+
+.tour-bracket-title{font-weight:800;font-size:0.95rem;color:var(--ink);margin-bottom:10px}
+.tour-bracket-wrap{overflow-x:auto;padding-bottom:6px}
+.tour-bracket{display:flex;gap:22px;min-width:min-content;padding:2px}
+.tour-round{display:flex;flex-direction:column;gap:14px;min-width:150px}
+.tour-round-title{font-size:0.72rem;font-weight:800;color:var(--muted);text-transform:uppercase;letter-spacing:0.03em;text-align:center;margin-bottom:2px}
+.tour-round-half-gap{height:18px}
+.tour-match{
+  border:1.5px solid var(--border);border-radius:10px;background:#fff;
+  padding:7px 9px;font-size:0.8rem;line-height:1.5;
+}
+.tour-match-p{display:flex;justify-content:space-between;gap:6px;white-space:nowrap;overflow:hidden}
+.tour-match-p .n{overflow:hidden;text-overflow:ellipsis;color:var(--ink)}
+.tour-match-p.winner .n{font-weight:800;color:var(--green)}
+.tour-match-p.loser .n{color:var(--muted);text-decoration:line-through}
+.tour-match-p.you .n{color:var(--brand)}
+.tour-match-p.you.winner .n{color:var(--green)}
+.tour-match-vs{color:var(--muted);font-size:0.65rem;text-align:center;padding:1px 0}
+.tour-match.empty{opacity:0.5;font-style:italic;color:var(--muted);text-align:center}
+
 @media (max-width:420px){
   .card{padding:16px}
   .topbar h1{font-size:1.15rem}
+  .btn-collection{font-size:0.8rem;padding:8px 12px}
 }

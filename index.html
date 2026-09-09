@@ -15,6 +15,10 @@
   <section id="screen-setup" class="screen">
     <header class="topbar">
       <h1>🧪 Ôn tập Hóa học THPT</h1>
+      <div class="topbar-actions">
+        <button id="btn-open-tournament" type="button" class="btn-collection">🏆 Giải đấu<span id="tournament-alert-badge" class="collection-count-badge hidden">!</span></button>
+        <button id="btn-open-collection" type="button" class="btn-collection">🎴 Bộ sưu tập<span id="collection-count-badge" class="collection-count-badge hidden">0</span></button>
+      </div>
     </header>
 
     <div class="card">
@@ -24,10 +28,10 @@
       </label>
 
       <label class="field">
-        <span>Mã bảo vệ (4 số)</span>
-        <input id="inp-pin" type="password" inputmode="numeric" pattern="[0-9]*" maxlength="4" placeholder="Đặt mã 4 số để bảo vệ tên của em" autocomplete="off">
+        <span>Mã truy cập (nếu có)</span>
+        <input id="inp-code" type="text" placeholder="Có mã thầy gửi qua email thì nhập vào — không có thì bỏ trống để dùng thử" autocomplete="off">
       </label>
-      <div id="pin-msg" class="msg"></div>
+      <div id="access-msg" class="msg"></div>
 
       <div id="streak-box" class="stats-box streak-box hidden">
         <div id="streak-content"></div>
@@ -61,38 +65,55 @@
       <div class="mode-tabs">
         <button type="button" id="tab-mode-solo" class="mode-tab selected">📖 Tự luyện tập</button>
         <button type="button" id="tab-mode-duel" class="mode-tab">⚔️ Đối đầu 1vs1</button>
+        <button type="button" id="tab-mode-random" class="mode-tab">🎲 Ngẫu nhiên</button>
       </div>
 
       <div id="solo-panel">
-        <div class="field">
-          <span>Số câu muốn làm</span>
-          <div id="count-options" class="chip-row"></div>
-        </div>
-
-        <div class="field">
-          <span>Chế độ chấm điểm</span>
-          <div class="chip-row">
-            <label class="chip-radio">
-              <input type="radio" name="mode" value="hien_ngay" checked>
-              <span>Hiện đúng/sai ngay sau mỗi câu</span>
-            </label>
-            <label class="chip-radio">
-              <input type="radio" name="mode" value="hien_sau">
-              <span>Hiện kết quả sau khi nộp bài</span>
-            </label>
+        <div id="solo-guest-limit-msg" class="msg hidden"></div>
+        <div id="solo-normal-controls">
+          <div class="field">
+            <span>Số câu muốn làm</span>
+            <div id="count-options" class="chip-row"></div>
+            <div id="guest-count-note" class="guest-note hidden"></div>
           </div>
-        </div>
 
-        <button id="btn-start" class="btn-primary" disabled>Bắt đầu làm bài</button>
+          <div class="field">
+            <span>Chế độ chấm điểm</span>
+            <div class="chip-row">
+              <label class="chip-radio">
+                <input type="radio" name="mode" value="hien_ngay" checked>
+                <span>Hiện đúng/sai ngay sau mỗi câu</span>
+              </label>
+              <label class="chip-radio">
+                <input type="radio" name="mode" value="hien_sau">
+                <span>Hiện kết quả sau khi nộp bài</span>
+              </label>
+            </div>
+          </div>
+
+          <button id="btn-start" class="btn-primary" disabled>Bắt đầu làm bài</button>
+        </div>
       </div>
 
       <div id="duel-panel" class="hidden">
-        <div class="duel-info">⚔️ Đối đầu 1vs1: 10 câu ngẫu nhiên trong chương đã chọn ở trên, cả 2 bạn cùng thấy 1 câu — ai bấm trả lời TRƯỚC thì câu đó bị khóa lại (đúng +1 điểm, sai −0,5 điểm), bạn còn lại không được trả lời câu đó nữa. Hết 10 câu ai điểm cao hơn thắng, bằng điểm thì Oẳn tù tì phân định. Thắng/thua đều ảnh hưởng ELO — thắng đối thủ ELO cao hơn mình thì được cộng nhiều hơn!</div>
-        <div class="duel-btn-row">
-          <button id="btn-challenge" type="button" class="btn-primary" disabled>⚔️ Thách thức</button>
-          <button id="btn-accept-challenge" type="button" class="btn-secondary" disabled>🤝 Đồng ý thử thách</button>
+        <div id="duel-locked-msg" class="msg hidden"></div>
+        <div id="duel-normal-content">
+          <div class="duel-info">⚔️ Đối đầu 1vs1: 10 câu ngẫu nhiên trong chương đã chọn ở trên, cả 2 bạn cùng thấy 1 câu — ai bấm trả lời TRƯỚC thì câu đó bị khóa lại (đúng +1 điểm, sai −0,5 điểm), bạn còn lại không được trả lời câu đó nữa. Hết 10 câu ai điểm cao hơn thắng, bằng điểm thì Oẳn tù tì phân định. Thắng/thua đều ảnh hưởng ELO — thắng đối thủ ELO cao hơn mình thì được cộng nhiều hơn!</div>
+          <div class="duel-btn-row">
+            <button id="btn-challenge" type="button" class="btn-primary" disabled>⚔️ Thách thức</button>
+            <button id="btn-accept-challenge" type="button" class="btn-secondary" disabled>🤝 Đồng ý thử thách</button>
+          </div>
+          <div id="duel-msg" class="msg"></div>
         </div>
-        <div id="duel-msg" class="msg"></div>
+      </div>
+
+      <div id="random-panel" class="hidden">
+        <div id="random-locked-msg" class="msg hidden"></div>
+        <div id="random-normal-content">
+          <div class="duel-info">🎲 Chế độ ngẫu nhiên: 1 đề CỐ ĐỊNH 18 câu random trên toàn bộ chương trình — 14 câu Lớp 12 (đủ tất cả các chương), 2 câu Lớp 10 và 2 câu Lớp 11 (ngẫu nhiên chương nào cũng được). Vẫn tính ELO như Tự luyện tập. Làm ĐÚNG TRỌN VẸN 18/18 câu và nhanh hơn kỷ lục cũ của chính em thì được ghi nhận kỷ lục mới, có cơ hội lọt Top 3 nhanh nhất!</div>
+          <button id="btn-start-random" type="button" class="btn-primary" disabled>Bắt đầu làm bài (18 câu)</button>
+          <div id="random-msg" class="msg"></div>
+        </div>
       </div>
 
       <div id="setup-msg" class="msg"></div>
@@ -175,6 +196,7 @@
       <button id="btn-quit" class="btn-back">&larr; Thoát</button>
       <div id="quiz-progress" class="progress-text"></div>
       <div id="duel-timer-box" class="duel-timer-box hidden">⏳ <span id="duel-timer-text">20s</span></div>
+      <div id="random-timer-box" class="duel-timer-box hidden">⏱️ <span id="random-timer-text">0:00</span></div>
     </header>
     <div class="progress-bar-wrap"><div id="progress-bar" class="progress-bar"></div></div>
     <div id="duel-score-box" class="duel-score-box hidden">
@@ -204,6 +226,61 @@
     <button id="btn-next" class="btn-primary" disabled>Câu tiếp theo</button>
   </section>
 
+  <!-- MÀN HÌNH: BỘ SƯU TẬP THẺ BÀI -->
+  <section id="screen-collection" class="screen hidden">
+    <header class="topbar">
+      <button id="btn-collection-back" class="btn-back">&larr; Quay lại</button>
+      <h1>🎴 Bộ sưu tập</h1>
+    </header>
+    <div class="card">
+      <p id="collection-need-name" class="panel-empty hidden">Nhập tên (và mã truy cập nếu có) ở màn hình chính để xem bộ sưu tập của em nhé.</p>
+      <div id="collection-body" class="hidden">
+        <div class="collection-summary" id="collection-summary"></div>
+
+        <div class="collection-group">
+          <h3 class="collection-group-title">✨ Thẻ Hoàn Hảo</h3>
+          <p class="collection-group-sub">Đạt được khi điểm trung bình 5 lượt gần nhất trên Bảng xếp hạng chạm mốc 100%.</p>
+          <div class="card-grid" id="collection-grid-perfect"></div>
+        </div>
+
+        <div class="collection-group">
+          <h3 class="collection-group-title">🏅 Thẻ hạng trên các Bảng xếp hạng</h3>
+          <p class="collection-group-sub">Từng đạt hạng 1, 2 hoặc 3 ở 1 trong 3 bảng — đã đạt là giữ mãi, kể cả sau này bị vượt mặt.</p>
+          <div class="card-grid" id="collection-grid-rank"></div>
+        </div>
+
+        <div class="collection-group">
+          <h3 class="collection-group-title">📚 Thẻ Trọn Chương</h3>
+          <p class="collection-group-sub">Từng làm đúng mọi câu hỏi khác nhau của 1 chương, cộng dồn qua nhiều lần làm.</p>
+          <div class="card-grid" id="collection-grid-chapter"></div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- MÀN HÌNH: GIẢI ĐẤU WORLDCUP -->
+  <section id="screen-tournament" class="screen hidden">
+    <header class="topbar">
+      <button id="btn-tournament-back" class="btn-back">&larr; Quay lại</button>
+      <h1>🏆 Giải đấu WorldCup</h1>
+    </header>
+    <div class="card">
+      <p id="tournament-need-name" class="panel-empty hidden">Nhập tên (và mã truy cập nếu có) ở màn hình chính để tham gia giải đấu nhé.</p>
+      <div id="tournament-body" class="hidden">
+        <p id="tournament-none" class="panel-empty hidden">Hiện chưa có giải đấu nào đang mở — hỏi thầy/cô nhé!</p>
+        <div id="tournament-status-box" class="tour-status-box hidden">
+          <div id="tournament-status-title" class="tour-status-title"></div>
+          <div id="tournament-status-sub" class="tour-status-sub"></div>
+          <button id="btn-tournament-join" type="button" class="btn-primary hidden">Tham gia</button>
+        </div>
+        <div id="tournament-bracket-wrap" class="tour-bracket-wrap hidden">
+          <div class="tour-bracket-title">Sơ đồ nhánh đấu</div>
+          <div id="tournament-bracket" class="tour-bracket"></div>
+        </div>
+      </div>
+    </div>
+  </section>
+
   <!-- MÀN HÌNH 3: KẾT QUẢ -->
   <section id="screen-result" class="screen hidden">
     <header class="topbar">
@@ -211,6 +288,7 @@
     </header>
     <div class="card">
       <div id="result-score" class="result-score"></div>
+      <div id="result-random-info" class="result-elo hidden"></div>
       <div id="result-elo" class="result-elo hidden"></div>
       <div id="result-badge" class="badge-banner hidden"></div>
       <div id="result-grid" class="result-grid"></div>
@@ -254,6 +332,14 @@
       <p id="leaderboard-duel-empty" class="panel-empty hidden">Chưa có trận đối đầu nào.</p>
       <p id="leaderboard-duel-offline" class="panel-empty hidden">Bảng xếp hạng cần kết nối backend.</p>
     </aside>
+
+    <aside id="panel-leaderboard-random" class="side-panel">
+      <h2 class="panel-title">🎲 Bảng Ngẫu nhiên</h2>
+      <p class="panel-sub">Top 3 học sinh có kỷ lục (18/18 câu) nhanh nhất</p>
+      <ol id="leaderboard-random-list" class="leaderboard-list"></ol>
+      <p id="leaderboard-random-empty" class="panel-empty hidden">Chưa có ai lập kỷ lục 18/18 câu.</p>
+      <p id="leaderboard-random-offline" class="panel-empty hidden">Bảng xếp hạng cần kết nối backend.</p>
+    </aside>
   </div>
 
   <aside id="panel-teacher" class="side-panel">
@@ -278,6 +364,15 @@
       <span class="teacher-contact-note">(trao đổi chuyên môn / đăng ký học)</span>
     </div>
   </aside>
+
+  <!-- Toast "vừa nhận thẻ mới" — hiện đè lên mọi màn hình, tự xếp hàng nếu nhận nhiều thẻ cùng lúc -->
+  <div id="card-toast-overlay" class="card-toast-overlay hidden">
+    <div class="card-toast" id="card-toast">
+      <div class="card-toast-label">🎉 Thẻ mới!</div>
+      <div class="card-toast-body" id="card-toast-body"></div>
+      <button id="btn-card-toast-next" type="button" class="btn-primary card-toast-btn">Tuyệt vời!</button>
+    </div>
+  </div>
 
 </div>
 <script src="config.js"></script>

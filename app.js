@@ -3,6 +3,13 @@
 
   var API_URL = window.API_URL || "";
 
+  // TẠM TẮT Bộ sưu tập thẻ bài (đang nghi ngờ góp phần vào cảm giác chậm chung — mỗi lần nộp bài/đối đầu
+  // trước đây đều kèm vài lượt kiểm tra + có thể ghi thêm dòng thẻ mới, tất cả núp chung 1 khóa dùng
+  // chung với các thao tác khác). Đổi lại thành true để bật lại tính năng — KHÔNG có gì bị xoá, chỉ tạm
+  // ẩn nút "Bộ sưu tập" + ngừng gọi các API liên quan thẻ ở phía học sinh; toàn bộ dữ liệu thẻ đã trao
+  // trước đó trong tab BoSuuTap vẫn còn nguyên trên Google Sheet.
+  var CARDS_ENABLED = false;
+
   // ---------- State ----------
   var manifest = null;
   var staticQuestions = [];   // câu hỏi gốc của chương đang chọn
@@ -12,9 +19,12 @@
 
   var quiz = null; // {questions, index, mode, answers:[{id,correct}]}
   var lastLeaderboardData = null; // cache dữ liệu bảng xếp hạng gần nhất, để tô đậm tên của em khi gõ tên
-  var pinVerified = false;   // tên + mã hiện tại đã được backend xác nhận khớp (hoặc đăng ký mới) chưa
-  var pinCheckToken = 0;     // chống việc phản hồi cũ (gõ nhanh) ghi đè kết quả của lần kiểm tra mới hơn
-  var pinDebounceTimer = null;
+  var accessVerified = false; // tên (+ mã truy cập nếu có) hiện tại đã được backend xác nhận hợp lệ chưa
+  var accessCheckToken = 0;   // chống việc phản hồi cũ (gõ nhanh) ghi đè kết quả của lần kiểm tra mới hơn
+  var accessDebounceTimer = null;
+  var currentTier = null;     // 'full' (có mã) | 'guest' (gõ tên suông) | null (chưa xác minh xong)
+  var guestLimits = null;     // {maxAttemptsPerChapter, maxQuestions} — backend trả về khi currentTier==='guest'
+  var ZALO_CONTACT_HTML = '<a href="https://zalo.me/0708681192" target="_blank" rel="noopener">0708 681 192</a>';
   var lastChapterProgressData = null; // {chapters:[{chapter,uniqueDone,wrongCount}]} - cache để vẽ lại khi đổi Lớp mà không cần gọi API lại
   var streakCelebratedThisVisit = false; // tránh hiện lại banner chúc mừng nhiều lần trong cùng 1 lượt ghé trang
 
@@ -40,6 +50,35 @@
   var lastDuelLeaderboardData = null;
   var lastEloLeaderboardData = null;
 
+  // ---------- Chế độ Ngẫu nhiên (18 câu cố định, chỉ hạng "full") ----------
+  var RANDOM_TOTAL = 18;
+  var RANDOM_L12_COUNT = 14;
+  var RANDOM_L10_COUNT = 2;
+  var RANDOM_L11_COUNT = 2;
+  var chapterQuestionCache_ = {}; // chapterId -> Promise<questions[]>, tránh tải lại data/*.json nhiều lần
+  var lastRandomLeaderboardData = null;
+  var randomTimerInterval = null; // interval vẽ lại đồng hồ đếm ĐANG TĂNG dần trong lúc làm 18 câu
+  var randomStartMs = null;       // mốc bắt đầu (Date.now()) — dùng để tính elapsedSec lúc nộp bài
+
+  // ---------- Bộ sưu tập thẻ bài (KHÁC với huy hiệu chuỗi ngày ở trên) ----------
+  var myCardIds = {};       // cardId -> thời gian đạt được (chuỗi), object rỗng nếu chưa xác minh/chưa có thẻ
+  var cardToastQueue = [];  // hàng đợi các mã thẻ vừa nhận, hiện lần lượt từng cái 1 nếu nhận nhiều thẻ cùng lúc
+
+  // ---------- Giải đấu WorldCup (loại trực tiếp) ----------
+  var TOUR_QUESTION_COUNT = 10;
+  var tourPollTimer = null;        // 1 interval DUY NHẤT dùng chung cho cả màn hub (đăng ký/sơ đồ nhánh) lẫn lúc thi đấu
+  var tourMatchId = null;
+  var tourOpponentName = null;
+  var tourRound = null, tourTotalRounds = null;
+  var tourAnsweredLocally = false;
+  var tourAnswerTimeoutTimer = null;
+  var tourYou = { score: 0, correct: 0, wrong: 0 };
+  var tourOpp = { score: 0, correct: 0, wrong: 0, name: "" };
+  var tourEnteringMatch = false;   // chống vào trận 2 lần cùng lúc trong lúc đang tải câu hỏi (bất đồng bộ)
+  var tourPollToken = 0;           // chống lượt poll cũ (mạng chậm, tới trễ) ghi đè lên kết quả của lượt poll MỚI hơn —
+                                    // ví dụ trận vừa xong (đã rời màn thi đấu) nhưng 1 lượt poll cũ của TRẬN ĐÓ vẫn còn
+                                    // đang bay trên mạng lại về sau, nếu không chặn sẽ khiến bị "vào lại" trận đã xong.
+
   // ---------- Helpers ----------
   function $(sel) { return document.querySelector(sel); }
   function el(tag, cls, html) {
@@ -55,6 +94,12 @@
       var tmp = a[i]; a[i] = a[j]; a[j] = tmp;
     }
     return a;
+  }
+  /** HTML thông báo tính năng bị khoá với khách (không có mã truy cập) — dùng chung cho Đối đầu 1vs1 và
+   *  Giải đấu WorldCup, kèm luôn link Zalo để "quảng cáo" nhẹ nhàng theo đúng ý thầy. */
+  function lockedFeatureHtml_(featureName) {
+    return '🔒 <b>' + featureName + '</b> chỉ dành cho học sinh có <b>mã truy cập</b> (thầy gửi qua email ' +
+      'khi đăng ký học). Liên hệ Zalo thầy ' + ZALO_CONTACT_HTML + ' để đăng ký nhận mã nhé!';
   }
   function show(id) {
     document.querySelectorAll(".screen").forEach(function (s) { s.classList.add("hidden"); });
@@ -117,12 +162,75 @@
     return fetch("data/" + chapterId + ".json").then(function (r) { return r.json(); });
   }
 
+  // Bản có nhớ (cache) của loadStaticQuestions — Chế độ ngẫu nhiên cần tải câu hỏi của NHIỀU chương cùng
+  // lúc (toàn bộ Lớp 10/11/12), nên cache lại theo chapterId để không tải lại data/*.json nếu học sinh bấm
+  // "Bắt đầu làm bài" nhiều lần trong cùng 1 lượt ghé trang.
+  function loadChapterQuestionsCached_(chapterId) {
+    if (!chapterQuestionCache_[chapterId]) {
+      chapterQuestionCache_[chapterId] = loadStaticQuestions(chapterId).catch(function () { return []; });
+    }
+    return chapterQuestionCache_[chapterId];
+  }
+
+  /** Học sinh khách (currentTier==='guest') đã dùng hết lượt free của CHƯƠNG ĐANG CHỌN chưa — dựa vào
+   *  currentStats.attempts (số lượt đã nộp cho đúng chương này, backend đã tính sẵn). Ẩn hẳn khu vực chọn
+   *  số câu + nút bắt đầu, thay bằng thông báo liên hệ Zalo nếu đã hết lượt — trả về true nếu đang bị chặn
+   *  (để refreshCountOptions() khỏi vẽ chip số câu vô nghĩa). */
+  function updateSoloGuestGate_() {
+    var limitBox = $("#solo-guest-limit-msg");
+    var normalBox = $("#solo-normal-controls");
+    if (currentTier !== "guest") {
+      limitBox.classList.add("hidden");
+      normalBox.classList.remove("hidden");
+      return false;
+    }
+    var limit = (guestLimits && guestLimits.maxAttemptsPerChapter) || 3;
+    var used = (currentStats && currentStats.attempts) || 0;
+    if (used >= limit) {
+      normalBox.classList.add("hidden");
+      limitBox.classList.remove("hidden");
+      limitBox.className = "msg locked-feature-msg";
+      limitBox.innerHTML = "😊 Em đã dùng hết " + limit + "/" + limit + " lượt luyện tập miễn phí cho chương " +
+        "này rồi. Liên hệ Zalo thầy " + ZALO_CONTACT_HTML + " để đăng ký nhận mã truy cập, luyện tập không " +
+        "giới hạn tất cả các chương nhé!";
+      selectedCount = null;
+      return true;
+    }
+    limitBox.classList.add("hidden");
+    normalBox.classList.remove("hidden");
+    return false;
+  }
+
   function refreshCountOptions() {
     var box = $("#count-options");
+    var noteEl = $("#guest-count-note");
     box.innerHTML = "";
+    if (noteEl) noteEl.classList.add("hidden");
     var chap = currentChapterObj();
     if (!chap) return;
+    if (updateSoloGuestGate_()) { validateStart(); return; }
     var total = chap.count + extraQuestions.length;
+
+    if (currentTier === "guest") {
+      // Khách: chỉ 1 lựa chọn cố định (mặc định 10 câu, hoặc ít hơn nếu chương chưa đủ 10 câu) — không
+      // cho chọn số câu khác, đúng theo giới hạn "chỉ được chọn mục làm 10 câu" thầy yêu cầu.
+      var guestN = Math.min((guestLimits && guestLimits.maxQuestions) || 10, total || 10);
+      selectedCount = guestN;
+      var bGuest = el("button", "selected", guestN + " câu");
+      bGuest.type = "button";
+      bGuest.disabled = true;
+      box.appendChild(bGuest);
+      if (noteEl) {
+        var limit = (guestLimits && guestLimits.maxAttemptsPerChapter) || 3;
+        var used = (currentStats && currentStats.attempts) || 0;
+        noteEl.textContent = "Đang dùng thử (khách): đã dùng " + used + "/" + limit + " lượt cho chương này. " +
+          "Có mã truy cập thì nhập ở trên để luyện tập không giới hạn nhé!";
+        noteEl.classList.remove("hidden");
+      }
+      validateStart();
+      return;
+    }
+
     var opts = [];
     for (var n = 10; n <= total; n += 10) opts.push(n);
     var hasAll = opts.length === 0 || opts[opts.length - 1] !== total;
@@ -155,24 +263,61 @@
     validateStart();
   }
 
-  // ---------- Chuyển đổi Tự luyện tập / Đối đầu 1vs1 ----------
+  // ---------- Chuyển đổi Tự luyện tập / Đối đầu 1vs1 / Ngẫu nhiên ----------
   function setAppMode(mode) {
     appMode = mode;
     $("#tab-mode-solo").classList.toggle("selected", mode === "solo");
     $("#tab-mode-duel").classList.toggle("selected", mode === "duel");
+    $("#tab-mode-random").classList.toggle("selected", mode === "random");
     $("#solo-panel").classList.toggle("hidden", mode !== "solo");
     $("#duel-panel").classList.toggle("hidden", mode !== "duel");
+    $("#random-panel").classList.toggle("hidden", mode !== "random");
     $("#duel-msg").textContent = "";
     refreshDuelControls();
+    refreshRandomControls();
   }
 
-  // Bật/tắt 2 nút "Thách thức" / "Đồng ý thử thách" tuỳ đã xác minh tên+mã và chương đủ ít nhất 10 câu chưa.
+  // Bật/tắt nút "Bắt đầu làm bài" của Chế độ ngẫu nhiên tuỳ đã xác minh tên (+mã) hay chưa — chỉ hạng
+  // "full" mới dùng được (khách thấy thông báo khoá tính năng, xem lockedFeatureHtml_), không phụ thuộc
+  // chương/lớp đang chọn ở trên vì chế độ này tự chọn câu hỏi trên toàn bộ chương trình.
+  function refreshRandomControls() {
+    var btn = $("#btn-start-random");
+    if (!btn) return;
+    var lockedBox = $("#random-locked-msg");
+    var normalBox = $("#random-normal-content");
+    if (currentTier === "guest") {
+      normalBox.classList.add("hidden");
+      lockedBox.classList.remove("hidden");
+      lockedBox.className = "msg locked-feature-msg";
+      lockedBox.innerHTML = lockedFeatureHtml_("Chế độ ngẫu nhiên");
+      return;
+    }
+    lockedBox.classList.add("hidden");
+    normalBox.classList.remove("hidden");
+    var name = $("#inp-name").value.trim();
+    btn.disabled = !(!!API_URL && !!name && accessVerified && currentTier === "full" && !!manifest);
+  }
+
+  // Bật/tắt 2 nút "Thách thức" / "Đồng ý thử thách" tuỳ đã xác minh tên (+mã) và chương đủ ít nhất 10 câu
+  // chưa. Đối đầu 1vs1 chỉ dành cho học sinh có mã (hạng "full") — khách thấy thông báo khoá tính năng
+  // thay vì các nút này (xem lockedFeatureHtml_).
   function refreshDuelControls() {
     var btnChallenge = $("#btn-challenge");
     var btnAccept = $("#btn-accept-challenge");
     if (!btnChallenge || !btnAccept) return;
+    var lockedBox = $("#duel-locked-msg");
+    var normalBox = $("#duel-normal-content");
+    if (currentTier === "guest") {
+      normalBox.classList.add("hidden");
+      lockedBox.classList.remove("hidden");
+      lockedBox.className = "msg locked-feature-msg";
+      lockedBox.innerHTML = lockedFeatureHtml_("Đối đầu 1vs1");
+      return;
+    }
+    lockedBox.classList.add("hidden");
+    normalBox.classList.remove("hidden");
     var name = $("#inp-name").value.trim();
-    var readyBase = !!API_URL && !!name && pinVerified && !!currentChapterId();
+    var readyBase = !!API_URL && !!name && accessVerified && currentTier === "full" && !!currentChapterId();
     var poolSize = staticQuestions.length + extraQuestions.length;
     btnChallenge.disabled = !readyBase || poolSize < DUEL_QUESTION_COUNT;
     btnAccept.disabled = !readyBase;
@@ -206,8 +351,8 @@
   function refreshStats() {
     var name = $("#inp-name").value.trim();
     var chap = currentChapterId();
-    if (!name || !chap || !pinVerified) { currentStats = null; renderStats(); return; }
-    apiGet({ action: "stats", name: name, chapter: chap, pin: currentPin() }).then(function (res) {
+    if (!name || !chap || !accessVerified) { currentStats = null; renderStats(); return; }
+    apiGet({ action: "stats", name: name, chapter: chap, pin: currentCode() }).then(function (res) {
       if (!res || res.error) { currentStats = null; renderStats(); return; }
       currentStats = res;
       renderStats();
@@ -285,6 +430,184 @@
     streakCelebratedThisVisit = true;
   }
 
+  // ---------- Bộ sưu tập thẻ bài (mã thẻ PHẢI khớp CHÍNH XÁC với AppsScript_Code.gs phía backend) ----------
+  // Icon + tên hiển thị cho 21 thẻ "Trọn Chương". Riêng L10_C1 dùng ảnh thật của Rutherford (người khám
+  // phá ra hạt nhân nguyên tử) vì đúng chủ đề "Cấu tạo nguyên tử" của chương đó.
+  var CHAPTER_CARD_INFO = {
+    L10_C1: { name: "Chương 1. Cấu tạo nguyên tử", icon: "⚛️", photo: "assets/cards/rutherford.jpg", figure: "Ernest Rutherford (1871–1937)" },
+    L10_C2: { name: "Chương 2. Bảng tuần hoàn các nguyên tố hóa học", icon: "🧩" },
+    L10_C3: { name: "Chương 3. Liên kết hóa học", icon: "🔗" },
+    L10_C4: { name: "Chương 4. Phản ứng oxi hóa - khử", icon: "⚡" },
+    L10_C5: { name: "Chương 5. Năng lượng hóa học", icon: "🔥" },
+    L10_C6: { name: "Chương 6. Tốc độ phản ứng hóa học", icon: "⏱️" },
+    L10_C7: { name: "Chương 7. Nhóm Halogen", icon: "🧂" },
+    L11_C1: { name: "Chương 1. Cân bằng hóa học", icon: "⚖️" },
+    L11_C2: { name: "Chương 2. Nitrogen và Sulfur", icon: "💨" },
+    L11_C3: { name: "Chương 3. Đại cương hóa học hữu cơ", icon: "🧬" },
+    L11_C4: { name: "Chương 4. Hydrocarbon", icon: "⛽" },
+    L11_C5: { name: "Chương 5. Alcohol - Phenol", icon: "🍷" },
+    L11_C6: { name: "Chương 6. Hợp chất Carbonyl - Carboxylic acid", icon: "🍋" },
+    L12_C1: { name: "Chương 1. Ester - Lipid", icon: "🧈" },
+    L12_C2: { name: "Chương 2. Carbohydrate", icon: "🍚" },
+    L12_C3: { name: "Chương 3. Hợp chất chứa Nitrogen", icon: "🥩" },
+    L12_C4: { name: "Chương 4. Polymer", icon: "♻️" },
+    L12_C5: { name: "Chương 5. Pin điện và điện phân", icon: "🔋" },
+    L12_C6: { name: "Chương 6. Đại cương về kim loại", icon: "🔩" },
+    L12_C7: { name: "Chương 7. Nguyên tố nhóm IA và IIA", icon: "🪙" },
+    L12_C8: { name: "Chương 8. Kim loại chuyển tiếp và phức chất", icon: "🔧" }
+  };
+  // Ảnh thật + biểu tượng cho 3 bảng xếp hạng. Bảng ELO dùng ảnh Mendeleev (người tạo ra Bảng tuần hoàn,
+  // hợp với ý nghĩa "đẳng cấp cộng dồn không giới hạn"); Bảng xếp hạng + Bảng 1vs1 dùng huy hiệu biểu
+  // tượng (không gán ảnh 1 nhà hóa học cụ thể để tránh gán ghép hình ảnh không đúng bối cảnh lịch sử).
+  var RANK_BOARD_INFO = {
+    SCORE: { label: "Bảng xếp hạng", icon: "💪" },
+    ELO: { label: "Bảng ELO", icon: "⭐", photo: "assets/cards/mendeleev.jpg", figure: "Dmitri Mendeleev (1834–1907)" },
+    DUEL: { label: "Bảng 1vs1", icon: "🥊" }
+  };
+  var CARD_CATALOG = {}; // mã thẻ -> { name, sub, group, tier, icon, photo, figure, desc }
+  CARD_CATALOG[CARD_PERFECT_ID()] = {
+    name: "Hoàn Hảo",
+    group: "perfect",
+    tier: "legendary",
+    icon: "✨",
+    photo: "assets/cards/curie.jpg",
+    figure: "Marie Curie (1867–1934)",
+    desc: "Marie Curie — 2 lần đoạt giải Nobel (Vật lý 1903, Hóa học 1911), khám phá ra 2 nguyên tố polonium và radium, người tiên phong nghiên cứu về phóng xạ."
+  };
+  ["SCORE", "ELO", "DUEL"].forEach(function (board) {
+    var info = RANK_BOARD_INFO[board];
+    [1, 2, 3].forEach(function (rank) {
+      var tier = rank === 1 ? "legendary" : rank === 2 ? "rare" : "bronze";
+      var label = rank === 1 ? "Hạng Nhất" : rank === 2 ? "Hạng Nhì" : "Hạng Ba";
+      CARD_CATALOG["RANK_" + board + "_" + rank] = {
+        name: label,
+        sub: info.label,
+        group: "rank",
+        tier: tier,
+        icon: info.icon,
+        photo: info.photo || null,
+        figure: info.figure || null,
+        desc: (info.figure ? info.figure + " — " : "") + "Từng đạt " + label.toLowerCase() + " ở " + info.label + "."
+      };
+    });
+  });
+  Object.keys(CHAPTER_CARD_INFO).forEach(function (chapterId) {
+    var info = CHAPTER_CARD_INFO[chapterId];
+    CARD_CATALOG["CHAP_" + chapterId] = {
+      name: "Trọn Chương",
+      sub: info.name,
+      group: "chapter",
+      tier: "rare",
+      icon: info.icon,
+      photo: info.photo || null,
+      figure: info.figure || null,
+      desc: (info.figure
+        ? info.figure + " — khám phá ra hạt nhân nguyên tử, đặt nền móng cho vật lý hạt nhân hiện đại, đoạt giải Nobel Hóa học năm 1908. "
+        : "") + "Đã làm đúng mọi câu hỏi khác nhau của \"" + info.name + "\" (cộng dồn qua nhiều lần làm)."
+    };
+  });
+  // Mã thẻ "Hoàn Hảo" phải khớp hệt CARD_PERFECT ở AppsScript_Code.gs — khai báo qua hàm nhỏ này để chỉ
+  // cần sửa 1 chỗ duy nhất (PERFECT100) nếu sau này backend đổi tên mã.
+  function CARD_PERFECT_ID() { return "PERFECT100"; }
+
+  function updateCollectionBadge() {
+    var badge = $("#collection-count-badge");
+    if (!badge) return;
+    var count = Object.keys(myCardIds).length;
+    if (count > 0) { badge.textContent = count; badge.classList.remove("hidden"); }
+    else { badge.classList.add("hidden"); }
+  }
+
+  function loadMyCards() {
+    if (!CARDS_ENABLED) return Promise.resolve(); // tính năng đang tạm tắt — xem CARDS_ENABLED ở đầu file
+    var name = $("#inp-name").value.trim();
+    if (!API_URL || !accessVerified || !name) {
+      myCardIds = {};
+      updateCollectionBadge();
+      return Promise.resolve();
+    }
+    return apiGet({ action: "myCards", name: name, pin: currentCode() }).then(function (res) {
+      myCardIds = {};
+      if (res && res.cards) res.cards.forEach(function (c) { myCardIds[c.cardId] = c.time; });
+      updateCollectionBadge();
+    });
+  }
+
+  function renderCardTile(cardId) {
+    var info = CARD_CATALOG[cardId];
+    if (!info) return null;
+    var unlocked = !!myCardIds[cardId];
+    var div = el("div", "chem-card tier-" + info.tier + (unlocked ? "" : " locked"));
+    var medallion = el("div", "cc-medallion");
+    if (unlocked && info.photo) {
+      medallion.innerHTML = '<img src="' + info.photo + '" alt="">';
+    } else {
+      medallion.textContent = info.icon || "🎴";
+    }
+    div.appendChild(medallion);
+    if (!unlocked) div.appendChild(el("div", "cc-lock", "🔒"));
+    var rarityLabel = info.tier === "legendary" ? "★★★ HUYỀN THOẠI" : info.tier === "rare" ? "★★ HIẾM" : "★ QUÝ";
+    div.appendChild(el("div", "cc-rarity", rarityLabel));
+    div.appendChild(el("div", "cc-name", escapeHtml(info.name)));
+    if (info.sub) div.appendChild(el("div", "cc-sub", escapeHtml(info.sub)));
+    div.title = (unlocked ? "" : "(Chưa đạt được) ") + info.name + (info.sub ? " — " + info.sub : "") +
+      (info.desc ? "\n" + info.desc : "") + (unlocked && myCardIds[cardId] ? "\nĐạt được: " + myCardIds[cardId] : "");
+    return div;
+  }
+
+  function renderCollectionScreen() {
+    var name = $("#inp-name").value.trim();
+    var needName = $("#collection-need-name");
+    var body = $("#collection-body");
+    if (!API_URL || !accessVerified || !name) {
+      needName.classList.remove("hidden");
+      body.classList.add("hidden");
+      return;
+    }
+    needName.classList.add("hidden");
+    body.classList.remove("hidden");
+    var allIds = Object.keys(CARD_CATALOG);
+    var haveCount = allIds.filter(function (id) { return myCardIds[id]; }).length;
+    $("#collection-summary").innerHTML = "Em đã sưu tập được <b>" + haveCount + " / " + allIds.length + "</b> thẻ";
+    var groups = { perfect: $("#collection-grid-perfect"), rank: $("#collection-grid-rank"), chapter: $("#collection-grid-chapter") };
+    Object.keys(groups).forEach(function (g) { groups[g].innerHTML = ""; });
+    allIds.forEach(function (id) {
+      var tile = renderCardTile(id);
+      var g = groups[CARD_CATALOG[id].group];
+      if (tile && g) g.appendChild(tile);
+    });
+  }
+
+  function openCollectionScreen() {
+    renderCollectionScreen(); // hiện ngay dữ liệu cũ (nếu có) trong lúc chờ gọi API mới nhất bên dưới
+    show("#screen-collection");
+    loadMyCards().then(renderCollectionScreen);
+  }
+
+  // Hiện lần lượt (không đè lên nhau) mỗi khi vừa nộp bài/đấu xong mà nhận được thẻ mới.
+  function showCardUnlockToast(newCardIds) {
+    if (!CARDS_ENABLED) return; // tính năng đang tạm tắt — xem CARDS_ENABLED ở đầu file
+    if (!newCardIds || !newCardIds.length) return;
+    var wasEmpty = cardToastQueue.length === 0;
+    newCardIds.forEach(function (id) { if (CARD_CATALOG[id]) cardToastQueue.push(id); });
+    if (wasEmpty) playNextCardToast();
+  }
+  function playNextCardToast() {
+    var overlay = $("#card-toast-overlay");
+    if (!cardToastQueue.length) { overlay.classList.add("hidden"); return; }
+    var id = cardToastQueue[0];
+    var info = CARD_CATALOG[id];
+    myCardIds[id] = myCardIds[id] || nowIsoLocal_();
+    updateCollectionBadge();
+    var bodyEl = $("#card-toast-body");
+    bodyEl.innerHTML = "";
+    var tile = renderCardTile(id);
+    if (tile) bodyEl.appendChild(tile);
+    bodyEl.appendChild(el("div", "card-toast-name", "<b>" + escapeHtml(info.name) + (info.sub ? " — " + escapeHtml(info.sub) : "") + "</b>"));
+    overlay.classList.remove("hidden");
+  }
+  function nowIsoLocal_() { return new Date().toString(); } // chỉ dùng để hiện tạm, giá trị thật lấy lại từ server ở lần loadMyCards() kế tiếp
+
   // ---------- ELO (đẳng cấp cộng dồn vĩnh viễn — không reset hàng tuần, khác Bảng 1vs1) ----------
   function renderElo(elo) {
     var box = $("#elo-box");
@@ -359,77 +682,66 @@
     var name = $("#inp-name").value.trim();
     var chap = currentChapterId();
     var cpBox = $("#chapter-progress-box");
-    if (!API_URL || !pinVerified || !name) {
+    if (!API_URL || !accessVerified || !name) {
       currentStats = null; renderStats();
       renderStreak(null);
       renderElo(null);
       lastChapterProgressData = null;
       if (cpBox) cpBox.classList.add("hidden");
+      loadMyCards();
       return Promise.resolve(null);
     }
-    return apiGet({ action: "profile", name: name, chapter: chap, pin: currentPin() }).then(function (res) {
-      if (!res || res.error) {
-        currentStats = null; renderStats();
-        renderStreak(null);
-        renderElo(null);
-        lastChapterProgressData = null;
-        if (cpBox) cpBox.classList.add("hidden");
-        return null;
-      }
-      currentStats = res.stats || null;
-      renderStats();
-      renderStreak(res.streak);
-      renderElo(typeof res.elo === "number" ? res.elo : null);
-      lastChapterProgressData = res.chapterProgress || null;
-      renderChapterProgress();
-      return res;
+    return apiGet({ action: "profile", name: name, chapter: chap, pin: currentCode() }).then(function (res) {
+      applyProfileResult_(res);
+      return res && !res.error ? res : null;
     });
   }
 
-  // ---------- Mã bảo vệ tên (chống mạo danh) ----------
-  function currentPin() { return $("#inp-pin").value.trim(); }
+  // ---------- Mã truy cập (hạng "full") / khách (hạng "guest", gõ tên suông) ----------
+  function currentCode() { return $("#inp-code").value.trim(); }
 
-  function maybeVerifyPin() {
+  function maybeVerifyAccess() {
     var name = $("#inp-name").value.trim();
-    var pin = currentPin();
-    var msgEl = $("#pin-msg");
+    var code = currentCode();
+    var msgEl = $("#access-msg");
     if (!API_URL) {
       // chưa nối backend (đang test cục bộ) -> bỏ qua bước xác minh để không chặn phát triển/thử nghiệm
-      pinVerified = true;
+      accessVerified = true;
+      currentTier = "full";
       msgEl.textContent = "";
       msgEl.className = "msg";
       validateStart();
       return;
     }
-    if (!name || !/^\d{4}$/.test(pin)) {
-      pinVerified = false;
+    if (!name) {
+      accessVerified = false;
+      currentTier = null;
+      guestLimits = null;
       msgEl.textContent = "";
       msgEl.className = "msg";
       validateStart();
+      refreshDuelControls();
       return;
     }
-    var myToken = ++pinCheckToken;
-    pinVerified = false;
-    msgEl.textContent = "Đang kiểm tra mã...";
+    var myToken = ++accessCheckToken;
+    accessVerified = false;
+    msgEl.textContent = "Đang kiểm tra...";
     msgEl.className = "msg";
     validateStart();
-    attemptVerifyPin(name, pin, myToken, msgEl, false);
+    attemptVerifyAccess(name, code, myToken, msgEl, false);
   }
 
-  // Diễn giải rõ từng mã lỗi trả về từ verifyName, thay vì gộp chung 1 câu "không xác minh được"
+  // Diễn giải rõ từng mã lỗi trả về từ verifyAndProfile, thay vì gộp chung 1 câu "không xác minh được"
   // khó chẩn đoán — để nếu lỗi tái diễn, giáo viên/học sinh biết ngay hướng xử lý.
   function errMsgForVerify(err) {
-    if (err === "wrong_pin") {
-      return "✘ Sai mã cho tên này. Nếu đây là tên của em, hãy nhập đúng mã cũ. Nếu trùng tên bạn khác, hãy đổi cách viết tên (ví dụ thêm tên lớp).";
+    if (err === "invalid_code") {
+      return "✘ Mã truy cập không đúng. Kiểm tra lại mã thầy đã gửi qua email (hoặc bỏ trống ô mã để dùng thử với tư cách khách).";
     }
-    if (err === "missing_sheet") {
-      return "✘ Hệ thống chưa sẵn sàng để lưu tên (thiếu thiết lập phía thầy/cô) — báo thầy/cô kiểm tra giúp nhé.";
+    if (err === "code_taken") {
+      return "✘ Mã này đã được gắn với 1 tên khác trước đó. Nếu đây là mã của em, hãy nhập ĐÚNG tên em đã dùng lần đầu; nếu vẫn không được, liên hệ Zalo thầy " + ZALO_CONTACT_HTML + ".";
     }
     if (err === "busy") {
       return "✘ Hệ thống đang bận, đợi vài giây rồi thử lại nhé.";
-    }
-    if (err === "invalid_pin") {
-      return "✘ Mã bảo vệ phải là đúng 4 chữ số.";
     }
     if (err === "missing_name") {
       return "✘ Em nhập tên trước đã nhé.";
@@ -437,42 +749,79 @@
     return "✘ Không xác minh được (có thể do mạng chập chờn). Thử lại — nếu vẫn lỗi, thử tải lại trang.";
   }
 
-  // Xác minh tên+mã; nếu lần đầu KHÔNG nhận được phản hồi nào (mạng chập chờn, hoặc Apps Script vừa
-  // "thức dậy" sau khi thầy/cô mới Deploy lại nên phản hồi chậm) thì tự thử lại thêm 1 lần trước khi
-  // báo lỗi cho học sinh, để không hiện lỗi oan vì 1 trục trặc mạng thoáng qua.
-  function attemptVerifyPin(name, pin, myToken, msgEl, isRetry) {
-    apiPost({ action: "verifyName", name: name, pin: pin }).then(function (res) {
-      if (myToken !== pinCheckToken) return; // đã có lần kiểm tra mới hơn, bỏ qua kết quả cũ này
-      if (res && res.ok) {
-        pinVerified = true;
-        msgEl.textContent = res.isNew
-          ? "✔ Đã đặt mã bảo vệ mới cho tên này — nhớ mã để dùng lại cho lần sau."
-          : "✔ Mã đúng, chào mừng quay lại!";
-        msgEl.className = "msg pin-ok";
-        refreshProfile();
+  // Xác minh tên (+mã nếu có); nếu lần đầu KHÔNG nhận được phản hồi nào (mạng chập chờn, hoặc Apps Script
+  // vừa "thức dậy" sau khi thầy mới Deploy lại nên phản hồi chậm) thì tự thử lại thêm 1 lần trước khi báo
+  // lỗi cho học sinh, để không hiện lỗi oan vì 1 trục trặc mạng thoáng qua.
+  // Gộp xác minh quyền truy cập + tải hồ sơ vào ĐÚNG 1 lượt gọi mạng (action "verifyAndProfile") thay vì 2
+  // lượt tuần tự như trước — cắt gần một nửa độ trễ lúc đăng nhập, vốn là nguyên nhân chính của cảm giác
+  // "trang tải chậm nói chung".
+  function attemptVerifyAccess(name, code, myToken, msgEl, isRetry) {
+    apiPost({ action: "verifyAndProfile", name: name, pin: code, chapter: currentChapterId() }).then(function (res) {
+      if (myToken !== accessCheckToken) return; // đã có lần kiểm tra mới hơn, bỏ qua kết quả cũ này
+      var verify = res && res.verify;
+      if (verify && verify.ok) {
+        accessVerified = true;
+        currentTier = verify.tier;
+        guestLimits = verify.guestLimits || null;
+        if (verify.tier === "full") {
+          msgEl.textContent = "✔ Mã đúng — đã mở khoá đầy đủ tính năng, chào mừng em!";
+          msgEl.className = "msg access-ok";
+        } else {
+          msgEl.textContent = "ℹ️ Đang dùng thử (khách): Tự luyện tập tối đa " +
+            ((guestLimits && guestLimits.maxAttemptsPerChapter) || 3) + " lượt/chương, " +
+            ((guestLimits && guestLimits.maxQuestions) || 10) + " câu/lượt. Có mã truy cập thì nhập ở trên để mở khoá đầy đủ nhé!";
+          msgEl.className = "msg access-guest";
+        }
+        applyProfileResult_(res.profile);
         validateStart();
         refreshDuelControls();
+        refreshRandomControls();
         return;
       }
       if (!res && !isRetry) {
-        msgEl.textContent = "Đang kiểm tra mã... (thử lại)";
+        msgEl.textContent = "Đang kiểm tra... (thử lại)";
         setTimeout(function () {
-          if (myToken !== pinCheckToken) return;
-          attemptVerifyPin(name, pin, myToken, msgEl, true);
+          if (myToken !== accessCheckToken) return;
+          attemptVerifyAccess(name, code, myToken, msgEl, true);
         }, 1200);
         return;
       }
-      pinVerified = false;
-      msgEl.textContent = errMsgForVerify(res && res.error);
-      msgEl.className = "msg pin-err";
+      accessVerified = false;
+      currentTier = null;
+      guestLimits = null;
+      msgEl.textContent = errMsgForVerify(verify && verify.error);
+      msgEl.className = "msg access-err";
       validateStart();
       refreshDuelControls();
+      refreshRandomControls();
     });
   }
 
-  function debouncedMaybeVerifyPin() {
-    clearTimeout(pinDebounceTimer);
-    pinDebounceTimer = setTimeout(maybeVerifyPin, 400);
+  /** Áp dụng kết quả getProfile (dùng chung bởi refreshProfile() và attemptVerifyAccess() ở trên, để 2 nơi
+   *  này luôn hiện hồ sơ giống hệt nhau dù lấy dữ liệu qua 1 hay 2 lượt gọi mạng). */
+  function applyProfileResult_(res) {
+    var cpBox = $("#chapter-progress-box");
+    if (!res || res.error) {
+      currentStats = null; renderStats();
+      renderStreak(null);
+      renderElo(null);
+      lastChapterProgressData = null;
+      if (cpBox) cpBox.classList.add("hidden");
+      loadMyCards();
+      return;
+    }
+    currentStats = res.stats || null;
+    renderStats();
+    renderStreak(res.streak);
+    renderElo(typeof res.elo === "number" ? res.elo : null);
+    lastChapterProgressData = res.chapterProgress || null;
+    renderChapterProgress();
+    loadMyCards(); // đồng bộ luôn số thẻ đã có (hiện ở nút "Bộ sưu tập") mỗi khi làm mới hồ sơ
+  }
+
+  function debouncedMaybeVerifyAccess() {
+    clearTimeout(accessDebounceTimer);
+    accessDebounceTimer = setTimeout(maybeVerifyAccess, 400);
   }
 
   function refreshExtraQuestions() {
@@ -492,9 +841,8 @@
 
   function validateStart() {
     var name = $("#inp-name").value.trim();
-    var pin = currentPin();
-    var pinOk = !API_URL || (/^\d{4}$/.test(pin) && pinVerified);
-    var ok = name.length > 0 && pinOk && !!currentChapterId() && !!selectedCount;
+    var accessOk = !API_URL || accessVerified;
+    var ok = name.length > 0 && accessOk && !!currentChapterId() && !!selectedCount;
     $("#btn-start").disabled = !ok;
   }
 
@@ -519,7 +867,109 @@
     runQuiz(buildQuizQuestions(), mode);
   }
 
+  // ---------- Chế độ Ngẫu nhiên: chọn 18 câu (14 Lớp 12 đủ mọi chương + 2 Lớp 10 + 2 Lớp 11) ----------
+  // LƯU Ý: backend (AppsScript_Code.gs) KHÔNG có quyền truy cập nội dung câu hỏi (chỉ có ở data/*.json,
+  // tải trực tiếp từ frontend) nên toàn bộ việc CHỌN câu hỏi phải nằm ở đây, phía app.js.
+  function gradeChapterIds_(gradeId) {
+    var g = manifest && manifest.grades.find(function (x) { return x.id === gradeId; });
+    return g ? g.chapters.map(function (c) { return c.id; }) : [];
+  }
+  function pickRandomN_(arr, n) {
+    return shuffle(arr).slice(0, Math.max(0, n));
+  }
+  function buildRandomTestQuestions_() {
+    var l12Ids = gradeChapterIds_("L12");
+    var l10Ids = gradeChapterIds_("L10");
+    var l11Ids = gradeChapterIds_("L11");
+    return Promise.all(l12Ids.map(loadChapterQuestionsCached_)).then(function (l12Lists) {
+      // Đảm bảo đủ TẤT CẢ các chương Lớp 12: mỗi chương có câu hỏi lấy random 1 câu trước, phần còn dư dồn
+      // vào 1 kho chung để rút thêm cho đủ RANDOM_L12_COUNT câu (không nhất thiết đều nhau giữa các chương).
+      var guaranteed = [];
+      var remainderPool = [];
+      l12Lists.forEach(function (qs) {
+        if (!qs || !qs.length) return;
+        var shuffled = shuffle(qs);
+        guaranteed.push(shuffled[0]);
+        remainderPool = remainderPool.concat(shuffled.slice(1));
+      });
+      var need = RANDOM_L12_COUNT - guaranteed.length;
+      var extra12 = need > 0 ? pickRandomN_(remainderPool, need) : [];
+      var l12Selected = guaranteed.concat(extra12).slice(0, RANDOM_L12_COUNT);
+      return Promise.all([
+        Promise.all(l10Ids.map(loadChapterQuestionsCached_)),
+        Promise.all(l11Ids.map(loadChapterQuestionsCached_))
+      ]).then(function (rest) {
+        var l10Pool = [].concat.apply([], rest[0]);
+        var l11Pool = [].concat.apply([], rest[1]);
+        var l10Selected = pickRandomN_(l10Pool, RANDOM_L10_COUNT);
+        var l11Selected = pickRandomN_(l11Pool, RANDOM_L11_COUNT);
+        return shuffle(l12Selected.concat(l10Selected, l11Selected));
+      });
+    });
+  }
+
+  function formatMinSec_(totalSec) {
+    var m = Math.floor(totalSec / 60);
+    var s = totalSec % 60;
+    return m + ":" + (s < 10 ? "0" : "") + s;
+  }
+  function startRandomTimer_() {
+    stopRandomTimer_();
+    var box = $("#random-timer-box");
+    var txt = $("#random-timer-text");
+    if (box) box.classList.remove("hidden");
+    if (txt) txt.textContent = "0:00";
+    randomTimerInterval = setInterval(function () {
+      if (!randomStartMs) return;
+      var elapsed = Math.floor((Date.now() - randomStartMs) / 1000);
+      if (txt) txt.textContent = formatMinSec_(elapsed);
+    }, 1000);
+  }
+  function stopRandomTimer_() {
+    clearInterval(randomTimerInterval);
+    randomTimerInterval = null;
+    var box = $("#random-timer-box");
+    if (box) box.classList.add("hidden");
+  }
+
+  function startRandomQuiz() {
+    var btn = $("#btn-start-random");
+    var msgEl = $("#random-msg");
+    if (!btn || btn.disabled) return;
+    btn.disabled = true;
+    btn.textContent = "Đang chọn câu hỏi...";
+    if (msgEl) msgEl.textContent = "";
+    buildRandomTestQuestions_().then(function (questions) {
+      btn.disabled = false;
+      btn.textContent = "Bắt đầu làm bài (18 câu)";
+      if (!questions || questions.length < RANDOM_TOTAL) {
+        if (msgEl) msgEl.textContent = "Chưa đủ dữ liệu câu hỏi để tạo đề ngẫu nhiên, thử lại nhé.";
+        return;
+      }
+      runRandomQuiz(questions);
+    }, function () {
+      btn.disabled = false;
+      btn.textContent = "Bắt đầu làm bài (18 câu)";
+      if (msgEl) msgEl.textContent = "Không tải được câu hỏi (kiểm tra lại mạng), thử lại nhé.";
+    });
+  }
+
+  function runRandomQuiz(questionList) {
+    quiz = {
+      questions: questionList,
+      index: 0,
+      mode: "hien_ngay",
+      answers: [],
+      isRandomMode: true
+    };
+    randomStartMs = Date.now();
+    show("#screen-quiz");
+    startRandomTimer_();
+    renderQuestion();
+  }
+
   function runQuiz(questionList, mode) {
+    stopRandomTimer_(); // phòng trường hợp trước đó vừa ở Chế độ ngẫu nhiên (VD "Làm lại câu sai" sau khi làm ngẫu nhiên)
     quiz = {
       questions: shuffle(questionList),
       index: 0,
@@ -545,7 +995,11 @@
     $("#btn-next").textContent = "Gửi đáp án";
     resetReportUI();
 
-    ["A", "B", "C", "D"].forEach(function (letter) {
+    // Xáo trộn thứ tự HIỂN THỊ 4 đáp án mỗi lần vào câu (chỉ đổi vị trí trên màn hình — nhãn A/B/C/D vẫn
+    // giữ đúng gắn với đáp án gốc của nó, và việc chấm đúng/sai vẫn dựa vào letter gốc nên không ảnh hưởng
+    // gì đến logic chấm điểm). Lưu lại quiz.optOrder để confirmAnswer() tô đúng màu theo đúng vị trí đã xáo.
+    quiz.optOrder = shuffle(["A", "B", "C", "D"]);
+    quiz.optOrder.forEach(function (letter) {
       var b = el("button", "opt-btn");
       b.innerHTML = '<span class="opt-label">' + letter + '</span><span>' + q.options[letter] + '</span>';
       b.addEventListener("click", function () { selectOption(letter, b); });
@@ -577,7 +1031,7 @@
 
     if (quiz.mode === "hien_ngay") {
       allBtns.forEach(function (b, i) {
-        var L = ["A", "B", "C", "D"][i];
+        var L = quiz.optOrder[i];
         if (L === q.answer) b.classList.add("correct");
         else if (L === letter) b.classList.add("wrong");
       });
@@ -681,6 +1135,7 @@
       var scoreHtml = kind === "count" ? item.totalDone + " câu"
         : kind === "duel" ? item.wins + " thắng"
         : kind === "elo" ? item.elo + " ELO"
+        : kind === "random" ? formatMinSec_(item.seconds)
         : item.score + "%";
       li.innerHTML =
         '<span class="lb-rank">' + (medals[i] || (i + 1)) + '</span>' +
@@ -689,15 +1144,30 @@
       listEl.appendChild(li);
     });
   }
+  // ---------- Bảng Ngẫu nhiên (Top 3 kỷ lục 18/18 câu nhanh nhất) ----------
+  function refreshRandomLeaderboard() {
+    if (!API_URL) {
+      renderLeaderboardList("#leaderboard-random-list", "#leaderboard-random-empty", null, "random");
+      $("#leaderboard-random-offline").classList.remove("hidden");
+      return;
+    }
+    $("#leaderboard-random-offline").classList.add("hidden");
+    apiGet({ action: "randomRecordLeaderboard" }).then(function (res) {
+      lastRandomLeaderboardData = res || null;
+      renderLeaderboardList("#leaderboard-random-list", "#leaderboard-random-empty", res && res.leaderboard, "random");
+    });
+  }
+
   function startLeaderboardPolling() {
     refreshLeaderboard();
     refreshDuelLeaderboard();
     refreshEloLeaderboard();
+    refreshRandomLeaderboard();
     // 8 giây/lần — khớp với thời gian cache 8 giây ở backend (LB_CACHE_TTL_SECONDS trong AppsScript_Code.gs),
     // nên dù hỏi lại nhanh hơn cũng không làm sheet bị quét lại nhiều lần không cần thiết.
     setInterval(function () {
       if (document.visibilityState === "visible") {
-        refreshLeaderboard(); refreshDuelLeaderboard(); refreshEloLeaderboard();
+        refreshLeaderboard(); refreshDuelLeaderboard(); refreshEloLeaderboard(); refreshRandomLeaderboard();
       }
     }, 8000);
   }
@@ -711,7 +1181,91 @@
     }
   }
 
+  // ===== Nộp bài + hiện kết quả cho Chế độ ngẫu nhiên (18 câu, khác hẳn nộp bài Tự luyện tập vì không
+  // gắn với 1 chương cụ thể, có tính thời gian làm bài, và chỉ đúng 18/18 mới được tính kỷ lục). =====
+  function finishRandomQuiz() {
+    stopRandomTimer_();
+    var name = $("#inp-name").value.trim();
+    var elapsedSec = randomStartMs ? Math.max(1, Math.round((Date.now() - randomStartMs) / 1000)) : 0;
+    var correctCount = quiz.answers.filter(function (a) { return a.correct; }).length;
+    var badgeBanner = $("#result-badge");
+    if (badgeBanner) badgeBanner.classList.add("hidden");
+    renderResultElo(0, null);
+
+    var infoBox = $("#result-random-info");
+    if (infoBox) {
+      infoBox.classList.remove("hidden");
+      infoBox.innerHTML = "⏱️ Thời gian làm bài: <b>" + formatMinSec_(elapsedSec) + "</b><br>Đang lưu kết quả...";
+    }
+    var resultStatsBox = $("#result-stats");
+    resultStatsBox.classList.add("hidden");
+    resultStatsBox.innerHTML = "";
+
+    apiPost({
+      action: "submitRandomTest",
+      name: name,
+      pin: currentCode(),
+      results: quiz.answers,
+      elapsedSec: elapsedSec
+    }).then(function (submitRes) {
+      if (!infoBox) return;
+      if (!submitRes || submitRes.ok === false) {
+        infoBox.innerHTML = "⏱️ Thời gian làm bài: <b>" + formatMinSec_(elapsedSec) + "</b><br>" +
+          "Không lưu được kết quả lượt này (" + ((submitRes && submitRes.error) || "lỗi") + ") — thử lại nhé.";
+        return;
+      }
+      renderResultElo(submitRes.eloGain, submitRes.elo);
+      refreshLeaderboard();
+      refreshEloLeaderboard();
+      var html = "⏱️ Thời gian làm bài: <b>" + formatMinSec_(elapsedSec) + "</b>";
+      if (correctCount < RANDOM_TOTAL) {
+        html += "<br>Chưa đúng trọn vẹn 18/18 câu nên lượt này chưa tính là kỷ lục — làm đúng hết cả 18 câu để có cơ hội lập kỷ lục nhé!";
+      } else if (submitRes.isNewRecord) {
+        html += "<br>🎉 <b>Kỷ lục mới của em!</b> Có thể em vừa lọt Top 3 nhanh nhất — xem Bảng Ngẫu nhiên bên cạnh nhé!";
+      } else {
+        html += "<br>Đúng trọn vẹn 18/18 câu, nhưng chưa nhanh hơn kỷ lục cũ của chính em"
+          + (typeof submitRes.bestSeconds === "number" ? " (" + formatMinSec_(submitRes.bestSeconds) + ")" : "") + ".";
+      }
+      infoBox.innerHTML = html;
+      refreshRandomLeaderboard();
+    }, function () {
+      if (infoBox) {
+        infoBox.innerHTML = "⏱️ Thời gian làm bài: <b>" + formatMinSec_(elapsedSec) + "</b><br>Không lưu được kết quả (lỗi mạng) — thử lại nhé.";
+      }
+    });
+
+    var wrongIdSet = {};
+    quiz.answers.forEach(function (a) { if (!a.correct) wrongIdSet[a.id] = true; });
+    var wrongQuestionObjs = quiz.questions.filter(function (q) { return wrongIdSet[q.id]; });
+    var quizModeForRetry = quiz.mode;
+
+    show("#screen-result");
+    var pct = Math.round((correctCount / quiz.answers.length) * 100);
+    $("#result-score").innerHTML = correctCount + " / " + quiz.answers.length +
+      '<span class="sub">' + pct + "% chính xác</span>";
+
+    var grid = $("#result-grid");
+    grid.innerHTML = "";
+    quiz.answers.forEach(function (a, i) {
+      var d = el("div", a.correct ? "ok" : "no", a.correct ? "✓" : "✗");
+      d.title = "Câu " + (i + 1);
+      grid.appendChild(d);
+    });
+
+    var retryBtn = $("#btn-retry-wrong");
+    if (wrongQuestionObjs.length > 0) {
+      retryBtn.classList.remove("hidden");
+      retryBtn.textContent = "Làm lại " + wrongQuestionObjs.length + " câu sai";
+      retryBtn.onclick = function () { runQuiz(wrongQuestionObjs, quizModeForRetry); };
+    } else {
+      retryBtn.classList.add("hidden");
+    }
+  }
+
   function finishQuiz() {
+    if (quiz.isRandomMode) { finishRandomQuiz(); return; }
+    var infoBox0 = $("#result-random-info");
+    if (infoBox0) infoBox0.classList.add("hidden"); // ẩn ô thông tin của Chế độ ngẫu nhiên nếu lần trước vừa hiện
     var name = $("#inp-name").value.trim();
     var chap = currentChapterId();
     var correctCount = quiz.answers.filter(function (a) { return a.correct; }).length;
@@ -727,11 +1281,26 @@
       action: "submit",
       name: name,
       chapter: chap,
-      pin: currentPin(),
+      pin: currentCode(),
       mode: quiz.mode,
       results: quiz.answers
     }).then(function (submitRes) {
+      if (submitRes && submitRes.ok === false) {
+        // Hiếm gặp (VD 2 tab cùng làm 1 chương, hoặc vừa hết lượt khách ngay lúc nộp bài) — kết quả lượt
+        // này KHÔNG được lưu, báo rõ cho học sinh biết thay vì hiện "tiến độ" như đã lưu thành công.
+        resultStatsBox.classList.remove("hidden");
+        if (submitRes.error === "guest_limit_reached" || submitRes.error === "guest_question_limit") {
+          resultStatsBox.className = "stats-box locked-feature-msg";
+          resultStatsBox.innerHTML = "😊 Lượt làm bài này KHÔNG được lưu vì em đã dùng hết lượt luyện tập " +
+            "miễn phí cho chương này. Liên hệ Zalo thầy " + ZALO_CONTACT_HTML + " để đăng ký nhận mã truy cập nhé!";
+        } else {
+          resultStatsBox.className = "stats-box";
+          resultStatsBox.innerHTML = "Không lưu được kết quả lượt này (" + (submitRes.error || "lỗi") + ") — thử lại nhé.";
+        }
+        return;
+      }
       renderResultElo(submitRes && submitRes.eloGain, submitRes && submitRes.elo);
+      showCardUnlockToast(submitRes && submitRes.newCards);
       refreshLeaderboard(); // "ngay khi có sự thay đổi" cho chính học sinh vừa nộp bài
       refreshEloLeaderboard();
       // Gộp 3 API (stats + streak + tiến độ theo chương) thành 1 lượt gọi duy nhất cho nhanh,
@@ -807,9 +1376,9 @@
   // ---------- Đối đầu: bước 1 (người thách đấu) — tạo lời thách + phòng chờ 60s ----------
   function startChallenge() {
     var name = $("#inp-name").value.trim();
-    var pin = currentPin();
+    var pin = currentCode();
     var chapObj = currentChapterObj();
-    if (!name || !pinVerified || !chapObj) return;
+    if (!name || !accessVerified || currentTier !== "full" || !chapObj) return;
     if (staticQuestions.length + extraQuestions.length < DUEL_QUESTION_COUNT) return;
     var questionIds = buildDuelQuestionIds();
     $("#btn-challenge").disabled = true;
@@ -846,7 +1415,7 @@
   }
   function pollChallengeStatus() {
     if (!duelMatchId) return;
-    apiGet({ action: "challengeStatus", matchId: duelMatchId, name: $("#inp-name").value.trim(), pin: currentPin() })
+    apiGet({ action: "challengeStatus", matchId: duelMatchId, name: $("#inp-name").value.trim(), pin: currentCode() })
       .then(function (res) {
         if (!res || !duelMatchId) return; // đã hủy/thoát trong lúc chờ phản hồi
         if (res.status === "matched") {
@@ -865,7 +1434,7 @@
     clearDuelTimers();
     duelMatchId = null;
     show("#screen-setup");
-    if (mid) apiPost({ action: "cancelChallenge", matchId: mid, name: $("#inp-name").value.trim(), pin: currentPin() });
+    if (mid) apiPost({ action: "cancelChallenge", matchId: mid, name: $("#inp-name").value.trim(), pin: currentCode() });
   }
 
   // ---------- Đối đầu: bước 1 (người đồng ý thử thách) — chọn 1 lời thách đang chờ để vào đấu ----------
@@ -877,7 +1446,7 @@
     duelPickPollTimer = setInterval(refreshChallengeList, 3000);
   }
   function refreshChallengeList() {
-    apiGet({ action: "listChallenges", name: $("#inp-name").value.trim(), pin: currentPin() }).then(function (res) {
+    apiGet({ action: "listChallenges", name: $("#inp-name").value.trim(), pin: currentCode() }).then(function (res) {
       var listEl = $("#duel-pick-list");
       var emptyEl = $("#duel-pick-empty");
       var challenges = (res && res.challenges) || [];
@@ -902,7 +1471,7 @@
   }
   function acceptChallengeClick(matchId, btnEl) {
     btnEl.disabled = true;
-    apiPost({ action: "acceptChallenge", matchId: matchId, name: $("#inp-name").value.trim(), pin: currentPin() })
+    apiPost({ action: "acceptChallenge", matchId: matchId, name: $("#inp-name").value.trim(), pin: currentCode() })
       .then(function (res) {
         if (!res || !res.ok) {
           $("#duel-pick-msg").textContent = (res && res.error === "already_taken")
@@ -974,7 +1543,10 @@
     $("#btn-report").classList.add("hidden"); // đối đầu: bỏ bớt báo lỗi để tập trung tốc độ, giáo viên vẫn nhận báo lỗi ở chế độ tự luyện
     $("#btn-next").classList.add("hidden");   // đối đầu: bấm đáp án là gửi luôn, không cần nút xác nhận riêng
     duelAnsweredLocally = false;
-    ["A", "B", "C", "D"].forEach(function (letter) {
+    // Xáo trộn thứ tự hiển thị như chế độ Tự luyện tập — chỉ ảnh hưởng vị trí hiển thị phía CLIENT NÀY,
+    // không liên quan gì đến việc chấm điểm (server chỉ nhận correct:true/false, không nhận vị trí).
+    quiz.optOrder = shuffle(["A", "B", "C", "D"]);
+    quiz.optOrder.forEach(function (letter) {
       var b = el("button", "opt-btn");
       b.innerHTML = '<span class="opt-label">' + letter + '</span><span>' + q.options[letter] + '</span>';
       b.addEventListener("click", function () { selectDuelOption(letter, b); });
@@ -1017,7 +1589,7 @@
 
   function submitDuelAnswerToServer(index, mode, correct) {
     apiPost({
-      action: "submitDuelAnswer", matchId: duelMatchId, name: $("#inp-name").value.trim(), pin: currentPin(),
+      action: "submitDuelAnswer", matchId: duelMatchId, name: $("#inp-name").value.trim(), pin: currentCode(),
       index: index, mode: mode, correct: !!correct
     }).then(function () { pollDuelState(); }); // hỏi lại ngay để biết ai khóa được câu + điểm mới nhất
   }
@@ -1036,7 +1608,7 @@
     }
     var q = quiz.questions[quiz.index];
     document.querySelectorAll("#q-options .opt-btn").forEach(function (b, i) {
-      var L = ["A", "B", "C", "D"][i];
+      var L = quiz.optOrder[i];
       if (L === q.answer) b.classList.add("correct");
       else if (b.classList.contains("selected") && iAnsweredThis && !iWasCorrect) b.classList.add("wrong");
     });
@@ -1057,7 +1629,7 @@
   // ---------- Đối đầu: polling chính trong lúc thi đấu (câu bị khóa chưa/oẳn tù tì/đã xong chưa) ----------
   function pollDuelState() {
     if (!duelMatchId) return;
-    apiGet({ action: "duelState", matchId: duelMatchId, name: $("#inp-name").value.trim(), pin: currentPin() })
+    apiGet({ action: "duelState", matchId: duelMatchId, name: $("#inp-name").value.trim(), pin: currentCode() })
       .then(function (res) {
         if (!res || !res.ok || duelPhase === "done") return;
         var prevYouAnswered = duelYou.correct + duelYou.wrong;
@@ -1127,7 +1699,7 @@
   }
   function chooseDuelRps(choice) {
     apiPost({
-      action: "submitDuelRps", matchId: duelMatchId, name: $("#inp-name").value.trim(), pin: currentPin(), choice: choice
+      action: "submitDuelRps", matchId: duelMatchId, name: $("#inp-name").value.trim(), pin: currentCode(), choice: choice
     }).then(function () { pollDuelState(); });
   }
 
@@ -1141,6 +1713,7 @@
     $("#duel-timer-box").classList.add("hidden");
     show("#screen-duel-result");
     renderDuelResult(res);
+    showCardUnlockToast(res.newCards);
     onDuelFinished();
   }
   function renderDuelResult(res) {
@@ -1204,6 +1777,439 @@
     return true;
   }
 
+  // ================= Giải đấu WorldCup (loại trực tiếp) =================
+  // Luật chơi từng cặp đấu Y HỆT Đối đầu 1vs1 (10 câu, đúng +1/sai -0,5, hoà thì Oẳn tù tì) nên tái sử
+  // dụng lại màn hình làm bài (#screen-quiz) + màn oẳn tù tì (#screen-duel-rps) — chỉ khác luồng điều
+  // khiển: không có bước "thách đấu/đồng ý" thủ công, tất cả do server tự ghép cặp theo từng vòng, và 1
+  // interval DUY NHẤT (tourPollTimer, hỏi lại mỗi ~1 giây) chạy xuyên suốt từ lúc mở màn "Giải đấu" cho
+  // tới khi rời hẳn về màn hình chính — dù đang ở màn hub hay đang thi đấu.
+
+  function openTournamentScreen() {
+    show("#screen-tournament");
+    pollTournament(); // vẽ ngay dữ liệu mới nhất, không đợi hết chu kỳ 1 giây đầu tiên
+    startTournamentPolling();
+  }
+  function startTournamentPolling() {
+    if (tourPollTimer) return;
+    tourPollTimer = setInterval(pollTournament, DUEL_POLL_MS);
+  }
+  function stopTournamentPolling() {
+    clearInterval(tourPollTimer); tourPollTimer = null;
+  }
+
+  function pollTournament() {
+    var name = $("#inp-name").value.trim();
+    var needNameEl = $("#tournament-need-name");
+    if (!API_URL || !accessVerified || !name) {
+      needNameEl.className = "panel-empty";
+      needNameEl.textContent = "Nhập tên (và mã truy cập nếu có) ở màn hình chính để tham gia giải đấu nhé.";
+      needNameEl.classList.remove("hidden");
+      $("#tournament-body").classList.add("hidden");
+      return;
+    }
+    if (currentTier === "guest") {
+      // Giải đấu WorldCup chỉ dành cho hạng "full" (có mã) — khách thấy thông báo khoá tính năng, không
+      // cần gọi API mỗi chu kỳ poll làm gì (đỡ tốn 1 lượt gọi Apps Script vô ích mỗi giây).
+      needNameEl.className = "msg locked-feature-msg";
+      needNameEl.innerHTML = lockedFeatureHtml_("Giải đấu WorldCup");
+      needNameEl.classList.remove("hidden");
+      $("#tournament-body").classList.add("hidden");
+      return;
+    }
+    var myToken = ++tourPollToken; // đánh dấu đây là lượt poll MỚI NHẤT tại thời điểm gửi đi
+    apiGet({ action: "tournamentMatchState", name: name, pin: currentCode() }).then(function (res) {
+      // Nhiều lượt poll có thể đang bay cùng lúc trên mạng (interval 1s + poll ngay sau khi nộp câu trả
+      // lời/oẳn tù tì) và mạng có thể trả về KHÔNG ĐÚNG THỨ TỰ đã gửi — nếu 1 lượt poll CŨ (ứng với trận
+      // vừa xong) về SAU 1 lượt poll MỚI hơn (đã phát hiện trận xong, đã rời màn thi đấu) thì kết quả cũ
+      // này phải bị bỏ qua, không thì học sinh sẽ bị kéo "vào lại" trận đã kết thúc.
+      if (myToken !== tourPollToken) return;
+      if (!res || !res.ok) return;
+      routeTournamentPhase(res);
+    });
+  }
+
+  function routeTournamentPhase(res) {
+    var inBattle = res.phase === "playing" || res.phase === "tie_break";
+    if (inBattle) {
+      // Bình thường học sinh thắng 1 trận sẽ thấy phase "waiting_round" (màn chờ) TRƯỚC khi trận tiếp
+      // theo được ghép — nhưng nếu vòng mới vừa được ghép NGAY LÚC lượt poll kế tiếp của chính mình cũng
+      // vừa gửi đi (đối thủ ở cặp khác trả lời xong gần như đồng thời), có thể bỏ lỡ hẳn màn chờ đó và
+      // nhận trực tiếp phase "playing" của TRẬN MỚI trong khi quiz.isTour vẫn còn true từ trận VỪA XONG.
+      // Nếu không phát hiện được matchId đã đổi, updateTourBattleFromPoll sẽ tưởng nhầm đây là điểm số
+      // mới của trận cũ (mà không có câu hỏi để vẽ) -> màn hình bị "đứng hình" ở câu cuối trận cũ mãi mãi.
+      var isNewMatch = !!res.matchId && res.matchId !== tourMatchId;
+      if (!tourEnteringMatch && (!(quiz && quiz.isTour) || isNewMatch)) {
+        enterTourMatch_(res);
+      } else if (quiz && quiz.isTour && !quiz.loading && !isNewMatch) {
+        updateTourBattleFromPoll(res);
+      }
+      return;
+    }
+    if (quiz && quiz.isTour) exitTourBattleToHub_();
+    renderTournamentHub(res);
+  }
+
+  // ---------- Hub: đăng ký + sơ đồ nhánh ----------
+  function renderTournamentHub(res) {
+    $("#tournament-need-name").classList.add("hidden");
+    $("#tournament-body").classList.remove("hidden");
+    var noneBox = $("#tournament-none");
+    var statusBox = $("#tournament-status-box");
+    var bracketWrap = $("#tournament-bracket-wrap");
+    var joinBtn = $("#btn-tournament-join");
+    var t = res.tournament;
+
+    if (res.phase === "none") {
+      noneBox.classList.remove("hidden");
+      statusBox.classList.add("hidden");
+      bracketWrap.classList.add("hidden");
+      return;
+    }
+    noneBox.classList.add("hidden");
+    statusBox.classList.remove("hidden");
+    statusBox.className = "tour-status-box";
+    joinBtn.classList.add("hidden");
+
+    var titleEl = $("#tournament-status-title"), subEl = $("#tournament-status-sub");
+    var myName = $("#inp-name").value.trim().toLowerCase();
+
+    if (res.phase === "cancelled") {
+      titleEl.textContent = "Giải đấu vừa bị thầy/cô hủy";
+      subEl.textContent = "";
+    } else if (res.phase === "registration") {
+      var joined = t.participants.length, total = t.size;
+      var meIn = t.participants.some(function (p) { return p.trim().toLowerCase() === myName; });
+      titleEl.textContent = "Giải đấu \"" + (t.chapterName || t.chapter) + "\"";
+      subEl.textContent = "Đã đăng ký: " + joined + " / " + total + " học sinh" +
+        (meIn ? " — em đã tham gia, chờ đủ người là bắt đầu ngay!" : "");
+      if (!meIn) {
+        joinBtn.classList.remove("hidden");
+        joinBtn.disabled = joined >= total;
+      }
+    } else if (res.phase === "not_in") {
+      titleEl.textContent = "Giải đấu \"" + (t.chapterName || t.chapter) + "\" đang diễn ra";
+      subEl.textContent = "Em không có trong danh sách lượt này — cùng xem sơ đồ nhánh bên dưới nhé!";
+    } else if (res.phase === "waiting_round") {
+      statusBox.classList.add("win");
+      titleEl.textContent = "✔ Em đã thắng vòng " + res.round + "!";
+      subEl.textContent = "Đang chờ các cặp đấu khác kết thúc để lên vòng tiếp theo...";
+    } else if (res.phase === "eliminated") {
+      statusBox.classList.add("lose");
+      titleEl.textContent = "😅 Em đã bị loại ở vòng " + res.round;
+      subEl.textContent = "Thua bởi " + (res.opponent || "đối thủ") + " — cảm ơn em đã thi đấu hết mình!";
+    } else if (res.phase === "champion") {
+      statusBox.classList.add("champion");
+      titleEl.textContent = "🏆 CHÚC MỪNG VÔ ĐỊCH!";
+      subEl.textContent = "Em đã thắng tất cả các vòng của giải \"" + (t.chapterName || t.chapter) + "\" — quá đỉnh!";
+    } else {
+      // not_in / phase lạ khác (dự phòng) -> vẫn hiện được sơ đồ nhánh bên dưới, không chặn màn hình
+      titleEl.textContent = "Giải đấu \"" + ((t && (t.chapterName || t.chapter)) || "") + "\"";
+      subEl.textContent = "";
+    }
+
+    if (t && t.rounds && t.rounds.length) {
+      bracketWrap.classList.remove("hidden");
+      renderBracket(t);
+    } else {
+      bracketWrap.classList.add("hidden");
+    }
+  }
+
+  function joinTournamentClick() {
+    var name = $("#inp-name").value.trim();
+    var pin = currentCode();
+    if (!name || !accessVerified || currentTier !== "full") return;
+    var btn = $("#btn-tournament-join");
+    btn.disabled = true;
+    apiPost({ action: "joinTournament", name: name, pin: pin }).then(function (res) {
+      if (!res || !res.ok) {
+        $("#tournament-status-sub").textContent = "Không tham gia được (" +
+          ((res && res.error) || "lỗi") + "), thử lại nhé.";
+        btn.disabled = false;
+        return;
+      }
+      pollTournament();
+    });
+  }
+
+  // ---------- Sơ đồ nhánh ----------
+  function renderBracket(t) {
+    var myNameLower = $("#inp-name").value.trim().toLowerCase();
+    var box = $("#tournament-bracket");
+    box.innerHTML = "";
+    t.rounds.forEach(function (round, rIdx) {
+      var col = el("div", "tour-round");
+      var label = (rIdx === t.rounds.length - 1 && round.length === 1)
+        ? "🏆 Chung kết"
+        : "Vòng " + (rIdx + 1) + " (" + round.length + " cặp)";
+      col.appendChild(el("div", "tour-round-title", escapeHtml(label)));
+      round.forEach(function (m, mIdx) {
+        // Vòng 1 của giải từ 8 người trở lên: chèn khoảng cách ở giữa để gợi ý rõ "2 nhánh đấu" cùng hội
+        // tụ về chung kết (giống cách 1 sơ đồ giải đấu loại trực tiếp thường được vẽ).
+        if (rIdx === 0 && round.length >= 4 && mIdx === Math.floor(round.length / 2)) {
+          col.appendChild(el("div", "tour-round-half-gap"));
+        }
+        col.appendChild(renderTourMatchCard_(m, myNameLower));
+      });
+      box.appendChild(col);
+    });
+  }
+  function renderTourMatchCard_(m, myNameLower) {
+    var card = el("div", "tour-match");
+    if (!m.p1 && !m.p2) {
+      card.classList.add("empty");
+      card.textContent = "Chờ xác định";
+      return card;
+    }
+    card.appendChild(tourMatchPlayerRow_(m.p1, m, myNameLower));
+    card.appendChild(el("div", "tour-match-vs", "vs"));
+    card.appendChild(tourMatchPlayerRow_(m.p2, m, myNameLower));
+    return card;
+  }
+  function tourMatchPlayerRow_(pname, m, myNameLower) {
+    var cls = "tour-match-p";
+    if (pname && m.winner) cls += (pname.trim().toLowerCase() === m.winner.trim().toLowerCase()) ? " winner" : " loser";
+    if (pname && pname.trim().toLowerCase() === myNameLower) cls += " you";
+    var row = el("div", cls);
+    row.appendChild(el("span", "n", escapeHtml(pname || "?")));
+    return row;
+  }
+
+  // ---------- Vào trận: sinh/nhận bộ câu hỏi rồi tải nội dung câu hỏi ----------
+  function enterTourMatch_(res) {
+    tourEnteringMatch = true;
+    tourMatchId = res.matchId;
+    tourOpponentName = res.opponent;
+    tourRound = res.round; tourTotalRounds = res.totalRounds;
+    quiz = { isTour: true, loading: true }; // chặn các lượt poll khác vào lại trong lúc đang tải bất đồng bộ
+
+    var chapter = res.chapter, chapterName = res.chapterName;
+    Promise.all([
+      loadStaticQuestions(chapter).catch(function () { return []; }),
+      apiGet({ action: "extra", chapter: chapter })
+    ]).then(function (results) {
+      var pool = (results[0] || []).concat((results[1] && results[1].questions) || []);
+      var byId = {};
+      pool.forEach(function (q) { byId[q.id] = q; });
+
+      function proceedWithIds(questionIds) {
+        var questions = questionIds.map(function (id) { return byId[id]; }).filter(Boolean);
+        runTourMatch_(questions, chapter, chapterName);
+      }
+
+      if (res.questionIds && res.questionIds.length === TOUR_QUESTION_COUNT) {
+        proceedWithIds(res.questionIds);
+        return;
+      }
+      // Chưa ai đặt câu hỏi cho trận này -> CHÍNH MÌNH tự sinh ngẫu nhiên rồi gửi lên; nếu đối thủ gửi
+      // trước thì dùng bộ của đối thủ (nguyên tắc "ai gửi trước thắng", giống hệt Đối đầu 1vs1).
+      var ids = shuffle(pool).slice(0, TOUR_QUESTION_COUNT).map(function (q) { return q.id; });
+      apiPost({
+        action: "setTournamentMatchQuestions", name: $("#inp-name").value.trim(), pin: currentCode(),
+        matchId: tourMatchId, questionIds: ids
+      }).then(function (setRes) {
+        proceedWithIds((setRes && setRes.questionIds) || ids);
+      });
+    });
+  }
+
+  function runTourMatch_(questions, chapter, chapterName) {
+    tourEnteringMatch = false;
+    quiz = { questions: questions, index: 0, isTour: true, chapter: chapter, chapterName: chapterName, finished: false };
+    tourYou = { score: 0, correct: 0, wrong: 0 };
+    tourOpp = { score: 0, correct: 0, wrong: 0, name: tourOpponentName };
+    tourAnsweredLocally = false;
+    show("#screen-quiz");
+    $("#duel-score-box").classList.remove("hidden");
+    $("#duel-timer-box").classList.remove("hidden");
+    updateTourScoreDisplay();
+    renderTourQuestion();
+  }
+
+  function updateTourScoreDisplay() {
+    var youEl = $("#duel-score-you"), oppEl = $("#duel-score-opp");
+    if (youEl) youEl.textContent = "Bạn: " + formatDuelScore(tourYou.score);
+    if (oppEl) oppEl.textContent = (tourOpp.name || "Đối thủ") + ": " + formatDuelScore(tourOpp.score);
+  }
+
+  function renderTourQuestion() {
+    var q = quiz.questions[quiz.index];
+    $("#quiz-progress").textContent = "🏆 Vòng " + tourRound + " · Câu " + (quiz.index + 1) + "/" + quiz.questions.length;
+    $("#progress-bar").style.width = Math.round((quiz.index / quiz.questions.length) * 100) + "%";
+    $("#q-stem").innerHTML = q.stem;
+    var optsBox = $("#q-options");
+    optsBox.innerHTML = "";
+    $("#q-feedback").className = "q-feedback hidden";
+    $("#btn-report").classList.add("hidden");
+    $("#btn-next").classList.add("hidden");
+    tourAnsweredLocally = false;
+    quiz.optOrder = shuffle(["A", "B", "C", "D"]);
+    quiz.optOrder.forEach(function (letter) {
+      var b = el("button", "opt-btn");
+      b.innerHTML = '<span class="opt-label">' + letter + '</span><span>' + q.options[letter] + '</span>';
+      b.addEventListener("click", function () { selectTourOption(letter, b); });
+      optsBox.appendChild(b);
+    });
+    startTourAnswerCountdown();
+  }
+
+  function startTourAnswerCountdown() {
+    clearTimeout(tourAnswerTimeoutTimer);
+    var deadlineMs = Date.now() + DUEL_ANSWER_TIMEOUT_MS;
+    var myIndex = quiz.index;
+    (function tick() {
+      if (!quiz || !quiz.isTour || quiz.finished || quiz.index !== myIndex) return;
+      var remain = Math.max(0, Math.round((deadlineMs - Date.now()) / 1000));
+      var txt = $("#duel-timer-text");
+      if (txt) txt.textContent = remain + "s";
+      var box = $("#duel-timer-box");
+      if (box) box.classList.toggle("urgent", remain <= 5);
+      if (remain <= 0) {
+        if (!tourAnsweredLocally) submitTourAnswerToServer(myIndex, "skip", false);
+        return;
+      }
+      tourAnswerTimeoutTimer = setTimeout(tick, 250);
+    })();
+  }
+
+  function selectTourOption(letter, btnEl) {
+    if (tourAnsweredLocally) return;
+    tourAnsweredLocally = true;
+    clearTimeout(tourAnswerTimeoutTimer);
+    var q = quiz.questions[quiz.index];
+    var correct = letter === q.answer;
+    document.querySelectorAll("#q-options .opt-btn").forEach(function (b) { b.disabled = true; });
+    btnEl.classList.add("selected");
+    submitTourAnswerToServer(quiz.index, "answer", correct);
+  }
+
+  function submitTourAnswerToServer(index, mode, correct) {
+    apiPost({
+      action: "submitTournamentAnswer", matchId: tourMatchId, name: $("#inp-name").value.trim(), pin: currentCode(),
+      index: index, mode: mode, correct: !!correct
+    }).then(function () { pollTournament(); }); // hỏi lại ngay để biết ai khóa được câu + điểm mới nhất
+  }
+
+  function showTourLockedFeedback(entry, iAnsweredThis, iWasCorrect) {
+    var fb = $("#q-feedback");
+    fb.classList.remove("hidden");
+    document.querySelectorAll("#q-options .opt-btn").forEach(function (b) { b.disabled = true; });
+    if (!entry || entry.by === "timeout") {
+      fb.textContent = "⏳ Hết giờ, không ai trả lời kịp — bỏ qua câu này, không ai được/mất điểm.";
+      fb.className = "q-feedback";
+      return;
+    }
+    var q = quiz.questions[quiz.index];
+    document.querySelectorAll("#q-options .opt-btn").forEach(function (b, i) {
+      var L = quiz.optOrder[i];
+      if (L === q.answer) b.classList.add("correct");
+      else if (b.classList.contains("selected") && iAnsweredThis && !iWasCorrect) b.classList.add("wrong");
+    });
+    if (iAnsweredThis) {
+      fb.textContent = iWasCorrect
+        ? "✔ Em nhanh tay và ĐÚNG! +1 điểm."
+        : "✘ Em nhanh tay nhưng bị SAI, đáp án đúng là " + q.answer + ". −0,5 điểm.";
+      fb.className = "q-feedback " + (iWasCorrect ? "correct" : "wrong");
+    } else {
+      var oppLabel = (tourOpp && tourOpp.name) || "Đối thủ";
+      fb.textContent = entry.correct
+        ? "⚡ " + oppLabel + " bấm trước và ĐÚNG rồi! Đáp án đúng là " + q.answer + "."
+        : "⚡ " + oppLabel + " bấm trước nhưng bị SAI. Đáp án đúng là " + q.answer + ".";
+      fb.className = "q-feedback";
+    }
+  }
+
+  // ---------- Cập nhật liên tục trong lúc thi đấu (điểm, câu vừa bị khóa, chuyển sang oẳn tù tì) ----------
+  function updateTourBattleFromPoll(res) {
+    if (!quiz || quiz.loading || quiz.finished) return;
+    var prevYouAnswered = tourYou.correct + tourYou.wrong;
+    var prevYouCorrect = tourYou.correct;
+    tourYou = res.you;
+    tourOpp = { score: res.opp.score, correct: res.opp.correct, wrong: res.opp.wrong, name: tourOpponentName };
+    updateTourScoreDisplay();
+
+    if (res.phase === "tie_break") {
+      if (quiz.tourLocalPhase !== "tie_break") {
+        quiz.tourLocalPhase = "tie_break";
+        clearTimeout(tourAnswerTimeoutTimer);
+        show("#screen-duel-rps");
+      }
+      renderTourRpsState(res.rps);
+      return;
+    }
+    // quiz.tourAdvancePending chống trường hợp NHIỀU lượt poll chồng lấn (poll mỗi ~1 giây trong khi phải
+    // đợi 1200ms để học sinh kịp đọc phản hồi "đúng/sai") cùng lúc lên lịch nhiều setTimeout tranh nhau ghi
+    // đè quiz.index — nếu không chặn, câu hỏi có thể bị "nhảy cóc" thẳng tới câu cuối (hoặc tệ hơn là bị
+    // giật lùi lại câu trước) mỗi khi 1 bên trả lời liên tiếp nhiều câu nhanh trong lúc bên kia chỉ đang xem.
+    if (res.index > quiz.index && !quiz.tourAdvancePending) {
+      var iAnsweredThis = (res.you.correct + res.you.wrong) > prevYouAnswered;
+      var iWasCorrect = res.you.correct > prevYouCorrect;
+      showTourLockedFeedback(res.qstate[quiz.index], iAnsweredThis, iWasCorrect);
+      clearTimeout(tourAnswerTimeoutTimer);
+      var nextIndex = res.index;
+      quiz.tourAdvancePending = true;
+      setTimeout(function () {
+        if (!quiz || !quiz.isTour || quiz.finished) return;
+        quiz.tourAdvancePending = false;
+        quiz.index = nextIndex;
+        if (quiz.index < quiz.questions.length) renderTourQuestion();
+      }, 1200);
+    }
+  }
+
+  function renderTourRpsState(rps) {
+    if (!rps) return;
+    var choseAlready = !!rps.yourChoice;
+    document.querySelectorAll(".duel-rps-btn").forEach(function (b) {
+      b.disabled = choseAlready;
+      b.classList.toggle("selected", choseAlready && b.getAttribute("data-choice") === rps.yourChoice);
+    });
+    $("#duel-rps-info").textContent = rps.round > 1
+      ? "Ra kèo giống nhau, chơi lại! (Vòng " + rps.round + ")"
+      : "Bằng điểm nhau! Ai thắng ván Oẳn tù tì này sẽ thắng chung cuộc.";
+    var msgEl = $("#duel-rps-msg");
+    var revealEl = $("#duel-rps-reveal");
+    if (!choseAlready) {
+      msgEl.textContent = "";
+      revealEl.classList.add("hidden");
+      return;
+    }
+    if (!rps.opponentChoice) {
+      msgEl.textContent = "Em đã chọn " + DUEL_RPS_LABELS[rps.yourChoice] + " — đang chờ đối thủ chọn...";
+      revealEl.classList.add("hidden");
+    } else {
+      msgEl.textContent = "";
+      revealEl.classList.remove("hidden");
+      revealEl.innerHTML = "Em: <b>" + DUEL_RPS_LABELS[rps.yourChoice] + "</b> &nbsp;—&nbsp; Đối thủ: <b>" +
+        DUEL_RPS_LABELS[rps.opponentChoice] + "</b>";
+    }
+  }
+  function chooseTourRps(choice) {
+    apiPost({
+      action: "submitTournamentRps", matchId: tourMatchId, name: $("#inp-name").value.trim(), pin: currentCode(), choice: choice
+    }).then(function () { pollTournament(); });
+  }
+
+  // ---------- Rời trận (trận vừa xong, hoặc thoát giữa chừng) -> quay về màn hub ----------
+  function exitTourBattleToHub_() {
+    quiz = null;
+    clearTimeout(tourAnswerTimeoutTimer); tourAnswerTimeoutTimer = null;
+    $("#duel-score-box").classList.add("hidden");
+    $("#duel-timer-box").classList.add("hidden");
+    show("#screen-tournament");
+    refreshLeaderboard();
+    refreshEloLeaderboard();
+    refreshProfile(); // trận giải đấu cũng tính vào chuỗi ngày luyện tập + tiến độ chương, cập nhật lại luôn
+  }
+  // Thoát giữa chừng: không có "nộp bài" riêng, mỗi câu đã tự ghi nhận ngay khi bị khóa — thoát coi như bỏ
+  // cuộc, đối thủ cứ tiếp tục bấm là tự thắng các câu còn lại (thua ở giải đấu = bị loại luôn).
+  function exitTourMidMatch(confirmMsg) {
+    if (!confirm(confirmMsg)) return false;
+    if (quiz) quiz.finished = true;
+    exitTourBattleToHub_();
+    return true;
+  }
+
   // ---------- Bảng 1vs1 (số trận thắng) ----------
   function refreshDuelLeaderboard() {
     if (!API_URL) {
@@ -1234,18 +2240,23 @@
 
   // ---------- Init ----------
   function init() {
+    if (!CARDS_ENABLED) {
+      var collectionBtn = $("#btn-open-collection");
+      if (collectionBtn) collectionBtn.classList.add("hidden");
+    }
     startLeaderboardPolling();
 
     fetch("data/manifest.json").then(function (r) { return r.json(); }).then(function (m) {
       manifest = m;
       populateGrades();
       populateChapters();
+      refreshRandomControls(); // nút "Bắt đầu làm bài" của Chế độ ngẫu nhiên cần manifest đã tải xong
 
       var savedName = localStorage.getItem("hs_ten");
       if (savedName) $("#inp-name").value = savedName;
-      var savedPin = localStorage.getItem("hs_pin");
-      if (savedPin) $("#inp-pin").value = savedPin;
-      if (savedName && savedPin) maybeVerifyPin(); // tự xác minh luôn nếu trình duyệt đã nhớ từ lần trước
+      var savedCode = localStorage.getItem("hs_code");
+      if (savedCode) $("#inp-code").value = savedCode;
+      if (savedName) maybeVerifyAccess(); // tự xác minh luôn nếu trình duyệt đã nhớ tên từ lần trước (kể cả khách, không có mã)
 
       loadStaticQuestions(currentChapterId()).then(function (qs) {
         staticQuestions = qs;
@@ -1268,22 +2279,26 @@
       });
       $("#inp-name").addEventListener("input", function () {
         localStorage.setItem("hs_ten", $("#inp-name").value.trim());
-        pinVerified = false;
-        $("#pin-msg").textContent = "";
-        $("#pin-msg").className = "msg";
+        accessVerified = false;
+        currentTier = null;
+        guestLimits = null;
+        $("#access-msg").textContent = "";
+        $("#access-msg").className = "msg";
         validateStart();
         refreshDuelControls();
+        refreshRandomControls();
         renderLeaderboard(lastLeaderboardData); // chỉ để cập nhật highlight "của em", không gọi lại API
-        debouncedMaybeVerifyPin();
+        debouncedMaybeVerifyAccess();
       });
-      $("#inp-pin").addEventListener("input", function () {
-        var digits = $("#inp-pin").value.replace(/\D/g, "").slice(0, 4);
-        $("#inp-pin").value = digits;
-        localStorage.setItem("hs_pin", digits);
-        pinVerified = false;
+      $("#inp-code").addEventListener("input", function () {
+        localStorage.setItem("hs_code", $("#inp-code").value.trim());
+        accessVerified = false;
+        currentTier = null;
+        guestLimits = null;
         validateStart();
         refreshDuelControls();
-        debouncedMaybeVerifyPin();
+        refreshRandomControls();
+        debouncedMaybeVerifyAccess();
       });
 
       if (!API_URL) {
@@ -1302,7 +2317,11 @@
         exitDuelMidMatch("Thoát trận đối đầu? Đối thủ sẽ tự thắng các câu còn lại vì em không trả lời nữa.");
         return;
       }
-      if (confirm("Thoát làm bài? Kết quả lần này sẽ không được lưu.")) show("#screen-setup");
+      if (quiz && quiz.isTour && !quiz.finished) {
+        exitTourMidMatch("Thoát trận giải đấu? Đối thủ sẽ tự thắng các câu còn lại vì em không trả lời nữa — nếu thua, em sẽ bị loại khỏi giải.");
+        return;
+      }
+      if (confirm("Thoát làm bài? Kết quả lần này sẽ không được lưu.")) { stopRandomTimer_(); show("#screen-setup"); }
     });
     $("#btn-restart").addEventListener("click", function () {
       show("#screen-setup");
@@ -1313,6 +2332,8 @@
     // ---- Chế độ Đối đầu 1vs1 ----
     $("#tab-mode-solo").addEventListener("click", function () { setAppMode("solo"); });
     $("#tab-mode-duel").addEventListener("click", function () { setAppMode("duel"); });
+    $("#tab-mode-random").addEventListener("click", function () { setAppMode("random"); });
+    $("#btn-start-random").addEventListener("click", startRandomQuiz);
     $("#btn-challenge").addEventListener("click", startChallenge);
     $("#btn-accept-challenge").addEventListener("click", openAcceptChallengeScreen);
     $("#btn-cancel-wait").addEventListener("click", cancelDuelWait);
@@ -1322,11 +2343,34 @@
     });
     $("#btn-duel-restart").addEventListener("click", exitDuelResult);
     document.querySelectorAll(".duel-rps-btn").forEach(function (b) {
-      b.addEventListener("click", function () { chooseDuelRps(b.getAttribute("data-choice")); });
+      b.addEventListener("click", function () {
+        var choice = b.getAttribute("data-choice");
+        if (quiz && quiz.isTour) chooseTourRps(choice); else chooseDuelRps(choice);
+      });
     });
     $("#btn-rps-quit").addEventListener("click", function () {
+      if (quiz && quiz.isTour) {
+        exitTourMidMatch("Thoát khi đang oẳn tù tì? Đối thủ sẽ được xử thắng luôn — em sẽ bị loại khỏi giải.");
+        return;
+      }
       exitDuelMidMatch("Thoát khi đang oẳn tù tì? Đối thủ sẽ được xử thắng luôn.");
     });
+
+    // ---- Bộ sưu tập thẻ bài ----
+    $("#btn-open-collection").addEventListener("click", openCollectionScreen);
+    $("#btn-collection-back").addEventListener("click", function () { show("#screen-setup"); });
+    $("#btn-card-toast-next").addEventListener("click", function () {
+      cardToastQueue.shift();
+      playNextCardToast();
+    });
+
+    // ---- Giải đấu WorldCup ----
+    $("#btn-open-tournament").addEventListener("click", openTournamentScreen);
+    $("#btn-tournament-back").addEventListener("click", function () {
+      stopTournamentPolling();
+      show("#screen-setup");
+    });
+    $("#btn-tournament-join").addEventListener("click", joinTournamentClick);
   }
 
   document.addEventListener("DOMContentLoaded", init);
