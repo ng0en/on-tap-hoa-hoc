@@ -223,6 +223,32 @@ input[type="text"]:focus, select:focus{outline:2px solid var(--brand);outline-of
 .q-stem{font-size:1.08rem;line-height:1.6;margin-bottom:18px;font-weight:600}
 .q-stem img.formula, .q-options img.formula{vertical-align:middle;margin:0 2px}
 
+/* Bảng dữ liệu trong câu hỏi (VD bảng số liệu thí nghiệm) — cho phép giáo viên chèn thẳng thẻ <table>
+   vào trong "stem" của file data/*.json hoặc cột Cau_hoi ở tab CauHoiBoSung, KHÔNG cần tự thêm CSS hay
+   div bọc gì thêm. display:block + overflow-x:auto đặt thẳng lên <table> để bảng rộng trên điện thoại
+   tự cuộn ngang được, không làm vỡ layout cả trang (không đổi layout bên trong bảng — hàng/ô vẫn giữ
+   đúng kiểu table-row/table-cell mặc định của trình duyệt). */
+.q-stem table{
+  display:block;max-width:100%;overflow-x:auto;-webkit-overflow-scrolling:touch;
+  border-collapse:collapse;margin:10px 0 14px;font-size:0.92rem;font-weight:400;white-space:nowrap;
+}
+.q-stem table th, .q-stem table td{border:1px solid var(--border);padding:6px 12px;text-align:center}
+.q-stem table th{background:var(--bg);font-weight:700;color:var(--ink)}
+
+/* Mũi tên sơ đồ chuyển hoá (VD: X --NaOH, t°--> Y --O2 (enzyme)--> Z) — dùng cho câu hỏi dạng "cho sơ đồ
+   chuyển hoá sau". Bọc điều kiện phản ứng trong <span class="rxn-arrow"><span class="rxn-cond">...</span>
+   </span> ngay trong "stem" — không cần vẽ ảnh, không cần gõ dấu gạch ngang thủ công. Điều kiện tự động
+   canh giữa phía trên 1 mũi tên dài liền mạch (ký tự ⟶ có sẵn trong CSS, không cần gõ trong JSON), giống
+   hệt kiểu trình bày trong đề thi. display:inline-flex giữ cả khối (chữ điều kiện + mũi tên) dính liền
+   nhau, không bị tách dòng giữa chừng — nhưng cả câu vẫn tự xuống dòng bình thường ở chỗ có khoảng trắng
+   nếu sơ đồ dài hơn bề ngang màn hình điện thoại. */
+.q-stem .rxn-arrow{
+  display:inline-flex;flex-direction:column;align-items:center;justify-content:flex-end;
+  vertical-align:middle;margin:0 6px;position:relative;top:-3px;
+}
+.q-stem .rxn-cond{font-size:0.7em;font-weight:400;color:var(--muted);white-space:nowrap;line-height:1.2;margin-bottom:-3px}
+.q-stem .rxn-arrow::after{content:"⟶";font-size:1.35em;line-height:1;color:var(--ink);white-space:nowrap}
+
 .q-options{display:flex;flex-direction:column;gap:10px}
 .opt-btn{
   display:flex;gap:10px;align-items:flex-start;
