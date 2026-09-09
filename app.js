@@ -1788,6 +1788,12 @@
 
   function openTournamentScreen() {
     show("#screen-tournament");
+    // Hiện ngay "Đang tải..." trong lúc chờ lượt poll đầu tiên phản hồi — Apps Script đôi khi mất vài
+    // giây mới phản hồi (đặc biệt sau khi "ngủ" 1 lúc không ai gọi, hoặc thầy vừa Deploy lại) — trước
+    // đây không có dòng này nên màn hình trống trơn suốt lúc chờ, dễ khiến học sinh/giáo viên tưởng bị
+    // lỗi. pollTournament() gọi ngay sau đây (đồng bộ, cùng 1 nhịp) sẽ tự đè lên đúng trạng thái thật
+    // (khách/chưa nhập tên/dữ liệu thật) trước khi trình duyệt kịp vẽ lại màn hình, nên không bị chớp.
+    showTournamentStatusMsg_("⏳ Đang tải...");
     pollTournament(); // vẽ ngay dữ liệu mới nhất, không đợi hết chu kỳ 1 giây đầu tiên
     startTournamentPolling();
   }
@@ -1837,9 +1843,9 @@
     });
   }
 
-  /** Hiện lý do khi 1 lượt poll giải đấu KHÔNG có dữ liệu dùng được (res rỗng do mạng chập chờn, hoặc
-   *  res.ok=false do lỗi truy cập/lỗi backend) — thay vì để nguyên khung trống không như trước đây. */
-  function showTournamentPollError_(res) {
+  /** Hiện 1 dòng chữ trong khung status-box của Giải đấu (dùng chung cho "Đang tải..." lúc mới mở màn
+   *  hình lẫn thông báo lỗi poll) — thay vì để nguyên khung trống không như trước đây. */
+  function showTournamentStatusMsg_(msg) {
     $("#tournament-need-name").classList.add("hidden");
     $("#tournament-body").classList.remove("hidden");
     $("#tournament-none").classList.add("hidden");
@@ -1848,6 +1854,13 @@
     statusBox.classList.remove("hidden");
     statusBox.className = "tour-status-box";
     $("#btn-tournament-join").classList.add("hidden");
+    $("#tournament-status-title").textContent = msg;
+    $("#tournament-status-sub").textContent = "";
+  }
+
+  /** Hiện lý do khi 1 lượt poll giải đấu KHÔNG có dữ liệu dùng được (res rỗng do mạng chập chờn, hoặc
+   *  res.ok=false do lỗi truy cập/lỗi backend) — thay vì để nguyên khung trống không như trước đây. */
+  function showTournamentPollError_(res) {
     var err = res && res.error;
     var msg;
     if (!res) {
@@ -1861,8 +1874,7 @@
     } else {
       msg = "✘ Không tải được thông tin giải đấu (" + (err || "lỗi không rõ") + ") — thử tải lại trang (F5) nếu vẫn thấy vậy.";
     }
-    $("#tournament-status-title").textContent = msg;
-    $("#tournament-status-sub").textContent = "";
+    showTournamentStatusMsg_(msg);
   }
 
   function routeTournamentPhase(res) {
