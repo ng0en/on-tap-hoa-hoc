@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Màn hình lớn — Đối đầu 1vs1</title>
+<style>
+  :root{
+    --bg:#0f172a; --card:#16213c; --ink:#f4f7fc; --muted:#9aa7c2;
+    --brand:#3b82f6; --green:#22c55e; --red:#f04545; --gold:#ffd54a; --border:#2a3a5c;
+  }
+  *{box-sizing:border-box}
+  html,body{height:100%}
+  body{
+    margin:0; min-height:100vh; background:radial-gradient(circle at 50% -10%, #1c2a4d 0%, var(--bg) 55%);
+    color:var(--ink); font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+    display:flex; flex-direction:column; align-items:center; justify-content:center;
+    padding:clamp(16px,3vw,40px); gap:clamp(14px,2.5vw,28px);
+  }
+  .hidden{display:none !important}
+  .head{text-align:center}
+  .head h1{margin:0 0 6px;font-size:clamp(1.3rem,3vw,2.1rem);font-weight:800;letter-spacing:0.01em}
+  .head .sub{color:var(--muted);font-size:clamp(0.9rem,1.6vw,1.15rem)}
+  .conn-warn{
+    position:fixed;top:14px;right:18px;background:#3a1f1f;border:1px solid #6b2e2e;color:#ffb4b4;
+    padding:6px 14px;border-radius:999px;font-size:0.8rem;font-weight:700;
+  }
+
+  /* ---------- Màn "chưa có trận" ---------- */
+  .waiting{text-align:center;max-width:640px}
+  .waiting .big-emoji{font-size:clamp(3rem,8vw,5.5rem);margin-bottom:10px}
+  .waiting h2{font-size:clamp(1.3rem,3vw,2rem);margin:0 0 10px}
+  .waiting p{color:var(--muted);font-size:clamp(0.95rem,1.8vw,1.25rem);line-height:1.6;margin:0}
+
+  /* ---------- Trận đấu ---------- */
+  .battle{width:100%;max-width:1080px;display:flex;flex-direction:column;gap:clamp(14px,2.5vw,26px)}
+  .vs-row{display:flex;align-items:stretch;gap:clamp(10px,2.5vw,28px)}
+  .p-card{
+    flex:1; background:var(--card); border:2px solid var(--border); border-radius:20px;
+    padding:clamp(16px,3vw,32px) clamp(12px,2.5vw,26px); text-align:center;
+    display:flex; flex-direction:column; gap:clamp(6px,1.5vw,14px);
+    transition:border-color 0.3s, box-shadow 0.3s;
+  }
+  .p-card.leading{border-color:var(--gold);box-shadow:0 0 0 1px var(--gold),0 0 26px rgba(255,213,74,0.25)}
+  .p-name{font-size:clamp(1.1rem,2.6vw,1.75rem);font-weight:800;overflow-wrap:break-word}
+  .p-score{font-size:clamp(2.6rem,8vw,5rem);font-weight:900;line-height:1;font-variant-numeric:tabular-nums}
+  .p-score.pos{color:var(--green)} .p-score.neg{color:var(--red)} .p-score.zero{color:var(--ink)}
+  .p-detail{color:var(--muted);font-size:clamp(0.85rem,1.6vw,1.05rem)}
+  .p-detail b.ok{color:var(--green)} .p-detail b.bad{color:var(--red)}
+  .vs-mid{
+    display:flex; align-items:center; justify-content:center;
+    font-size:clamp(1.1rem,3vw,2rem); font-weight:900; color:var(--muted); padding:0 4px;
+  }
+
+  .progress-wrap{display:flex;flex-direction:column;gap:8px;align-items:center}
+  .progress-label{color:var(--muted);font-size:clamp(0.85rem,1.6vw,1.05rem)}
+  .progress-bar{width:100%;max-width:640px;height:14px;border-radius:999px;background:#0b1226;border:1px solid var(--border);overflow:hidden}
+  .progress-fill{height:100%;background:linear-gradient(90deg,var(--brand),#60a5fa);border-radius:999px;transition:width 0.4s ease}
+
+  .status-banner{
+    text-align:center; border-radius:16px; padding:clamp(12px,2.2vw,20px);
+    font-size:clamp(1rem,2.2vw,1.5rem); font-weight:800; border:2px solid var(--border); background:var(--card);
+  }
+  .status-banner.win{border-color:var(--gold);background:linear-gradient(150deg,#3a2e12,#241a06);color:var(--gold)}
+  .status-banner.tie{border-color:var(--brand)}
+
+  .chapter-badge{
+    display:inline-block;background:#132038;border:1px solid var(--border);color:var(--muted);
+    padding:4px 14px;border-radius:999px;font-size:clamp(0.8rem,1.5vw,1rem);margin-top:4px;
+  }
+  footer{color:#4c597a;font-size:0.75rem;text-align:center}
+</style>
+</head>
+<body>
+
+<div class="head">
+  <h1>⚔️ Đối đầu 1vs1 — Màn hình theo dõi trực tiếp</h1>
+  <div class="sub">Chiếu màn hình này lên máy chiếu để cả lớp cùng xem điểm số cập nhật theo thời gian thực</div>
+</div>
+
+<div id="conn-warn" class="conn-warn hidden">⏳ Mất kết nối, đang tự thử lại...</div>
+
+<div id="waiting-box" class="waiting hidden">
+  <div class="big-emoji">⏳</div>
+  <h2 id="waiting-title">Đang chờ trận đấu bắt đầu...</h2>
+  <p id="waiting-sub">Cho 2 học sinh vào mục <b>⚔️ Đối đầu 1vs1</b> trên điện thoại để bắt đầu — màn hình
+    này sẽ tự động hiện trận đấu ngay khi 2 bạn được ghép cặp.</p>
+</div>
+
+<div id="battle-box" class="battle hidden">
+  <div style="text-align:center">
+    <span id="chapter-badge" class="chapter-badge"></span>
+  </div>
+  <div class="vs-row">
+    <div id="p1-card" class="p-card">
+      <div id="p1-name" class="p-name">—</div>
+      <div id="p1-score" class="p-score zero">0</div>
+      <div id="p1-detail" class="p-detail">0 đúng · 0 sai</div>
+    </div>
+    <div class="vs-mid">VS</div>
+    <div id="p2-card" class="p-card">
+      <div id="p2-name" class="p-name">—</div>
+      <div id="p2-score" class="p-score zero">0</div>
+      <div id="p2-detail" class="p-detail">0 đúng · 0 sai</div>
+    </div>
+  </div>
+  <div class="progress-wrap">
+    <div id="progress-label" class="progress-label">Đã trả lời 0/10 câu</div>
+    <div class="progress-bar"><div id="progress-fill" class="progress-fill" style="width:0%"></div></div>
+  </div>
+  <div id="status-banner" class="status-banner hidden"></div>
+</div>
+
+<footer>Tự cập nhật mỗi giây · không hiện nội dung câu hỏi/đáp án</footer>
+
+<script src="config.js"></script>
+<script>
+(function () {
+  "use strict";
+  var API_URL = window.API_URL || "";
+  var POLL_MS = 1000;
+  var params = new URLSearchParams(location.search);
+  var pinnedMatchId = params.get("matchId") || "";
+  var failStreak = 0;
+
+  function $(sel) { return document.querySelector(sel); }
+
+  function apiGet(action, extra) {
+    if (!API_URL) return Promise.resolve(null);
+    var qs = "action=" + encodeURIComponent(action);
+    Object.keys(extra || {}).forEach(function (k) {
+      if (extra[k]) qs += "&" + encodeURIComponent(k) + "=" + encodeURIComponent(extra[k]);
+    });
+    return fetch(API_URL + "?" + qs)
+      .then(function (r) { return r.json(); })
+      .catch(function (err) { console.warn("duel-monitor: lỗi tải dữ liệu", err); return null; });
+  }
+
+  function showWaiting(title, sub) {
+    $("#waiting-title").textContent = title;
+    $("#waiting-sub").textContent = sub;
+    $("#waiting-box").classList.remove("hidden");
+    $("#battle-box").classList.add("hidden");
+  }
+
+  function scoreClass(v) { return v > 0 ? "pos" : v < 0 ? "neg" : "zero"; }
+  function fmtScore(v) {
+    var r = Math.round(v * 10) / 10;
+    return (r > 0 ? "+" : "") + r;
+  }
+
+  function render(res) {
+    if (!res || !res.ok) {
+      failStreak++;
+      $("#conn-warn").classList.toggle("hidden", failStreak < 3);
+      return;
+    }
+    failStreak = 0;
+    $("#conn-warn").classList.add("hidden");
+
+    if (res.phase === "none") {
+      showWaiting("Đang chờ trận đấu bắt đầu...",
+        "Cho 2 học sinh vào mục ⚔️ Đối đầu 1vs1 trên điện thoại để bắt đầu — màn hình này sẽ tự động " +
+        "hiện trận đấu ngay khi 2 bạn được ghép cặp.");
+      return;
+    }
+
+    $("#waiting-box").classList.add("hidden");
+    $("#battle-box").classList.remove("hidden");
+    $("#chapter-badge").textContent = "📘 " + (res.chapterName || "");
+
+    $("#p1-name").textContent = res.p1 || "?";
+    $("#p2-name").textContent = res.p2 || "?";
+    var s1 = $("#p1-score"), s2 = $("#p2-score");
+    s1.textContent = fmtScore(res.score1); s1.className = "p-score " + scoreClass(res.score1);
+    s2.textContent = fmtScore(res.score2); s2.className = "p-score " + scoreClass(res.score2);
+    $("#p1-detail").innerHTML = "<b class='ok'>" + res.correct1 + " đúng</b> · <b class='bad'>" + res.wrong1 + " sai</b>";
+    $("#p2-detail").innerHTML = "<b class='ok'>" + res.correct2 + " đúng</b> · <b class='bad'>" + res.wrong2 + " sai</b>";
+
+    var c1 = $("#p1-card"), c2 = $("#p2-card");
+    c1.classList.toggle("leading", res.score1 > res.score2);
+    c2.classList.toggle("leading", res.score2 > res.score1);
+
+    $("#progress-label").textContent = "Đã trả lời " + res.answered + "/" + res.total + " câu";
+    $("#progress-fill").style.width = Math.round((res.answered / res.total) * 100) + "%";
+
+    var banner = $("#status-banner");
+    if (res.phase === "playing") {
+      banner.classList.add("hidden");
+    } else if (res.phase === "tie_break") {
+      banner.className = "status-banner tie";
+      banner.textContent = "⚖️ Hoà điểm — đang Oẳn Tù Tì để phân thắng bại (vòng " + (res.rpsRound || 1) + ")" +
+        (res.rps1Chosen || res.rps2Chosen ? " — 1 bạn đã chọn xong, đang chờ bạn còn lại..." : "");
+      banner.classList.remove("hidden");
+    } else if (res.phase === "done") {
+      banner.className = "status-banner win";
+      banner.textContent = res.winner === "hoa" ? "🤝 Trận đấu kết thúc — HOÀ!" : "🏆 " + res.winner + " THẮNG!";
+      banner.classList.remove("hidden");
+    }
+  }
+
+  function poll() {
+    apiGet("duelSpectator", { matchId: pinnedMatchId }).then(render);
+  }
+
+  if (!API_URL) {
+    showWaiting("Chưa kết nối được backend", "config.js chưa có API_URL — nhờ thầy/cô kiểm tra lại file config.js trên GitHub.");
+  } else {
+    poll();
+    setInterval(poll, POLL_MS);
+  }
+})();
+</script>
+</body>
+</html>

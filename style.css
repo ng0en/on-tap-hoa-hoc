@@ -487,39 +487,17 @@ input[type="text"]:focus, select:focus{outline:2px solid var(--brand);outline-of
 .card-toast-name{margin-top:12px;font-size:0.95rem;color:var(--ink);line-height:1.4}
 .card-toast-btn{margin-top:0}
 
-/* ================= Giải đấu WorldCup ================= */
-.tour-status-box{
+/* ================= Kiểm tra ngắn ================= */
+.ktn-status-box{
   text-align:center;background:#f7f9fc;border:1px solid var(--border);border-radius:12px;
-  padding:18px 16px;margin-bottom:20px;
+  padding:18px 16px;margin-top:14px;
 }
-.tour-status-title{font-weight:800;font-size:1.05rem;color:var(--ink);margin-bottom:6px;line-height:1.4}
-.tour-status-sub{font-size:0.85rem;color:var(--muted);line-height:1.5;margin-bottom:12px}
-.tour-status-sub:last-child{margin-bottom:0}
-.tour-status-box .btn-primary{margin-top:4px}
-.tour-status-box.win .tour-status-title{color:var(--green)}
-.tour-status-box.lose .tour-status-title{color:var(--red)}
-.tour-status-box.champion{background:linear-gradient(150deg,#3a2e12,#241a06)}
-.tour-status-box.champion .tour-status-title{color:#ffd54a;font-size:1.25rem}
-.tour-status-box.champion .tour-status-sub{color:#e2e6f0}
-
-.tour-bracket-title{font-weight:800;font-size:0.95rem;color:var(--ink);margin-bottom:10px}
-.tour-bracket-wrap{overflow-x:auto;padding-bottom:6px}
-.tour-bracket{display:flex;gap:22px;min-width:min-content;padding:2px}
-.tour-round{display:flex;flex-direction:column;gap:14px;min-width:150px}
-.tour-round-title{font-size:0.72rem;font-weight:800;color:var(--muted);text-transform:uppercase;letter-spacing:0.03em;text-align:center;margin-bottom:2px}
-.tour-round-half-gap{height:18px}
-.tour-match{
-  border:1.5px solid var(--border);border-radius:10px;background:#fff;
-  padding:7px 9px;font-size:0.8rem;line-height:1.5;
-}
-.tour-match-p{display:flex;justify-content:space-between;gap:6px;white-space:nowrap;overflow:hidden}
-.tour-match-p .n{overflow:hidden;text-overflow:ellipsis;color:var(--ink)}
-.tour-match-p.winner .n{font-weight:800;color:var(--green)}
-.tour-match-p.loser .n{color:var(--muted);text-decoration:line-through}
-.tour-match-p.you .n{color:var(--brand)}
-.tour-match-p.you.winner .n{color:var(--green)}
-.tour-match-vs{color:var(--muted);font-size:0.65rem;text-align:center;padding:1px 0}
-.tour-match.empty{opacity:0.5;font-style:italic;color:var(--muted);text-align:center}
+.ktn-status-title{font-weight:800;font-size:1.05rem;color:var(--ink);margin-bottom:6px;line-height:1.4}
+.ktn-status-sub{font-size:0.85rem;color:var(--muted);line-height:1.5;margin-bottom:12px}
+.ktn-status-sub:last-child{margin-bottom:0}
+.ktn-status-box .btn-primary{margin-top:4px}
+.ktn-status-box.submitted .ktn-status-title{color:var(--green)}
+.ktn-status-box.ending .ktn-status-title{color:var(--red)}
 
 @media (max-width:420px){
   .card{padding:16px}

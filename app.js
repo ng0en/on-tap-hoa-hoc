@@ -60,24 +60,20 @@
   var randomTimerInterval = null; // interval vẽ lại đồng hồ đếm ĐANG TĂNG dần trong lúc làm 18 câu
   var randomStartMs = null;       // mốc bắt đầu (Date.now()) — dùng để tính elapsedSec lúc nộp bài
 
+  // ---------- Kiểm tra ngắn (phiên dùng chung cả lớp, không ghi nhận thành tích) ----------
+  var KTN_TOTAL = 18;             // giống hệt Chế độ ngẫu nhiên
+  var KTN_POLL_MS = 1000;         // hỏi lại mỗi ~1 giây trong lúc đang ở tab "Kiểm tra ngắn" (giống DUEL_POLL_MS)
+  var ktnPollTimer = null;
+  var ktnHubPollToken = 0;        // chống 1 lượt poll CŨ (mạng chậm) về SAU 1 lượt MỚI hơn ghi đè nhầm lên màn hình
+  var ktnSessionId = null;
+  var ktnEndsAtMs = null;         // mốc hết giờ DÙNG CHUNG cho cả phiên (không phải đếm riêng từng học sinh)
+  var ktnCountdownTimer = null;
+  var ktnStarting = false;        // chặn bấm "Bắt đầu làm bài" 2 lần liên tiếp trong lúc đang tải/khoá đề
+  var ktnFinishing = false;       // chặn finishKtnQuiz() chạy 2 lần (hết giờ tự nộp trùng lúc vừa bấm nộp tay)
+
   // ---------- Bộ sưu tập thẻ bài (KHÁC với huy hiệu chuỗi ngày ở trên) ----------
   var myCardIds = {};       // cardId -> thời gian đạt được (chuỗi), object rỗng nếu chưa xác minh/chưa có thẻ
   var cardToastQueue = [];  // hàng đợi các mã thẻ vừa nhận, hiện lần lượt từng cái 1 nếu nhận nhiều thẻ cùng lúc
-
-  // ---------- Giải đấu WorldCup (loại trực tiếp) ----------
-  var TOUR_QUESTION_COUNT = 10;
-  var tourPollTimer = null;        // 1 interval DUY NHẤT dùng chung cho cả màn hub (đăng ký/sơ đồ nhánh) lẫn lúc thi đấu
-  var tourMatchId = null;
-  var tourOpponentName = null;
-  var tourRound = null, tourTotalRounds = null;
-  var tourAnsweredLocally = false;
-  var tourAnswerTimeoutTimer = null;
-  var tourYou = { score: 0, correct: 0, wrong: 0 };
-  var tourOpp = { score: 0, correct: 0, wrong: 0, name: "" };
-  var tourEnteringMatch = false;   // chống vào trận 2 lần cùng lúc trong lúc đang tải câu hỏi (bất đồng bộ)
-  var tourPollToken = 0;           // chống lượt poll cũ (mạng chậm, tới trễ) ghi đè lên kết quả của lượt poll MỚI hơn —
-                                    // ví dụ trận vừa xong (đã rời màn thi đấu) nhưng 1 lượt poll cũ của TRẬN ĐÓ vẫn còn
-                                    // đang bay trên mạng lại về sau, nếu không chặn sẽ khiến bị "vào lại" trận đã xong.
 
   // ---------- Helpers ----------
   function $(sel) { return document.querySelector(sel); }
@@ -95,8 +91,8 @@
     }
     return a;
   }
-  /** HTML thông báo tính năng bị khoá với khách (không có mã truy cập) — dùng chung cho Đối đầu 1vs1 và
-   *  Giải đấu WorldCup, kèm luôn link Zalo để "quảng cáo" nhẹ nhàng theo đúng ý thầy. */
+  /** HTML thông báo tính năng bị khoá với khách (không có mã truy cập) — dùng chung cho các chế độ cần
+   *  hạng Full (Đối đầu 1vs1, Ngẫu nhiên...), kèm luôn link Zalo để "quảng cáo" nhẹ nhàng theo đúng ý thầy. */
   function lockedFeatureHtml_(featureName) {
     return '🔒 <b>' + featureName + '</b> chỉ dành cho học sinh có <b>mã truy cập</b> (thầy gửi qua email ' +
       'khi đăng ký học). Liên hệ Zalo thầy ' + ZALO_CONTACT_HTML + ' để đăng ký nhận mã nhé!';
@@ -269,12 +265,15 @@
     $("#tab-mode-solo").classList.toggle("selected", mode === "solo");
     $("#tab-mode-duel").classList.toggle("selected", mode === "duel");
     $("#tab-mode-random").classList.toggle("selected", mode === "random");
+    $("#tab-mode-ktn").classList.toggle("selected", mode === "ktn");
     $("#solo-panel").classList.toggle("hidden", mode !== "solo");
     $("#duel-panel").classList.toggle("hidden", mode !== "duel");
     $("#random-panel").classList.toggle("hidden", mode !== "random");
+    $("#ktn-panel").classList.toggle("hidden", mode !== "ktn");
     $("#duel-msg").textContent = "";
     refreshDuelControls();
     refreshRandomControls();
+    if (mode === "ktn") { startKtnHubPolling(); } else { stopKtnHubPolling(); }
   }
 
   // Bật/tắt nút "Bắt đầu làm bài" của Chế độ ngẫu nhiên tuỳ đã xác minh tên (+mã) hay chưa — chỉ hạng
@@ -1264,7 +1263,242 @@
     }
   }
 
+  // ================= Kiểm tra ngắn (phiên dùng chung cả lớp, không ghi nhận thành tích) =================
+  // Giáo viên tạo phiên qua menu Sheet (giống Giải đấu WorldCup cũ) — đồng hồ 10 phút DÙNG CHUNG bắt đầu
+  // chạy ngay lúc tạo, học sinh vào sau chỉ còn phần thời gian còn lại. TẤT CẢ học sinh làm CHUNG 1 bộ 18
+  // câu (chỉ khác thứ tự hiển thị) — vì backend không có quyền truy cập nội dung câu hỏi, học sinh ĐẦU
+  // TIÊN bấm "Bắt đầu làm bài" sẽ tự sinh bộ câu hỏi rồi gửi lên "khoá" lại (ai gửi trước thì bộ đó được
+  // dùng, y hệt cơ chế setTournamentMatchQuestions cũ), các bạn vào sau chỉ cần LẤY LẠI bộ đã khoá.
+
+  function startKtnHubPolling() {
+    pollKtnHub();
+    if (ktnPollTimer) return;
+    ktnPollTimer = setInterval(pollKtnHub, KTN_POLL_MS);
+  }
+  function stopKtnHubPolling() {
+    clearInterval(ktnPollTimer);
+    ktnPollTimer = null;
+  }
+
+  function pollKtnHub() {
+    var name = $("#inp-name").value.trim();
+    var lockedBox = $("#ktn-locked-msg");
+    var normalBox = $("#ktn-normal-content");
+    if (!API_URL || !accessVerified || !name) {
+      normalBox.classList.add("hidden");
+      lockedBox.classList.remove("hidden");
+      lockedBox.className = "msg";
+      lockedBox.textContent = "Nhập tên (và mã truy cập nếu có) ở màn hình chính để tham gia Kiểm tra ngắn nhé.";
+      return;
+    }
+    if (currentTier === "guest") {
+      normalBox.classList.add("hidden");
+      lockedBox.classList.remove("hidden");
+      lockedBox.className = "msg locked-feature-msg";
+      lockedBox.innerHTML = lockedFeatureHtml_("Kiểm tra ngắn");
+      return;
+    }
+    lockedBox.classList.add("hidden");
+    normalBox.classList.remove("hidden");
+    var myToken = ++ktnHubPollToken; // chống lượt poll CŨ (mạng chậm) về SAU lượt MỚI hơn ghi đè nhầm màn hình
+    apiGet({ action: "kiemTraNganState", name: name, pin: currentCode() }).then(function (res) {
+      if (myToken !== ktnHubPollToken) return;
+      renderKtnHub(res);
+    });
+  }
+
+  function renderKtnHub(res) {
+    var box = $("#ktn-status-box");
+    var titleEl = $("#ktn-status-title"), subEl = $("#ktn-status-sub");
+    var startBtn = $("#btn-ktn-start");
+    if (!res || !res.ok || res.phase === "none") {
+      box.classList.add("hidden");
+      return;
+    }
+    box.classList.remove("hidden");
+    box.className = "ktn-status-box";
+    startBtn.classList.add("hidden");
+
+    if (res.phase === "cancelled") {
+      titleEl.textContent = "Phiên Kiểm tra ngắn vừa bị thầy/cô huỷ";
+      subEl.textContent = res.mine ? ("Bài em vừa nộp (đúng " + res.mine.correct + "/" + res.mine.total + " câu) vẫn được giữ lại, chỉ là phiên không còn mở nữa.") : "";
+    } else if (res.phase === "closed") {
+      titleEl.textContent = "Phiên Kiểm tra ngắn \"" + (res.scopeName || "") + "\" đã kết thúc";
+      subEl.textContent = res.mine ? ("Em đã làm đúng " + res.mine.correct + "/" + res.mine.total + " câu.") : "Em chưa kịp nộp bài lượt này.";
+    } else if (res.phase === "already_submitted") {
+      box.classList.add("submitted");
+      titleEl.textContent = "✔ Em đã nộp bài!";
+      subEl.textContent = "Đúng " + res.mine.correct + "/" + res.mine.total + " câu — còn " + formatMinSec_(res.secondsLeft) + " nữa hết phiên.";
+    } else if (res.phase === "open") {
+      if (res.secondsLeft <= 60) box.classList.add("ending");
+      titleEl.textContent = "📝 Phiên Kiểm tra ngắn: " + (res.scopeName || "");
+      subEl.textContent = "Còn " + formatMinSec_(res.secondsLeft) + " — 18 câu, làm xong bấm Nộp bài, hết giờ tự nộp.";
+      startBtn.classList.remove("hidden");
+      startBtn.disabled = ktnStarting;
+      startBtn.textContent = ktnStarting ? "Đang chuẩn bị đề..." : "Bắt đầu làm bài";
+      startBtn.onclick = function () { startKtnQuiz(res); };
+    }
+  }
+
+  /** Mã chương (VD "L10_C1") suy ra từ 1 mã câu hỏi (VD "L10_C1_0072") — dùng để biết cần tải data/*.json
+   *  của (những) chương nào để LẤY LẠI nội dung 1 bộ câu hỏi đã bị "khoá" sẵn (ai gửi trước thì bộ đó
+   *  được dùng — xem setKtnQuestions phía backend). */
+  function chapterOfQuestionId_(id) {
+    var m = /^(L\d+_C\d+)_/.exec(String(id || ""));
+    return m ? m[1] : "";
+  }
+  function resolveQuestionsByIds_(ids) {
+    var chapterSet = {};
+    ids.forEach(function (id) {
+      var ch = chapterOfQuestionId_(id);
+      if (ch) chapterSet[ch] = true;
+    });
+    return Promise.all(Object.keys(chapterSet).map(loadChapterQuestionsCached_)).then(function (lists) {
+      var byId = {};
+      lists.forEach(function (qs) { (qs || []).forEach(function (q) { byId[q.id] = q; }); });
+      return ids.map(function (id) { return byId[id]; }).filter(Boolean);
+    });
+  }
+
+  function startKtnQuiz(res) {
+    if (ktnStarting) return;
+    ktnStarting = true;
+    var startBtn = $("#btn-ktn-start");
+    if (startBtn) { startBtn.disabled = true; startBtn.textContent = "Đang chuẩn bị đề..."; }
+
+    var ready;
+    if (res.questionIds && res.questionIds.length) {
+      ready = resolveQuestionsByIds_(res.questionIds);
+    } else {
+      // Chưa ai khoá bộ câu hỏi -> CHÍNH học sinh này sinh bộ (đúng scope của phiên) rồi gửi lên khoá lại.
+      var genPromise = res.scope
+        ? loadChapterQuestionsCached_(res.scope).then(function (qs) { return pickRandomN_(qs, KTN_TOTAL); })
+        : buildRandomTestQuestions_();
+      ready = genPromise.then(function (questions) {
+        var ids = questions.map(function (q) { return q.id; });
+        return apiPost({
+          action: "setKtnQuestions", sessionId: res.sessionId,
+          name: $("#inp-name").value.trim(), pin: currentCode(), questionIds: ids
+        }).then(function (lockRes) {
+          if (lockRes && lockRes.ok && JSON.stringify(lockRes.questionIds) === JSON.stringify(ids)) {
+            return questions; // chính học sinh này khoá được -> dùng luôn bộ vừa sinh, khỏi tải lại lần nữa
+          }
+          // Hiếm khi: bạn khác cũng bấm gần như cùng lúc và khoá TRƯỚC -> lấy đúng bộ bạn đó đã khoá.
+          var lockedIds = (lockRes && lockRes.questionIds) || [];
+          return resolveQuestionsByIds_(lockedIds);
+        });
+      });
+    }
+
+    ready.then(function (questions) {
+      ktnStarting = false;
+      if (!questions || questions.length !== KTN_TOTAL) {
+        if (startBtn) { startBtn.disabled = false; startBtn.textContent = "Bắt đầu làm bài"; }
+        alert("Không tải được đủ 18 câu hỏi cho phiên này — thử lại nhé.");
+        return;
+      }
+      ktnSessionId = res.sessionId;
+      ktnEndsAtMs = res.endsAtMs;
+      stopKtnHubPolling();
+      runKtnQuiz(questions);
+    }, function () {
+      ktnStarting = false;
+      if (startBtn) { startBtn.disabled = false; startBtn.textContent = "Bắt đầu làm bài"; }
+      alert("Không tải được đề — kiểm tra lại mạng rồi thử lại nhé.");
+    });
+  }
+
+  function runKtnQuiz(questionList) {
+    quiz = { questions: shuffle(questionList), index: 0, mode: "hien_ngay", answers: [], isKtn: true };
+    show("#screen-quiz");
+    startKtnCountdown_();
+    renderQuestion();
+  }
+
+  function updateKtnCountdownText_() {
+    var txt = $("#ktn-timer-text");
+    if (!txt || ktnEndsAtMs == null) return;
+    var secondsLeft = Math.max(0, Math.round((ktnEndsAtMs - Date.now()) / 1000));
+    txt.textContent = formatMinSec_(secondsLeft);
+  }
+  function startKtnCountdown_() {
+    stopKtnCountdown_();
+    var box = $("#ktn-timer-box");
+    if (box) box.classList.remove("hidden");
+    updateKtnCountdownText_();
+    ktnCountdownTimer = setInterval(function () {
+      updateKtnCountdownText_();
+      var secondsLeft = Math.max(0, Math.round((ktnEndsAtMs - Date.now()) / 1000));
+      if (secondsLeft <= 0) finishKtnQuiz(true); // hết giờ CHUNG của cả phiên -> tự nộp với những câu đã làm
+    }, 1000);
+  }
+  function stopKtnCountdown_() {
+    clearInterval(ktnCountdownTimer);
+    ktnCountdownTimer = null;
+    var box = $("#ktn-timer-box");
+    if (box) box.classList.add("hidden");
+  }
+
+  /** Nộp bài Kiểm tra ngắn — LUÔN đủ KTN_TOTAL câu (câu chưa kịp trả lời khi hết giờ tính là sai/0 điểm,
+   *  KHÔNG chặn nộp bài) — CỐ TÌNH không đụng gì tới ELO/chuỗi ngày/thẻ, chỉ hiện đúng số câu đúng. */
+  function finishKtnQuiz(autoTimeout) {
+    if (ktnFinishing) return;
+    ktnFinishing = true;
+    stopKtnCountdown_();
+    var name = $("#inp-name").value.trim();
+    var answeredById = {};
+    quiz.answers.forEach(function (a) { answeredById[a.id] = a; });
+    var fullResults = quiz.questions.map(function (q) {
+      var a = answeredById[q.id];
+      return { id: q.id, correct: !!(a && a.correct) };
+    });
+    var correctCount = fullResults.filter(function (r) { return r.correct; }).length;
+
+    var badgeBanner = $("#result-badge");
+    if (badgeBanner) badgeBanner.classList.add("hidden");
+    renderResultElo(0, null);
+    var infoBox = $("#result-random-info");
+    if (infoBox) {
+      infoBox.classList.remove("hidden");
+      infoBox.innerHTML = (autoTimeout ? "⏳ Đã hết giờ — " : "") + "Đang nộp bài...";
+    }
+    var resultStatsBox = $("#result-stats");
+    resultStatsBox.classList.add("hidden");
+    resultStatsBox.innerHTML = "";
+
+    show("#screen-result");
+    var pct = Math.round((correctCount / fullResults.length) * 100);
+    $("#result-score").innerHTML = correctCount + " / " + fullResults.length +
+      '<span class="sub">' + pct + "% chính xác</span>";
+    var grid = $("#result-grid");
+    grid.innerHTML = "";
+    fullResults.forEach(function (r, i) {
+      var wasAnswered = !!answeredById[r.id];
+      var d = el("div", r.correct ? "ok" : "no", r.correct ? "✓" : (wasAnswered ? "✗" : "–"));
+      d.title = "Câu " + (i + 1) + (wasAnswered ? "" : " (chưa làm)");
+      grid.appendChild(d);
+    });
+    $("#btn-retry-wrong").classList.add("hidden"); // Kiểm tra ngắn không ghi nhận thành tích -> không có "làm lại câu sai"
+
+    apiPost({
+      action: "submitKtnResult", sessionId: ktnSessionId,
+      name: name, pin: currentCode(), results: fullResults
+    }).then(function (submitRes) {
+      ktnFinishing = false;
+      if (!infoBox) return;
+      if (!submitRes || submitRes.ok === false) {
+        infoBox.innerHTML = "Không nộp được bài (" + ((submitRes && submitRes.error) || "lỗi mạng") + ") — thử lại nhé.";
+        return;
+      }
+      infoBox.innerHTML = (autoTimeout ? "⏳ Đã hết giờ, " : "") + "✔ Đã nộp bài — phiên này không tính vào thành tích/ELO, chỉ là 1 lượt kiểm tra nhanh thôi nhé!";
+    }, function () {
+      ktnFinishing = false;
+      if (infoBox) infoBox.innerHTML = "Không nộp được bài (lỗi mạng) — thử lại nhé.";
+    });
+  }
+
   function finishQuiz() {
+    if (quiz.isKtn) { finishKtnQuiz(false); return; }
     if (quiz.isRandomMode) { finishRandomQuiz(); return; }
     var infoBox0 = $("#result-random-info");
     if (infoBox0) infoBox0.classList.add("hidden"); // ẩn ô thông tin của Chế độ ngẫu nhiên nếu lần trước vừa hiện
@@ -1779,486 +2013,6 @@
     return true;
   }
 
-  // ================= Giải đấu WorldCup (loại trực tiếp) =================
-  // Luật chơi từng cặp đấu Y HỆT Đối đầu 1vs1 (10 câu, đúng +1/sai -0,5, hoà thì Oẳn tù tì) nên tái sử
-  // dụng lại màn hình làm bài (#screen-quiz) + màn oẳn tù tì (#screen-duel-rps) — chỉ khác luồng điều
-  // khiển: không có bước "thách đấu/đồng ý" thủ công, tất cả do server tự ghép cặp theo từng vòng, và 1
-  // interval DUY NHẤT (tourPollTimer, hỏi lại mỗi ~1 giây) chạy xuyên suốt từ lúc mở màn "Giải đấu" cho
-  // tới khi rời hẳn về màn hình chính — dù đang ở màn hub hay đang thi đấu.
-
-  function openTournamentScreen() {
-    show("#screen-tournament");
-    // Hiện ngay "Đang tải..." trong lúc chờ lượt poll đầu tiên phản hồi — Apps Script đôi khi mất vài
-    // giây mới phản hồi (đặc biệt sau khi "ngủ" 1 lúc không ai gọi, hoặc thầy vừa Deploy lại) — trước
-    // đây không có dòng này nên màn hình trống trơn suốt lúc chờ, dễ khiến học sinh/giáo viên tưởng bị
-    // lỗi. pollTournament() gọi ngay sau đây (đồng bộ, cùng 1 nhịp) sẽ tự đè lên đúng trạng thái thật
-    // (khách/chưa nhập tên/dữ liệu thật) trước khi trình duyệt kịp vẽ lại màn hình, nên không bị chớp.
-    showTournamentStatusMsg_("⏳ Đang tải...");
-    pollTournament(); // vẽ ngay dữ liệu mới nhất, không đợi hết chu kỳ 1 giây đầu tiên
-    startTournamentPolling();
-  }
-  function startTournamentPolling() {
-    if (tourPollTimer) return;
-    tourPollTimer = setInterval(pollTournament, DUEL_POLL_MS);
-  }
-  function stopTournamentPolling() {
-    clearInterval(tourPollTimer); tourPollTimer = null;
-  }
-
-  function pollTournament() {
-    var name = $("#inp-name").value.trim();
-    var needNameEl = $("#tournament-need-name");
-    if (!API_URL || !accessVerified || !name) {
-      needNameEl.className = "panel-empty";
-      needNameEl.textContent = "Nhập tên (và mã truy cập nếu có) ở màn hình chính để tham gia giải đấu nhé.";
-      needNameEl.classList.remove("hidden");
-      $("#tournament-body").classList.add("hidden");
-      return;
-    }
-    if (currentTier === "guest") {
-      // Giải đấu WorldCup chỉ dành cho hạng "full" (có mã) — khách thấy thông báo khoá tính năng, không
-      // cần gọi API mỗi chu kỳ poll làm gì (đỡ tốn 1 lượt gọi Apps Script vô ích mỗi giây).
-      needNameEl.className = "msg locked-feature-msg";
-      needNameEl.innerHTML = lockedFeatureHtml_("Giải đấu WorldCup");
-      needNameEl.classList.remove("hidden");
-      $("#tournament-body").classList.add("hidden");
-      return;
-    }
-    var myToken = ++tourPollToken; // đánh dấu đây là lượt poll MỚI NHẤT tại thời điểm gửi đi
-    apiGet({ action: "tournamentMatchState", name: name, pin: currentCode() }).then(function (res) {
-      // Nhiều lượt poll có thể đang bay cùng lúc trên mạng (interval 1s + poll ngay sau khi nộp câu trả
-      // lời/oẳn tù tì) và mạng có thể trả về KHÔNG ĐÚNG THỨ TỰ đã gửi — nếu 1 lượt poll CŨ (ứng với trận
-      // vừa xong) về SAU 1 lượt poll MỚI hơn (đã phát hiện trận xong, đã rời màn thi đấu) thì kết quả cũ
-      // này phải bị bỏ qua, không thì học sinh sẽ bị kéo "vào lại" trận đã kết thúc.
-      if (myToken !== tourPollToken) return;
-      if (!res || !res.ok) {
-        // Trước đây: bỏ qua im lặng, khiến cả khung (kể cả cái "card" bọc ngoài luôn hiện sẵn trong HTML)
-        // trống trơn không 1 chữ nào nếu lỗi này LẶP LẠI liên tục (không phải chỉ 1 lượt poll chập chờn
-        // thoáng qua) — dễ gây hiểu lầm là web bị hỏng hẳn. Nay hiện rõ lý do; nếu chỉ là 1 lượt poll lỗi
-        // thoáng qua, lượt poll kế tiếp (1 giây sau) có dữ liệu tốt sẽ tự vẽ đè lên ngay, không đọng lại.
-        showTournamentPollError_(res);
-        return;
-      }
-      routeTournamentPhase(res);
-    });
-  }
-
-  /** Hiện 1 dòng chữ trong khung status-box của Giải đấu (dùng chung cho "Đang tải..." lúc mới mở màn
-   *  hình lẫn thông báo lỗi poll) — thay vì để nguyên khung trống không như trước đây. */
-  function showTournamentStatusMsg_(msg) {
-    $("#tournament-need-name").classList.add("hidden");
-    $("#tournament-body").classList.remove("hidden");
-    $("#tournament-none").classList.add("hidden");
-    $("#tournament-bracket-wrap").classList.add("hidden");
-    var statusBox = $("#tournament-status-box");
-    statusBox.classList.remove("hidden");
-    statusBox.className = "tour-status-box";
-    $("#btn-tournament-join").classList.add("hidden");
-    $("#tournament-status-title").textContent = msg;
-    $("#tournament-status-sub").textContent = "";
-  }
-
-  /** Hiện lý do khi 1 lượt poll giải đấu KHÔNG có dữ liệu dùng được (res rỗng do mạng chập chờn, hoặc
-   *  res.ok=false do lỗi truy cập/lỗi backend) — thay vì để nguyên khung trống không như trước đây. */
-  function showTournamentPollError_(res) {
-    var err = res && res.error;
-    var msg;
-    if (!res) {
-      msg = "⏳ Không tải được (mạng đang chập chờn) — đang tự thử lại...";
-    } else if (err === "guest_blocked") {
-      msg = "✘ Tài khoản hiện không ở hạng Full — thử tải lại trang (F5) rồi vào lại nhé.";
-    } else if (err === "invalid_code" || err === "code_taken") {
-      msg = "✘ Mã truy cập không hợp lệ nữa lúc kiểm tra lại — thử tải lại trang (F5) và đăng nhập lại.";
-    } else if (err === "busy") {
-      msg = "✘ Hệ thống đang bận, chờ chút rồi tự thử lại.";
-    } else {
-      msg = "✘ Không tải được thông tin giải đấu (" + (err || "lỗi không rõ") + ") — thử tải lại trang (F5) nếu vẫn thấy vậy.";
-    }
-    showTournamentStatusMsg_(msg);
-  }
-
-  function routeTournamentPhase(res) {
-    var inBattle = res.phase === "playing" || res.phase === "tie_break";
-    if (inBattle) {
-      // Bình thường học sinh thắng 1 trận sẽ thấy phase "waiting_round" (màn chờ) TRƯỚC khi trận tiếp
-      // theo được ghép — nhưng nếu vòng mới vừa được ghép NGAY LÚC lượt poll kế tiếp của chính mình cũng
-      // vừa gửi đi (đối thủ ở cặp khác trả lời xong gần như đồng thời), có thể bỏ lỡ hẳn màn chờ đó và
-      // nhận trực tiếp phase "playing" của TRẬN MỚI trong khi quiz.isTour vẫn còn true từ trận VỪA XONG.
-      // Nếu không phát hiện được matchId đã đổi, updateTourBattleFromPoll sẽ tưởng nhầm đây là điểm số
-      // mới của trận cũ (mà không có câu hỏi để vẽ) -> màn hình bị "đứng hình" ở câu cuối trận cũ mãi mãi.
-      var isNewMatch = !!res.matchId && res.matchId !== tourMatchId;
-      if (!tourEnteringMatch && (!(quiz && quiz.isTour) || isNewMatch)) {
-        enterTourMatch_(res);
-      } else if (quiz && quiz.isTour && !quiz.loading && !isNewMatch) {
-        updateTourBattleFromPoll(res);
-      }
-      return;
-    }
-    if (quiz && quiz.isTour) exitTourBattleToHub_();
-    renderTournamentHub(res);
-  }
-
-  // ---------- Hub: đăng ký + sơ đồ nhánh ----------
-  function renderTournamentHub(res) {
-    $("#tournament-need-name").classList.add("hidden");
-    $("#tournament-body").classList.remove("hidden");
-    var noneBox = $("#tournament-none");
-    var statusBox = $("#tournament-status-box");
-    var bracketWrap = $("#tournament-bracket-wrap");
-    var joinBtn = $("#btn-tournament-join");
-    var t = res.tournament;
-
-    if (res.phase === "none") {
-      noneBox.classList.remove("hidden");
-      statusBox.classList.add("hidden");
-      bracketWrap.classList.add("hidden");
-      return;
-    }
-    noneBox.classList.add("hidden");
-    statusBox.classList.remove("hidden");
-    statusBox.className = "tour-status-box";
-    joinBtn.classList.add("hidden");
-
-    var titleEl = $("#tournament-status-title"), subEl = $("#tournament-status-sub");
-    var myName = $("#inp-name").value.trim().toLowerCase();
-
-    if (res.phase === "cancelled") {
-      titleEl.textContent = "Giải đấu vừa bị thầy/cô hủy";
-      subEl.textContent = "";
-    } else if (res.phase === "registration") {
-      var joined = t.participants.length, total = t.size;
-      var meIn = t.participants.some(function (p) { return p.trim().toLowerCase() === myName; });
-      titleEl.textContent = "Giải đấu \"" + (t.chapterName || t.chapter) + "\"";
-      subEl.textContent = "Đã đăng ký: " + joined + " / " + total + " học sinh" +
-        (meIn ? " — em đã tham gia, chờ đủ người là bắt đầu ngay!" : "");
-      if (!meIn) {
-        joinBtn.classList.remove("hidden");
-        joinBtn.disabled = joined >= total;
-      }
-    } else if (res.phase === "not_in") {
-      titleEl.textContent = "Giải đấu \"" + (t.chapterName || t.chapter) + "\" đang diễn ra";
-      subEl.textContent = "Em không có trong danh sách lượt này — cùng xem sơ đồ nhánh bên dưới nhé!";
-    } else if (res.phase === "waiting_round") {
-      statusBox.classList.add("win");
-      titleEl.textContent = "✔ Em đã thắng vòng " + res.round + "!";
-      subEl.textContent = "Đang chờ các cặp đấu khác kết thúc để lên vòng tiếp theo...";
-    } else if (res.phase === "eliminated") {
-      statusBox.classList.add("lose");
-      titleEl.textContent = "😅 Em đã bị loại ở vòng " + res.round;
-      subEl.textContent = "Thua bởi " + (res.opponent || "đối thủ") + " — cảm ơn em đã thi đấu hết mình!";
-    } else if (res.phase === "champion") {
-      statusBox.classList.add("champion");
-      titleEl.textContent = "🏆 CHÚC MỪNG VÔ ĐỊCH!";
-      subEl.textContent = "Em đã thắng tất cả các vòng của giải \"" + (t.chapterName || t.chapter) + "\" — quá đỉnh!";
-    } else {
-      // not_in / phase lạ khác (dự phòng) -> vẫn hiện được sơ đồ nhánh bên dưới, không chặn màn hình
-      titleEl.textContent = "Giải đấu \"" + ((t && (t.chapterName || t.chapter)) || "") + "\"";
-      subEl.textContent = "";
-    }
-
-    if (t && t.rounds && t.rounds.length) {
-      bracketWrap.classList.remove("hidden");
-      renderBracket(t);
-    } else {
-      bracketWrap.classList.add("hidden");
-    }
-  }
-
-  function joinTournamentClick() {
-    var name = $("#inp-name").value.trim();
-    var pin = currentCode();
-    if (!name || !accessVerified || currentTier !== "full") return;
-    var btn = $("#btn-tournament-join");
-    btn.disabled = true;
-    apiPost({ action: "joinTournament", name: name, pin: pin }).then(function (res) {
-      if (!res || !res.ok) {
-        $("#tournament-status-sub").textContent = "Không tham gia được (" +
-          ((res && res.error) || "lỗi") + "), thử lại nhé.";
-        btn.disabled = false;
-        return;
-      }
-      pollTournament();
-    });
-  }
-
-  // ---------- Sơ đồ nhánh ----------
-  function renderBracket(t) {
-    var myNameLower = $("#inp-name").value.trim().toLowerCase();
-    var box = $("#tournament-bracket");
-    box.innerHTML = "";
-    t.rounds.forEach(function (round, rIdx) {
-      var col = el("div", "tour-round");
-      var label = (rIdx === t.rounds.length - 1 && round.length === 1)
-        ? "🏆 Chung kết"
-        : "Vòng " + (rIdx + 1) + " (" + round.length + " cặp)";
-      col.appendChild(el("div", "tour-round-title", escapeHtml(label)));
-      round.forEach(function (m, mIdx) {
-        // Vòng 1 của giải từ 8 người trở lên: chèn khoảng cách ở giữa để gợi ý rõ "2 nhánh đấu" cùng hội
-        // tụ về chung kết (giống cách 1 sơ đồ giải đấu loại trực tiếp thường được vẽ).
-        if (rIdx === 0 && round.length >= 4 && mIdx === Math.floor(round.length / 2)) {
-          col.appendChild(el("div", "tour-round-half-gap"));
-        }
-        col.appendChild(renderTourMatchCard_(m, myNameLower));
-      });
-      box.appendChild(col);
-    });
-  }
-  function renderTourMatchCard_(m, myNameLower) {
-    var card = el("div", "tour-match");
-    if (!m.p1 && !m.p2) {
-      card.classList.add("empty");
-      card.textContent = "Chờ xác định";
-      return card;
-    }
-    card.appendChild(tourMatchPlayerRow_(m.p1, m, myNameLower));
-    card.appendChild(el("div", "tour-match-vs", "vs"));
-    card.appendChild(tourMatchPlayerRow_(m.p2, m, myNameLower));
-    return card;
-  }
-  function tourMatchPlayerRow_(pname, m, myNameLower) {
-    var cls = "tour-match-p";
-    if (pname && m.winner) cls += (pname.trim().toLowerCase() === m.winner.trim().toLowerCase()) ? " winner" : " loser";
-    if (pname && pname.trim().toLowerCase() === myNameLower) cls += " you";
-    var row = el("div", cls);
-    row.appendChild(el("span", "n", escapeHtml(pname || "?")));
-    return row;
-  }
-
-  // ---------- Vào trận: sinh/nhận bộ câu hỏi rồi tải nội dung câu hỏi ----------
-  function enterTourMatch_(res) {
-    tourEnteringMatch = true;
-    tourMatchId = res.matchId;
-    tourOpponentName = res.opponent;
-    tourRound = res.round; tourTotalRounds = res.totalRounds;
-    quiz = { isTour: true, loading: true }; // chặn các lượt poll khác vào lại trong lúc đang tải bất đồng bộ
-
-    var chapter = res.chapter, chapterName = res.chapterName;
-    Promise.all([
-      loadStaticQuestions(chapter).catch(function () { return []; }),
-      apiGet({ action: "extra", chapter: chapter })
-    ]).then(function (results) {
-      var pool = (results[0] || []).concat((results[1] && results[1].questions) || []);
-      var byId = {};
-      pool.forEach(function (q) { byId[q.id] = q; });
-
-      function proceedWithIds(questionIds) {
-        var questions = questionIds.map(function (id) { return byId[id]; }).filter(Boolean);
-        runTourMatch_(questions, chapter, chapterName);
-      }
-
-      if (res.questionIds && res.questionIds.length === TOUR_QUESTION_COUNT) {
-        proceedWithIds(res.questionIds);
-        return;
-      }
-      // Chưa ai đặt câu hỏi cho trận này -> CHÍNH MÌNH tự sinh ngẫu nhiên rồi gửi lên; nếu đối thủ gửi
-      // trước thì dùng bộ của đối thủ (nguyên tắc "ai gửi trước thắng", giống hệt Đối đầu 1vs1).
-      var ids = shuffle(pool).slice(0, TOUR_QUESTION_COUNT).map(function (q) { return q.id; });
-      apiPost({
-        action: "setTournamentMatchQuestions", name: $("#inp-name").value.trim(), pin: currentCode(),
-        matchId: tourMatchId, questionIds: ids
-      }).then(function (setRes) {
-        proceedWithIds((setRes && setRes.questionIds) || ids);
-      });
-    });
-  }
-
-  function runTourMatch_(questions, chapter, chapterName) {
-    tourEnteringMatch = false;
-    quiz = { questions: questions, index: 0, isTour: true, chapter: chapter, chapterName: chapterName, finished: false };
-    tourYou = { score: 0, correct: 0, wrong: 0 };
-    tourOpp = { score: 0, correct: 0, wrong: 0, name: tourOpponentName };
-    tourAnsweredLocally = false;
-    show("#screen-quiz");
-    $("#duel-score-box").classList.remove("hidden");
-    $("#duel-timer-box").classList.remove("hidden");
-    updateTourScoreDisplay();
-    renderTourQuestion();
-  }
-
-  function updateTourScoreDisplay() {
-    var youEl = $("#duel-score-you"), oppEl = $("#duel-score-opp");
-    if (youEl) youEl.textContent = "Bạn: " + formatDuelScore(tourYou.score);
-    if (oppEl) oppEl.textContent = (tourOpp.name || "Đối thủ") + ": " + formatDuelScore(tourOpp.score);
-  }
-
-  function renderTourQuestion() {
-    var q = quiz.questions[quiz.index];
-    $("#quiz-progress").textContent = "🏆 Vòng " + tourRound + " · Câu " + (quiz.index + 1) + "/" + quiz.questions.length;
-    $("#progress-bar").style.width = Math.round((quiz.index / quiz.questions.length) * 100) + "%";
-    $("#q-stem").innerHTML = q.stem;
-    var optsBox = $("#q-options");
-    optsBox.innerHTML = "";
-    $("#q-feedback").className = "q-feedback hidden";
-    $("#btn-report").classList.add("hidden");
-    $("#btn-next").classList.add("hidden");
-    tourAnsweredLocally = false;
-    quiz.optOrder = shuffle(["A", "B", "C", "D"]);
-    quiz.optOrder.forEach(function (letter) {
-      var b = el("button", "opt-btn");
-      b.innerHTML = '<span class="opt-label">' + letter + '</span><span>' + q.options[letter] + '</span>';
-      b.addEventListener("click", function () { selectTourOption(letter, b); });
-      optsBox.appendChild(b);
-    });
-    startTourAnswerCountdown();
-  }
-
-  function startTourAnswerCountdown() {
-    clearTimeout(tourAnswerTimeoutTimer);
-    var deadlineMs = Date.now() + DUEL_ANSWER_TIMEOUT_MS;
-    var myIndex = quiz.index;
-    (function tick() {
-      if (!quiz || !quiz.isTour || quiz.finished || quiz.index !== myIndex) return;
-      var remain = Math.max(0, Math.round((deadlineMs - Date.now()) / 1000));
-      var txt = $("#duel-timer-text");
-      if (txt) txt.textContent = remain + "s";
-      var box = $("#duel-timer-box");
-      if (box) box.classList.toggle("urgent", remain <= 5);
-      if (remain <= 0) {
-        if (!tourAnsweredLocally) submitTourAnswerToServer(myIndex, "skip", false);
-        return;
-      }
-      tourAnswerTimeoutTimer = setTimeout(tick, 250);
-    })();
-  }
-
-  function selectTourOption(letter, btnEl) {
-    if (tourAnsweredLocally) return;
-    tourAnsweredLocally = true;
-    clearTimeout(tourAnswerTimeoutTimer);
-    var q = quiz.questions[quiz.index];
-    var correct = letter === q.answer;
-    document.querySelectorAll("#q-options .opt-btn").forEach(function (b) { b.disabled = true; });
-    btnEl.classList.add("selected");
-    submitTourAnswerToServer(quiz.index, "answer", correct);
-  }
-
-  function submitTourAnswerToServer(index, mode, correct) {
-    apiPost({
-      action: "submitTournamentAnswer", matchId: tourMatchId, name: $("#inp-name").value.trim(), pin: currentCode(),
-      index: index, mode: mode, correct: !!correct
-    }).then(function () { pollTournament(); }); // hỏi lại ngay để biết ai khóa được câu + điểm mới nhất
-  }
-
-  function showTourLockedFeedback(entry, iAnsweredThis, iWasCorrect) {
-    var fb = $("#q-feedback");
-    fb.classList.remove("hidden");
-    document.querySelectorAll("#q-options .opt-btn").forEach(function (b) { b.disabled = true; });
-    if (!entry || entry.by === "timeout") {
-      fb.textContent = "⏳ Hết giờ, không ai trả lời kịp — bỏ qua câu này, không ai được/mất điểm.";
-      fb.className = "q-feedback";
-      return;
-    }
-    var q = quiz.questions[quiz.index];
-    document.querySelectorAll("#q-options .opt-btn").forEach(function (b, i) {
-      var L = quiz.optOrder[i];
-      if (L === q.answer) b.classList.add("correct");
-      else if (b.classList.contains("selected") && iAnsweredThis && !iWasCorrect) b.classList.add("wrong");
-    });
-    if (iAnsweredThis) {
-      fb.textContent = iWasCorrect
-        ? "✔ Em nhanh tay và ĐÚNG! +1 điểm."
-        : "✘ Em nhanh tay nhưng bị SAI, đáp án đúng là " + q.answer + ". −0,5 điểm.";
-      fb.className = "q-feedback " + (iWasCorrect ? "correct" : "wrong");
-    } else {
-      var oppLabel = (tourOpp && tourOpp.name) || "Đối thủ";
-      fb.textContent = entry.correct
-        ? "⚡ " + oppLabel + " bấm trước và ĐÚNG rồi! Đáp án đúng là " + q.answer + "."
-        : "⚡ " + oppLabel + " bấm trước nhưng bị SAI. Đáp án đúng là " + q.answer + ".";
-      fb.className = "q-feedback";
-    }
-  }
-
-  // ---------- Cập nhật liên tục trong lúc thi đấu (điểm, câu vừa bị khóa, chuyển sang oẳn tù tì) ----------
-  function updateTourBattleFromPoll(res) {
-    if (!quiz || quiz.loading || quiz.finished) return;
-    var prevYouAnswered = tourYou.correct + tourYou.wrong;
-    var prevYouCorrect = tourYou.correct;
-    tourYou = res.you;
-    tourOpp = { score: res.opp.score, correct: res.opp.correct, wrong: res.opp.wrong, name: tourOpponentName };
-    updateTourScoreDisplay();
-
-    if (res.phase === "tie_break") {
-      if (quiz.tourLocalPhase !== "tie_break") {
-        quiz.tourLocalPhase = "tie_break";
-        clearTimeout(tourAnswerTimeoutTimer);
-        show("#screen-duel-rps");
-      }
-      renderTourRpsState(res.rps);
-      return;
-    }
-    // quiz.tourAdvancePending chống trường hợp NHIỀU lượt poll chồng lấn (poll mỗi ~1 giây trong khi phải
-    // đợi 1200ms để học sinh kịp đọc phản hồi "đúng/sai") cùng lúc lên lịch nhiều setTimeout tranh nhau ghi
-    // đè quiz.index — nếu không chặn, câu hỏi có thể bị "nhảy cóc" thẳng tới câu cuối (hoặc tệ hơn là bị
-    // giật lùi lại câu trước) mỗi khi 1 bên trả lời liên tiếp nhiều câu nhanh trong lúc bên kia chỉ đang xem.
-    if (res.index > quiz.index && !quiz.tourAdvancePending) {
-      var iAnsweredThis = (res.you.correct + res.you.wrong) > prevYouAnswered;
-      var iWasCorrect = res.you.correct > prevYouCorrect;
-      showTourLockedFeedback(res.qstate[quiz.index], iAnsweredThis, iWasCorrect);
-      clearTimeout(tourAnswerTimeoutTimer);
-      var nextIndex = res.index;
-      quiz.tourAdvancePending = true;
-      setTimeout(function () {
-        if (!quiz || !quiz.isTour || quiz.finished) return;
-        quiz.tourAdvancePending = false;
-        quiz.index = nextIndex;
-        if (quiz.index < quiz.questions.length) renderTourQuestion();
-      }, 1200);
-    }
-  }
-
-  function renderTourRpsState(rps) {
-    if (!rps) return;
-    var choseAlready = !!rps.yourChoice;
-    document.querySelectorAll(".duel-rps-btn").forEach(function (b) {
-      b.disabled = choseAlready;
-      b.classList.toggle("selected", choseAlready && b.getAttribute("data-choice") === rps.yourChoice);
-    });
-    $("#duel-rps-info").textContent = rps.round > 1
-      ? "Ra kèo giống nhau, chơi lại! (Vòng " + rps.round + ")"
-      : "Bằng điểm nhau! Ai thắng ván Oẳn tù tì này sẽ thắng chung cuộc.";
-    var msgEl = $("#duel-rps-msg");
-    var revealEl = $("#duel-rps-reveal");
-    if (!choseAlready) {
-      msgEl.textContent = "";
-      revealEl.classList.add("hidden");
-      return;
-    }
-    if (!rps.opponentChoice) {
-      msgEl.textContent = "Em đã chọn " + DUEL_RPS_LABELS[rps.yourChoice] + " — đang chờ đối thủ chọn...";
-      revealEl.classList.add("hidden");
-    } else {
-      msgEl.textContent = "";
-      revealEl.classList.remove("hidden");
-      revealEl.innerHTML = "Em: <b>" + DUEL_RPS_LABELS[rps.yourChoice] + "</b> &nbsp;—&nbsp; Đối thủ: <b>" +
-        DUEL_RPS_LABELS[rps.opponentChoice] + "</b>";
-    }
-  }
-  function chooseTourRps(choice) {
-    apiPost({
-      action: "submitTournamentRps", matchId: tourMatchId, name: $("#inp-name").value.trim(), pin: currentCode(), choice: choice
-    }).then(function () { pollTournament(); });
-  }
-
-  // ---------- Rời trận (trận vừa xong, hoặc thoát giữa chừng) -> quay về màn hub ----------
-  function exitTourBattleToHub_() {
-    quiz = null;
-    clearTimeout(tourAnswerTimeoutTimer); tourAnswerTimeoutTimer = null;
-    $("#duel-score-box").classList.add("hidden");
-    $("#duel-timer-box").classList.add("hidden");
-    show("#screen-tournament");
-    refreshLeaderboard();
-    refreshEloLeaderboard();
-    refreshProfile(); // trận giải đấu cũng tính vào chuỗi ngày luyện tập + tiến độ chương, cập nhật lại luôn
-  }
-  // Thoát giữa chừng: không có "nộp bài" riêng, mỗi câu đã tự ghi nhận ngay khi bị khóa — thoát coi như bỏ
-  // cuộc, đối thủ cứ tiếp tục bấm là tự thắng các câu còn lại (thua ở giải đấu = bị loại luôn).
-  function exitTourMidMatch(confirmMsg) {
-    if (!confirm(confirmMsg)) return false;
-    if (quiz) quiz.finished = true;
-    exitTourBattleToHub_();
-    return true;
-  }
-
   // ---------- Bảng 1vs1 (số trận thắng) ----------
   function refreshDuelLeaderboard() {
     if (!API_URL) {
@@ -2366,8 +2120,13 @@
         exitDuelMidMatch("Thoát trận đối đầu? Đối thủ sẽ tự thắng các câu còn lại vì em không trả lời nữa.");
         return;
       }
-      if (quiz && quiz.isTour && !quiz.finished) {
-        exitTourMidMatch("Thoát trận giải đấu? Đối thủ sẽ tự thắng các câu còn lại vì em không trả lời nữa — nếu thua, em sẽ bị loại khỏi giải.");
+      if (quiz && quiz.isKtn) {
+        // Kiểm tra ngắn: thoát giữa chừng KHÔNG nộp bài (không ảnh hưởng ai khác, không tính thành tích) —
+        // học sinh có thể quay lại làm tiếp trong thời gian còn lại của phiên nếu muốn.
+        if (confirm("Thoát làm bài? Bài đang làm sẽ KHÔNG được nộp — em có thể quay lại làm tiếp trong thời gian còn lại của phiên.")) {
+          stopKtnCountdown_();
+          show("#screen-setup");
+        }
         return;
       }
       if (confirm("Thoát làm bài? Kết quả lần này sẽ không được lưu.")) { stopRandomTimer_(); show("#screen-setup"); }
@@ -2376,12 +2135,14 @@
       show("#screen-setup");
       refreshExtraQuestions();
       refreshStats();
+      if (appMode === "ktn") startKtnHubPolling();
     });
 
     // ---- Chế độ Đối đầu 1vs1 ----
     $("#tab-mode-solo").addEventListener("click", function () { setAppMode("solo"); });
     $("#tab-mode-duel").addEventListener("click", function () { setAppMode("duel"); });
     $("#tab-mode-random").addEventListener("click", function () { setAppMode("random"); });
+    $("#tab-mode-ktn").addEventListener("click", function () { setAppMode("ktn"); });
     $("#btn-start-random").addEventListener("click", startRandomQuiz);
     $("#btn-challenge").addEventListener("click", startChallenge);
     $("#btn-accept-challenge").addEventListener("click", openAcceptChallengeScreen);
@@ -2394,14 +2155,10 @@
     document.querySelectorAll(".duel-rps-btn").forEach(function (b) {
       b.addEventListener("click", function () {
         var choice = b.getAttribute("data-choice");
-        if (quiz && quiz.isTour) chooseTourRps(choice); else chooseDuelRps(choice);
+        chooseDuelRps(choice);
       });
     });
     $("#btn-rps-quit").addEventListener("click", function () {
-      if (quiz && quiz.isTour) {
-        exitTourMidMatch("Thoát khi đang oẳn tù tì? Đối thủ sẽ được xử thắng luôn — em sẽ bị loại khỏi giải.");
-        return;
-      }
       exitDuelMidMatch("Thoát khi đang oẳn tù tì? Đối thủ sẽ được xử thắng luôn.");
     });
 
@@ -2412,14 +2169,6 @@
       cardToastQueue.shift();
       playNextCardToast();
     });
-
-    // ---- Giải đấu WorldCup ----
-    $("#btn-open-tournament").addEventListener("click", openTournamentScreen);
-    $("#btn-tournament-back").addEventListener("click", function () {
-      stopTournamentPolling();
-      show("#screen-setup");
-    });
-    $("#btn-tournament-join").addEventListener("click", joinTournamentClick);
   }
 
   document.addEventListener("DOMContentLoaded", init);

@@ -16,7 +16,6 @@
     <header class="topbar">
       <h1>🧪 Ôn tập Hóa học THPT</h1>
       <div class="topbar-actions">
-        <button id="btn-open-tournament" type="button" class="btn-collection">🏆 Giải đấu<span id="tournament-alert-badge" class="collection-count-badge hidden">!</span></button>
         <button id="btn-open-collection" type="button" class="btn-collection">🎴 Bộ sưu tập<span id="collection-count-badge" class="collection-count-badge hidden">0</span></button>
       </div>
     </header>
@@ -66,6 +65,7 @@
         <button type="button" id="tab-mode-solo" class="mode-tab selected">📖 Tự luyện tập</button>
         <button type="button" id="tab-mode-duel" class="mode-tab">⚔️ Đối đầu 1vs1</button>
         <button type="button" id="tab-mode-random" class="mode-tab">🎲 Ngẫu nhiên</button>
+        <button type="button" id="tab-mode-ktn" class="mode-tab">📝 Kiểm tra ngắn</button>
       </div>
 
       <div id="solo-panel">
@@ -113,6 +113,18 @@
           <div class="duel-info">🎲 Chế độ ngẫu nhiên: 1 đề CỐ ĐỊNH 18 câu random trên toàn bộ chương trình — 14 câu Lớp 12 (đủ tất cả các chương), 2 câu Lớp 10 và 2 câu Lớp 11 (ngẫu nhiên chương nào cũng được). Vẫn tính ELO như Tự luyện tập. Làm ĐÚNG TRỌN VẸN 18/18 câu và nhanh hơn kỷ lục cũ của chính em thì được ghi nhận kỷ lục mới, có cơ hội lọt Top 3 nhanh nhất!</div>
           <button id="btn-start-random" type="button" class="btn-primary" disabled>Bắt đầu làm bài (18 câu)</button>
           <div id="random-msg" class="msg"></div>
+        </div>
+      </div>
+
+      <div id="ktn-panel" class="hidden">
+        <div id="ktn-locked-msg" class="msg hidden"></div>
+        <div id="ktn-normal-content">
+          <div class="duel-info">📝 Kiểm tra ngắn: thầy/cô tạo 1 phiên kiểm tra 18 câu cho cả lớp cùng làm, có ĐÚNG 10 phút kể từ lúc tạo phiên. Tất cả học sinh làm CHUNG 1 bộ câu hỏi (chỉ khác thứ tự hiển thị). Hết giờ thì tự nộp bài với những câu đã làm — câu nào chưa làm sẽ không có điểm. Phiên này KHÔNG tính ELO, KHÔNG ghi nhận thành tích gì cả, chỉ để kiểm tra nhanh kiến thức thôi nhé!</div>
+          <div id="ktn-status-box" class="ktn-status-box hidden">
+            <div id="ktn-status-title" class="ktn-status-title"></div>
+            <div id="ktn-status-sub" class="ktn-status-sub"></div>
+            <button id="btn-ktn-start" type="button" class="btn-primary hidden">Bắt đầu làm bài</button>
+          </div>
         </div>
       </div>
 
@@ -197,6 +209,7 @@
       <div id="quiz-progress" class="progress-text"></div>
       <div id="duel-timer-box" class="duel-timer-box hidden">⏳ <span id="duel-timer-text">20s</span></div>
       <div id="random-timer-box" class="duel-timer-box hidden">⏱️ <span id="random-timer-text">0:00</span></div>
+      <div id="ktn-timer-box" class="duel-timer-box hidden">⏳ <span id="ktn-timer-text">10:00</span></div>
     </header>
     <div class="progress-bar-wrap"><div id="progress-bar" class="progress-bar"></div></div>
     <div id="duel-score-box" class="duel-score-box hidden">
@@ -253,29 +266,6 @@
           <h3 class="collection-group-title">📚 Thẻ Trọn Chương</h3>
           <p class="collection-group-sub">Từng làm đúng mọi câu hỏi khác nhau của 1 chương, cộng dồn qua nhiều lần làm.</p>
           <div class="card-grid" id="collection-grid-chapter"></div>
-        </div>
-      </div>
-    </div>
-  </section>
-
-  <!-- MÀN HÌNH: GIẢI ĐẤU WORLDCUP -->
-  <section id="screen-tournament" class="screen hidden">
-    <header class="topbar">
-      <button id="btn-tournament-back" class="btn-back">&larr; Quay lại</button>
-      <h1>🏆 Giải đấu WorldCup</h1>
-    </header>
-    <div class="card">
-      <p id="tournament-need-name" class="panel-empty hidden">Nhập tên (và mã truy cập nếu có) ở màn hình chính để tham gia giải đấu nhé.</p>
-      <div id="tournament-body" class="hidden">
-        <p id="tournament-none" class="panel-empty hidden">Hiện chưa có giải đấu nào đang mở — hỏi thầy/cô nhé!</p>
-        <div id="tournament-status-box" class="tour-status-box hidden">
-          <div id="tournament-status-title" class="tour-status-title"></div>
-          <div id="tournament-status-sub" class="tour-status-sub"></div>
-          <button id="btn-tournament-join" type="button" class="btn-primary hidden">Tham gia</button>
-        </div>
-        <div id="tournament-bracket-wrap" class="tour-bracket-wrap hidden">
-          <div class="tour-bracket-title">Sơ đồ nhánh đấu</div>
-          <div id="tournament-bracket" class="tour-bracket"></div>
         </div>
       </div>
     </div>

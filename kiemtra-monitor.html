@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Màn hình lớn — Kiểm tra ngắn</title>
+<style>
+  :root{
+    --bg:#0f172a; --card:#16213c; --ink:#f4f7fc; --muted:#9aa7c2;
+    --brand:#3b82f6; --green:#22c55e; --red:#f04545; --gold:#ffd54a; --border:#2a3a5c;
+  }
+  *{box-sizing:border-box}
+  html,body{height:100%}
+  body{
+    margin:0; min-height:100vh; background:radial-gradient(circle at 50% -10%, #1c2a4d 0%, var(--bg) 55%);
+    color:var(--ink); font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+    display:flex; flex-direction:column; align-items:center;
+    padding:clamp(16px,3vw,40px); gap:clamp(14px,2.2vw,24px);
+  }
+  .hidden{display:none !important}
+  .head{text-align:center;width:100%;max-width:1000px}
+  .head h1{margin:0 0 6px;font-size:clamp(1.3rem,3vw,2.1rem);font-weight:800;letter-spacing:0.01em}
+  .head .sub{color:var(--muted);font-size:clamp(0.9rem,1.6vw,1.1rem)}
+  .conn-warn{
+    position:fixed;top:14px;right:18px;background:#3a1f1f;border:1px solid #6b2e2e;color:#ffb4b4;
+    padding:6px 14px;border-radius:999px;font-size:0.8rem;font-weight:700;
+  }
+
+  .top-bar{
+    width:100%;max-width:1000px;display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;
+    gap:12px;background:var(--card);border:2px solid var(--border);border-radius:16px;
+    padding:clamp(14px,2vw,22px) clamp(16px,2.5vw,28px);
+  }
+  .scope-name{font-size:clamp(1.1rem,2.4vw,1.6rem);font-weight:800}
+  .countdown{
+    font-size:clamp(1.6rem,4vw,2.6rem);font-weight:900;font-variant-numeric:tabular-nums;
+    color:var(--brand);
+  }
+  .countdown.ending{color:var(--red)}
+  .count-label{color:var(--muted);font-size:clamp(0.8rem,1.4vw,1rem);margin-top:2px}
+  .submitted-count{text-align:right}
+  .submitted-count b{font-size:clamp(1.4rem,3vw,2rem);color:var(--green)}
+
+  .waiting{text-align:center;max-width:640px;margin-top:6vh}
+  .waiting .big-emoji{font-size:clamp(3rem,8vw,5.5rem);margin-bottom:10px}
+  .waiting h2{font-size:clamp(1.3rem,3vw,2rem);margin:0 0 10px}
+  .waiting p{color:var(--muted);font-size:clamp(0.95rem,1.8vw,1.25rem);line-height:1.6;margin:0}
+
+  .board{width:100%;max-width:1000px}
+  table{width:100%;border-collapse:collapse;background:var(--card);border:2px solid var(--border);border-radius:16px;overflow:hidden}
+  thead th{
+    text-align:left;padding:12px 16px;font-size:clamp(0.8rem,1.4vw,0.95rem);color:var(--muted);
+    border-bottom:1px solid var(--border);font-weight:700;
+  }
+  tbody td{padding:12px 16px;font-size:clamp(0.95rem,1.8vw,1.2rem);border-bottom:1px solid #1e2c4d}
+  tbody tr:last-child td{border-bottom:none}
+  tbody tr.rank1{background:linear-gradient(90deg,rgba(255,213,74,0.12),transparent)}
+  .rank-cell{font-weight:900;width:44px;color:var(--muted)}
+  tr.rank1 .rank-cell{color:var(--gold)}
+  .name-cell{font-weight:700}
+  .score-cell{text-align:right;font-weight:900;font-variant-numeric:tabular-nums}
+  .score-bar-wrap{display:inline-block;width:120px;height:8px;border-radius:999px;background:#0b1226;margin-left:12px;vertical-align:middle;overflow:hidden}
+  .score-bar{height:100%;background:linear-gradient(90deg,var(--brand),#60a5fa);border-radius:999px}
+  footer{color:#4c597a;font-size:0.75rem;text-align:center}
+</style>
+</head>
+<body>
+
+<div class="head">
+  <h1>📝 Kiểm tra ngắn — Màn hình theo dõi trực tiếp</h1>
+  <div class="sub">Chiếu màn hình này lên máy chiếu để cả lớp cùng xem điểm số cập nhật khi từng bạn nộp bài</div>
+</div>
+
+<div id="conn-warn" class="conn-warn hidden">⏳ Mất kết nối, đang tự thử lại...</div>
+
+<div id="waiting-box" class="waiting hidden">
+  <div class="big-emoji">⏳</div>
+  <h2 id="waiting-title">Đang chờ phiên Kiểm tra ngắn...</h2>
+  <p id="waiting-sub">Vào Google Sheet, dùng menu "📊 Ôn tập Hóa học → 📝 Tạo phiên Kiểm tra ngắn" để bắt đầu —
+    màn hình này sẽ tự động hiện phiên ngay khi được tạo.</p>
+</div>
+
+<div id="live-box" class="hidden" style="width:100%;display:flex;flex-direction:column;align-items:center;gap:inherit">
+  <div class="top-bar">
+    <div>
+      <div class="scope-name" id="scope-name">—</div>
+      <div class="count-label" id="phase-label"></div>
+    </div>
+    <div style="text-align:center">
+      <div id="countdown" class="countdown">10:00</div>
+      <div class="count-label">thời gian còn lại</div>
+    </div>
+    <div class="submitted-count">
+      <b id="submitted-count">0</b>
+      <div class="count-label">học sinh đã nộp bài</div>
+    </div>
+  </div>
+
+  <div class="board">
+    <table>
+      <thead><tr><th class="rank-cell">#</th><th>Học sinh</th><th style="text-align:right">Điểm</th></tr></thead>
+      <tbody id="board-body"></tbody>
+    </table>
+  </div>
+</div>
+
+<footer>Tự cập nhật mỗi giây · không hiện nội dung câu hỏi/đáp án</footer>
+
+<script src="config.js"></script>
+<script>
+(function () {
+  "use strict";
+  var API_URL = window.API_URL || "";
+  var POLL_MS = 1000;
+  var params = new URLSearchParams(location.search);
+  var pinnedSessionId = params.get("sessionId") || "";
+  var failStreak = 0;
+
+  function $(sel) { return document.querySelector(sel); }
+  function escapeHtml(s) {
+    return String(s == null ? "" : s).replace(/[&<>"']/g, function (c) {
+      return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c];
+    });
+  }
+  function fmtMinSec(totalSec) {
+    totalSec = Math.max(0, Math.round(totalSec));
+    var m = Math.floor(totalSec / 60), s = totalSec % 60;
+    return m + ":" + (s < 10 ? "0" : "") + s;
+  }
+
+  function apiGet(action, extra) {
+    if (!API_URL) return Promise.resolve(null);
+    var qs = "action=" + encodeURIComponent(action);
+    Object.keys(extra || {}).forEach(function (k) {
+      if (extra[k]) qs += "&" + encodeURIComponent(k) + "=" + encodeURIComponent(extra[k]);
+    });
+    return fetch(API_URL + "?" + qs)
+      .then(function (r) { return r.json(); })
+      .catch(function (err) { console.warn("kiemtra-monitor: lỗi tải dữ liệu", err); return null; });
+  }
+
+  function showWaiting(title, sub) {
+    if (title) $("#waiting-title").textContent = title;
+    if (sub) $("#waiting-sub").textContent = sub;
+    $("#waiting-box").classList.remove("hidden");
+    $("#live-box").classList.add("hidden");
+  }
+
+  var PHASE_LABELS = { open: "Đang mở", closed: "Đã kết thúc", huy: "Đã bị huỷ" };
+
+  function render(res) {
+    if (!res || !res.ok) {
+      failStreak++;
+      $("#conn-warn").classList.toggle("hidden", failStreak < 3);
+      return;
+    }
+    failStreak = 0;
+    $("#conn-warn").classList.add("hidden");
+
+    if (res.phase === "none") {
+      showWaiting("Đang chờ phiên Kiểm tra ngắn...",
+        "Vào Google Sheet, dùng menu \"📊 Ôn tập Hóa học → 📝 Tạo phiên Kiểm tra ngắn\" để bắt đầu — " +
+        "màn hình này sẽ tự động hiện phiên ngay khi được tạo.");
+      return;
+    }
+
+    $("#waiting-box").classList.add("hidden");
+    $("#live-box").classList.remove("hidden");
+    $("#scope-name").textContent = res.scopeName || "";
+    $("#phase-label").textContent = PHASE_LABELS[res.phase] || res.phase;
+
+    var cd = $("#countdown");
+    cd.textContent = fmtMinSec(res.secondsLeft);
+    cd.classList.toggle("ending", res.phase === "open" && res.secondsLeft <= 60);
+
+    var list = res.participants || [];
+    $("#submitted-count").textContent = list.length;
+
+    var body = $("#board-body");
+    body.innerHTML = "";
+    var total = res.total || 18;
+    list.forEach(function (p, i) {
+      var tr = document.createElement("tr");
+      if (i === 0) tr.className = "rank1";
+      var pct = Math.round((p.correct / total) * 100);
+      tr.innerHTML =
+        '<td class="rank-cell">' + (i + 1) + '</td>' +
+        '<td class="name-cell">' + escapeHtml(p.name) + '</td>' +
+        '<td class="score-cell">' + p.correct + '/' + p.total +
+          '<span class="score-bar-wrap"><span class="score-bar" style="width:' + pct + '%"></span></span></td>';
+      body.appendChild(tr);
+    });
+    if (!list.length) {
+      var trEmpty = document.createElement("tr");
+      trEmpty.innerHTML = '<td colspan="3" style="text-align:center;color:var(--muted);padding:22px">Chưa có học sinh nào nộp bài...</td>';
+      body.appendChild(trEmpty);
+    }
+  }
+
+  function poll() {
+    apiGet("kiemTraNganMonitor", { sessionId: pinnedSessionId }).then(render);
+  }
+
+  if (!API_URL) {
+    showWaiting("Chưa kết nối được backend", "config.js chưa có API_URL — nhờ thầy/cô kiểm tra lại file config.js trên GitHub.");
+  } else {
+    poll();
+    setInterval(poll, POLL_MS);
+  }
+})();
+</script>
+</body>
+</html>
