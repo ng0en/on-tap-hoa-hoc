@@ -789,7 +789,9 @@
       accessVerified = false;
       currentTier = null;
       guestLimits = null;
-      msgEl.textContent = errMsgForVerify(verify && verify.error);
+      // errMsgForVerify() có thể trả về chuỗi chứa thẻ HTML (link Zalo ở trường hợp "code_taken") -> phải
+      // dùng innerHTML để hiện đúng thành link bấm được, dùng textContent sẽ lộ nguyên thẻ <a> ra màn hình.
+      msgEl.innerHTML = errMsgForVerify(verify && verify.error);
       msgEl.className = "msg access-err";
       validateStart();
       refreshDuelControls();
