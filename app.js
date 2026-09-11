@@ -30,14 +30,14 @@
 
   // ---------- Chế độ Đối đầu 1vs1 ----------
   var DUEL_QUESTION_COUNT = 10;
-  var DUEL_WAIT_SECONDS = 60;
+  var DUEL_WAIT_SECONDS = 240; // 4 phút chờ ở phòng chờ trước khi tự huỷ — PHẢI khớp với DUEL_WAIT_SECONDS bên AppsScript_Code.gs
   var DUEL_ANSWER_TIMEOUT_MS = 20000; // mỗi câu chờ tối đa 20s, không ai bấm kịp thì tự bỏ qua (không ai được/mất điểm)
   var DUEL_POLL_MS = 1000;            // hỏi lại server ~1 giây/lần trong lúc thi đấu + oẳn tù tì
   var DUEL_RPS_LABELS = { keo: "✌️ Kéo", bua: "✊ Búa", bao: "✋ Bao" };
   var appMode = "solo";          // "solo" | "duel" — tab đang chọn ở màn hình chính
   var duelMatchId = null;
   var duelOpponentName = null;
-  var duelWaitDeadlineMs = null; // mốc hết hạn phòng chờ (60s) — để vẽ đồng hồ đếm ngược
+  var duelWaitDeadlineMs = null; // mốc hết hạn phòng chờ (DUEL_WAIT_SECONDS) — để vẽ đồng hồ đếm ngược
   var duelWaitTickTimer = null;  // interval vẽ lại đồng hồ đếm ngược phòng chờ mỗi giây
   var duelWaitPollTimer = null;  // interval hỏi lại server xem đã có ai ghép chưa
   var duelPickPollTimer = null;  // interval làm mới danh sách "chọn đối thủ"
@@ -1609,7 +1609,7 @@
     clearTimeout(duelAnswerTimeoutTimer); duelAnswerTimeoutTimer = null;
   }
 
-  // ---------- Đối đầu: bước 1 (người thách đấu) — tạo lời thách + phòng chờ 60s ----------
+  // ---------- Đối đầu: bước 1 (người thách đấu) — tạo lời thách + phòng chờ (DUEL_WAIT_SECONDS) ----------
   function startChallenge() {
     var name = $("#inp-name").value.trim();
     var pin = currentCode();
@@ -1647,7 +1647,7 @@
   function updateDuelWaitTimerDisplay() {
     var remain = Math.max(0, Math.round((duelWaitDeadlineMs - Date.now()) / 1000));
     var el2 = $("#duel-wait-timer");
-    if (el2) el2.textContent = String(remain);
+    if (el2) el2.textContent = formatMinSec_(remain); // phút:giây, dễ đọc hơn số giây thô khi chờ tới vài phút
   }
   function pollChallengeStatus() {
     if (!duelMatchId) return;
@@ -1661,7 +1661,7 @@
           clearDuelTimers();
           duelMatchId = null;
           show("#screen-setup");
-          $("#duel-msg").textContent = "Không có ai nhận thử thách trong 1 phút, thử lại nhé!";
+          $("#duel-msg").textContent = "Không có ai nhận thử thách trong 4 phút, thử lại nhé!";
         }
       });
   }
@@ -1695,7 +1695,7 @@
         info.innerHTML =
           '<div class="duel-pick-name">' + escapeHtml(c.challenger) + '</div>' +
           '<div class="duel-pick-chapter">' + escapeHtml(c.chapterName || c.chapter) + '</div>' +
-          '<div class="duel-pick-timer">còn ' + c.secondsLeft + 's</div>';
+          '<div class="duel-pick-timer">còn ' + formatMinSec_(c.secondsLeft) + '</div>';
         var btn = el("button", "btn-duel-join", "Vào đấu");
         btn.type = "button";
         btn.addEventListener("click", function () { acceptChallengeClick(c.matchId, btn); });
